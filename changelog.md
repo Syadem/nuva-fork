@@ -1,5 +1,31 @@
 # Nuva changelog
 
+## Version v0.0.2
+
+**Date:** 2026-10-14
+
+**Author:** Lucas Sotty
+
+### Changes
+
+- ea6b45b - Revert antigen-types/AGT-6.yml to main (Lucas Sotty)
+- fc456b0 - Revert translations/de/antigen-types/AGT-6.yml to main (Lucas Sotty)
+- 5e6b6d2 - Update antigen type AGT-6 (Lucas Sotty)
+- 1de72a7 - Create antigen type AGT-19 (Lucas Sotty)
+- 313d564 - Update antigen type AGT-13 (Lucas Sotty)
+- 698db09 - Update antigen type AGT-12 (Lucas Sotty)
+
+### Files
+
+- **M**: `antigen-types/AGT-12.yml`
+- **M**: `antigen-types/AGT-13.yml`
+- **A**: `antigen-types/AGT-19.yml`
+- **A**: `translations/de/antigen-types/AGT-19.yml`
+- **A**: `translations/fr/antigen-types/AGT-19.yml`
+- **A**: `translations/gr/antigen-types/AGT-19.yml`
+- **A**: `translations/lv/antigen-types/AGT-19.yml`
+- **A**: `translations/pl/antigen-types/AGT-19.yml`
+
 ## Version v0.0.1
 
 **Date:** 2026-10-13
