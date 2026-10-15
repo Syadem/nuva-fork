@@ -14,3 +14,11 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 9970ff90-f1b5-481f-ae01-6f45e34f52d6
+- nomenclature: DIN
+  code: "02290979"
+- nomenclature: CVC
+  code: "7941000087100"
+- nomenclature: ATC
+  code: J06BB04
+- nomenclature: SCT_NUVA
+  code: "13461002000105"

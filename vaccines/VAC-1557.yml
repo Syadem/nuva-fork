@@ -13,3 +13,7 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 9bc3a499-1f62-4448-af8a-372591c813d5
+- nomenclature: CVX
+  code: "140"
+- nomenclature: CVX
+  code: "141"

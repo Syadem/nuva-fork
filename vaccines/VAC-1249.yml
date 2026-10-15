@@ -13,3 +13,7 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 66eb4214-b754-43c6-9883-b54da3981616
+- nomenclature: CVX
+  code: "144"
+- nomenclature: SCT_NUVA
+  code: "15101002000101"

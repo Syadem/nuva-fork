@@ -1,12 +1,12 @@
 ---
 id: 271
 name: ISTIVAC
-description: Trivalent inactivated seasonal influenza vaccine
+description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture
 generic: false
 immunoglobulin: false
 injection_methods: []
 created_at: 1626689125
-updated_at: 1748961124
+updated_at: 1791965572
 valence_ids:
 - 15
 other_names:
@@ -14,3 +14,25 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 98ffee14-9909-4107-9871-15a87bfdc47f
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: GTIN
+  code: "03664798006704"
+- nomenclature: INFARMED
+  code: "8650309"
+- nomenclature: INFARMED
+  code: "4316980"
+- nomenclature: INFARMED
+  code: "2638286"
+- nomenclature: INFARMED
+  code: "4317087"
+- nomenclature: INFARMED
+  code: "2638385"
+- nomenclature: INFARMED
+  code: "4317186"
+- nomenclature: INFARMED
+  code: "2638484"
+- nomenclature: INFARMED
+  code: "4317285"
+- nomenclature: SCT_NUVA
+  code: "3901002000100"

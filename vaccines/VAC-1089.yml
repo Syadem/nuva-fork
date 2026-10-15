@@ -14,3 +14,15 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 3af9b50c-cb42-4fc8-b4d2-0d6c02d9c42b
+- nomenclature: ATC
+  code: J06BB04
+- nomenclature: CPT
+  code: "90371"
+- nomenclature: NDC
+  code: 13533-0636
+- nomenclature: DIN
+  code: "02379473"
+- nomenclature: CVC
+  code: "7951000087102"
+- nomenclature: SCT_NUVA
+  code: "13421002000101"

@@ -13,3 +13,25 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: d921b751-5949-4bfe-ab69-7cf8cca91511
+- nomenclature: ELGA
+  code: "6051323"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "765865"
+- nomenclature: ATC
+  code: J07BN01
+- nomenclature: CTI
+  code: "663374"
+- nomenclature: CTI
+  code: "663375"
+- nomenclature: CTI-EXTEND
+  code: 663374-01
+- nomenclature: CTI-EXTEND
+  code: 663375-01
+- nomenclature: EU-NUMBER
+  code: EU-1-20-1528-040
+- nomenclature: EU-NUMBER
+  code: EU-1-20-1528-041
+- nomenclature: INFARMED
+  code: "5890538"
+- nomenclature: SCT_NUVA
+  code: "16221002000109"

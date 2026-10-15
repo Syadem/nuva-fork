@@ -32,3 +32,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 652d9492-1f5d-4a30-9955-bb0e13cd6b44
+- nomenclature: SCT_NUVA
+  code: "7261002000104"
+- nomenclature: ATC
+  code: J07BF04
+- nomenclature: SNOMED-CT
+  code: "1051000221104"
+- nomenclature: AIC
+  code: "041165"
+- nomenclature: CVX
+  code: "178"
+- nomenclature: ICD11
+  code: XM79H3

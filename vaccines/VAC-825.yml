@@ -15,3 +15,17 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 41be3b97-8764-4b51-b6d8-d22b51db5ee6
+- nomenclature: SCT_NUVA
+  code: "9871002000103"
+- nomenclature: CPT
+  code: "90636"
+- nomenclature: SNOMED-CT
+  code: "871803007"
+- nomenclature: AIC
+  code: "033014"
+- nomenclature: CVX
+  code: "104"
+- nomenclature: ATC
+  code: J07BC20
+- nomenclature: SNOMED-CT
+  code: "121000221105"

@@ -1,12 +1,12 @@
 ---
 id: 573
 name: AGRIFLU
-description: Trivalent inactivated seasonal influenza vaccine, surface antigen
+description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, surface antigen
 generic: false
 immunoglobulin: false
 injection_methods: []
 created_at: 1626689129
-updated_at: 1666959924
+updated_at: 1791972139
 valence_ids:
 - 15
 other_names:
@@ -14,3 +14,27 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: ba828684-bb4f-40d0-b092-938baf69359d
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: CVC
+  code: "7581000087103"
+- nomenclature: GTIN
+  code: "80818944020017"
+- nomenclature: GTIN
+  code: "80818944020024"
+- nomenclature: GTIN
+  code: "20818944020022"
+- nomenclature: GTIN
+  code: "20818944020015"
+- nomenclature: GTIN
+  code: "00818944020011"
+- nomenclature: GTIN
+  code: "00818944020028"
+- nomenclature: CVC
+  code: "22971000087103"
+- nomenclature: DIN
+  code: "02346850"
+- nomenclature: DIN
+  code: "02428881"
+- nomenclature: SCT_NUVA
+  code: "7041002000106"

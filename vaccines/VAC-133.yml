@@ -16,3 +16,33 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 080cdff5-c196-441a-a0b4-594e8dba9326
+- nomenclature: SCT_NUVA
+  code: "2311002000106"
+- nomenclature: ATC
+  code: J07BX01
+- nomenclature: SNOMED-CT
+  code: "836389008"
+- nomenclature: CVX
+  code: "75"
+- nomenclature: CVX
+  code: "105"
+- nomenclature: CVC
+  code: "33234009"
+- nomenclature: SNOMED-CT
+  code: "871727001"
+- nomenclature: ICD11
+  code: XM95R0
+- nomenclature: SNOMED-CT
+  code: "1269346004"
+- nomenclature: SNOMED-CT
+  code: "1290624003"
+- nomenclature: SNOMED-CT
+  code: "1290625002"
+- nomenclature: CVX
+  code: "325"
+- nomenclature: SWISSLEGACY
+  code: "144"
+- nomenclature: SWISSLEGACY
+  code: "169"
+- nomenclature: ICD11
+  code: XM7ZF1

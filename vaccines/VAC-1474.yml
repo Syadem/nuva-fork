@@ -14,3 +14,7 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 2f47c295-8266-4f23-aed6-c823b3897e1b
+- nomenclature: CVX
+  code: "332"
+- nomenclature: CIP
+  code: "3400930328613"

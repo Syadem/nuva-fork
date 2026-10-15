@@ -15,3 +15,13 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 5ba2d99a-f8f3-4a59-8ff0-803ef867b5e2
+- nomenclature: ATC
+  code: J07BC20
+- nomenclature: CVC
+  code: "6961000087102"
+- nomenclature: DIN
+  code: "02237548"
+- nomenclature: GTIN
+  code: "00770933000162"
+- nomenclature: SCT_NUVA
+  code: "5461002000108"

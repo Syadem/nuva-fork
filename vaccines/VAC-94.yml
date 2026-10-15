@@ -20,3 +20,19 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: f4b678d6-faf7-4242-a328-288357ad5cdf
+- nomenclature: ATC
+  code: J07BF02
+- nomenclature: CIP
+  code: "3400932700363"
+- nomenclature: CIP
+  code: "3400932763177"
+- nomenclature: CNK
+  code: "0132704"
+- nomenclature: CIP
+  code: "3400931506683"
+- nomenclature: CIP
+  code: "3400955372714"
+- nomenclature: SCT_NUVA
+  code: "1831002000102"
+- nomenclature: ICD11
+  code: XM1Y59

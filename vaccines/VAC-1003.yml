@@ -14,3 +14,9 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 48c719c8-25a7-4d00-92d9-f18a8ac4101c
+- nomenclature: CNK
+  code: "1077593"
+- nomenclature: ATC
+  code: J07AM51
+- nomenclature: SCT_NUVA
+  code: "12041002000106"

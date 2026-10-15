@@ -14,3 +14,29 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: a18c39c3-5046-41f8-9f44-0560560e56d4
+- nomenclature: CPT
+  code: "90672"
+- nomenclature: ATC
+  code: J07BB03
+- nomenclature: GTIN
+  code: "00366019308101"
+- nomenclature: NDC
+  code: 66019-0303
+- nomenclature: NDC
+  code: 66019-0301
+- nomenclature: NDC
+  code: 66019-0306
+- nomenclature: NDC
+  code: 66019-0300
+- nomenclature: NDC
+  code: 66019-0302
+- nomenclature: NDC
+  code: 66019-0308
+- nomenclature: NDC
+  code: 66019-0307
+- nomenclature: NDC
+  code: 66019-0304
+- nomenclature: NDC
+  code: 66019-0305
+- nomenclature: SCT_NUVA
+  code: "7531002000109"

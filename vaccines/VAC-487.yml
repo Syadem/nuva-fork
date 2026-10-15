@@ -16,3 +16,19 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 29c875a9-481f-4223-9f33-057cd245c4ff
+- nomenclature: CPT
+  code: "90644"
+- nomenclature: NDC
+  code: 58160-0801
+- nomenclature: NDC
+  code: 58160-0809
+- nomenclature: GTIN
+  code: "00358160801112"
+- nomenclature: GTIN
+  code: "00358160809019"
+- nomenclature: CVC
+  code: "20851000087103"
+- nomenclature: ATC
+  code: J07AG54
+- nomenclature: SCT_NUVA
+  code: "6131002000100"

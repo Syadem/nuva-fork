@@ -23,3 +23,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: a6cd745d-413f-49cd-87f9-0ebea951b251
+- nomenclature: SCT_NUVA
+  code: "4471002000104"
+- nomenclature: CPT
+  code: "90669"
+- nomenclature: CVX
+  code: "100"
+- nomenclature: SNOMED-CT
+  code: "1052328007"
+- nomenclature: CVC
+  code: "125714002"
+- nomenclature: SWISSLEGACY
+  code: "100"

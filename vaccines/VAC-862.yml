@@ -14,3 +14,13 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 2604ea62-7545-4a46-baf0-2b3b92804590
+- nomenclature: CPT
+  code: "90281"
+- nomenclature: CPT
+  code: "90283"
+- nomenclature: CPT
+  code: "90741"
+- nomenclature: ATC
+  code: J06BB14
+- nomenclature: SCT_NUVA
+  code: "10311002000108"

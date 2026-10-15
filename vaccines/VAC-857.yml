@@ -19,3 +19,13 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 06e244fe-8582-4541-9e4e-c23cf1779554
+- nomenclature: ATC
+  code: J07CA05
+- nomenclature: CVC
+  code: "20601000087103"
+- nomenclature: ICD11
+  code: XM41N3
+- nomenclature: SNOMED-CT
+  code: "1156879008"
+- nomenclature: SCT_NUVA
+  code: "10251002000100"

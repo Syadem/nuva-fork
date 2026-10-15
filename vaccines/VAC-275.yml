@@ -14,3 +14,7 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 542e0186-e277-40be-b898-9f1e54bbbe6c
+- nomenclature: SCT_NUVA
+  code: "3941002000103"
+- nomenclature: THL
+  code: "87"

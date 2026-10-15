@@ -16,3 +16,21 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 8a985847-945b-4f0a-9aba-d10ad234224c
+- nomenclature: ELGA
+  code: "5506431"
+- nomenclature: ELGA
+  code: AUSL_000021
+- nomenclature: THL
+  code: "155"
+- nomenclature: SCT_NUVA
+  code: "8571002000106"
+- nomenclature: EU-NUMBER
+  code: EU-1-21-1624-001
+- nomenclature: ATC
+  code: J07BN03
+- nomenclature: CVX
+  code: "518"
+- nomenclature: INFARMED
+  code: "5839840"
+- nomenclature: ICD11
+  code: XM42N8

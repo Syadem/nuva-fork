@@ -16,3 +16,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: d7f6b333-0be2-40e7-9aed-db45795280af
+- nomenclature: ATC
+  code: J07AJ52
+- nomenclature: CVC
+  code: "7421000087100"
+- nomenclature: DIN
+  code: "02224143"
+- nomenclature: SCT_NUVA
+  code: "7081002000102"

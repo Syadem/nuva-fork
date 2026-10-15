@@ -1,14 +1,14 @@
 ---
 id: 26
 name: PREVIGRIP
-description: Trivalent inactivated seasonal influenza vaccine, surface antigen
+description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, surface antigen
 generic: false
 immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689126
-updated_at: 1666959916
+updated_at: 1791965744
 valence_ids:
 - 15
 other_names:
@@ -18,3 +18,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 16999922-8c58-4e14-a425-0867a9b6914b
+- nomenclature: CIP
+  code: "3400933387228"
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: CIS
+  code: "68587814"
+- nomenclature: SCT_NUVA
+  code: "851002000106"

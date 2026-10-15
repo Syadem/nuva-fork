@@ -64,16 +64,27 @@ RSpec.describe 'The vaccines folder' do
 
       it 'contains exactly one SYADEM code with a UUID value' do
         expect(data['codes']).to be_a(Array)
-        expect(data['codes'].size).to eq(1)
+        
+        syadem_codes = data['codes'].filter { |c| c['nomenclature'] == 'SYADEM' }
 
-        code = data['codes'].first
-        uuid_regex = /\A[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}\z/i
+        expect(syadem_codes.count).to eq(1)
 
-        expect(code).to be_a(Hash)
-        expect(code.keys).to contain_exactly('nomenclature', 'code')
-        expect(code['nomenclature']).to eq('SYADEM')
-        expect(code['code']).to be_a(String)
-        expect(code['code']).to match(uuid_regex)
+        syadem_code = syadem_codes.first
+        uuid_regex  = /\A[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}\z/i
+
+        expect(syadem_code).to be_a(Hash)
+        expect(syadem_code.keys).to contain_exactly('nomenclature', 'code')
+        expect(syadem_code['code']).to be_a(String)
+        expect(syadem_code['code']).to match(uuid_regex)
+      end
+
+      it 'contains valid codes' do
+        data['codes'].each do |code|
+          expect(code).to be_a(Hash)
+          expect(code.keys).to contain_exactly('nomenclature', 'code')
+          expect(code['nomenclature']).to be_a(String)
+          expect(code['code']).to be_a(String)
+        end
       end
 
       TRANSLATION_LANGUAGES.each do |language|

@@ -14,3 +14,19 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 6e09cb9c-4e9c-49d0-908b-8a7d2679afe6
+- nomenclature: GTIN
+  code: "05909990993796"
+- nomenclature: GTIN
+  code: "05909990993703"
+- nomenclature: GTIN
+  code: "20090722000062"
+- nomenclature: EU-NUMBER
+  code: EU-1-09-571-001
+- nomenclature: ATC
+  code: J07BB01
+- nomenclature: SCT_NUVA
+  code: "6001002000107"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "694049"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "694048"

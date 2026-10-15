@@ -14,3 +14,25 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 85abb9ff-b70a-4def-81b8-b453388c0d46
+- nomenclature: ATC
+  code: J07BN01
+- nomenclature: CTI
+  code: "663259"
+- nomenclature: CTI
+  code: "663260"
+- nomenclature: CTI-EXTEND
+  code: 663259-01
+- nomenclature: CTI-EXTEND
+  code: 663260-01
+- nomenclature: EU-NUMBER
+  code: EU-1-20-1507-019
+- nomenclature: EU-NUMBER
+  code: EU-1-20-1507-20
+- nomenclature: EU-NUMBER
+  code: EU-1-20-1507-21
+- nomenclature: EU-NUMBER
+  code: EU-1-20-1507-22
+- nomenclature: SWISSMEDIC
+  code: "69788"
+- nomenclature: SCT_NUVA
+  code: "15511002000109"

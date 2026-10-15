@@ -14,3 +14,7 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: f2290de2-9c8e-4757-a115-0a7c7e0308d7
+- nomenclature: SWISSMEDIC
+  code: "70205"
+- nomenclature: AIC
+  code: "052449"

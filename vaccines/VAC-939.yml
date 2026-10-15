@@ -13,3 +13,13 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: d3368da9-c96a-486c-9f66-361ce42ec06a
+- nomenclature: NDC
+  code: 75052-0001
+- nomenclature: ATC
+  code: J07BC01
+- nomenclature: CNK
+  code: "4719902"
+- nomenclature: EU-NUMBER
+  code: EU-1-22-1641-001
+- nomenclature: SCT_NUVA
+  code: "11341002000104"

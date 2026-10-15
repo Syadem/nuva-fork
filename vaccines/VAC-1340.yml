@@ -15,3 +15,19 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: e9120742-9018-49bb-a3d1-7f7f38912153
+- nomenclature: ELGA
+  code: "5517245"
+- nomenclature: ELGA
+  code: "5517831"
+- nomenclature: ELGA
+  code: "5517825"
+- nomenclature: EU-NUMBER
+  code: EU-1-20-1507-004
+- nomenclature: EU-NUMBER
+  code: EU-1-20-1507-005
+- nomenclature: EU-NUMBER
+  code: EU-1-20-1507-008
+- nomenclature: ATC
+  code: J07BN01
+- nomenclature: SCT_NUVA
+  code: "16321002000104"

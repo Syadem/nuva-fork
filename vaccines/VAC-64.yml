@@ -29,3 +29,25 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 7fa97d99-ff52-41b8-b267-679d7b003620
+- nomenclature: ATC
+  code: J07CA06
+- nomenclature: CIS
+  code: "66878269"
+- nomenclature: CIS
+  code: "60906295"
+- nomenclature: CIS
+  code: "69225227"
+- nomenclature: CIP
+  code: "3400933952006"
+- nomenclature: CIP
+  code: "3400935166616"
+- nomenclature: CIP
+  code: "3400955833314"
+- nomenclature: CIP
+  code: "3400955902362"
+- nomenclature: CIP
+  code: "3400933609054"
+- nomenclature: SCT_NUVA
+  code: "1411002000108"
+- nomenclature: SWISSLEGACY
+  code: "99"

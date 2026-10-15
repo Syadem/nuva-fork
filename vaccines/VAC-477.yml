@@ -13,3 +13,17 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 805889ad-c73b-4be2-86b2-b0292c9a163b
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: GTIN
+  code: "20090822000016"
+- nomenclature: EU-NUMBER
+  code: EU-1-10-664-001
+- nomenclature: CIS
+  code: "62339477"
+- nomenclature: CIP
+  code: "3400941846236"
+- nomenclature: SCT_NUVA
+  code: "6011002000105"
+- nomenclature: INFARMED
+  code: "5376215"

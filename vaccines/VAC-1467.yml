@@ -18,3 +18,19 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: ddcccec1-491f-462b-9975-cbc494199309
+- nomenclature: ELGA
+  code: "6062396"
+- nomenclature: CTI-EXTEND
+  code: 664824-01
+- nomenclature: CNK
+  code: "4969648"
+- nomenclature: CIP
+  code: "3400930325568"
+- nomenclature: ATC
+  code: J07BN01
+- nomenclature: CIS
+  code: "64208590"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "768196"
+- nomenclature: GTIN
+  code: "04260703261238"

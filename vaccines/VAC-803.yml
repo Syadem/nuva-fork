@@ -7,7 +7,7 @@ immunoglobulin: false
 injection_methods:
 - oral
 created_at: 1635263685
-updated_at: 1698745074
+updated_at: 1791984412
 valence_ids:
 - 85
 - 132
@@ -16,3 +16,13 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: f7cc2bcf-f0f9-4764-b761-b7b50a2819fc
+- nomenclature: CTI
+  code: "349334"
+- nomenclature: ATC
+  code: J07BF04
+- nomenclature: SCT_NUVA
+  code: "9541002000107"
+- nomenclature: CTI-EXTEND
+  code: 349334-01
+- nomenclature: CTI-EXTEND
+  code: 349334-02

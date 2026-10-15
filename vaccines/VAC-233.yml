@@ -14,3 +14,27 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: eb1c10ad-6efb-481d-9d0a-ecf320b28185
+- nomenclature: NDC
+  code: 66019-112
+- nomenclature: SCT_NUVA
+  code: "3501002000107"
+- nomenclature: NDC
+  code: 66019-0108
+- nomenclature: NDC
+  code: 66019-0107
+- nomenclature: NDC
+  code: 66019-0109
+- nomenclature: NDC
+  code: 66019-0110
+- nomenclature: ATC
+  code: J07BB03
+- nomenclature: DIN
+  code: "02352621"
+- nomenclature: CVC
+  code: "7571000087100"
+- nomenclature: DIN
+  code: "02426544"
+- nomenclature: GTIN
+  code: "00620641015623"
+- nomenclature: CVC
+  code: "20741000087105"

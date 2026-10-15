@@ -16,3 +16,13 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 75b79204-09a4-4fe0-bbb7-39408ab487be
+- nomenclature: NTIN
+  code: "4150125900993"
+- nomenclature: NTIN
+  code: "4150125901075"
+- nomenclature: PZN
+  code: "12590107"
+- nomenclature: ATC
+  code: J07AJ52
+- nomenclature: SCT_NUVA
+  code: "6021002000104"

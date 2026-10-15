@@ -21,3 +21,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 492638ff-e67f-4c98-82d4-be34d1045ccb
+- nomenclature: SCT_NUVA
+  code: "4621002000102"
+- nomenclature: NDC
+  code: 00005-1970
+- nomenclature: CVC
+  code: "7651000087105"
+- nomenclature: DIN
+  code: "02244081"

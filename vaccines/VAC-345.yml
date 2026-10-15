@@ -14,3 +14,9 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: ac59338f-6ff8-4584-ac7f-c2aa5f873aa4
+- nomenclature: CPT
+  code: "90648"
+- nomenclature: CVX
+  code: "48"
+- nomenclature: SCT_NUVA
+  code: "4661002000106"

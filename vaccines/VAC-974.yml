@@ -14,3 +14,9 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 293eb567-246a-4b45-ba33-955fd267d6ab
+- nomenclature: THL
+  code: "114"
+- nomenclature: ATC
+  code: J07AH01
+- nomenclature: SCT_NUVA
+  code: "11731002000106"

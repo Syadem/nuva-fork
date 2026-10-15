@@ -14,3 +14,13 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 0eac29d1-7dd2-4064-ada0-a0b763e58cde
+- nomenclature: ATC
+  code: J07BE01
+- nomenclature: AIC
+  code: "023279"
+- nomenclature: CNK
+  code: "0058032"
+- nomenclature: SWISSMEDIC
+  code: "247"
+- nomenclature: SCT_NUVA
+  code: "4381002000108"

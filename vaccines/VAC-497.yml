@@ -14,3 +14,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 82ef32a5-0317-47bd-b6e7-311d571f7e6c
+- nomenclature: CPT
+  code: "90389"
+- nomenclature: ATC
+  code: J06BB02
+- nomenclature: CVX
+  code: "13"
+- nomenclature: CVC
+  code: "86337009"
+- nomenclature: CVX
+  code: "180"
+- nomenclature: SCT_NUVA
+  code: "6231002000109"

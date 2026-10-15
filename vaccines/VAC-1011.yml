@@ -18,3 +18,9 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: afe10884-a241-4211-a125-2fd9a4b23e99
+- nomenclature: THL
+  code: "127"
+- nomenclature: ATC
+  code: J07AJ52
+- nomenclature: SCT_NUVA
+  code: "12121002000100"

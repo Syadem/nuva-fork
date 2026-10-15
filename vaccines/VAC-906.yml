@@ -14,3 +14,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 2c2b8d1d-a674-4c13-b1cf-a16afb981f3c
+- nomenclature: CVX
+  code: "188"
+- nomenclature: CVC
+  code: "23001000087100"
+- nomenclature: CVC
+  code: "407737004"
+- nomenclature: SCT_NUVA
+  code: "10881002000107"

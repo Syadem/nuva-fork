@@ -14,3 +14,19 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: a86817bd-bcbe-436c-bec8-01114a5a8840
+- nomenclature: ATC
+  code: J07AM01
+- nomenclature: CNK
+  code: "0135327"
+- nomenclature: SCT_NUVA
+  code: "5081002000109"
+- nomenclature: INFARMED
+  code: "8830125"
+- nomenclature: INFARMED
+  code: "8830109"
+- nomenclature: INFARMED
+  code: "8830117"
+- nomenclature: INFARMED
+  code: "4771481"
+- nomenclature: SWISSLEGACY
+  code: "83"

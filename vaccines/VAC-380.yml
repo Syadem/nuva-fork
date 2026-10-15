@@ -25,3 +25,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 3051a224-5829-4fd8-a59c-c3913b663d68
+- nomenclature: THL
+  code: "96"
+- nomenclature: SCT_NUVA
+  code: "5061002000101"
+- nomenclature: CVC
+  code: "7751000087104"
+- nomenclature: SNOMED-CT
+  code: "871816007"

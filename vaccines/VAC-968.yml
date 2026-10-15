@@ -1,12 +1,12 @@
 ---
 id: 968
 name: INFLEXAL V
-description: Trivalent inactivated seasonal influenza vaccine, virosome
+description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, virosome
 generic: false
 immunoglobulin: false
 injection_methods: []
 created_at: 1655126888
-updated_at: 1743158905
+updated_at: 1791962699
 valence_ids:
 - 15
 other_names:
@@ -14,3 +14,25 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 0be4af1d-9947-4184-9048-088bc5ec7651
+- nomenclature: THL
+  code: "23"
+- nomenclature: THL
+  code: "58"
+- nomenclature: SWISSMEDIC
+  code: "614"
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: CNK
+  code: "2852788"
+- nomenclature: CNK
+  code: "2228104"
+- nomenclature: CNK
+  code: "2493260"
+- nomenclature: CNK
+  code: "2585727"
+- nomenclature: CNK
+  code: "2798379"
+- nomenclature: CNK
+  code: "3040474"
+- nomenclature: SCT_NUVA
+  code: "11671002000101"

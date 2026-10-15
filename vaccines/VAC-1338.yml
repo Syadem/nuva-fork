@@ -14,3 +14,27 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: f11ab43d-07cf-4d17-bb67-8ad00a99bf2b
+- nomenclature: ELGA
+  code: "5939880"
+- nomenclature: THL
+  code: "182"
+- nomenclature: INFARMED
+  code: "5908520"
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: CTI
+  code: "662050"
+- nomenclature: CTI
+  code: "662051"
+- nomenclature: CTI-EXTEND
+  code: 662050-01
+- nomenclature: CTI-EXTEND
+  code: 662051-01
+- nomenclature: EU-NUMBER
+  code: EU-1-23-1761-001
+- nomenclature: EU-NUMBER
+  code: EU-1-23-1761-002
+- nomenclature: AIC
+  code: "050943"
+- nomenclature: SCT_NUVA
+  code: "16291002000106"

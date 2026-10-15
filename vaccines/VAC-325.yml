@@ -18,3 +18,19 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 4c420981-dbed-4686-be6c-bfb6537c7ee2
+- nomenclature: NDC
+  code: 58160-0811
+- nomenclature: ATC
+  code: J07CA11
+- nomenclature: CVC
+  code: "20841000087101"
+- nomenclature: GTIN
+  code: "00358160811524"
+- nomenclature: GTIN
+  code: "10358160811439"
+- nomenclature: NDC
+  code: 58160-811
+- nomenclature: SCT_NUVA
+  code: "4481002000101"
+- nomenclature: NDC
+  code: 50090-7541

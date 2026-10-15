@@ -13,3 +13,25 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: b817e5a4-0fe3-4ef7-91f2-524805861241
+- nomenclature: ATC
+  code: J07AM01
+- nomenclature: SCT_NUVA
+  code: "11861002000107"
+- nomenclature: INFARMED
+  code: "2372084"
+- nomenclature: INFARMED
+  code: "2372183"
+- nomenclature: INFARMED
+  code: "2371987"
+- nomenclature: INFARMED
+  code: "3088887"
+- nomenclature: INFARMED
+  code: "3089281"
+- nomenclature: INFARMED
+  code: "3089083"
+- nomenclature: INFARMED
+  code: "3089182"
+- nomenclature: INFARMED
+  code: "3088986"
+- nomenclature: SWISSLEGACY
+  code: "168"

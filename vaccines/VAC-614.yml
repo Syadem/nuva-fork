@@ -19,3 +19,19 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 96103eee-14fd-4a59-a77e-5c8cacab316a
+- nomenclature: ELGA
+  code: "5543308"
+- nomenclature: SCT_NUVA
+  code: "7341002000108"
+- nomenclature: ATC
+  code: J07AJ52
+- nomenclature: CTI
+  code: "441707"
+- nomenclature: CTI-EXTEND
+  code: 441707-01
+- nomenclature: CTI-EXTEND
+  code: 441707-02
+- nomenclature: CTI-EXTEND
+  code: 441707-03
+- nomenclature: CTI-EXTEND
+  code: 441707-04

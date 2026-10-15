@@ -14,3 +14,5 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 5ea8b39b-45ea-49be-a13e-4ab93510b8fb
+- nomenclature: GTIN
+  code: "04260703261399"

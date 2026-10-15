@@ -14,3 +14,21 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 8f8ef5ed-dea4-464c-9210-7a8e5c160067
+- nomenclature: THL
+  code: "74"
+- nomenclature: CPT
+  code: "90581"
+- nomenclature: ATC
+  code: J07AC01
+- nomenclature: SNOMED-CT
+  code: "836384003"
+- nomenclature: CVX
+  code: "319"
+- nomenclature: CVC
+  code: "333521006"
+- nomenclature: ICD11
+  code: XM2C05
+- nomenclature: SCT_NUVA
+  code: "9561002000106"
+- nomenclature: ICD11
+  code: XM8NU9

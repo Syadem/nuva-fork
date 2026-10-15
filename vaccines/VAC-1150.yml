@@ -13,3 +13,11 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: cc85e7f4-6930-463e-b204-f7f438ace94f
+- nomenclature: CVX
+  code: "208"
+- nomenclature: CVX
+  code: "217"
+- nomenclature: CVX
+  code: "309"
+- nomenclature: SCT_NUVA
+  code: "14091002000106"

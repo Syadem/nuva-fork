@@ -17,3 +17,9 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: fa1e01e6-05d6-406c-9573-1623f845955c
+- nomenclature: ATC
+  code: J07AJ01
+- nomenclature: CIP
+  code: "3400931116745"
+- nomenclature: SCT_NUVA
+  code: "1691002000102"

@@ -15,3 +15,17 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: c6175eb0-fc89-45b8-8db6-ccbe4c48dfa0
+- nomenclature: ATC
+  code: J07AJ51
+- nomenclature: SWISSMEDIC
+  code: "711"
+- nomenclature: SCT_NUVA
+  code: "11621002000102"
+- nomenclature: SWISSLEGACY
+  code: "155"
+- nomenclature: INFARMED
+  code: "8830018"
+- nomenclature: INFARMED
+  code: "8830000"
+- nomenclature: SWISSLEGACY
+  code: "79"

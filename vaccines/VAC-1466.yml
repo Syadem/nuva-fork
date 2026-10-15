@@ -19,3 +19,23 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 97d043b8-a5ab-418a-bb41-326c8f5efd46
+- nomenclature: ELGA
+  code: "6062367"
+- nomenclature: CTI-EXTEND
+  code: 664819-01
+- nomenclature: CNK
+  code: "4969630"
+- nomenclature: GTIN
+  code: "04260703261245"
+- nomenclature: CIP
+  code: "3400930325506"
+- nomenclature: THL
+  code: "192"
+- nomenclature: SWISSMEDIC
+  code: "70403"
+- nomenclature: ATC
+  code: J07BN01
+- nomenclature: CIS
+  code: "63466367"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "768198"

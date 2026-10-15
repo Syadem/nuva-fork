@@ -15,3 +15,23 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 827e1a1d-04f1-4023-b166-46985f52e660
+- nomenclature: THL
+  code: "124"
+- nomenclature: SCT_NUVA
+  code: "2831002000109"
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: GTIN
+  code: "20100203000136"
+- nomenclature: EU-NUMBER
+  code: EU-1-10-658-001
+- nomenclature: EU-NUMBER
+  code: EU-1-10-658-002
+- nomenclature: CTI
+  code: "385655"
+- nomenclature: CTI
+  code: "385646"
+- nomenclature: CTI-EXTEND
+  code: 385655-01
+- nomenclature: CTI-EXTEND
+  code: 385646-01

@@ -15,3 +15,21 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: e37a3413-eb9f-4a7c-b6b8-ef074d615500
+- nomenclature: SCT_NUVA
+  code: "961002000102"
+- nomenclature: ATC
+  code: J07BJ01
+- nomenclature: CIS
+  code: "64774663"
+- nomenclature: CIP
+  code: "3400931832836"
+- nomenclature: CIP
+  code: "3400955150398"
+- nomenclature: AIC
+  code: "023281"
+- nomenclature: CIP
+  code: "3400937084789"
+- nomenclature: INFARMED
+  code: "8618322"
+- nomenclature: SWISSLEGACY
+  code: "112"

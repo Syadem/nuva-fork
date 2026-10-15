@@ -1,14 +1,14 @@
 ---
 id: 16
 name: INFLUVAC 0,5 mL
-description: Trivalent inactivated seasonal influenza vaccine, surface antigen, adult dose
+description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture surface antigen, adult dose
 generic: false
 immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689124
-updated_at: 1763979822
+updated_at: 1791962730
 valence_ids:
 - 15
 other_names:
@@ -20,3 +20,171 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 113c41b5-19c4-4788-811b-0fa81a18d636
+- nomenclature: ELGA
+  code: "1258120"
+- nomenclature: ELGA
+  code: "1265597"
+- nomenclature: ELGA
+  code: "3528434"
+- nomenclature: ELGA
+  code: "6052771"
+- nomenclature: THL
+  code: "22"
+- nomenclature: SWISSMEDIC
+  code: "485"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "765284"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "765281"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "765283"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "765282"
+- nomenclature: AIC
+  code: "051260"
+- nomenclature: SWISSMEDIC
+  code: "660"
+- nomenclature: CNK
+  code: "4877874"
+- nomenclature: CTI-EXTEND
+  code: 662891-09
+- nomenclature: CTI
+  code: "662891"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "725077"
+- nomenclature: CVC
+  code: "7621000087103"
+- nomenclature: CIP
+  code: "3400935524508"
+- nomenclature: CIP
+  code: "3400939523279"
+- nomenclature: SCT_NUVA
+  code: "361002000101"
+- nomenclature: GTIN
+  code: "05909990647323"
+- nomenclature: GTIN
+  code: "05909990707324"
+- nomenclature: GTIN
+  code: "05909990707331"
+- nomenclature: GTIN
+  code: "05909990647316"
+- nomenclature: GTIN
+  code: "05099151913326"
+- nomenclature: GTIN
+  code: "05099151913333"
+- nomenclature: CP-NRONATIDENT
+  code: "0057146"
+- nomenclature: AIC
+  code: "028851"
+- nomenclature: GTIN
+  code: "19980320000189"
+- nomenclature: CIS
+  code: "62027876"
+- nomenclature: CIP
+  code: "3400933652166"
+- nomenclature: CIP
+  code: "3400955896876"
+- nomenclature: CIP
+  code: "3400957541989"
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: CNK
+  code: "2933802"
+- nomenclature: CNK
+  code: "2933810"
+- nomenclature: CNK
+  code: "3030186"
+- nomenclature: CNK
+  code: "3030194"
+- nomenclature: CNK
+  code: "3139912"
+- nomenclature: CNK
+  code: "3139938"
+- nomenclature: CNK
+  code: "3260338"
+- nomenclature: CNK
+  code: "3260320"
+- nomenclature: CNK
+  code: "3424587"
+- nomenclature: CNK
+  code: "3424561"
+- nomenclature: CNK
+  code: "3561735"
+- nomenclature: CNK
+  code: "3561727"
+- nomenclature: CNK
+  code: "1035559"
+- nomenclature: CNK
+  code: "1089093"
+- nomenclature: CNK
+  code: "1167410"
+- nomenclature: CNK
+  code: "1233501"
+- nomenclature: CNK
+  code: "1320993"
+- nomenclature: CNK
+  code: "1391788"
+- nomenclature: CNK
+  code: "1451772"
+- nomenclature: CNK
+  code: "1540434"
+- nomenclature: CNK
+  code: "1619204"
+- nomenclature: CNK
+  code: "1703255"
+- nomenclature: CNK
+  code: "2118412"
+- nomenclature: CNK
+  code: "2214252"
+- nomenclature: CNK
+  code: "2318442"
+- nomenclature: CNK
+  code: "2394955"
+- nomenclature: CNK
+  code: "2488781"
+- nomenclature: CNK
+  code: "2605343"
+- nomenclature: CNK
+  code: "2710176"
+- nomenclature: CNK
+  code: "2830065"
+- nomenclature: CNK
+  code: "1789452"
+- nomenclature: CIS
+  code: "69976327"
+- nomenclature: DIN
+  code: "02269562"
+- nomenclature: CNK
+  code: "0385534"
+- nomenclature: CVC
+  code: "22681000087109"
+- nomenclature: CIS
+  code: "63156183"
+- nomenclature: CTI-EXTEND
+  code: 662891-05
+- nomenclature: CTI-EXTEND
+  code: 662891-06
+- nomenclature: CTI-EXTEND
+  code: 662891-07
+- nomenclature: CTI-EXTEND
+  code: 662891-08
+- nomenclature: CIP
+  code: "3400930296165"
+- nomenclature: CIP
+  code: "3400930296172"
+- nomenclature: CIP
+  code: "3400955102168"
+- nomenclature: CIP
+  code: "3400955102175"
+- nomenclature: INFARMED
+  code: "5885843"
+- nomenclature: INFARMED
+  code: "8567404"
+- nomenclature: INFARMED
+  code: "4331484"
+- nomenclature: GTIN
+  code: "05099151950758"
+- nomenclature: SWISSMEDIC
+  code: "69992"
+- nomenclature: GTIN
+  code: "05099151957931"

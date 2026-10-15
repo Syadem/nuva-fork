@@ -16,3 +16,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: ec4fb100-7fa2-4b1f-bbee-9c3d903b51e7
+- nomenclature: SCT_NUVA
+  code: "981002000105"
+- nomenclature: ATC
+  code: J07AX01
+- nomenclature: CIS
+  code: "64175998"
+- nomenclature: CIP
+  code: "3400935147165"

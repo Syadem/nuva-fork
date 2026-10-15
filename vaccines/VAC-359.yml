@@ -16,3 +16,23 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: de2ef0af-36e1-4879-9ccd-8692872b7237
+- nomenclature: ATC
+  code: J07BD01
+- nomenclature: AIC
+  code: "025821"
+- nomenclature: CNK
+  code: "0128603"
+- nomenclature: THL
+  code: "110"
+- nomenclature: SWISSMEDIC
+  code: "483"
+- nomenclature: SCT_NUVA
+  code: "4821002000103"
+- nomenclature: INFARMED
+  code: "8591438"
+- nomenclature: INFARMED
+  code: "8591404"
+- nomenclature: INFARMED
+  code: "8591420"
+- nomenclature: INFARMED
+  code: "8591412"

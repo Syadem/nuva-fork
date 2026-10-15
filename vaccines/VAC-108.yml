@@ -21,3 +21,21 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 1efbdd74-0199-438c-acff-9d80f61617de
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: CIS
+  code: "63343973"
+- nomenclature: CIP
+  code: "3400938654851"
+- nomenclature: AIC
+  code: "039228"
+- nomenclature: EU-NUMBER
+  code: EU-1-08-452-001
+- nomenclature: INFARMED
+  code: "5118146"
+- nomenclature: SCT_NUVA
+  code: "2021002000103"
+- nomenclature: THL
+  code: "32"
+- nomenclature: SWISSLEGACY
+  code: "141"

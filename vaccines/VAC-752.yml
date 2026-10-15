@@ -18,3 +18,17 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: a4c6876e-9ec7-4e15-8f06-d348f8f47634
+- nomenclature: ELGA
+  code: AUSL_000010
+- nomenclature: THL
+  code: "145"
+- nomenclature: CVC
+  code: "28961000087105"
+- nomenclature: DIN
+  code: "02512947"
+- nomenclature: ATC
+  code: J07BN02
+- nomenclature: SCT_NUVA
+  code: "8901002000109"
+- nomenclature: ICD11
+  code: XM97T2

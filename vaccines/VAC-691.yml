@@ -18,3 +18,13 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 006c3ffd-c0fe-443d-9623-c84678bc5c3f
+- nomenclature: ELGA
+  code: AUSL_000031
+- nomenclature: THL
+  code: "166"
+- nomenclature: ATC
+  code: J07BN04
+- nomenclature: SCT_NUVA
+  code: "8321002000102"
+- nomenclature: ICD11
+  code: XM0RV9

@@ -14,3 +14,9 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: df085bd7-5fcd-413f-8846-551c9382c51d
+- nomenclature: ELGA
+  code: AUSL_000011
+- nomenclature: ATC
+  code: J07BN02
+- nomenclature: SCT_NUVA
+  code: "10001002000108"

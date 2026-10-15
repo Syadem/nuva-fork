@@ -14,3 +14,15 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: ddb78be0-1577-4e5f-83f9-6a9e0ed11f63
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: CTI
+  code: "662556"
+- nomenclature: CTI-EXTEND
+  code: 662556-01
+- nomenclature: EU-NUMBER
+  code: EU-1-24-1806-001
+- nomenclature: AIC
+  code: "051213"
+- nomenclature: SCT_NUVA
+  code: "16181002000102"

@@ -18,3 +18,9 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 768562aa-706b-4d6a-91e2-f49fe9ad3b96
+- nomenclature: CVC
+  code: "7911000087101"
+- nomenclature: SNOMED-CT
+  code: "871838009"
+- nomenclature: SCT_NUVA
+  code: "6841002000102"

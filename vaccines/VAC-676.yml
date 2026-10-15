@@ -16,3 +16,13 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 0ddf04c1-f0dc-4883-8c16-b4d537be3fa8
+- nomenclature: ELGA
+  code: AUSL_000001
+- nomenclature: THL
+  code: "133"
+- nomenclature: CVC
+  code: "33221000087102"
+- nomenclature: ATC
+  code: J07BN01
+- nomenclature: SCT_NUVA
+  code: "8131002000101"

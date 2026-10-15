@@ -19,3 +19,21 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: e3cc8873-dbf1-48ea-9349-dc86dc439a67
+- nomenclature: ATC
+  code: J07AG53
+- nomenclature: GTIN
+  code: "05909990654550"
+- nomenclature: GTIN
+  code: "05909990654567"
+- nomenclature: GTIN
+  code: "05909990654574"
+- nomenclature: GTIN
+  code: "05909990654581"
+- nomenclature: CTI
+  code: "321447"
+- nomenclature: SCT_NUVA
+  code: "6911002000106"
+- nomenclature: CTI-EXTEND
+  code: 321447-01
+- nomenclature: CTI-EXTEND
+  code: 321447-02

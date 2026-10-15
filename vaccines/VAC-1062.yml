@@ -13,3 +13,9 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: d3e1c443-2d51-457b-9e90-d5f051fccfbc
+- nomenclature: CVX
+  code: "29"
+- nomenclature: CVC
+  code: "9778000"
+- nomenclature: SCT_NUVA
+  code: "12921002000102"

@@ -21,3 +21,27 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: a5fc7b28-1c95-4511-8c39-2e9e21bcd8d5
+- nomenclature: SCT_NUVA
+  code: "1251002000108"
+- nomenclature: SWISSLEGACY
+  code: "55"
+- nomenclature: SWISSLEGACY
+  code: "95"
+- nomenclature: CIP
+  code: "3400933465841"
+- nomenclature: CIP
+  code: "3400936122352"
+- nomenclature: CIP
+  code: "3400955794240"
+- nomenclature: ATC
+  code: J07AH03
+- nomenclature: CIS
+  code: "61920725"
+- nomenclature: CIP
+  code: "3400931837220"
+- nomenclature: CIP
+  code: "3400936122291"
+- nomenclature: CIP
+  code: "3400955150978"
+- nomenclature: CIS
+  code: "65277632"

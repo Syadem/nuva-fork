@@ -20,3 +20,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 3e030bd7-deb2-4d04-9a05-fa91d94fd1bf
+- nomenclature: ELGA
+  code: "2442831"
+- nomenclature: ATC
+  code: J07CA10
+- nomenclature: CNK
+  code: "3217783"
+- nomenclature: SCT_NUVA
+  code: "6421002000105"

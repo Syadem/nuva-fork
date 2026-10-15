@@ -17,3 +17,17 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 58fa01a0-893c-4fa3-91dd-c5ac8bc53559
+- nomenclature: ATC
+  code: J07AP01
+- nomenclature: CPT
+  code: "90690"
+- nomenclature: CVX
+  code: "25"
+- nomenclature: SNOMED-CT
+  code: "971000221109"
+- nomenclature: ICD11
+  code: XM33K4
+- nomenclature: SCT_NUVA
+  code: "5481002000100"
+- nomenclature: SWISSLEGACY
+  code: "143"

@@ -14,3 +14,17 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 8d100165-e323-41f6-8377-c5b110d6845b
+- nomenclature: ATC
+  code: J07BN04
+- nomenclature: EU-NUMBER
+  code: EU-1-22-1709-005
+- nomenclature: EU-NUMBER
+  code: EU-1-22-1709-006
+- nomenclature: EU-NUMBER
+  code: EU-1-22-1709-007
+- nomenclature: INFARMED
+  code: "5892344"
+- nomenclature: AIC
+  code: "051848"
+- nomenclature: SCT_NUVA
+  code: "16311002000105"

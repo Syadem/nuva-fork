@@ -15,3 +15,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: b81be7c9-4918-401e-982a-37bd62a34852
+- nomenclature: SWISSMEDIC
+  code: "555"
+- nomenclature: ATC
+  code: J07AE02
+- nomenclature: SCT_NUVA
+  code: "13481002000102"
+- nomenclature: SWISSLEGACY
+  code: "16"

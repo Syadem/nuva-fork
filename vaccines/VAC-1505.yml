@@ -14,3 +14,5 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: a87f56f4-979f-4382-ac2c-831fad626aa8
+- nomenclature: THL
+  code: "162"

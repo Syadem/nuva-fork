@@ -14,3 +14,35 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 10978e4a-4eb0-4b10-981e-443421416d9c
+- nomenclature: ATC
+  code: J07BL01
+- nomenclature: GTIN
+  code: "00349281915055"
+- nomenclature: GTIN
+  code: "00349281915680"
+- nomenclature: GTIN
+  code: "00349281915017"
+- nomenclature: GTIN
+  code: "00349281915581"
+- nomenclature: UPC
+  code: "697177005008"
+- nomenclature: GTIN
+  code: "14987199330428"
+- nomenclature: UPC
+  code: "349281915017"
+- nomenclature: GTIN
+  code: "00697177005015"
+- nomenclature: GTIN
+  code: "00697177005008"
+- nomenclature: CVC
+  code: "7221000087101"
+- nomenclature: DIN
+  code: "00428833"
+- nomenclature: GTIN
+  code: "00697177005022"
+- nomenclature: NDC
+  code: 49281-0915
+- nomenclature: SCT_NUVA
+  code: "5801002000105"
+- nomenclature: NDC
+  code: 49281-915

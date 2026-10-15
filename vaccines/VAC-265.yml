@@ -1,12 +1,12 @@
 ---
 id: 265
 name: INFLU-KOVAX
-description: Trivalent inactivated seasonal influenza vaccine
+description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture
 generic: false
 immunoglobulin: false
 injection_methods: []
 created_at: 1626689130
-updated_at: 1666959920
+updated_at: 1791962665
 valence_ids:
 - 15
 other_names:
@@ -14,3 +14,7 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 9219fb60-bc77-4a5b-840a-772ef2c93f01
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: SCT_NUVA
+  code: "3851002000108"

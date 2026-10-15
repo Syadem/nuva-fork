@@ -20,3 +20,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 98c4d348-6556-48a3-9749-3750c9f87568
+- nomenclature: INFARMED
+  code: "2858082"
+- nomenclature: CTI
+  code: "193961"
+- nomenclature: SWISSMEDIC
+  code: "619"
+- nomenclature: ATC
+  code: J07CA06
+- nomenclature: CTI-EXTEND
+  code: 193961-01
+- nomenclature: SCT_NUVA
+  code: "12631002000108"

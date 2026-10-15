@@ -14,3 +14,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: daea18b9-4349-411a-b9a6-a5784185b2b3
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: GTIN
+  code: "20060308000045"
+- nomenclature: GTIN
+  code: "20060308000021"
+- nomenclature: GTIN
+  code: "20060308000038"
+- nomenclature: SCT_NUVA
+  code: "5981002000108"
+- nomenclature: INFARMED
+  code: "5039466"

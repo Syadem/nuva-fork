@@ -14,3 +14,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: f486417a-22fd-49ca-9cc0-66453fc00b8a
+- nomenclature: ATC
+  code: J07BL01
+- nomenclature: GTIN
+  code: "19840309000015"
+- nomenclature: CNK
+  code: "1035591"
+- nomenclature: SCT_NUVA
+  code: "3041002000104"
+- nomenclature: THL
+  code: "75"
+- nomenclature: SWISSLEGACY
+  code: "86"

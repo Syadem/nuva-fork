@@ -14,3 +14,17 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 7744fa33-5590-4c53-b8b7-8817a1563ebe
+- nomenclature: ATC
+  code: J07BN01
+- nomenclature: CTI
+  code: "663960"
+- nomenclature: CTI-EXTEND
+  code: 663960-01
+- nomenclature: EU-NUMBER
+  code: EU-1-24-1873-001
+- nomenclature: AIC
+  code: "052010"
+- nomenclature: SCT_NUVA
+  code: "16261002000100"
+- nomenclature: ICD11
+  code: XM6FF0

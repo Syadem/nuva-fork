@@ -15,3 +15,13 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: afb4c4b8-26e2-484a-b0ea-8a161b180b4e
+- nomenclature: ATC
+  code: J07BJ01
+- nomenclature: AIC
+  code: "021895"
+- nomenclature: CNK
+  code: "0135392"
+- nomenclature: SCT_NUVA
+  code: "3451002000105"
+- nomenclature: SWISSLEGACY
+  code: "91"

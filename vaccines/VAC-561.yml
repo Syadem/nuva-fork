@@ -16,3 +16,19 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: b0228771-a7b2-49eb-b211-bb5e887b6395
+- nomenclature: ATC
+  code: J07BA03
+- nomenclature: GTIN
+  code: "03664798027846"
+- nomenclature: GTIN
+  code: "03664798027921"
+- nomenclature: GTIN
+  code: "03664798027839"
+- nomenclature: GTIN
+  code: "03664798043341"
+- nomenclature: NTIN
+  code: "8806659002011"
+- nomenclature: GTIN
+  code: "03664798027853"
+- nomenclature: SCT_NUVA
+  code: "6951002000107"

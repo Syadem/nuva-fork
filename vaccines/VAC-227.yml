@@ -16,3 +16,37 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: c030bdaa-1901-4a6e-9625-4bca1a69bc2c
+- nomenclature: THL
+  code: "12"
+- nomenclature: SWISSMEDIC
+  code: "572"
+- nomenclature: SCT_NUVA
+  code: "3441002000108"
+- nomenclature: CIS
+  code: "64036265"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "866335"
+- nomenclature: CIP
+  code: "3400936064829"
+- nomenclature: CIP
+  code: "3400936121751"
+- nomenclature: DIN
+  code: "02239910"
+- nomenclature: CVC
+  code: "9851000087104"
+- nomenclature: ATC
+  code: J07BC02
+- nomenclature: AIC
+  code: "036438"
+- nomenclature: CNK
+  code: "1572452"
+- nomenclature: INFARMED
+  code: "3125184"
+- nomenclature: INFARMED
+  code: "3125283"
+- nomenclature: INFARMED
+  code: "3125382"
+- nomenclature: INFARMED
+  code: "3125481"
+- nomenclature: INFARMED
+  code: "3125580"

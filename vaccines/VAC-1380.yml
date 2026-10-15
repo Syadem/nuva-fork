@@ -14,3 +14,5 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: d37b0cae-9402-40ec-9358-ef3ef521c280
+- nomenclature: SCT_NUVA
+  code: "16741002000105"

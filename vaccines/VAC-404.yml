@@ -16,3 +16,17 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 59abd694-32db-4b14-a35b-a1df9a152acb
+- nomenclature: CVC
+  code: "28721000087103"
+- nomenclature: ATC
+  code: J07AJ52
+- nomenclature: GTIN
+  code: "05909990475933"
+- nomenclature: GTIN
+  code: "05909990475940"
+- nomenclature: GTIN
+  code: "03664798006933"
+- nomenclature: DIN
+  code: "02230273"
+- nomenclature: SCT_NUVA
+  code: "5291002000101"

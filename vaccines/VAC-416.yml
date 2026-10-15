@@ -17,3 +17,17 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: f119023b-49a4-4b2b-b76b-0677643964b2
+- nomenclature: ATC
+  code: J07BD52
+- nomenclature: THL
+  code: "98"
+- nomenclature: SCT_NUVA
+  code: "5401002000107"
+- nomenclature: INFARMED
+  code: "8715524"
+- nomenclature: INFARMED
+  code: "8715516"
+- nomenclature: INFARMED
+  code: "8715508"
+- nomenclature: SWISSLEGACY
+  code: "23"

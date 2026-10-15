@@ -18,3 +18,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 742baa11-ad8f-4c98-b0e8-272e4746e96c
+- nomenclature: ATC
+  code: J07BB01
+- nomenclature: GTIN
+  code: "20080312000039"
+- nomenclature: CIS
+  code: "66384167"
+- nomenclature: CIP
+  code: "3400939468648"
+- nomenclature: EU-NUMBER
+  code: EU-1-08-506-001
+- nomenclature: SCT_NUVA
+  code: "2011002000109"

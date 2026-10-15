@@ -15,3 +15,17 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 25ee3138-9fcb-4b8e-943f-c9a808e694a5
+- nomenclature: ELGA
+  code: AUSL_000002
+- nomenclature: THL
+  code: "134"
+- nomenclature: CPT
+  code: "91304"
+- nomenclature: NDC
+  code: 80631-0100
+- nomenclature: ATC
+  code: J07BN04
+- nomenclature: CVX
+  code: "313"
+- nomenclature: SCT_NUVA
+  code: "10031002000102"

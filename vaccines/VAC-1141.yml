@@ -15,3 +15,9 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 351fdf33-5da6-4f38-b5cd-54e665b2383d
+- nomenclature: CVX
+  code: "321"
+- nomenclature: CVX
+  code: "322"
+- nomenclature: SCT_NUVA
+  code: "14001002000101"

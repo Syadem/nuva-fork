@@ -29,3 +29,23 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: da117bfd-a4d3-4aec-9020-6a3cf1fa276a
+- nomenclature: THL
+  code: "8"
+- nomenclature: ATC
+  code: J07CA06
+- nomenclature: CIS
+  code: "69543678"
+- nomenclature: CIP
+  code: "3400935524737"
+- nomenclature: CIP
+  code: "3400934376771"
+- nomenclature: CIP
+  code: "3400934376832"
+- nomenclature: CIP
+  code: "3400930095720"
+- nomenclature: DIN
+  code: "02257122"
+- nomenclature: CVC
+  code: "7501000087105"
+- nomenclature: SCT_NUVA
+  code: "351002000103"

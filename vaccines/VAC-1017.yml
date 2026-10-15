@@ -19,3 +19,37 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 0a764f9f-b90f-47c2-8edd-fd95062c4830
+- nomenclature: CTI-EXTEND
+  code: 660572-01
+- nomenclature: CTI-EXTEND
+  code: 660573-01
+- nomenclature: CIP
+  code: "3400930259528"
+- nomenclature: CIP
+  code: "3400930261682"
+- nomenclature: CIS
+  code: "62609613"
+- nomenclature: CVC
+  code: "37311000087109"
+- nomenclature: CIS
+  code: "68374353"
+- nomenclature: EU-NUMBER
+  code: EU-1-20-1507-007
+- nomenclature: CTI
+  code: "660572"
+- nomenclature: CTI
+  code: "660573"
+- nomenclature: CIP
+  code: "3400930259504"
+- nomenclature: CIP
+  code: "3400930259511"
+- nomenclature: CIP
+  code: "3400928099624"
+- nomenclature: THL
+  code: "171"
+- nomenclature: SWISSMEDIC
+  code: "69009"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "758210"
+- nomenclature: SCT_NUVA
+  code: "12211002000102"

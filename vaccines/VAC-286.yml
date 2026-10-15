@@ -16,3 +16,33 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 20b6fa45-9edd-478a-829c-0ddf9150c6ee
+- nomenclature: CVC
+  code: "7161000087102"
+- nomenclature: GTIN
+  code: "00300064681000"
+- nomenclature: GTIN
+  code: "00300064681017"
+- nomenclature: ATC
+  code: J07BD52
+- nomenclature: AIC
+  code: "026265"
+- nomenclature: GTIN
+  code: "00067055034893"
+- nomenclature: DIN
+  code: "00466085"
+- nomenclature: NDC
+  code: 00006-4681
+- nomenclature: NDC
+  code: 54868-0980
+- nomenclature: SWISSMEDIC
+  code: "268"
+- nomenclature: SCT_NUVA
+  code: "4051002000104"
+- nomenclature: THL
+  code: "88"
+- nomenclature: GTIN
+  code: "60300064681002"
+- nomenclature: NDC
+  code: 0006-4681
+- nomenclature: NDC
+  code: 50090-1860

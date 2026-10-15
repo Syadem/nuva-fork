@@ -20,3 +20,19 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: f20248cf-130f-4e40-8038-5c1b23a1f348
+- nomenclature: SCT_NUVA
+  code: "7091002000104"
+- nomenclature: ATC
+  code: J07CA02
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "600536"
+- nomenclature: INFARMED
+  code: "3092889"
+- nomenclature: INFARMED
+  code: "3092988"
+- nomenclature: INFARMED
+  code: "3093085"
+- nomenclature: INFARMED
+  code: "3093184"
+- nomenclature: SWISSLEGACY
+  code: "73"

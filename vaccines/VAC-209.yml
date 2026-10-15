@@ -16,3 +16,13 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 7a292718-4fba-4841-a481-33a981af9b2b
+- nomenclature: CVC
+  code: "23771000087108"
+- nomenclature: ATC
+  code: J07CA08
+- nomenclature: GTIN
+  code: "00300064898019"
+- nomenclature: NDC
+  code: 00006-4898
+- nomenclature: SCT_NUVA
+  code: "3261002000106"

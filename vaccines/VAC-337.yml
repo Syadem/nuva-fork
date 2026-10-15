@@ -36,3 +36,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 23899ba3-a1f9-4758-8891-1caa56e14b6d
+- nomenclature: CIP
+  code: "3400934612626"
+- nomenclature: ATC
+  code: J07AL01
+- nomenclature: AIC
+  code: "029547"
+- nomenclature: CIS
+  code: "69491701"
+- nomenclature: SCT_NUVA
+  code: "4591002000104"
+- nomenclature: INFARMED
+  code: "2481182"

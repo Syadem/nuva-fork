@@ -20,3 +20,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: d540e6ec-792d-4235-8324-20a936a9755a
+- nomenclature: SCT_NUVA
+  code: "7281002000107"
+- nomenclature: CPT
+  code: "90700"
+- nomenclature: CVX
+  code: "20"
+- nomenclature: CVX
+  code: "106"
+- nomenclature: CVC
+  code: "7841000087106"
+- nomenclature: SNOMED-CT
+  code: "1297217008"

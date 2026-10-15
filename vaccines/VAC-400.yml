@@ -16,3 +16,27 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 79b637ec-8de6-42d9-bbf9-0b2578845a97
+- nomenclature: ATC
+  code: J07AJ52
+- nomenclature: AIC
+  code: "029401"
+- nomenclature: SCT_NUVA
+  code: "5261002000107"
+- nomenclature: INFARMED
+  code: "2861284"
+- nomenclature: INFARMED
+  code: "2861383"
+- nomenclature: INFARMED
+  code: "2861482"
+- nomenclature: INFARMED
+  code: "2861581"
+- nomenclature: INFARMED
+  code: "2860781"
+- nomenclature: INFARMED
+  code: "2860880"
+- nomenclature: INFARMED
+  code: "2860989"
+- nomenclature: INFARMED
+  code: "2861086"
+- nomenclature: INFARMED
+  code: "2861185"

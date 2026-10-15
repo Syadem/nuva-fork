@@ -13,3 +13,9 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 2bd29295-d8f4-4865-ada0-bc8f2b5248a7
+- nomenclature: THL
+  code: "25"
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: SCT_NUVA
+  code: "11721002000108"

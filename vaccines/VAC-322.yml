@@ -14,3 +14,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: b9b444f0-78d9-4210-a6e3-d14205130d2a
+- nomenclature: ATC
+  code: J07BE01
+- nomenclature: AIC
+  code: "026898"
+- nomenclature: CNK
+  code: "0811422"
+- nomenclature: SCT_NUVA
+  code: "4451002000107"

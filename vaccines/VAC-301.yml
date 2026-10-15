@@ -16,3 +16,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 06e5707e-ca9f-46df-b548-898f75fba624
+- nomenclature: ATC
+  code: J07BD52
+- nomenclature: CNK
+  code: "0830091"
+- nomenclature: SCT_NUVA
+  code: "4211002000105"
+- nomenclature: SWISSLEGACY
+  code: "119"
+- nomenclature: INFARMED
+  code: "2993780"
+- nomenclature: INFARMED
+  code: "4020087"

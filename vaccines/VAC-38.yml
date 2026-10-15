@@ -20,3 +20,33 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 6be5fff7-ac08-4519-8a07-bbb8f809b3ae
+- nomenclature: SCT_NUVA
+  code: "1041002000103"
+- nomenclature: THL
+  code: "33"
+- nomenclature: CPT
+  code: "90627"
+- nomenclature: CIP
+  code: "3400927841873"
+- nomenclature: AIC
+  code: "034409"
+- nomenclature: CIP
+  code: "3400936467835"
+- nomenclature: CIP
+  code: "3400936468085"
+- nomenclature: CIP
+  code: "3400936774766"
+- nomenclature: PZN
+  code: "10259495"
+- nomenclature: PZN
+  code: "10259503"
+- nomenclature: ATC
+  code: J07BA01
+- nomenclature: CIS
+  code: "69663909"
+- nomenclature: CIP
+  code: "3400927841705"
+- nomenclature: CIP
+  code: "3400936467606"
+- nomenclature: NDC
+  code: 00069-0411

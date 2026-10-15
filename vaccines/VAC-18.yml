@@ -31,3 +31,35 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 69cdb385-9d64-4bbc-9ede-bfbc21549cc7
+- nomenclature: SCT_NUVA
+  code: "451002000108"
+- nomenclature: THL
+  code: "28"
+- nomenclature: SWISSMEDIC
+  code: "652"
+- nomenclature: ATC
+  code: J07AH04
+- nomenclature: AIC
+  code: "038504"
+- nomenclature: CIS
+  code: "62429031"
+- nomenclature: CIS
+  code: "61145626"
+- nomenclature: CIS
+  code: "64234891"
+- nomenclature: CIP
+  code: "3400938588354"
+- nomenclature: CIP
+  code: "3400938588415"
+- nomenclature: CIP
+  code: "3400938588873"
+- nomenclature: CIP
+  code: "3400938588583"
+- nomenclature: CIP
+  code: "3400938588644"
+- nomenclature: CIP
+  code: "3400938588705"
+- nomenclature: CNK
+  code: "2473809"
+- nomenclature: CNK
+  code: "00305847"

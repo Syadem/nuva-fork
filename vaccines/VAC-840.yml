@@ -17,3 +17,23 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 89c52f06-ebe1-4f4f-938d-c4985068c576
+- nomenclature: CIS
+  code: "69539345"
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: CNK
+  code: "1788694"
+- nomenclature: CNK
+  code: "1624584"
+- nomenclature: CIP
+  code: "3400935493996"
+- nomenclature: CIP
+  code: "3400935524386"
+- nomenclature: CIP
+  code: "3400937085151"
+- nomenclature: CIP
+  code: "3400937085212"
+- nomenclature: CNK
+  code: "1703222"
+- nomenclature: SCT_NUVA
+  code: "10061002000109"

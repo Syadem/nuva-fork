@@ -16,3 +16,23 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: b09f99ec-9f53-4888-9db1-cbc9ad956887
+- nomenclature: SCT_NUVA
+  code: "2101002000105"
+- nomenclature: SWISSMEDIC
+  code: "58506"
+- nomenclature: CPT
+  code: "90705"
+- nomenclature: ATC
+  code: J07BD01
+- nomenclature: SNOMED-CT
+  code: "836382004"
+- nomenclature: SNOMED-CT
+  code: "871765008"
+- nomenclature: CVX
+  code: "05"
+- nomenclature: CVC
+  code: "386012008"
+- nomenclature: SNOMED-CT
+  code: "871766009"
+- nomenclature: ICD11
+  code: XM8L15

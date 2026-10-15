@@ -14,3 +14,13 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: b711c8a3-28a2-419e-a1e9-140b63ae94fb
+- nomenclature: NDC
+  code: 71665-330
+- nomenclature: NDC
+  code: 71665-430
+- nomenclature: CPT
+  code: "90622"
+- nomenclature: ATC
+  code: J07BX01
+- nomenclature: SCT_NUVA
+  code: "11961002000101"

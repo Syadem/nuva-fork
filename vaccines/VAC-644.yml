@@ -8,13 +8,76 @@ generic: false
 immunoglobulin: false
 injection_methods: []
 created_at: 1626689123
-updated_at: 1744735131
+updated_at: 1791988398
 valence_ids:
 - 65
 other_names:
 - tak-003
 - denvax
 - dengue tetravalent vaccine live attenuated takeda
+- tak003
 codes:
 - nomenclature: SYADEM
   code: 2cefb8fc-039a-4c2c-b400-d4edcf36df81
+- nomenclature: ELGA
+  code: "5518670"
+- nomenclature: INFARMED
+  code: "5850243"
+- nomenclature: ATC
+  code: J07BX04
+- nomenclature: CIP
+  code: "3400930266458"
+- nomenclature: EU-NUMBER
+  code: EU-1-22-1699-001
+- nomenclature: EU-NUMBER
+  code: EU-1-22-1699-002
+- nomenclature: EU-NUMBER
+  code: EU-1-22-1699-003
+- nomenclature: EU-NUMBER
+  code: EU-1-22-1699-004
+- nomenclature: EU-NUMBER
+  code: EU-1-22-1699-005
+- nomenclature: EU-NUMBER
+  code: EU-1-22-1699-006
+- nomenclature: CTI
+  code: "660959"
+- nomenclature: CTI
+  code: "660937"
+- nomenclature: CTI
+  code: "660960"
+- nomenclature: CTI
+  code: "660961"
+- nomenclature: CTI
+  code: "660962"
+- nomenclature: CTI
+  code: "660963"
+- nomenclature: CTI-EXTEND
+  code: 660959-01
+- nomenclature: CTI-EXTEND
+  code: 660937-01
+- nomenclature: CTI-EXTEND
+  code: 660960-01
+- nomenclature: CTI-EXTEND
+  code: 660961-01
+- nomenclature: CTI-EXTEND
+  code: 660962-01
+- nomenclature: CTI-EXTEND
+  code: 660963-01
+- nomenclature: CIP
+  code: "3400930266274"
+- nomenclature: CIP
+  code: "3400930266281"
+- nomenclature: CNK
+  code: "4642039"
+- nomenclature: THL
+  code: "176"
+- nomenclature: SWISSMEDIC
+  code: "69403"
+- nomenclature: CIS
+  code: "69091949"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "758837"
+- nomenclature: SCT_NUVA
+  code: "7661002000101"
+- nomenclature: AIC
+  code: "050458"

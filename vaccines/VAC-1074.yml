@@ -14,3 +14,9 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 3f3656f5-f255-49ff-8151-15bf843e2f60
+- nomenclature: NDC
+  code: 71665-001
+- nomenclature: ATC
+  code: J07AC01
+- nomenclature: SCT_NUVA
+  code: "13131002000106"

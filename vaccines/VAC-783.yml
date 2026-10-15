@@ -15,3 +15,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 22abbfbb-34be-4b5f-93b8-abbdb2a14317
+- nomenclature: ELGA
+  code: AUSL_000012
+- nomenclature: THL
+  code: "147"
+- nomenclature: ATC
+  code: J07BN02
+- nomenclature: SCT_NUVA
+  code: "9271002000104"

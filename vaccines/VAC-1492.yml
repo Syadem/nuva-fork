@@ -14,3 +14,5 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: cc02e42e-a103-453a-8190-1599996e8d9c
+- nomenclature: SWISSLEGACY
+  code: "17"

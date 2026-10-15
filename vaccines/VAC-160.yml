@@ -14,3 +14,17 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: bdd29f09-991a-4bbe-b998-696240be2b91
+- nomenclature: SCT_NUVA
+  code: "2731002000103"
+- nomenclature: CPT
+  code: "90736"
+- nomenclature: ATC
+  code: J07BK02
+- nomenclature: CVX
+  code: "121"
+- nomenclature: CVC
+  code: "407746005"
+- nomenclature: ICD11
+  code: XM1SS1
+- nomenclature: SNOMED-CT
+  code: "2221000221107"

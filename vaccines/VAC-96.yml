@@ -1,14 +1,14 @@
 ---
 id: 96
 name: VACCIN GRIPPAL RONCHESE (VGR)
-description: Trivalent inactivated seasonal influenza vaccine, split virion
+description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, split virion
 generic: false
 immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689123
-updated_at: 1666959917
+updated_at: 1791911895
 valence_ids:
 - 15
 other_names:
@@ -18,3 +18,7 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: a8c00bb8-0b5a-44ac-b42f-03043e264d63
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: SCT_NUVA
+  code: "1851002000107"

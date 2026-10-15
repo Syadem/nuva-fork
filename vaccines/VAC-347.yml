@@ -17,3 +17,25 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: fa2edac3-db5a-414b-afc7-18d2cba3cd7d
+- nomenclature: NDC
+  code: 49281-0562
+- nomenclature: NDC
+  code: 49281-0564
+- nomenclature: ATC
+  code: J07CA02
+- nomenclature: GTIN
+  code: "00349281562105"
+- nomenclature: GTIN
+  code: "00349281562587"
+- nomenclature: GTIN
+  code: "00697177004148"
+- nomenclature: GTIN
+  code: "00697177004698"
+- nomenclature: CVC
+  code: "7471000087101"
+- nomenclature: DIN
+  code: "02230946"
+- nomenclature: SCT_NUVA
+  code: "4681002000103"
+- nomenclature: NDC
+  code: 49281-564

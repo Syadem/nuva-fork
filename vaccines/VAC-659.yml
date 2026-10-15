@@ -18,3 +18,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 00044315-2fa3-4037-983c-7655bccc84c8
+- nomenclature: CVC
+  code: "33471000087102"
+- nomenclature: CVX
+  code: "507"
+- nomenclature: CVX
+  code: "513"
+- nomenclature: ATC
+  code: J07BN04
+- nomenclature: SCT_NUVA
+  code: "7891002000106"
+- nomenclature: ICD11
+  code: XM3CT4

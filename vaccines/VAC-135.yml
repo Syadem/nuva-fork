@@ -14,3 +14,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 351d7da2-0297-4609-bd4c-f0fc491d61de
+- nomenclature: SCT_NUVA
+  code: "2341002000105"
+- nomenclature: SNOMED-CT
+  code: "1031000221108"
+- nomenclature: CVX
+  code: "89"
+- nomenclature: CVC
+  code: "111164008"
+- nomenclature: SNOMED-CT
+  code: "871739009"
+- nomenclature: ICD11
+  code: XM0N50

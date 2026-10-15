@@ -25,3 +25,33 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 4e8c4dbc-aa35-44bc-8adf-b52b4bc4a09e
+- nomenclature: THL
+  code: "101"
+- nomenclature: SCT_NUVA
+  code: "5151002000104"
+- nomenclature: ATC
+  code: J07AG52
+- nomenclature: AIC
+  code: "032133"
+- nomenclature: CIS
+  code: "64678177"
+- nomenclature: CIP
+  code: "3400933731151"
+- nomenclature: CIP
+  code: "3400934338571"
+- nomenclature: CIP
+  code: "3400934338632"
+- nomenclature: CIP
+  code: "3400934761409"
+- nomenclature: CIS
+  code: "64037506"
+- nomenclature: CIS
+  code: "69742160"
+- nomenclature: INFARMED
+  code: "3092483"
+- nomenclature: INFARMED
+  code: "3092582"
+- nomenclature: INFARMED
+  code: "3092681"
+- nomenclature: INFARMED
+  code: "3092780"

@@ -13,3 +13,13 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 63c8990b-1626-42d1-b742-864fd2ca2396
+- nomenclature: ATC
+  code: J07BD01
+- nomenclature: AIC
+  code: "026983"
+- nomenclature: SWISSMEDIC
+  code: "533"
+- nomenclature: SCT_NUVA
+  code: "7421002000107"
+- nomenclature: INFARMED
+  code: "8290502"

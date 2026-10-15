@@ -17,3 +17,9 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 83f5ed07-8585-4bba-a4cb-140c7935034a
+- nomenclature: AIC
+  code: "033536"
+- nomenclature: ATC
+  code: J07CA06
+- nomenclature: SCT_NUVA
+  code: "10451002000104"

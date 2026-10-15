@@ -18,3 +18,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 7a693646-65f5-4ee3-90db-2933a2374488
+- nomenclature: ATC
+  code: J07BD52
+- nomenclature: AIC
+  code: "026918"
+- nomenclature: CIP
+  code: "3400933158569"
+- nomenclature: CNK
+  code: "0288415"
+- nomenclature: SCT_NUVA
+  code: "6151002000105"
+- nomenclature: SWISSLEGACY
+  code: "123"

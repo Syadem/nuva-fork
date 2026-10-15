@@ -16,3 +16,23 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 396ec150-1059-4b05-9248-9a68194fb73a
+- nomenclature: ATC
+  code: J07AH07
+- nomenclature: CIS
+  code: "61895802"
+- nomenclature: CIP
+  code: "3400935778819"
+- nomenclature: CIP
+  code: "3400935947734"
+- nomenclature: CIP
+  code: "3400935947963"
+- nomenclature: AIC
+  code: "035437"
+- nomenclature: INFARMED
+  code: "3773983"
+- nomenclature: INFARMED
+  code: "3981289"
+- nomenclature: INFARMED
+  code: "3981388"
+- nomenclature: SCT_NUVA
+  code: "1881002000101"

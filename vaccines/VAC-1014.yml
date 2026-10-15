@@ -13,3 +13,15 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: fe743cde-3fe5-40c8-8ff6-6ed790467f40
+- nomenclature: CNK
+  code: "2232221"
+- nomenclature: CNK
+  code: "2081495"
+- nomenclature: GTIN
+  code: "00191778014013"
+- nomenclature: GTIN
+  code: "00191778015782"
+- nomenclature: ATC
+  code: J07BK01
+- nomenclature: SCT_NUVA
+  code: "12161002000109"

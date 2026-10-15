@@ -20,3 +20,9 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 3e9ee04b-9e53-4637-bb29-88ba464a0beb
+- nomenclature: CIP
+  code: "3400931698401"
+- nomenclature: ATC
+  code: J07CA03
+- nomenclature: SCT_NUVA
+  code: "1471002000101"

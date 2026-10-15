@@ -14,3 +14,31 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 7371f4e9-1f3d-43de-b527-9d1be41608da
+- nomenclature: ELGA
+  code: "5526391"
+- nomenclature: SWISSMEDIC
+  code: "69465"
+- nomenclature: SWISSMEDIC
+  code: "69484"
+- nomenclature: ATC
+  code: J07BN01
+- nomenclature: EU-NUMBER
+  code: EU-1-20-1507-011
+- nomenclature: EU-NUMBER
+  code: EU-1-20-1507-012
+- nomenclature: CTI
+  code: "661765"
+- nomenclature: CTI
+  code: "661766"
+- nomenclature: CTI-EXTEND
+  code: 661765-01
+- nomenclature: CTI-EXTEND
+  code: 661766-01
+- nomenclature: EU-NUMBER
+  code: EU-1-20-1507-013
+- nomenclature: EU-NUMBER
+  code: EU-1-20-1507-014
+- nomenclature: INFARMED
+  code: "5858402"
+- nomenclature: SCT_NUVA
+  code: "12861002000100"

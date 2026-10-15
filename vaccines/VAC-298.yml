@@ -14,3 +14,9 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: ea2668e6-bf2a-43f6-8997-569236fe67b1
+- nomenclature: ATC
+  code: J07BJ01
+- nomenclature: SCT_NUVA
+  code: "4181002000106"
+- nomenclature: SWISSLEGACY
+  code: "56"

@@ -22,3 +22,23 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 4d006d18-459f-4cc5-83d9-57ffd0fe2c87
+- nomenclature: ATC
+  code: J07CA06
+- nomenclature: GTIN
+  code: "05909990891672"
+- nomenclature: GTIN
+  code: "05909990891658"
+- nomenclature: GTIN
+  code: "05909990891689"
+- nomenclature: GTIN
+  code: "05909990891641"
+- nomenclature: PZN
+  code: "08627715"
+- nomenclature: PZN
+  code: "08627721"
+- nomenclature: PZN
+  code: "00278474"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "841320"
+- nomenclature: SCT_NUVA
+  code: "6321002000101"

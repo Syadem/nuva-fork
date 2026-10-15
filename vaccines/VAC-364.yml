@@ -14,3 +14,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 49ee403b-a280-45f8-ae8c-4dc7ac4d92b0
+- nomenclature: ATC
+  code: J07BJ01
+- nomenclature: AIC
+  code: "025590"
+- nomenclature: THL
+  code: "106"
+- nomenclature: SCT_NUVA
+  code: "4871002000102"
+- nomenclature: SWISSLEGACY
+  code: "111"
+- nomenclature: INFARMED
+  code: "8516203"

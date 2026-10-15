@@ -7,7 +7,7 @@ immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1648471716
-updated_at: 1788945576
+updated_at: 1791985025
 valence_ids:
 - 3
 - 56
@@ -18,3 +18,11 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: e3981dfe-99e5-4092-b073-5639d6761e08
+- nomenclature: ATC
+  code: J07CA06
+- nomenclature: SNOMED-CT
+  code: "871887006"
+- nomenclature: ICD11
+  code: XM1LX9
+- nomenclature: SCT_NUVA
+  code: "10491002000108"

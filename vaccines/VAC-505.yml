@@ -15,3 +15,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 47d1d0de-417f-48c2-8044-97713508bace
+- nomenclature: SCT_NUVA
+  code: "6331002000103"
+- nomenclature: CIP
+  code: "3400933471934"
+- nomenclature: ATC
+  code: J07AG01
+- nomenclature: CIS
+  code: "68979473"

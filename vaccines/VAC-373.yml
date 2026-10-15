@@ -14,3 +14,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 299b2c33-5962-44d6-badb-32855b8869d2
+- nomenclature: ELGA
+  code: "1260571"
+- nomenclature: ATC
+  code: J07BF03
+- nomenclature: SCT_NUVA
+  code: "4961002000101"
+- nomenclature: SWISSLEGACY
+  code: "101"

@@ -14,3 +14,31 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 943b07c1-6c15-4ff7-a063-0b528cfe2342
+- nomenclature: ELGA
+  code: AWEG_000004
+- nomenclature: NDC
+  code: 50632-022
+- nomenclature: NDC
+  code: 50632-023
+- nomenclature: GTIN
+  code: "00350632001020"
+- nomenclature: CPT
+  code: "90611"
+- nomenclature: CNK
+  code: "4604088"
+- nomenclature: CIP
+  code: "3400930255469"
+- nomenclature: THL
+  code: "167"
+- nomenclature: SWISSMEDIC
+  code: "69173"
+- nomenclature: ATC
+  code: J07BX01
+- nomenclature: CIS
+  code: "60215623"
+- nomenclature: SCT_NUVA
+  code: "11651002000109"
+- nomenclature: NDC
+  code: 50632-001
+- nomenclature: NDC
+  code: 50632-002

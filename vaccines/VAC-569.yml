@@ -18,3 +18,35 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: dc6a35ee-f542-4e81-800b-5ee6bac306db
+- nomenclature: SCT_NUVA
+  code: "7021002000101"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "607407"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "730055"
+- nomenclature: CVC
+  code: "7461000087105"
+- nomenclature: ATC
+  code: J07CA02
+- nomenclature: GTIN
+  code: "05909990420261"
+- nomenclature: GTIN
+  code: "05909990628681"
+- nomenclature: GTIN
+  code: "05909990628698"
+- nomenclature: GTIN
+  code: "05909990420285"
+- nomenclature: GTIN
+  code: "05909990420278"
+- nomenclature: CNK
+  code: "1552215"
+- nomenclature: DIN
+  code: "02241284"
+- nomenclature: CTI
+  code: "212152"
+- nomenclature: CTI-EXTEND
+  code: 212152-01
+- nomenclature: CTI-EXTEND
+  code: 212152-02
+- nomenclature: SWISSMEDIC
+  code: "638"

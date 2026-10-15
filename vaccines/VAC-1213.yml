@@ -13,3 +13,9 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: c11354c1-f459-4a33-876a-6cb94408f61f
+- nomenclature: CVX
+  code: "172"
+- nomenclature: SNOMED-CT
+  code: "1362134008"
+- nomenclature: SCT_NUVA
+  code: "14731002000109"

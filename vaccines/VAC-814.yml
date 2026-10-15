@@ -15,3 +15,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: b355de36-5ef8-4b89-8b22-0b5304f91df4
+- nomenclature: CVX
+  code: "152"
+- nomenclature: ATC
+  code: J07AL02
+- nomenclature: SNOMED-CT
+  code: "1801000221105"
+- nomenclature: CVC
+  code: "7261000087106"
+- nomenclature: ICD11
+  code: XM96S7
+- nomenclature: SCT_NUVA
+  code: "9721002000109"

@@ -24,3 +24,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 8f2a5d4b-9df6-4bbf-a6f3-481f75bf9138
+- nomenclature: ATC
+  code: J07CA11
+- nomenclature: CVX
+  code: "198"
+- nomenclature: CVX
+  code: "102"
+- nomenclature: SNOMED-CT
+  code: "871886002"
+- nomenclature: ICD11
+  code: XM7JP3
+- nomenclature: SCT_NUVA
+  code: "7251002000101"

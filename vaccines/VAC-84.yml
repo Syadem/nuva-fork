@@ -14,3 +14,19 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 65e6c6a6-fd93-49b5-83fa-f8d930337fc8
+- nomenclature: SCT_NUVA
+  code: "1661002000108"
+- nomenclature: AIC
+  code: "039230"
+- nomenclature: CVX
+  code: "123"
+- nomenclature: CVX
+  code: "160"
+- nomenclature: CVC
+  code: "1003499009"
+- nomenclature: SNOMED-CT
+  code: "1003499009"
+- nomenclature: SNOMED-CT
+  code: "1119279002"
+- nomenclature: SNOMED-CT
+  code: "1162629006"

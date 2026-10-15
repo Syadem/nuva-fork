@@ -1,12 +1,12 @@
 ---
 id: 232
 name: FLULAVAL
-description: Trivalent inactivated seasonal influenza vaccine
+description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture
 generic: false
 immunoglobulin: false
 injection_methods: []
 created_at: 1626689122
-updated_at: 1666959919
+updated_at: 1791962544
 valence_ids:
 - 15
 other_names:
@@ -14,3 +14,21 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: b7a7f2a6-85af-46d0-91c3-3afa64f6df2d
+- nomenclature: NDC
+  code: 19515-0890
+- nomenclature: NDC
+  code: 19515-0893
+- nomenclature: NDC
+  code: 19515-0889
+- nomenclature: NDC
+  code: 19515-0850
+- nomenclature: NDC
+  code: 19515-0845
+- nomenclature: GTIN
+  code: "00319515893022"
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: SCT_NUVA
+  code: "3491002000101"
+- nomenclature: NDC
+  code: 19515-904

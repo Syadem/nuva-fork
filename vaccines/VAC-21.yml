@@ -1,14 +1,14 @@
 ---
 id: 21
 name: MUTAGRIP
-description: Trivalent inactivated seasonal influenza vaccine, split virion
+description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, split virion
 generic: false
 immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689125
-updated_at: 1758790925
+updated_at: 1791965917
 valence_ids:
 - 15
 other_names:
@@ -18,3 +18,71 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: c1e45d20-11d2-40f1-b4f7-fa59349dc71f
+- nomenclature: SCT_NUVA
+  code: "491002000104"
+- nomenclature: SWISSMEDIC
+  code: "373"
+- nomenclature: THL
+  code: "89"
+- nomenclature: CIP
+  code: "3400932015030"
+- nomenclature: CIP
+  code: "3400932015269"
+- nomenclature: CIP
+  code: "3400932015320"
+- nomenclature: CIP
+  code: "3400932222445"
+- nomenclature: CIP
+  code: "3400935229861"
+- nomenclature: CIP
+  code: "3400935230003"
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: AIC
+  code: "027278"
+- nomenclature: CIS
+  code: "67933188"
+- nomenclature: CIS
+  code: "63483669"
+- nomenclature: CIS
+  code: "67469994"
+- nomenclature: CIP
+  code: "3400935229922"
+- nomenclature: CIP
+  code: "3400935230171"
+- nomenclature: CIP
+  code: "3400935230232"
+- nomenclature: CIP
+  code: "3400935230461"
+- nomenclature: CNK
+  code: "1089119"
+- nomenclature: CNK
+  code: "1169341"
+- nomenclature: CNK
+  code: "1233519"
+- nomenclature: CNK
+  code: "1321009"
+- nomenclature: CNK
+  code: "1391861"
+- nomenclature: CNK
+  code: "1451764"
+- nomenclature: CNK
+  code: "1540442"
+- nomenclature: CNK
+  code: "1619220"
+- nomenclature: CNK
+  code: "2118016"
+- nomenclature: CNK
+  code: "2214245"
+- nomenclature: CNK
+  code: "2394930"
+- nomenclature: CNK
+  code: "1788660"
+- nomenclature: CNK
+  code: "1703214"
+- nomenclature: CNK
+  code: "1035567"
+- nomenclature: CNK
+  code: "0385542"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "656583"

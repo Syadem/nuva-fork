@@ -14,3 +14,9 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 5bce5f12-cf51-4586-b95b-8f1cf62eb33b
+- nomenclature: CPT
+  code: "90477"
+- nomenclature: CVX
+  code: "55"
+- nomenclature: SCT_NUVA
+  code: "10921002000101"

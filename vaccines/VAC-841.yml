@@ -1,13 +1,13 @@
 ---
 id: 841
 name: INFLUVAC 0,25 mL
-description: Trivalent inactivated seasonal influenza vaccine, surface antigen, paediatric dose
+description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, surface antigen, paediatric dose
 generic: false
 immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1645849904
-updated_at: 1744203014
+updated_at: 1791905500
 valence_ids:
 - 15
 other_names:
@@ -16,3 +16,19 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 90a6a7bb-ad8b-47a5-9030-9e2e8ce54542
+- nomenclature: CIP
+  code: "3400927561856"
+- nomenclature: CIP
+  code: "3400927561917"
+- nomenclature: CIP
+  code: "3400927562167"
+- nomenclature: CIP
+  code: "3400927562228"
+- nomenclature: CIS
+  code: "66481278"
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: INFARMED
+  code: "5571211"
+- nomenclature: SCT_NUVA
+  code: "10071002000104"

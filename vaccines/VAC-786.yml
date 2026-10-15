@@ -36,3 +36,23 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 52ca9c0e-f253-4690-bce6-18e6ed21e97e
+- nomenclature: CPT
+  code: "90677"
+- nomenclature: NDC
+  code: 00005-2000
+- nomenclature: GTIN
+  code: "00300052000103"
+- nomenclature: GTIN
+  code: "10300052000018"
+- nomenclature: GTIN
+  code: "00300052000028"
+- nomenclature: ATC
+  code: J07AL02
+- nomenclature: CVC
+  code: "37881000087105"
+- nomenclature: SCT_NUVA
+  code: "9351002000103"
+- nomenclature: NDC
+  code: 0005-2000
+- nomenclature: NDC
+  code: 50090-6026

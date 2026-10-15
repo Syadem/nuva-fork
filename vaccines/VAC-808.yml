@@ -16,3 +16,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: eb3601d0-623e-46d4-9005-c112152e8934
+- nomenclature: ATC
+  code: J07AG54
+- nomenclature: CVC
+  code: "2068100007105"
+- nomenclature: SNOMED-CT
+  code: "1119351006"
+- nomenclature: SCT_NUVA
+  code: "9601002000106"

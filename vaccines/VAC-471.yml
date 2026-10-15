@@ -15,3 +15,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 55278f68-9d90-42f0-a934-580b27f0c0b1
+- nomenclature: ATC
+  code: J07BC01
+- nomenclature: GTIN
+  code: "05909990868629"
+- nomenclature: GTIN
+  code: "05909990868636"
+- nomenclature: GTIN
+  code: "05909990868612"
+- nomenclature: SCT_NUVA
+  code: "5951002000102"
+- nomenclature: SWISSLEGACY
+  code: "172"

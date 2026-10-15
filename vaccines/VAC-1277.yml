@@ -13,3 +13,11 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 46003219-2c20-4c9b-920f-d93198e36bc9
+- nomenclature: SNOMED-CT
+  code: "1345202008"
+- nomenclature: SNOMED-CT
+  code: "1345042009"
+- nomenclature: SCT_NUVA
+  code: "15601002000107"
+- nomenclature: ATC
+  code: J07BP

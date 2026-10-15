@@ -15,3 +15,25 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 986479c5-ad57-4173-916d-bfa5a7cc6623
+- nomenclature: DIN
+  code: "02235721"
+- nomenclature: CVC
+  code: "7051000087101"
+- nomenclature: GTIN
+  code: "00300064897005"
+- nomenclature: GTIN
+  code: "00300064897012"
+- nomenclature: ATC
+  code: J07AG01
+- nomenclature: NDC
+  code: 00006-4897
+- nomenclature: SCT_NUVA
+  code: "4491002000103"
+- nomenclature: GTIN
+  code: "60300064897007"
+- nomenclature: INFARMED
+  code: "2419687"
+- nomenclature: SWISSLEGACY
+  code: "98"
+- nomenclature: NDC
+  code: 0006-4897

@@ -18,3 +18,25 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 99df89f0-62e6-45bc-91d5-350a82f926c6
+- nomenclature: ELGA
+  code: "3761739"
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: CIP
+  code: "3400939522159"
+- nomenclature: CNK
+  code: "2807048"
+- nomenclature: CIP
+  code: "3400957541002"
+- nomenclature: CIP
+  code: "3400957541170"
+- nomenclature: CIS
+  code: "62023917"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "662768"
+- nomenclature: CVC
+  code: "7601000087109"
+- nomenclature: INFARMED
+  code: "5187463"
+- nomenclature: SCT_NUVA
+  code: "2781002000102"

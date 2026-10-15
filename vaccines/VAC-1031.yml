@@ -18,3 +18,13 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 421a3142-fd91-4ee0-93b9-6bdfd95e54f8
+- nomenclature: ATC
+  code: J07BN01
+- nomenclature: CTI
+  code: "660541"
+- nomenclature: CTI-EXTEND
+  code: 660541-01
+- nomenclature: SCT_NUVA
+  code: "12411002000101"
+- nomenclature: SWISSMEDIC
+  code: "69010"

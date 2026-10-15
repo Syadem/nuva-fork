@@ -19,3 +19,19 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: d90233a2-3102-4118-9d88-8b67effb13e6
+- nomenclature: ELGA
+  code: AUSL_000003
+- nomenclature: THL
+  code: "135"
+- nomenclature: CVC
+  code: "31341000087103"
+- nomenclature: CVX
+  code: "505"
+- nomenclature: ATC
+  code: J07BN02
+- nomenclature: SCT_NUVA
+  code: "8051002000107"
+- nomenclature: ICD11
+  code: XM6Z24
+- nomenclature: ICD11
+  code: XM4PM4

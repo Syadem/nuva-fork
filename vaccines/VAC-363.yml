@@ -15,3 +15,13 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 1270ef2c-8f67-4aae-93c6-fe7da2b2e9c6
+- nomenclature: ATC
+  code: J07BH01
+- nomenclature: AIC
+  code: "034428"
+- nomenclature: CVX
+  code: "74"
+- nomenclature: SCT_NUVA
+  code: "4861002000107"
+- nomenclature: INFARMED
+  code: "2917284"

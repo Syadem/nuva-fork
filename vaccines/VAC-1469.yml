@@ -14,3 +14,9 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 7e7cf42f-df44-479e-aeb9-0b373df63ecd
+- nomenclature: NDC
+  code: 80777-400
+- nomenclature: CVX
+  code: "334"
+- nomenclature: ATC
+  code: J07BN01

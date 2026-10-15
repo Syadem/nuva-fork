@@ -17,3 +17,13 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: a5599cdd-c545-4668-b83a-a0277f9a80ef
+- nomenclature: THL
+  code: "1"
+- nomenclature: SCT_NUVA
+  code: "1121002000109"
+- nomenclature: THL
+  code: "83"
+- nomenclature: SWISSMEDIC
+  code: "696"
+- nomenclature: ATC
+  code: J07AN01

@@ -20,3 +20,9 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: d51d40bc-3646-4dc3-8cb9-e810ce2e1029
+- nomenclature: CVX
+  code: "195"
+- nomenclature: CVC
+  code: "7901000087103"
+- nomenclature: SCT_NUVA
+  code: "1701002000102"

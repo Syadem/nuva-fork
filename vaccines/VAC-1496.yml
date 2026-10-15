@@ -13,3 +13,5 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 2488ad29-eac2-42d9-b329-3bb69d1cb2ad
+- nomenclature: SWISSLEGACY
+  code: "148"

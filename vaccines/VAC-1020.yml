@@ -14,3 +14,29 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 803a920f-4d40-450a-885d-46edd84bf2df
+- nomenclature: CIP
+  code: "3400934166983"
+- nomenclature: CIP
+  code: "3400934167065"
+- nomenclature: CIP
+  code: "3400934167126"
+- nomenclature: CIP
+  code: "3400934167294"
+- nomenclature: CIP
+  code: "3400937083379"
+- nomenclature: CIP
+  code: "3400937083430"
+- nomenclature: CIP
+  code: "3400937083669"
+- nomenclature: CIP
+  code: "3400937083720"
+- nomenclature: CIP
+  code: "3400937083898"
+- nomenclature: CIP
+  code: "3400937083959"
+- nomenclature: CIS
+  code: "62830871"
+- nomenclature: ATC
+  code: J07BC02
+- nomenclature: SCT_NUVA
+  code: "12241002000103"

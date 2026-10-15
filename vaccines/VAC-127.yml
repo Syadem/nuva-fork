@@ -15,3 +15,25 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 6d6b51ad-ca4d-4aa5-b05b-a6648aa52912
+- nomenclature: CIS
+  code: "68554928"
+- nomenclature: CIS
+  code: "62150850"
+- nomenclature: CIP
+  code: "3400933931933"
+- nomenclature: CIP
+  code: "3400933692209"
+- nomenclature: CIP
+  code: "3400955901242"
+- nomenclature: ATC
+  code: J07BC01
+- nomenclature: CNK
+  code: "1210764"
+- nomenclature: CNK
+  code: "1273317"
+- nomenclature: CNK
+  code: "1317817"
+- nomenclature: SCT_NUVA
+  code: "2231002000108"
+- nomenclature: SWISSLEGACY
+  code: "162"

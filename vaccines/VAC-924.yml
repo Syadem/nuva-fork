@@ -13,3 +13,17 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: aea40c4c-f4a9-4503-b5ab-ec06b8fe7846
+- nomenclature: CPT
+  code: "90654"
+- nomenclature: NDC
+  code: 49281-0709
+- nomenclature: NDC
+  code: 49281-0703
+- nomenclature: NDC
+  code: 49281-0710
+- nomenclature: NDC
+  code: 49281-0705
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: SCT_NUVA
+  code: "11121002000107"

@@ -15,3 +15,23 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 41d1c2b0-bf39-4ba1-9657-89a619a73290
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: GTIN
+  code: "05909991081355"
+- nomenclature: GTIN
+  code: "05909991081348"
+- nomenclature: GTIN
+  code: "05909990866663"
+- nomenclature: GTIN
+  code: "05909990866670"
+- nomenclature: AIC
+  code: "040490"
+- nomenclature: THL
+  code: "59"
+- nomenclature: SCT_NUVA
+  code: "7521002000106"
+- nomenclature: INFARMED
+  code: "5380407"
+- nomenclature: INFARMED
+  code: "5380415"

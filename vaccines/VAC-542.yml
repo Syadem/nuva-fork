@@ -8,7 +8,7 @@ injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689127
-updated_at: 1758815806
+updated_at: 1791984824
 valence_ids:
 - 56
 - 67
@@ -22,3 +22,17 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 3fddc43f-7d06-4186-8160-b42f230af0a7
+- nomenclature: SCT_NUVA
+  code: "6791002000100"
+- nomenclature: CIP
+  code: "3400931921356"
+- nomenclature: ATC
+  code: J07CA01
+- nomenclature: CIS
+  code: "66045366"
+- nomenclature: CIP
+  code: "3400955212355"
+- nomenclature: CIP
+  code: "3400955212416"
+- nomenclature: CIP
+  code: "3400955589655"

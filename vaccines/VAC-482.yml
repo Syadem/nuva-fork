@@ -14,3 +14,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: e382bbd0-ba9c-41aa-a159-f325d983919c
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: GTIN
+  code: "05909990993697"
+- nomenclature: EU-NUMBER
+  code: EU-1-12-752-001
+- nomenclature: SCT_NUVA
+  code: "6061002000108"

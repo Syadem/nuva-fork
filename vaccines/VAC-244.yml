@@ -15,3 +15,9 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 47cd717c-27e3-44ff-b85b-39047f16bc55
+- nomenclature: ATC
+  code: J07BC01
+- nomenclature: SWISSMEDIC
+  code: "544"
+- nomenclature: SCT_NUVA
+  code: "3611002000106"

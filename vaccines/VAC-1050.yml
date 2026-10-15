@@ -16,3 +16,23 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 7b044773-820e-4cb0-bdd1-ff23de5ad892
+- nomenclature: ELGA
+  code: "5519126"
+- nomenclature: THL
+  code: "184"
+- nomenclature: GTIN
+  code: "04150184257861"
+- nomenclature: GTIN
+  code: "03400930268636"
+- nomenclature: GTIN
+  code: "03664798074017"
+- nomenclature: CVX
+  code: "307"
+- nomenclature: CNK
+  code: "4803292"
+- nomenclature: CTI
+  code: "66082301"
+- nomenclature: SCT_NUVA
+  code: "12701002000107"
+- nomenclature: CIP
+  code: "3400930268636"

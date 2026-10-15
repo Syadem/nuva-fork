@@ -15,3 +15,9 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 89c25944-3228-49ae-8650-3796291717e0
+- nomenclature: ATC
+  code: J07BD51
+- nomenclature: SCT_NUVA
+  code: "3161002000101"
+- nomenclature: SWISSLEGACY
+  code: "88"

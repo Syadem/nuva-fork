@@ -15,3 +15,25 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 93043210-fb90-4f73-8cd2-014c0170cf4d
+- nomenclature: NDC
+  code: 50632-018
+- nomenclature: CIP
+  code: "3400930313398"
+- nomenclature: THL
+  code: "199"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "767529"
+- nomenclature: AIC
+  code: "052011"
+- nomenclature: SCT_NUVA
+  code: "15461002000106"
+- nomenclature: CIS
+  code: "67392551"
+- nomenclature: SWISSMEDIC
+  code: "70490"
+- nomenclature: ATC
+  code: J07BP02
+- nomenclature: GTIN
+  code: "05715036001161"
+- nomenclature: GTIN
+  code: "05715036001222"

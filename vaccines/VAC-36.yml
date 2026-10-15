@@ -1,13 +1,13 @@
 ---
 id: 36
 name: TETAGRIP
-description: Trivalent inactivated seasonal influenza, split virion and tetanus toxoid vaccine
+description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, split virion and tetanus toxoid vaccine
 generic: false
 immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689122
-updated_at: 1758792812
+updated_at: 1791905800
 valence_ids:
 - 15
 - 67
@@ -19,3 +19,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 79ba1770-c906-43fa-9253-42b063854a77
+- nomenclature: SCT_NUVA
+  code: "1011002000102"
+- nomenclature: CIP
+  code: "3400932936175"
+- nomenclature: CIP
+  code: "3400932936236"
+- nomenclature: CIS
+  code: "68015521"

@@ -15,3 +15,25 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 818dae39-9cf8-47c6-9101-5d1644d2965a
+- nomenclature: AIC
+  code: "028929"
+- nomenclature: ATC
+  code: J07AG01
+- nomenclature: CNK
+  code: "1093202"
+- nomenclature: CIS
+  code: "62565946"
+- nomenclature: CIP
+  code: "3400935493248"
+- nomenclature: CIP
+  code: "3400934042065"
+- nomenclature: THL
+  code: "81"
+- nomenclature: SCT_NUVA
+  code: "3661002000109"
+- nomenclature: INFARMED
+  code: "2214880"
+- nomenclature: INFARMED
+  code: "3209285"
+- nomenclature: SWISSLEGACY
+  code: "92"

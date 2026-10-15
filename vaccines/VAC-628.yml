@@ -6,7 +6,7 @@ generic: false
 immunoglobulin: false
 injection_methods: []
 created_at: 1626689125
-updated_at: 1666959925
+updated_at: 1791988599
 valence_ids:
 - 5
 - 77
@@ -16,3 +16,7 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 37e8b91e-b1ea-403b-9135-72a0b84daab0
+- nomenclature: ATC
+  code: J07BD52
+- nomenclature: SCT_NUVA
+  code: "7451002000100"

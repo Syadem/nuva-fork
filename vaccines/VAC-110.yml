@@ -16,3 +16,19 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 9ddde196-017f-42db-a545-0d52f1f2e499
+- nomenclature: CPT
+  code: "90655"
+- nomenclature: CPT
+  code: "90656"
+- nomenclature: CPT
+  code: "90724"
+- nomenclature: CVX
+  code: "88"
+- nomenclature: SNOMED-CT
+  code: "1181000221105"
+- nomenclature: SNOMED-CT
+  code: "836377006"
+- nomenclature: SCT_NUVA
+  code: "2051002000105"
+- nomenclature: ICD11
+  code: XM1LR5

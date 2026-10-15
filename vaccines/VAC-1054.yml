@@ -15,3 +15,15 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 82295fb0-ffe4-49bc-98ee-efb6318f873a
+- nomenclature: ELGA
+  code: "5516990"
+- nomenclature: ATC
+  code: J07BN01
+- nomenclature: CTI
+  code: "661718"
+- nomenclature: CTI-EXTEND
+  code: 661718-01
+- nomenclature: EU-NUMBER
+  code: EU-1-20-1528-017
+- nomenclature: SCT_NUVA
+  code: "12791002000102"

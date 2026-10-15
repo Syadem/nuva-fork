@@ -17,3 +17,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 02a8f83b-c6d9-49ce-9964-9e4b2c7a4bb8
+- nomenclature: CVC
+  code: "33211000087105"
+- nomenclature: CVX
+  code: "502"
+- nomenclature: ATC
+  code: J07BN03
+- nomenclature: SCT_NUVA
+  code: "7961002000106"

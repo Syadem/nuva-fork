@@ -18,3 +18,27 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: ac63e2eb-8355-43e5-8677-e66131ab0560
+- nomenclature: SCT_NUVA
+  code: "1281002000102"
+- nomenclature: THL
+  code: "62"
+- nomenclature: CIP
+  code: "3400955604136"
+- nomenclature: CIP
+  code: "3400955604365"
+- nomenclature: ATC
+  code: J07BG01
+- nomenclature: CIS
+  code: "67718545"
+- nomenclature: CIP
+  code: "3400930152119"
+- nomenclature: CIP
+  code: "3400933048877"
+- nomenclature: CNK
+  code: "2231967"
+- nomenclature: CIS
+  code: "63461516"
+- nomenclature: CIS
+  code: "67498113"
+- nomenclature: CNK
+  code: "0825786"

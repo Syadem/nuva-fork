@@ -15,3 +15,7 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 80030d94-617c-4d60-a718-2e0071230d62
+- nomenclature: CPT
+  code: "90379"
+- nomenclature: SCT_NUVA
+  code: "4791002000105"

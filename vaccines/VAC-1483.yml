@@ -15,3 +15,5 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 47cfba5e-130f-4625-b04b-44c17f2e8318
+- nomenclature: SWISSMEDIC
+  code: "627"

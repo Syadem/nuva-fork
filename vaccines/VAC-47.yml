@@ -1,14 +1,14 @@
 ---
 id: 47
 name: FLUARIX
-description: Trivalent inactivated seasonal influenza vaccine, split virion
+description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, split virion
 generic: false
 immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689128
-updated_at: 1758804226
+updated_at: 1791970575
 valence_ids:
 - 15
 other_names:
@@ -16,3 +16,99 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: a1cb63e4-465e-4edf-950c-6f73f4b6bf26
+- nomenclature: ELGA
+  code: "3927186"
+- nomenclature: NDC
+  code: 58160-912
+- nomenclature: SCT_NUVA
+  code: "1191002000106"
+- nomenclature: THL
+  code: "21"
+- nomenclature: SWISSMEDIC
+  code: "583"
+- nomenclature: SWISSMEDIC
+  code: "70042"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "607861"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "607860"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "766934"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "766933"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "766932"
+- nomenclature: AIC
+  code: "051402"
+- nomenclature: NDC
+  code: 58160-0880
+- nomenclature: NDC
+  code: 58160-0881
+- nomenclature: NDC
+  code: 58160-0883
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: GTIN
+  code: "05909990046744"
+- nomenclature: GTIN
+  code: "05909990046775"
+- nomenclature: GTIN
+  code: "05909990046768"
+- nomenclature: GTIN
+  code: "05909991221812"
+- nomenclature: GTIN
+  code: "05909991221799"
+- nomenclature: NDC
+  code: 58160-0879
+- nomenclature: GTIN
+  code: "05909991221805"
+- nomenclature: GTIN
+  code: "05909990046751"
+- nomenclature: GTIN
+  code: "05909990046799"
+- nomenclature: GTIN
+  code: "05909990046782"
+- nomenclature: CIS
+  code: "69447142"
+- nomenclature: CIP
+  code: "3400934129735"
+- nomenclature: CIP
+  code: "3400930007778"
+- nomenclature: AIC
+  code: "029245"
+- nomenclature: CIP
+  code: "3400934129964"
+- nomenclature: GTIN
+  code: "00358160881527"
+- nomenclature: GTIN
+  code: "00358160881411"
+- nomenclature: GTIN
+  code: "00358160883415"
+- nomenclature: CIP
+  code: "3400930007761"
+- nomenclature: CIP
+  code: "3400930007747"
+- nomenclature: CIP
+  code: "3400930007754"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "606232"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "842781"
+- nomenclature: CIP
+  code: "3400930311721"
+- nomenclature: CIP
+  code: "3400930311738"
+- nomenclature: CIP
+  code: "3400930311745"
+- nomenclature: CIP
+  code: "3400930311752"
+- nomenclature: INFARMED
+  code: "5899570"
+- nomenclature: INFARMED
+  code: "2454684"
+- nomenclature: INFARMED
+  code: "5304670"
+- nomenclature: INFARMED
+  code: "2704880"
+- nomenclature: INFARMED
+  code: "2943587"

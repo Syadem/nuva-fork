@@ -14,3 +14,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: a0f54139-c418-4e3d-8cc1-d3fb86955277
+- nomenclature: AIC
+  code: "024489"
+- nomenclature: ATC
+  code: J07AH05
+- nomenclature: CVC
+  code: "8241000087109"
+- nomenclature: SNOMED-CT
+  code: "1061000221102"
+- nomenclature: SCT_NUVA
+  code: "9641002000108"
+- nomenclature: ICD11
+  code: XM5LC2

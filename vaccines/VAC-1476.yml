@@ -17,3 +17,5 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 4720e79a-730a-4013-af98-f50fdb2fbf07
+- nomenclature: CVX
+  code: "328"

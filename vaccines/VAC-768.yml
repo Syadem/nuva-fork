@@ -14,3 +14,13 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 053fabb9-9136-4080-8446-4da880dcb8d1
+- nomenclature: CVC
+  code: "33411000087109"
+- nomenclature: CVX
+  code: "503"
+- nomenclature: THL
+  code: "148"
+- nomenclature: ATC
+  code: J07BN02
+- nomenclature: SCT_NUVA
+  code: "9081002000106"

@@ -14,3 +14,9 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 30de7507-0669-415f-b80d-cf507245616b
+- nomenclature: ATC
+  code: J07BE01
+- nomenclature: AIC
+  code: "027504"
+- nomenclature: SCT_NUVA
+  code: "5691002000104"

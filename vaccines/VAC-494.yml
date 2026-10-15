@@ -27,3 +27,23 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 0142c065-7b53-41fc-a7cf-f5243675b276
+- nomenclature: ATC
+  code: J07CA05
+- nomenclature: EU-NUMBER
+  code: EU-1-96-014-001
+- nomenclature: EU-NUMBER
+  code: EU-1-96-014-002
+- nomenclature: EU-NUMBER
+  code: EU-1-96-014-003
+- nomenclature: AIC
+  code: "030694"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "676122"
+- nomenclature: SCT_NUVA
+  code: "6191002000101"
+- nomenclature: INFARMED
+  code: "2425882"
+- nomenclature: INFARMED
+  code: "2425981"
+- nomenclature: INFARMED
+  code: "3750585"

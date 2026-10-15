@@ -1,15 +1,19 @@
 ---
 id: 972
 name: VIROFLUSOMA
-description: Trivalent inactivated seasonal influenza vaccine, surface antigen
+description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, surface antigen
 generic: false
 immunoglobulin: false
 injection_methods: []
 created_at: 1655131641
-updated_at: 1713270496
+updated_at: 1791974472
 valence_ids:
 - 15
 other_names: []
 codes:
 - nomenclature: SYADEM
   code: 558fa732-b3c6-44df-9ffd-203047488d4b
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: SCT_NUVA
+  code: "11711002000102"

@@ -16,3 +16,33 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 7bf67727-cac5-4784-9cc4-403b29dcc423
+- nomenclature: CTI-EXTEND
+  code: 661133-01
+- nomenclature: CTI-EXTEND
+  code: 661136-01
+- nomenclature: CIP
+  code: "3400930266472"
+- nomenclature: CIS
+  code: "69556437"
+- nomenclature: CVC
+  code: "38591000087106"
+- nomenclature: CIS
+  code: "69457407"
+- nomenclature: CTI
+  code: "661133"
+- nomenclature: CTI
+  code: "661136"
+- nomenclature: CIP
+  code: "3400928099556"
+- nomenclature: CIP
+  code: "3400930269008"
+- nomenclature: INFARMED
+  code: "5846472"
+- nomenclature: SWISSMEDIC
+  code: "69189"
+- nomenclature: SWISSMEDIC
+  code: "69211"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "758838"
+- nomenclature: SCT_NUVA
+  code: "12511002000100"

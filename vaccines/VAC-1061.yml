@@ -18,3 +18,21 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 11802e72-90a2-4f67-970c-2b17744b74e1
+- nomenclature: ATC
+  code: J07AH11
+- nomenclature: EU-NUMBER
+  code: EU-1-24-1871-001
+- nomenclature: EU-NUMBER
+  code: EU-1-24-1871-002
+- nomenclature: EU-NUMBER
+  code: EU-1-24-1871-003
+- nomenclature: EU-NUMBER
+  code: EU-1-24-1871-004
+- nomenclature: EU-NUMBER
+  code: EU-1-24-1871-005
+- nomenclature: EU-NUMBER
+  code: EU-1-24-1871-006
+- nomenclature: SCT_NUVA
+  code: "12901002000105"
+- nomenclature: NDC
+  code: 0069-0600

@@ -36,3 +36,29 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 64adbea9-8351-4f3d-995c-1b78a79abdfd
+- nomenclature: ELGA
+  code: "6057900"
+- nomenclature: INFARMED
+  code: "5903471"
+- nomenclature: SCT_NUVA
+  code: "15241002000106"
+- nomenclature: CIP
+  code: "3400930311462"
+- nomenclature: CIP
+  code: "3400930311479"
+- nomenclature: THL
+  code: "197"
+- nomenclature: SWISSMEDIC
+  code: "69781"
+- nomenclature: ATC
+  code: J07AL02
+- nomenclature: CIS
+  code: "69077052"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "767367"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "767366"
+- nomenclature: AIC
+  code: "052027"
+- nomenclature: NDC
+  code: 0006-4347

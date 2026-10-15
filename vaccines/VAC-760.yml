@@ -16,3 +16,7 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 931fd7b4-8453-4b51-a612-98ba7be27675
+- nomenclature: CVX
+  code: "508"
+- nomenclature: SCT_NUVA
+  code: "8981002000102"

@@ -22,3 +22,21 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 50fda1a7-9f38-43e4-85a7-3e5ef60a427c
+- nomenclature: CPT
+  code: "90698"
+- nomenclature: CVX
+  code: "120"
+- nomenclature: CVX
+  code: "170"
+- nomenclature: CVC
+  code: "7931000087106"
+- nomenclature: CVC
+  code: "8221000087100"
+- nomenclature: ICD11
+  code: XM21E6
+- nomenclature: SNOMED-CT
+  code: "2091000221104"
+- nomenclature: SNOMED-CT
+  code: "871888001"
+- nomenclature: SCT_NUVA
+  code: "6341002000106"

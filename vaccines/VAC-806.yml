@@ -14,3 +14,13 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 8870b243-dd2d-44ed-92a3-facf48c7297c
+- nomenclature: CPT
+  code: "90625"
+- nomenclature: CVX
+  code: "174"
+- nomenclature: ATC
+  code: J07AE02
+- nomenclature: ICD11
+  code: XM72A0
+- nomenclature: SCT_NUVA
+  code: "9581002000103"

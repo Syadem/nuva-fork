@@ -14,3 +14,7 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 4939d081-5257-4219-b312-31da1688b1f4
+- nomenclature: THL
+  code: "71"
+- nomenclature: SWISSMEDIC
+  code: "669"

@@ -16,3 +16,13 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 6386215f-dac2-4049-ba23-1f7896ce0fe5
+- nomenclature: CPT
+  code: "90621"
+- nomenclature: ATC
+  code: J07AH09
+- nomenclature: CVX
+  code: "162"
+- nomenclature: ICD11
+  code: XM1X81
+- nomenclature: SCT_NUVA
+  code: "10301002000105"

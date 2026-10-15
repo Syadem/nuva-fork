@@ -16,3 +16,21 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 1ca67e2c-fe64-4b3b-b22f-a5f3b9d037b3
+- nomenclature: ELGA
+  code: "5518730"
+- nomenclature: ELGA
+  code: "5520483"
+- nomenclature: THL
+  code: "172"
+- nomenclature: EU-NUMBER
+  code: EU-1-20-1507-006
+- nomenclature: CVC
+  code: "37651000087101"
+- nomenclature: ATC
+  code: J07BN01
+- nomenclature: CTI
+  code: "660781"
+- nomenclature: CTI-EXTEND
+  code: 660781-01
+- nomenclature: SCT_NUVA
+  code: "12331002000100"

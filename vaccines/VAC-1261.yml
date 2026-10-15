@@ -14,3 +14,33 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 54dd7807-d8b8-46f7-8770-7628f45537e7
+- nomenclature: ELGA
+  code: "5540089"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "764833"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "764834"
+- nomenclature: AIC
+  code: "051560"
+- nomenclature: ICD11
+  code: XM6YA9
+- nomenclature: CTI
+  code: "663772"
+- nomenclature: CTI
+  code: "663773"
+- nomenclature: CIS
+  code: "67954296"
+- nomenclature: CTI-EXTEND
+  code: 663772-01
+- nomenclature: CTI-EXTEND
+  code: 663773-01
+- nomenclature: CIP
+  code: "3400930297841"
+- nomenclature: CIP
+  code: "3400930297865"
+- nomenclature: CIP
+  code: "3400930297858"
+- nomenclature: CIP
+  code: "3400930297872"
+- nomenclature: SCT_NUVA
+  code: "15361002000102"

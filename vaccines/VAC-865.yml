@@ -14,3 +14,13 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 8f24f116-7201-4575-9c17-b47db72829f1
+- nomenclature: ATC
+  code: J07AH01
+- nomenclature: CVX
+  code: "191"
+- nomenclature: CVC
+  code: "7711000087103"
+- nomenclature: ICD11
+  code: XM37L5
+- nomenclature: SCT_NUVA
+  code: "10341002000107"

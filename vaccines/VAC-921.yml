@@ -13,3 +13,17 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 0a003fe9-f2f6-4350-bfb5-fc4840b041fb
+- nomenclature: THL
+  code: "26"
+- nomenclature: CVX
+  code: "129"
+- nomenclature: SNOMED-CT
+  code: "836378001"
+- nomenclature: CVC
+  code: "333697005"
+- nomenclature: CVX
+  code: "134"
+- nomenclature: SNOMED-CT
+  code: "871724008"
+- nomenclature: SCT_NUVA
+  code: "11071002000107"

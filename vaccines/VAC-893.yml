@@ -13,3 +13,7 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 1d7f6f73-fe80-435b-8722-9a66004236f8
+- nomenclature: AIC
+  code: "014486"
+- nomenclature: SCT_NUVA
+  code: "10641002000104"

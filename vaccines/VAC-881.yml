@@ -15,3 +15,9 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: b82c5e75-5fd4-4eb1-9fe0-9b77f8ca490e
+- nomenclature: ATC
+  code: J07BA03
+- nomenclature: ICD11
+  code: XM47S0
+- nomenclature: SCT_NUVA
+  code: "10511002000104"

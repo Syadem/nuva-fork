@@ -16,3 +16,13 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 99dd0339-8dfa-4422-b247-e1afc677cc1a
+- nomenclature: CTI
+  code: "389882"
+- nomenclature: ATC
+  code: J07BF01
+- nomenclature: SCT_NUVA
+  code: "10191002000102"
+- nomenclature: CTI-EXTEND
+  code: 389882-01
+- nomenclature: CTI-EXTEND
+  code: 389882-02

@@ -13,3 +13,7 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: a855b7b5-385c-492c-8572-ca47a954df09
+- nomenclature: THL
+  code: "102"
+- nomenclature: SCT_NUVA
+  code: "13581002000103"

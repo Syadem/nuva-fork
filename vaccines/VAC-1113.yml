@@ -13,3 +13,7 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 16349269-9215-40f8-8138-4e0408f0dabe
+- nomenclature: SNOMED-CT
+  code: "1162643001"
+- nomenclature: SCT_NUVA
+  code: "13711002000103"

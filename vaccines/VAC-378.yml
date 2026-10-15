@@ -15,3 +15,17 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: bdd6ac0b-ae18-4443-a56c-22506e624e01
+- nomenclature: SCT_NUVA
+  code: "5041002000100"
+- nomenclature: CPT
+  code: "90378"
+- nomenclature: DIN
+  code: "02438364"
+- nomenclature: CVC
+  code: "19411000087103"
+- nomenclature: GTIN
+  code: "05000456066792"
+- nomenclature: ICD11
+  code: XM69P6
+- nomenclature: CIP
+  code: "3400930072325"

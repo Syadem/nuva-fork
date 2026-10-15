@@ -19,3 +19,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 9463c19f-da4e-4e45-912e-5f5f84e932d1
+- nomenclature: SCT_NUVA
+  code: "2891002000108"
+- nomenclature: ATC
+  code: J07AM51
+- nomenclature: INFARMED
+  code: "5002555"
+- nomenclature: INFARMED
+  code: "5002563"
+- nomenclature: INFARMED
+  code: "5002571"
+- nomenclature: INFARMED
+  code: "5002605"

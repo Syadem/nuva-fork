@@ -18,3 +18,7 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: fc158304-c515-44f6-bd79-42e43b28a588
+- nomenclature: NDC
+  code: 58160-757
+- nomenclature: SCT_NUVA
+  code: "15441002000107"

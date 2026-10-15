@@ -15,3 +15,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: c37c33c3-32cc-47f3-ad3e-1314a9fb7241
+- nomenclature: ELGA
+  code: AUSL_000019
+- nomenclature: THL
+  code: "153"
+- nomenclature: CVC
+  code: "34921000087108"
+- nomenclature: ATC
+  code: J07BN04
+- nomenclature: SCT_NUVA
+  code: "10021002000100"
+- nomenclature: ICD11
+  code: XM85Q5

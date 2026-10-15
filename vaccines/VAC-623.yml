@@ -21,3 +21,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: e98cbb1c-09c9-4bdf-abf3-f76f909a3f4b
+- nomenclature: SCT_NUVA
+  code: "7401002000104"
+- nomenclature: ATC
+  code: J07BD51
+- nomenclature: ICD11
+  code: XM9439
+- nomenclature: SNOMED-CT
+  code: "1252703004"

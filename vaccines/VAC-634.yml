@@ -14,3 +14,25 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 89671237-b1be-44c3-92a3-c98a951de1a3
+- nomenclature: ATC
+  code: J07BX02
+- nomenclature: GTIN
+  code: "20191108000024"
+- nomenclature: EU-NUMBER
+  code: EU-1-20-1445-001
+- nomenclature: AIC
+  code: "048914"
+- nomenclature: CIS
+  code: "67848058"
+- nomenclature: CIP
+  code: "3400955076704"
+- nomenclature: CTI
+  code: "567253"
+- nomenclature: CTI-EXTEND
+  code: 567253-01
+- nomenclature: INFARMED
+  code: "5798228"
+- nomenclature: SCT_NUVA
+  code: "7511002000100"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "731055"

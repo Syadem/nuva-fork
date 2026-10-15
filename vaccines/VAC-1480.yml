@@ -38,3 +38,19 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 0ccc9ed5-5541-4183-92c0-b5611ad735bc
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "654341"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "820415"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "706818"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "706822"
+- nomenclature: GTIN
+  code: "00191778003697"
+- nomenclature: NDC
+  code: 0006-4837
+- nomenclature: NDC
+  code: 0006-4943
+- nomenclature: NDC
+  code: 50090-7036

@@ -7,12 +7,34 @@ immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689121
-updated_at: 1723831693
+updated_at: 1791988016
 valence_ids:
 - 60
 other_names:
 - Vaccin chikungunya
 - Chik
+- vla1553
+- vla1553
 codes:
 - nomenclature: SYADEM
   code: 69cf4ae8-426e-4a9e-b051-9fb777d997e7
+- nomenclature: ELGA
+  code: "5534284"
+- nomenclature: THL
+  code: "190"
+- nomenclature: ATC
+  code: J07BP01
+- nomenclature: CIS
+  code: "67395234"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "766689"
+- nomenclature: SCT_NUVA
+  code: "7371002000102"
+- nomenclature: AIC
+  code: "051357"
+- nomenclature: EU-NUMBER
+  code: EU-1-24-1828
+- nomenclature: CIP
+  code: "3400930296448"
+- nomenclature: INFARMED
+  code: "5900766"

@@ -14,3 +14,9 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 076dec9c-6836-4900-8b6f-a342028cf9f8
+- nomenclature: SCT_NUVA
+  code: "8401002000103"
+- nomenclature: GTIN
+  code: "00300065052113"
+- nomenclature: GTIN
+  code: "60300065052115"

@@ -13,3 +13,5 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 479fa802-1113-4961-9f47-34c6169349c2
+- nomenclature: SNOMED-CT
+  code: "1252690003"

@@ -13,3 +13,21 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 0f40ccad-0415-4d55-997a-805fcaec8aef
+- nomenclature: CIP
+  code: "3400931792871"
+- nomenclature: CIP
+  code: "3400932090549"
+- nomenclature: CIP
+  code: "3400933687175"
+- nomenclature: CIS
+  code: "60253264"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "653979"
+- nomenclature: THL
+  code: "104"
+- nomenclature: ATC
+  code: J07BG01
+- nomenclature: SCT_NUVA
+  code: "11281002000100"
+- nomenclature: SWISSMEDIC
+  code: "417"

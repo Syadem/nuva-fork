@@ -13,3 +13,11 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 133085ae-d603-47bc-a494-83a0263902fa
+- nomenclature: CVX
+  code: "317"
+- nomenclature: SNOMED-CT
+  code: "1345036005"
+- nomenclature: SCT_NUVA
+  code: "14571002000103"
+- nomenclature: ATC
+  code: J07BP01

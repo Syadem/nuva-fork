@@ -17,3 +17,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: a125866d-65b7-49bb-8779-bf29e15b6e6c
+- nomenclature: SWISSMEDIC
+  code: "567"
+- nomenclature: SCT_NUVA
+  code: "8761002000107"
+- nomenclature: ATC
+  code: J07AM51
+- nomenclature: AIC
+  code: "020967"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "656829"
+- nomenclature: INFARMED
+  code: "2374189"

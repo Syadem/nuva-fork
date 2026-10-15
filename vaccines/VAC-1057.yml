@@ -15,3 +15,29 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: c7c45a5b-a137-4881-b192-56bb4ce51889
+- nomenclature: CTI
+  code: "252725"
+- nomenclature: CTI
+  code: "252716"
+- nomenclature: SWISSMEDIC
+  code: "551"
+- nomenclature: ATC
+  code: J07BC01
+- nomenclature: GTIN
+  code: "05050459003522"
+- nomenclature: GTIN
+  code: "05400571000556"
+- nomenclature: CTI-EXTEND
+  code: 252725-06
+- nomenclature: CTI-EXTEND
+  code: 252725-04
+- nomenclature: CTI-EXTEND
+  code: 252725-03
+- nomenclature: CTI-EXTEND
+  code: 252725-01
+- nomenclature: CTI-EXTEND
+  code: 252716-02
+- nomenclature: CTI-EXTEND
+  code: 252716-01
+- nomenclature: SCT_NUVA
+  code: "12841002000104"

@@ -14,3 +14,25 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 6688ddae-fa49-4ebc-9b10-3d34519ba718
+- nomenclature: NDC
+  code: 49281-0860
+- nomenclature: NDC
+  code: 50090-1693
+- nomenclature: NTIN
+  code: "9329670300502"
+- nomenclature: ATC
+  code: J07BF03
+- nomenclature: GTIN
+  code: "00349281860102"
+- nomenclature: GTIN
+  code: "00349281860782"
+- nomenclature: GTIN
+  code: "00349281860881"
+- nomenclature: GTIN
+  code: "00349281860553"
+- nomenclature: UPC
+  code: "349281860102"
+- nomenclature: SCT_NUVA
+  code: "3881002000102"
+- nomenclature: NDC
+  code: 49281-860

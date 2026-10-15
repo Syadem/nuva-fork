@@ -13,3 +13,7 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 559048b3-8a63-42bd-a483-8c7f1c40f488
+- nomenclature: SNOMED-CT
+  code: "51311000087100"
+- nomenclature: ICD11
+  code: XM02Y0

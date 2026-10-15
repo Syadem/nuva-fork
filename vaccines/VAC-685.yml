@@ -18,3 +18,29 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 8df75224-31d8-4c06-a9da-75faccdb6612
+- nomenclature: ELGA
+  code: AUSL_000020
+- nomenclature: ELGA
+  code: "5517908"
+- nomenclature: THL
+  code: "154"
+- nomenclature: SCT_NUVA
+  code: "8251002000100"
+- nomenclature: ICD11
+  code: XM9ZB6
+- nomenclature: CPT
+  code: "91310"
+- nomenclature: EU-NUMBER
+  code: EU-1-21-1580-001
+- nomenclature: CIP
+  code: "3400930264157"
+- nomenclature: CIS
+  code: "67734275"
+- nomenclature: ATC
+  code: J07BN04
+- nomenclature: CVC
+  code: "45391000087107"
+- nomenclature: CVX
+  code: "521"
+- nomenclature: INFARMED
+  code: "5848155"

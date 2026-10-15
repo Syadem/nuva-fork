@@ -15,3 +15,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 10a02d22-73e5-45eb-9590-729a3d80c2e4
+- nomenclature: ATC
+  code: J07AG01
+- nomenclature: AIC
+  code: "028436"
+- nomenclature: SCT_NUVA
+  code: "4641002000107"
+- nomenclature: THL
+  code: "95"
+- nomenclature: SWISSLEGACY
+  code: "133"
+- nomenclature: SWISSLEGACY
+  code: "142"

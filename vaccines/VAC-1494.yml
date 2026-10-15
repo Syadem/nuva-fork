@@ -14,3 +14,13 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 64130c8d-2524-4d68-98ec-3b13c3a4e195
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "606901"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "658685"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "658684"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "658681"
+- nomenclature: THL
+  code: "4"

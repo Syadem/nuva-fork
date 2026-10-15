@@ -14,3 +14,25 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 566eb479-5175-4daa-b893-29a275633eeb
+- nomenclature: ELGA
+  code: "2434027"
+- nomenclature: SCT_NUVA
+  code: "11591002000104"
+- nomenclature: ATC
+  code: J07CA10
+- nomenclature: NTIN
+  code: "9088882434022"
+- nomenclature: NTIN
+  code: "4150025289693"
+- nomenclature: GTIN
+  code: "03664798011357"
+- nomenclature: NTIN
+  code: "5000283658580"
+- nomenclature: INFARMED
+  code: "4143384"
+- nomenclature: INFARMED
+  code: "4143582"
+- nomenclature: INFARMED
+  code: "4143483"
+- nomenclature: INFARMED
+  code: "4143681"

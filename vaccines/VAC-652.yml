@@ -17,3 +17,19 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 16ba07cb-f297-44cb-a3f3-47cc19845a31
+- nomenclature: ELGA
+  code: AUSL_000004
+- nomenclature: CVC
+  code: "31431000087100"
+- nomenclature: CVX
+  code: "506"
+- nomenclature: THL
+  code: "136"
+- nomenclature: ATC
+  code: J07BN02
+- nomenclature: SCT_NUVA
+  code: "7781002000100"
+- nomenclature: ICD11
+  code: XM4T09
+- nomenclature: ICD11
+  code: XM1AG7

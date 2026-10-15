@@ -15,3 +15,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 590861df-f523-45cf-9f9c-b546cf625662
+- nomenclature: ATC
+  code: J07BJ51
+- nomenclature: CVX
+  code: "38"
+- nomenclature: SCT_NUVA
+  code: "9911002000100"
+- nomenclature: ICD11
+  code: XM3B09

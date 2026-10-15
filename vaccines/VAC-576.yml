@@ -14,3 +14,19 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: fa68d9f6-fe4a-43a1-bf7e-ccc1a5de9372
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: DIN
+  code: "02420686"
+- nomenclature: GTIN
+  code: "00062021427303"
+- nomenclature: GTIN
+  code: "00779038098159"
+- nomenclature: GTIN
+  code: "10620214273037"
+- nomenclature: GTIN
+  code: "20620214273034"
+- nomenclature: CVC
+  code: "7541000087108"
+- nomenclature: SCT_NUVA
+  code: "7071002000100"

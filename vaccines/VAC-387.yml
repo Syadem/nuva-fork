@@ -14,3 +14,9 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: b0ad2d2f-6f51-4c9b-a864-dc59f24fadd4
+- nomenclature: ELGA
+  code: "0056489"
+- nomenclature: ATC
+  code: J07AM01
+- nomenclature: SCT_NUVA
+  code: "5121002000106"

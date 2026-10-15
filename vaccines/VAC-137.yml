@@ -20,3 +20,13 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: bcf0703d-42c4-4ef3-be04-c87bac726ddb
+- nomenclature: CPT
+  code: "90702"
+- nomenclature: CVX
+  code: "28"
+- nomenclature: SCT_NUVA
+  code: "2361002000109"
+- nomenclature: SWISSMEDIC
+  code: 711-01
+- nomenclature: CVC
+  code: "7921000087109"

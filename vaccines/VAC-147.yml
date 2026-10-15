@@ -16,3 +16,35 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 29e33640-62bb-4b1f-b3f6-23d4a77a60cc
+- nomenclature: SCT_NUVA
+  code: "2541002000103"
+- nomenclature: CPT
+  code: "90470"
+- nomenclature: CPT
+  code: "90663"
+- nomenclature: CPT
+  code: "90664"
+- nomenclature: CPT
+  code: "90666"
+- nomenclature: CPT
+  code: "90668"
+- nomenclature: SNOMED-CT
+  code: "871772009"
+- nomenclature: CVX
+  code: "128"
+- nomenclature: CVX
+  code: "125"
+- nomenclature: CVX
+  code: "126"
+- nomenclature: CVX
+  code: "127"
+- nomenclature: CVC
+  code: "443651005"
+- nomenclature: CVC
+  code: "6981000087108"
+- nomenclature: CVC
+  code: "6991000087105"
+- nomenclature: CVC
+  code: "7001000087102"
+- nomenclature: SNOMED-CT
+  code: "1157356006"

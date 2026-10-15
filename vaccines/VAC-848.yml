@@ -17,3 +17,13 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 84efdfd7-a6dd-44fb-b850-1bb662f5ee02
+- nomenclature: CIS
+  code: "63770391"
+- nomenclature: ATC
+  code: J07AN01
+- nomenclature: CIP
+  code: "3400931184461"
+- nomenclature: CIP
+  code: "3400955372943"
+- nomenclature: SCT_NUVA
+  code: "10151002000106"

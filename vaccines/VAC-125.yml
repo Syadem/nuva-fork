@@ -15,3 +15,17 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: a9a19bfb-5cd1-4764-9d86-f59bc94cf7a0
+- nomenclature: DIN
+  code: "02401886"
+- nomenclature: CVC
+  code: "9841000087102"
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: GTIN
+  code: "20090731000015"
+- nomenclature: EU-NUMBER
+  code: EU-1-10-624-001
+- nomenclature: SCT_NUVA
+  code: "2201002000102"
+- nomenclature: INFARMED
+  code: "5291323"

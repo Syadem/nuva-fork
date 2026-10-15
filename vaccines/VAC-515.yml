@@ -17,3 +17,13 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 71d2bb03-11c7-4612-ab1f-8798ae18867e
+- nomenclature: CIP
+  code: "3400934167416"
+- nomenclature: GTIN
+  code: "20050326000011"
+- nomenclature: ATC
+  code: J07CA02
+- nomenclature: THL
+  code: "6"
+- nomenclature: SCT_NUVA
+  code: "6451002000103"

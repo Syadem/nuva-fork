@@ -19,3 +19,9 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 2a93e990-8e42-40af-9ced-f01de576ce35
+- nomenclature: THL
+  code: "103"
+- nomenclature: SCT_NUVA
+  code: "6371002000100"
+- nomenclature: ATC
+  code: J07BA02

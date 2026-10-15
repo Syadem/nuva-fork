@@ -16,3 +16,5 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: d4c9307a-85b5-425d-b2c7-1b07e1442589
+- nomenclature: SWISSMEDIC
+  code: "686"

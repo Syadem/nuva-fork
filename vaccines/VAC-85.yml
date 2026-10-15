@@ -23,3 +23,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: bf319c0c-3f59-45a6-a03a-1d780fbb7c67
+- nomenclature: CIS
+  code: "69220326"
+- nomenclature: CIP
+  code: "3400931352556"
+- nomenclature: CIP
+  code: "3400955372653"
+- nomenclature: SCT_NUVA
+  code: "1671002000103"

@@ -17,3 +17,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 59959421-f660-43eb-939e-b0f6de5396e8
+- nomenclature: ATC
+  code: J07BD53
+- nomenclature: AIC
+  code: "027978"
+- nomenclature: SCT_NUVA
+  code: "7431002000105"
+- nomenclature: SWISSLEGACY
+  code: "14"

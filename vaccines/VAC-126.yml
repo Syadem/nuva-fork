@@ -15,3 +15,17 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: ab43192a-c1aa-4279-af75-f738fcb74e5b
+- nomenclature: ATC
+  code: J07BC01
+- nomenclature: AIC
+  code: "024987"
+- nomenclature: CIP
+  code: "3400932444878"
+- nomenclature: CNK
+  code: "0045344"
+- nomenclature: INFARMED
+  code: "8578302"
+- nomenclature: SCT_NUVA
+  code: "2221002000105"
+- nomenclature: SWISSLEGACY
+  code: "118"

@@ -15,3 +15,11 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 57df7fb5-a983-4e15-98f4-ab73f347de83
+- nomenclature: AIC
+  code: "021328"
+- nomenclature: CVC
+  code: "23691000087103"
+- nomenclature: ATC
+  code: J07AJ51
+- nomenclature: SCT_NUVA
+  code: "10471002000107"

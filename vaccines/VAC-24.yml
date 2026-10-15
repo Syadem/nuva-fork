@@ -41,3 +41,37 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: d9ff5075-be06-4baf-bdb0-3956f19b48b7
+- nomenclature: SCT_NUVA
+  code: "761002000100"
+- nomenclature: THL
+  code: "91"
+- nomenclature: ATC
+  code: J07AL01
+- nomenclature: AIC
+  code: "027644"
+- nomenclature: CIS
+  code: "65861879"
+- nomenclature: CIP
+  code: "3400932434824"
+- nomenclature: CIP
+  code: "3400934233272"
+- nomenclature: NTIN
+  code: "7591044000222"
+- nomenclature: CIP
+  code: "3400936873452"
+- nomenclature: CNK
+  code: "1185685"
+- nomenclature: CIS
+  code: "68819650"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "650617"
+- nomenclature: GTIN
+  code: "00697177000676"
+- nomenclature: CVC
+  code: "7631000087101"
+- nomenclature: DIN
+  code: "02231259"
+- nomenclature: INFARMED
+  code: "2828184"
+- nomenclature: INFARMED
+  code: "2828283"

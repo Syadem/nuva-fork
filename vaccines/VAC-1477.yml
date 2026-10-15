@@ -15,3 +15,15 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: a95edf0e-4d77-4bb7-ba45-26f8290dced1
+- nomenclature: THL
+  code: "42"
+- nomenclature: ELGA
+  code: "2427872"
+- nomenclature: ELGA
+  code: "4977134"
+- nomenclature: ELGA
+  code: "4977720"
+- nomenclature: SWISSMEDIC
+  code: "628"
+- nomenclature: GTIN
+  code: "05413206003792"

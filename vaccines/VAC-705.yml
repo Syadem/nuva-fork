@@ -15,3 +15,21 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 81fb894c-3895-48a9-b2c7-21786f21b752
+- nomenclature: ELGA
+  code: AWEG_000003
+- nomenclature: CVC
+  code: "28591000087108"
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: PZN
+  code: "16037689"
+- nomenclature: PZN
+  code: "16037672"
+- nomenclature: PZN
+  code: "15571116"
+- nomenclature: PZN
+  code: "15571091"
+- nomenclature: CIP
+  code: "3400928099846"
+- nomenclature: SCT_NUVA
+  code: "8461002000102"

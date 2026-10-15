@@ -16,3 +16,27 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 44f4e2db-a132-4cca-8847-2dd3026ff761
+- nomenclature: NTIN
+  code: "9329670200505"
+- nomenclature: UPC
+  code: "697177002670"
+- nomenclature: ATC
+  code: J07CA10
+- nomenclature: CIS
+  code: "66958249"
+- nomenclature: CIP
+  code: "3400936121171"
+- nomenclature: CIP
+  code: "3400936121232"
+- nomenclature: CIP
+  code: "3400936121461"
+- nomenclature: CIP
+  code: "3400936121522"
+- nomenclature: GTIN
+  code: "00697177002670"
+- nomenclature: CVC
+  code: "7331000087107"
+- nomenclature: DIN
+  code: "02248361"
+- nomenclature: SCT_NUVA
+  code: "7181002000101"

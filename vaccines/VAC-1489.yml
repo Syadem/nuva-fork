@@ -14,3 +14,5 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 0966b984-4d05-4cab-86ad-8fe78954c552
+- nomenclature: SWISSLEGACY
+  code: "136"

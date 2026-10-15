@@ -13,3 +13,21 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 1bfb99a3-313e-456b-a83f-b5d87422d2f1
+- nomenclature: NDC
+  code: 42874-0117
+- nomenclature: NDC
+  code: 49281-0719
+- nomenclature: NDC
+  code: 49281-0718
+- nomenclature: NDC
+  code: 49281-0720
+- nomenclature: NDC
+  code: 49281-0721
+- nomenclature: GTIN
+  code: "00349281721106"
+- nomenclature: GTIN
+  code: "00349281718885"
+- nomenclature: GTIN
+  code: "00349281719882"
+- nomenclature: SCT_NUVA
+  code: "11241002000109"

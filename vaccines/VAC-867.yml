@@ -13,3 +13,13 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: d7518a5f-07bb-49fc-b1c3-5fb70fb259b2
+- nomenclature: CPT
+  code: "90296"
+- nomenclature: ATC
+  code: J06AA01
+- nomenclature: CVX
+  code: "12"
+- nomenclature: CVC
+  code: "77048008"
+- nomenclature: SCT_NUVA
+  code: "10361002000106"

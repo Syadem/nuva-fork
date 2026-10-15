@@ -15,3 +15,17 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 8636c864-6072-48ef-a797-14f2dfb319e6
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: GTIN
+  code: "20090908000046"
+- nomenclature: EU-NUMBER
+  code: EU-1-09-578-001
+- nomenclature: CTI
+  code: "357874"
+- nomenclature: CTI-EXTEND
+  code: 357874-01
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "696678"
+- nomenclature: SCT_NUVA
+  code: "9181002000107"

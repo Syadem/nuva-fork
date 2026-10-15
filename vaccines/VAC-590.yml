@@ -17,3 +17,33 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 5792a067-3747-4edb-9806-a1963af16f61
+- nomenclature: INFARMED
+  code: "4472189"
+- nomenclature: ATC
+  code: J07AN01
+- nomenclature: GTIN
+  code: "05909990573622"
+- nomenclature: GTIN
+  code: "05909990573639"
+- nomenclature: GTIN
+  code: "05909990573653"
+- nomenclature: GTIN
+  code: "05909990573646"
+- nomenclature: GTIN
+  code: "20040607003046"
+- nomenclature: CIS
+  code: "61077869"
+- nomenclature: CIP
+  code: "3400936466135"
+- nomenclature: CIP
+  code: "3400936466364"
+- nomenclature: CIP
+  code: "3400936466074"
+- nomenclature: CIP
+  code: "3400936466425"
+- nomenclature: THL
+  code: "189"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "758854"
+- nomenclature: SCT_NUVA
+  code: "7171002000104"

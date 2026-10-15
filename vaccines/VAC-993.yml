@@ -14,3 +14,27 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 86a5e9ee-0f90-45b3-b674-d257ad76db74
+- nomenclature: ELGA
+  code: "1290520"
+- nomenclature: ELGA
+  code: "2228368"
+- nomenclature: ELGA
+  code: "2228374"
+- nomenclature: ELGA
+  code: "4989947"
+- nomenclature: CVC
+  code: "7371000087109"
+- nomenclature: DIN
+  code: "00514462"
+- nomenclature: GTIN
+  code: "00697177004285"
+- nomenclature: GTIN
+  code: "00697177004704"
+- nomenclature: ATC
+  code: J07AM51
+- nomenclature: SCT_NUVA
+  code: "11921002000105"
+- nomenclature: SWISSMEDIC
+  code: "702"
+- nomenclature: NDC
+  code: 49281-225

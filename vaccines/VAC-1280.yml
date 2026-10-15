@@ -34,3 +34,9 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 65847f64-62a4-4081-976c-d13c5e479a53
+- nomenclature: CVX
+  code: "327"
+- nomenclature: SNOMED-CT
+  code: "1360050007"
+- nomenclature: SCT_NUVA
+  code: "15631002000101"

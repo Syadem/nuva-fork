@@ -35,3 +35,15 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 5fbe7ff3-adea-428c-8cb4-4229bae835e1
+- nomenclature: CIP
+  code: "3400935651167"
+- nomenclature: CIP
+  code: "3400935651228"
+- nomenclature: CIP
+  code: "3400935651396"
+- nomenclature: CIS
+  code: "67638273"
+- nomenclature: ATC
+  code: J07AL01
+- nomenclature: SCT_NUVA
+  code: "11291002000102"

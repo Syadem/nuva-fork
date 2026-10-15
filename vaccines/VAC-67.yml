@@ -14,3 +14,15 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 48b83be0-5307-425f-8ee2-62faab18a5df
+- nomenclature: CIP
+  code: "3400933689308"
+- nomenclature: CIP
+  code: "3400955824619"
+- nomenclature: ATC
+  code: J07BC02
+- nomenclature: CNK
+  code: "1097369"
+- nomenclature: SCT_NUVA
+  code: "1431002000104"
+- nomenclature: SWISSLEGACY
+  code: "115"

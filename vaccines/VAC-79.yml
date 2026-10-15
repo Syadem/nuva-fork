@@ -19,3 +19,33 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: afac9b2a-3fbf-4d10-8604-cdc99c14b5b0
+- nomenclature: ELGA
+  code: "2246975"
+- nomenclature: ELGA
+  code: "2249436"
+- nomenclature: ELGA
+  code: "4977140"
+- nomenclature: ELGA
+  code: "4977714"
+- nomenclature: THL
+  code: "41"
+- nomenclature: CIS
+  code: "69431992"
+- nomenclature: ATC
+  code: J07BA01
+- nomenclature: CIP
+  code: "3400936774537"
+- nomenclature: CIP
+  code: "3400936775718"
+- nomenclature: CIP
+  code: "3400936775886"
+- nomenclature: CIP
+  code: "3400930198391"
+- nomenclature: CIP
+  code: "3400930198407"
+- nomenclature: CIP
+  code: "3400930198414"
+- nomenclature: SCT_NUVA
+  code: "1571002000102"
+- nomenclature: GTIN
+  code: "04150166326189"

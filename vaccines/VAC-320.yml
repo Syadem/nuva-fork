@@ -33,3 +33,11 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: bd288aa3-a7c0-45f4-a5a9-060282cb20fd
+- nomenclature: SCT_NUVA
+  code: "4431002000102"
+- nomenclature: ATC
+  code: J07BF02
+- nomenclature: CVX
+  code: "02"
+- nomenclature: ICD11
+  code: XM0KZ1

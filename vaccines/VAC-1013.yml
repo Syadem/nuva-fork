@@ -13,3 +13,19 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: f708ef15-bb16-4716-958b-9e3e2c726b21
+- nomenclature: NDC
+  code: 42874-0016
+- nomenclature: NDC
+  code: 42874-0013
+- nomenclature: NDC
+  code: 42874-0015
+- nomenclature: NDC
+  code: 42874-0012
+- nomenclature: NDC
+  code: 42874-0014
+- nomenclature: NDC
+  code: 42874-0017
+- nomenclature: SCT_NUVA
+  code: "12151002000107"
+- nomenclature: NDC
+  code: 49281-725

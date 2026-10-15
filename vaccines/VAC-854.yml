@@ -16,3 +16,7 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 6735e979-2d95-44ab-841a-16ecd2e9bf9b
+- nomenclature: ICD11
+  code: XM0VX8
+- nomenclature: SCT_NUVA
+  code: "10221002000107"

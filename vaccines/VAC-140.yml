@@ -1,13 +1,13 @@
 ---
 id: 140
 name: INTANZA
-description: Trivalent inactivated seasonal influenza vaccine, split virion, intradermal
+description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, split virion, intradermal
 generic: false
 immunoglobulin: false
 injection_methods:
 - intradermal
 created_at: 1626689130
-updated_at: 1758812956
+updated_at: 1791906788
 valence_ids:
 - 15
 other_names:
@@ -19,3 +19,57 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 7ff1bbf3-a19c-49e3-8171-d8efdf53e36c
+- nomenclature: ELGA
+  code: "3539969"
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: GTIN
+  code: "20071206000105"
+- nomenclature: EU-NUMBER
+  code: EU-1-08-505-004
+- nomenclature: EU-NUMBER
+  code: EU-1-08-505-005
+- nomenclature: EU-NUMBER
+  code: EU-1-08-505-006
+- nomenclature: AIC
+  code: "039425"
+- nomenclature: CIS
+  code: "69532557"
+- nomenclature: CIP
+  code: "3400939522210"
+- nomenclature: CIP
+  code: "3400957541231"
+- nomenclature: CIP
+  code: "3400957541460"
+- nomenclature: DIN
+  code: "02348764"
+- nomenclature: CVC
+  code: "7611000087106"
+- nomenclature: CNK
+  code: "3038031"
+- nomenclature: CNK
+  code: "3147469"
+- nomenclature: CNK
+  code: "2706661"
+- nomenclature: CNK
+  code: "2807063"
+- nomenclature: CNK
+  code: "2936789"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "662769"
+- nomenclature: GTIN
+  code: "00697177004759"
+- nomenclature: GTIN
+  code: "00697177004742"
+- nomenclature: GTIN
+  code: "00697177004506"
+- nomenclature: DIN
+  code: "02348756"
+- nomenclature: INFARMED
+  code: "5187463"
+- nomenclature: INFARMED
+  code: "5187471"
+- nomenclature: SCT_NUVA
+  code: "2411002000103"
+- nomenclature: THL
+  code: "56"

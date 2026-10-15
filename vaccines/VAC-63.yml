@@ -22,3 +22,31 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: ef50c7de-8bcd-4525-b2a0-e1047c376d83
+- nomenclature: ATC
+  code: J07CA02
+- nomenclature: CIS
+  code: "62224329"
+- nomenclature: CIS
+  code: "69960198"
+- nomenclature: CIP
+  code: "3400933725297"
+- nomenclature: CIP
+  code: "3400933725358"
+- nomenclature: CIP
+  code: "3400933725419"
+- nomenclature: CNK
+  code: "1303387"
+- nomenclature: CIP
+  code: "3400932779147"
+- nomenclature: INFARMED
+  code: "3475589"
+- nomenclature: INFARMED
+  code: "3475787"
+- nomenclature: INFARMED
+  code: "3475886"
+- nomenclature: INFARMED
+  code: "3475688"
+- nomenclature: SCT_NUVA
+  code: "1401002000105"
+- nomenclature: SWISSLEGACY
+  code: "106"

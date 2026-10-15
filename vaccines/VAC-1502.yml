@@ -14,3 +14,7 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 31c12869-3920-42df-8c27-f4055bef750d
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "768211"
+- nomenclature: THL
+  code: "198"

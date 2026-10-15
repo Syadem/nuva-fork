@@ -1,12 +1,12 @@
 ---
 id: 492
 name: AFLURIA
-description: Trivalent inactivated seasonal influenza vaccine, split virion
+description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, split virion
 generic: false
 immunoglobulin: false
 injection_methods: []
 created_at: 1626689125
-updated_at: 1712243878
+updated_at: 1791974609
 valence_ids:
 - 15
 other_names:
@@ -15,3 +15,65 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 538724d4-ac38-4ed5-8760-648b9860f928
+- nomenclature: SCT_NUVA
+  code: "6181002000104"
+- nomenclature: NDC
+  code: 33332-0013
+- nomenclature: NDC
+  code: 33332-0116
+- nomenclature: NDC
+  code: 33332-0016
+- nomenclature: NDC
+  code: 33332-0114
+- nomenclature: NDC
+  code: 33332-0117
+- nomenclature: NDC
+  code: 33332-0015
+- nomenclature: NDC
+  code: 33332-0014
+- nomenclature: NDC
+  code: 33332-0113
+- nomenclature: NDC
+  code: 33332-0118
+- nomenclature: NDC
+  code: 33332-0115
+- nomenclature: NDC
+  code: 33332-0010
+- nomenclature: NDC
+  code: 33332-0018
+- nomenclature: NDC
+  code: 33332-0017
+- nomenclature: NDC
+  code: 33332-0110
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: GTIN
+  code: "20040607007174"
+- nomenclature: AIC
+  code: "043216"
+- nomenclature: PZN
+  code: "16231983"
+- nomenclature: CIS
+  code: "63263203"
+- nomenclature: CIP
+  code: "3400927959899"
+- nomenclature: CIP
+  code: "3400927960260"
+- nomenclature: CIP
+  code: "3400927960031"
+- nomenclature: CIP
+  code: "3400927959950"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "702570"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "702573"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "705470"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "715321"
+- nomenclature: CODE_NATIONAL_SPAIN
+  code: "715322"
+- nomenclature: NDC
+  code: 33332-025
+- nomenclature: NDC
+  code: 33332-125

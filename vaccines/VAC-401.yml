@@ -18,3 +18,7 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 5ec1469c-8e07-4734-aab8-4de5219c0429
+- nomenclature: ATC
+  code: J07AG52
+- nomenclature: SCT_NUVA
+  code: "5271002000102"

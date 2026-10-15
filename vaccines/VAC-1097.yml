@@ -13,3 +13,9 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 2edfdf87-3183-464c-a3a8-775ece74fe71
+- nomenclature: CVC
+  code: "19331000087104"
+- nomenclature: DIN
+  code: "02231962"
+- nomenclature: SCT_NUVA
+  code: "13511002000108"

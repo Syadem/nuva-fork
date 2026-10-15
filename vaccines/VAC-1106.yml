@@ -13,3 +13,13 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: 53a70287-2161-4afe-9517-f7471b621522
+- nomenclature: ATC
+  code: J07BN05
+- nomenclature: SNOMED-CT
+  code: "30141000087107"
+- nomenclature: THL
+  code: "146"
+- nomenclature: SCT_NUVA
+  code: "13611002000109"
+- nomenclature: ICD11
+  code: XM1J92

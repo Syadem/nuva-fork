@@ -14,3 +14,13 @@ other_names: []
 codes:
 - nomenclature: SYADEM
   code: a84a100d-b7ac-4010-9a60-33fae66cc083
+- nomenclature: ATC
+  code: J07BD53
+- nomenclature: SCT_NUVA
+  code: "7391002000101"
+- nomenclature: SWISSLEGACY
+  code: "127"
+- nomenclature: INFARMED
+  code: "8674705"
+- nomenclature: INFARMED
+  code: "8674713"

@@ -1,12 +1,12 @@
 ---
 id: 229
 name: FLU SHIELD
-description: Trivalent inactivated seasonal influenza vaccine
+description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture
 generic: false
 immunoglobulin: false
 injection_methods: []
 created_at: 1626689124
-updated_at: 1666959919
+updated_at: 1791918011
 valence_ids:
 - 15
 other_names:
@@ -14,3 +14,7 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 8145a789-8d28-4306-bec3-e72db4ab5eeb
+- nomenclature: ATC
+  code: J07BB02
+- nomenclature: SCT_NUVA
+  code: "3461002000107"

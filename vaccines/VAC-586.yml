@@ -16,3 +16,37 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: 7ec0bb07-b014-4cae-8582-0011cc5d37eb
+- nomenclature: CPT
+  code: "90758"
+- nomenclature: ATC
+  code: J07BX02
+- nomenclature: GTIN
+  code: "20190309000017"
+- nomenclature: EU-NUMBER
+  code: EU-1-19-1392-001
+- nomenclature: AIC
+  code: "048364"
+- nomenclature: CIS
+  code: "62614126"
+- nomenclature: CIP
+  code: "3400955070689"
+- nomenclature: CVX
+  code: "204"
+- nomenclature: CTI
+  code: "552080"
+- nomenclature: CVC
+  code: "45411000087107"
+- nomenclature: GTIN
+  code: "00300064293029"
+- nomenclature: GTIN
+  code: "60300064293021"
+- nomenclature: CTI-EXTEND
+  code: 552080-01
+- nomenclature: SWISSMEDIC
+  code: "68358"
+- nomenclature: SCT_NUVA
+  code: "7161002000109"
+- nomenclature: ICD11
+  code: XM4P37
+- nomenclature: NDC
+  code: 0006-4293
