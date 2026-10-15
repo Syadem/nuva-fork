@@ -5,7 +5,9 @@ antigen_type_id: 18
 name: Herpes simplex valence, unspecified
 abbreviation: HSV
 created_at: 1635263684
-updated_at: 1790089738
+updated_at: 1792075690
 codes:
 - nomenclature: SYADEM
   code: f5289ff8-e8c2-406b-a700-e19dbc9d60e2
+- nomenclature: toto
+  code: "1234"
