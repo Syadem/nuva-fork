@@ -1,11 +1,11 @@
 ---
 id: 157
-parent_id:
+parent_id: 103
 antigen_type_id: 18
 name: COVID-19 valence, unspecified
 abbreviation: Covid
 created_at: 1646604669
-updated_at: 1790089333
+updated_at: 1792075175
 codes:
 - nomenclature: SYADEM
   code: 9f879436-a185-4f33-8218-db5836237089
