@@ -2,6 +2,7 @@
 id: 1199
 name: Ebola, recombinant vesicular stomatitis replicative viral vector vaccine (rVSV) - EBOV GP glycoprotein, unspecified
 description: Ebola, recombinant vesicular stomatitis replicative viral vector vaccine (rVSV) - EBOV GP glycoprotein, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

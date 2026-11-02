@@ -2,6 +2,7 @@
 id: 1498
 name: EPIVACCORONA-N
 description: COVID-19 protein subunit vaccine, recombinant protein
+notes: https://www.vax-before-travel.com/vaccines/epivaccorona-vaccine?
 generic: false
 immunoglobulin: false
 injection_methods:

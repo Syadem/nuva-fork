@@ -2,6 +2,7 @@
 id: 1421
 name: COVID-19 vaccine, mRNA encoding the SARS-CoV-2 spike protein, original virus
 description: COVID-19 vaccine, mRNA encoding the SARS-CoV-2 spike protein, original virus
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 521
 name: FLUENZ TETRA
 description: Live attenuated quadrivalent seasonal influenza vaccine, nasal
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 86
 name: TETAVAX
 description: Tetanus toxoid vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 448
 name: VICPS (TYPHIM VI)
 description: Polysaccharide typhoid vaccine (Vi capsular antigen)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

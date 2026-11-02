@@ -2,6 +2,7 @@
 id: 1098
 name: XANAFLU
 description: Trivalent inactivated influenza vaccine
+notes: https://www.gov.mb.ca/health/publichealth/cdc/docs/hcp/2014/012714.pdf
 generic: false
 immunoglobulin: false
 injection_methods:

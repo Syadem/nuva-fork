@@ -2,6 +2,7 @@
 id: 421
 name: TUSSITRUPIN FORTE
 description: Pertussis (whole-cell inactivated) vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

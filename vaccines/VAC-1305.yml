@@ -2,6 +2,7 @@
 id: 1305
 name: MRBEV
 description: Live attenuated measles and rubella vaccine
+notes: https://www.biologicale.com/pdf/Product_VB_Domestic_Marketing.pdf
 generic: false
 immunoglobulin: false
 injection_methods:

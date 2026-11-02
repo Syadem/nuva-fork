@@ -2,6 +2,7 @@
 id: 1549
 name: Diphtheria vaccine (toxoid, standard dose) and pertussis (whole-cell inactivated), paediatric
 description: Diphtheria vaccine (toxoid, standard dose) and pertussis (whole-cell inactivated), paediatric
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

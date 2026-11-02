@@ -2,6 +2,7 @@
 id: 131
 name: Rabies vaccine, unspecified
 description: Whole virion inactivated rabies vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

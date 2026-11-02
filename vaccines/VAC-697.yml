@@ -2,6 +2,7 @@
 id: 697
 name: V590 (COVID-19 Vaccine)
 description: COVID-19 vaccine, replicating vesicular stomatitis virus vector encoding the SARS-CoV-2 spike protein
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

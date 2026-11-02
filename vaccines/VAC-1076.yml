@@ -2,6 +2,11 @@
 id: 1076
 name: UROMUNE (MV 140)
 description: Vaccine to prevent urinary tract infections in women
+notes: "essai clinique\r
+
+  https://redleafmedical.com/fr/uromune-mv-140-in-recurrent-urinary-tract-infections/#:~:text=UROMUNE%20(MV140)%20est%20un%20vaccin,sous%20forme%20de%20cystite%20r%C3%A9cidivante.\r
+
+  Publication : https://redleafmedical.com/wp-content/uploads/Systematic-Review-UROMUNE_CUAJ.pdf\r\n"
 generic: false
 immunoglobulin: false
 injection_methods:

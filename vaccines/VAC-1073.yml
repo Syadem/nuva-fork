@@ -2,6 +2,7 @@
 id: 1073
 name: Lyme disease vaccine, unspecified
 description: Lyme disease vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

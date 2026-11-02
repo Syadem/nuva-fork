@@ -2,6 +2,7 @@
 id: 1026
 name: SOBERANA 02 FINLAY-FR-2 COVID-19 VACCINE
 description: COVID-19 vaccine, protein subunit, recombinant spike protein (RBD domain conjugated to tetanus toxoid + adjuvant)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

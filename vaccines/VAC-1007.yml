@@ -2,6 +2,7 @@
 id: 1007
 name: ISTIVAC4
 description: Quadrivalent inactivated seasonal influenza vaccine, split virion
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

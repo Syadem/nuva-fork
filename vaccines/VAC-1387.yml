@@ -2,6 +2,7 @@
 id: 1387
 name: SINSAVAC
 description: Live attenuated yellow fever vaccine
+notes: https://extranet.who.int/prequal/vaccines/p/sinsavactm
 generic: false
 immunoglobulin: false
 injection_methods:

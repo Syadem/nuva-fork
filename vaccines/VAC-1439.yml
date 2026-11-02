@@ -2,6 +2,7 @@
 id: 1439
 name: Meningococcal vaccine, polyvalent, conjugate polysaccharide
 description: Meningococcal vaccine, polyvalent, conjugate polysaccharide
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

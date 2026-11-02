@@ -2,6 +2,7 @@
 id: 1304
 name: BERAB
 description: Whole virion inactivated rabies vaccine, cultured on Vero cells
+notes: https://www.biologicale.com/pdf/Product_VB_Domestic_Marketing.pdf
 generic: false
 immunoglobulin: false
 injection_methods:

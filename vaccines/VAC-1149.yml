@@ -2,6 +2,7 @@
 id: 1149
 name: Cholera oral live attenuated vaccine, unspecified
 description: Oral live attenuated cholera vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

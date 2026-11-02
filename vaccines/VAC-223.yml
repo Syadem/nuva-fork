@@ -2,6 +2,9 @@
 id: 223
 name: DUAL ANTIGEN SII
 description: Diphtheria toxoid (standard dose) and tetanus toxoid pediatric vaccine
+notes: "https://www.seruminstitute.com/product_ind_dualantigen.php\r
+
+  https://www.seruminstitute.com/product_diphtheriatetanus_pediatric.php"
 generic: false
 immunoglobulin: false
 injection_methods: []

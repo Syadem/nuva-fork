@@ -2,6 +2,7 @@
 id: 707
 name: Coronavirus SARS-CoV-2 inactivé
 description: COVID-19 vaccine, whole virion inactivated (Vero cell culture)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 1212
 name: Poliomyelitis trivalent vaccine, whole inactivated oral, unspecified
 description: Polio vaccine (whole inactivated, trivalent), oral
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

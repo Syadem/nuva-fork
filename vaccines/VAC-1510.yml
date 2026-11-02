@@ -2,6 +2,7 @@
 id: 1510
 name: BUTANTAN HPV
 description: Human Papillomavirus vaccine, quadrivalent (types 6, 11, 16, and 18), recombinant
+notes: https://en.butantan.gov.br/portfolio.php
 generic: false
 immunoglobulin: false
 injection_methods:

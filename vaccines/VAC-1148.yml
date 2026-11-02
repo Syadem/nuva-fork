@@ -2,6 +2,7 @@
 id: 1148
 name: Haemophilus influenzae type b vaccine, unconjugated polysaccharide, unspecified
 description: Haemophilus influenzae type b vaccine, unconjugated polysaccharide, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 362
 name: RIT - LM-3
 description: Live attenuated measles, mumps and rubella vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 1038
 name: Tick-borne encephalitis vaccine, Neudörfl strain, adult dose, unspecified
 description: Tick-borne encephalitis vaccine, whole-virus inactivated, Neudörfl strain, adult dose
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 971
 name: VACCINO ANTIVAIOLOSO LANCY
 description: Smallpox vaccine, first-generation, live vaccinia virus
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

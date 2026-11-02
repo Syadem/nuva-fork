@@ -2,6 +2,7 @@
 id: 1177
 name: Smallpox 3rd generation vaccine, live vaccinia virus with minimal replication, unspecified
 description: Third generation smallpox vaccine, obtained in cell culture, minimally replicating live vaccinia virus
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

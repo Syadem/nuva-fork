@@ -2,6 +2,7 @@
 id: 802
 name: Poliomyelitis live attenuated monovalent oral vaccine, unspecified
 description: Polio vaccine (live attenuated, monovalent), oral
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

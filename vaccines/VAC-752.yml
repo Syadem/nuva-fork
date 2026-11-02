@@ -2,6 +2,7 @@
 id: 752
 name: COVISHIELD
 description: COVID-19 vaccine, non-replicating chimpanzee adenoviral vector ChAdOx1 encoding the SARS-CoV-2 spike protein
+notes: https://www.seruminstitute.com/product_covishield.php
 generic: false
 immunoglobulin: false
 injection_methods:

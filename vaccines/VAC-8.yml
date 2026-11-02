@@ -2,6 +2,7 @@
 id: 8
 name: GRIPGUARD
 description: Trivalent inactivated seasonal influenza vaccine, egg-based, surface antigen, adjuvanted
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

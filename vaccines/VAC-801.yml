@@ -2,6 +2,7 @@
 id: 801
 name: Haemophilus influenzae type b and hepatitis B vaccine, unspecified
 description: Haemophilus influenzae type b and hepatitis B vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

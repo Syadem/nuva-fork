@@ -2,6 +2,7 @@
 id: 513
 name: HEPATYRIX
 description: Hepatitis A (inactivated, adsorbed) and typhoid vaccine (polysaccharide)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

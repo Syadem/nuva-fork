@@ -2,6 +2,7 @@
 id: 459
 name: ZAANTITE
 description: Tetanus toxoid vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

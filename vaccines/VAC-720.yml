@@ -2,6 +2,7 @@
 id: 720
 name: S-268019
 description: COVID-19 vaccine, protein subunit, recombinant spike protein, expressed by baculovirus
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

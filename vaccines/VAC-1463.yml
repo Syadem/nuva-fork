@@ -2,6 +2,7 @@
 id: 1463
 name: FREEZE-DRIED BCG VACCINE JAPAN
 description: Tuberculosis vaccine
+notes: https://www.bcg.gr.jp/en/en_products/
 generic: false
 immunoglobulin: false
 injection_methods:

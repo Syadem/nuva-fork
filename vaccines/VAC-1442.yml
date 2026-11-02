@@ -2,6 +2,7 @@
 id: 1442
 name: Influenza vaccine, quadrivalent, virosomal, unspecified
 description: Influenza vaccine, quadrivalent, virosomal, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

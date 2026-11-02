@@ -2,6 +2,7 @@
 id: 214
 name: DIF-TET-ALL
 description: Diphtheria toxoid (standard dose) and tetanus toxoid pediatric vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

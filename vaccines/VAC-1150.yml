@@ -2,6 +2,7 @@
 id: 1150
 name: COVID-19 mRNA vaccine encoding the spike protein of SARS-CoV-2, original virus, 30 micrograms, unspecified
 description: Anti-covid 19 mRNA vaccine encoding the spike protein of SARS-CoV-2, original virus, 30 micrograms, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

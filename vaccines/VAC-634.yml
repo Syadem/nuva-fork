@@ -2,6 +2,7 @@
 id: 634
 name: MVABEA
 description: Ebola virus vaccine with non-replicating viral vector
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

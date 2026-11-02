@@ -2,6 +2,7 @@
 id: 633
 name: ZABDENO
 description: Ebola virus vaccine with live non-replicating recombinant virus vector
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

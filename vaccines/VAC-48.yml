@@ -2,6 +2,7 @@
 id: 48
 name: GENHEVAC B PASTEUR
 description: Recombinant hepatitis B vaccine, HBsAg 20 µg, children and adult dose
+notes: "RCP : https://ansm.sante.fr/uploads/2020/12/15/genhevac-b-rcp-2002-21072020.pdf"
 generic: false
 immunoglobulin: false
 injection_methods:

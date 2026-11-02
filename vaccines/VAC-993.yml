@@ -2,6 +2,7 @@
 id: 993
 name: TD ADSORBED
 description: Diphtheria toxoid (reduced dose) and tetanus toxoid vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

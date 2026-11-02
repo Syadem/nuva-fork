@@ -2,6 +2,7 @@
 id: 275
 name: LAVANTUU TIROKOTE
 description: Typhoid vaccine, unspecified
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

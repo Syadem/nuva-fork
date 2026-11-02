@@ -2,6 +2,7 @@
 id: 808
 name: Haemophilus influenzae type b and meningococcal conjugate (serogroups C and Y) vaccine, unspecified
 description: Haemophilus influenzae type b and meningococcal conjugate vaccine, serogroups C and Y
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

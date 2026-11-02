@@ -2,6 +2,7 @@
 id: 926
 name: FLUCELVAX
 description: Trivalent inactivated seasonal influenza vaccine, produced in cell culture
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 552
 name: Hexavalent vaccine DTPCaHibHepB - Diphtheria-Tetanus-Polio-Acellular Pertussis-Hib-HepB, unspecified
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose), Haemophilus influenzae type b (conjugated, unspecified), inactivated polio (trivalent) and hepatitis B (recombinant) pediatric vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

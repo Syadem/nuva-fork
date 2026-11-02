@@ -2,6 +2,7 @@
 id: 653
 name: Hepatitis A + Hepatitis B vaccine Child, unspecified
 description: Combined hepatitis A and B vaccine, pediatric dose
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

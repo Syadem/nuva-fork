@@ -2,6 +2,9 @@
 id: 1093
 name: HEPAGAM
 description: Hepatitis B Immune Globulin Intravenous (Human)
+notes: "https://hepagamb.ca/_uploads/documents/hepagam/hepagam-pm-french.pdf\r
+
+  https://www.kamada.com/product/hepagam-b/"
 generic: false
 immunoglobulin: true
 injection_methods:

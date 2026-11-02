@@ -2,6 +2,7 @@
 id: 709
 name: COVI-VAC
 description: COVID-19 vaccine, live attenuated
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

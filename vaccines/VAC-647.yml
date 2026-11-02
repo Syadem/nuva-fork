@@ -2,6 +2,7 @@
 id: 647
 name: ROTASIIL
 description: Rotavirus vaccine
+notes: https://www.seruminstitute.com/product_viral_rotasiil.php
 generic: false
 immunoglobulin: false
 injection_methods:

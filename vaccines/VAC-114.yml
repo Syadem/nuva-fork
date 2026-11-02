@@ -2,6 +2,7 @@
 id: 114
 name: Measles live attenuated vaccine, unspecified
 description: Live attenuated measles vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

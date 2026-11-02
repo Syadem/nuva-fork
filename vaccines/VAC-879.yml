@@ -2,6 +2,7 @@
 id: 879
 name: ACELLUVAX
 description: Pertussis (multicomponent acelullar, 3 components, standard dose) vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

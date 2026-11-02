@@ -2,6 +2,7 @@
 id: 805
 name: Cholera whole-cell inactivated vaccine, unspecified
 description: Inactivated whole-cell cholera vaccine for injection
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

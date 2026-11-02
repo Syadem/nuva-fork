@@ -2,6 +2,7 @@
 id: 1000
 name: VACV VACCINIA VIRUS LISTER ELSTREE
 description: Smallpox vaccine, first-generation, live vaccinia virus
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

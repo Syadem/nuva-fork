@@ -2,6 +2,7 @@
 id: 582
 name: TRUMENBA
 description: Meningococcal vaccine, serogroup B (recombinant, adsorbed)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

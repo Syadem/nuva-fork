@@ -2,6 +2,7 @@
 id: 1317
 name: CERVAVAC
 description: Human Papillomavirus vaccine, quadrivalent (types 6, 11, 16, and 18), recombinant
+notes: https://www.seruminstitute.com/product_ind_cervavac.php
 generic: false
 immunoglobulin: false
 injection_methods:

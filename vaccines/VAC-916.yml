@@ -2,6 +2,7 @@
 id: 916
 name: Hepatitis B vaccine, monovalent, dialysis patient dosage, unspecified
 description: Recombinant hepatitis B vaccine, monovalent, dialysis patient dosage
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

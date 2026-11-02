@@ -2,6 +2,7 @@
 id: 1155
 name: Hepatitis B plasma vaccine, unspecified
 description: Plasma hepatitis B vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

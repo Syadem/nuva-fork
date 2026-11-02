@@ -2,6 +2,7 @@
 id: 1386
 name: GCFLU
 description: Seasonal influenza vaccine, quadrivalent, inactivated, obtained from egg culture, pediatric dose
+notes: https://www.gcbiopharma.com/eng/product_view.do?idx=11&currentPage=1&searchColumn2List=1002
 generic: false
 immunoglobulin: false
 injection_methods:

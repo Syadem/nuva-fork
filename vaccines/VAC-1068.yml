@@ -2,6 +2,7 @@
 id: 1068
 name: Rift Valley fever vaccine, unspecified
 description: Rift Valley fever vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

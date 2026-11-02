@@ -2,6 +2,7 @@
 id: 1217
 name: Hepatitis B and Haemophilus influenzae type b vaccine, unspecified
 description: Hepatitis B and Haemophilus influenzae type b vaccine, capsular polysaccharide (polyribosylribitol phosphate, PRP) conjugated to the outer membrane protein of Neisseria meningitidis serogroup B
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

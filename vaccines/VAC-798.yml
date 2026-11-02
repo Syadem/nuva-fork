@@ -2,6 +2,7 @@
 id: 798
 name: Hib-MeningoC vaccine, unspecified
 description: Haemophilus influenzae type b and meningococcal conjugate vaccine, serogroup C
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

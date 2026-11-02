@@ -2,6 +2,7 @@
 id: 814
 name: Pneumococcal conjugate vaccine, serotypes unspecified
 description: Pneumococcal polysaccharide conjugate vaccine, number of serotypes unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

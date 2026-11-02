@@ -2,6 +2,7 @@
 id: 694
 name: LMU-MVA-SARS-2-S-Covid
 description: COVID-19 vaccine, non-replicating modified Vaccinia Virus Ankara vector encoding the SARS-CoV-2 spike protein
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

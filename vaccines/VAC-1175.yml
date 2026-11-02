@@ -2,6 +2,7 @@
 id: 1175
 name: Influenza trivalent vaccine, inactivated cell culture, split or subunit, normal dose
 description: Trivalent inactivated cell culture influenza vaccine, split or subunit, normal dose
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

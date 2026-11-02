@@ -2,6 +2,31 @@
 id: 594
 name: MenQuadfi
 description: Quadrivalent meningococcal polysaccharide conjugate vaccine, serogroups A, C, W and Y (conjugated to tetanus toxoid)
+notes: "Ex code DataMatrix :\r
+
+  01 03664798036039 17 250131 10 U7389AB\r
+
+  péremption 01/2025\r
+
+  lot U7389AB\r
+
+  PC: 03664798036039\r
+
+  \r
+
+  clef 01 code présentation 14 caractères : 03664798036039\r
+
+  clef 21 N° de série : absent\r
+
+  clef 17 date péremption : 250131\r
+
+  clef 10 n° lot : U7389AB\r
+
+  \r
+
+  IIS CVX CDC : 49281-0590-05\tMenQuadfi\tSanofi Pasteur Inc.\t4/23/2020\t\t00349281590054 (sale GTIN)\t1/31/2022\t49281-0590-58\tFalse\t00349281590580 (Use GTIN)\t1/31/2022\r
+
+  https://www2a.cdc.gov/vaccines/iis/iisstandards/vaccines.asp?rpt=ndc\r\n"
 generic: false
 immunoglobulin: false
 injection_methods:

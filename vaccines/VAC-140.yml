@@ -2,6 +2,7 @@
 id: 140
 name: INTANZA
 description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, split virion, intradermal
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

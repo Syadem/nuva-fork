@@ -2,6 +2,7 @@
 id: 171
 name: PREPANDEMIC INFLUENZA VACCINE (H5N1) NOVARTIS
 description: Influenza A(H5N1) vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

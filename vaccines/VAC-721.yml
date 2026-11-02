@@ -2,6 +2,7 @@
 id: 721
 name: AdimrSC-2f
 description: COVID-19 vaccine, protein subunit, aluminium-adjuvanted and non-aluminium-adjuvanted
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 1062
 name: Cytomegalovirus immune globulin
 description: Cytomegalovirus immune globulin, intravenous
+notes:
 generic: true
 immunoglobulin: true
 injection_methods: []

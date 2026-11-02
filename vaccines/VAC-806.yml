@@ -2,6 +2,7 @@
 id: 806
 name: Cholera live attenuated vaccine, unspecified
 description: Live attenuated cholera vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

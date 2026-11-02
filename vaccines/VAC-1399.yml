@@ -2,6 +2,7 @@
 id: 1399
 name: TERTRANFLU
 description: Quadrivalent inactivated seasonal influenza vaccine, split virion
+notes: https://www.sinovac.com/en-us/portfolio/influenza
 generic: false
 immunoglobulin: false
 injection_methods:

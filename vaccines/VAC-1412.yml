@@ -2,6 +2,7 @@
 id: 1412
 name: COVID-19 mRNA vaccine, subvariant Omicron JN.1, 10 micrograms, paediatric dose (5-11 years)
 description: COVID-19 mRNA vaccine, subvariant Omicron JN.1, 10 micrograms, paediatric dose (5-11 years)
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

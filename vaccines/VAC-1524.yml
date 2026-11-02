@@ -2,6 +2,7 @@
 id: 1524
 name: Melanoma vaccine, messenger RNA, individualized neoantigens
 description: Melanoma vaccine, messenger RNA, individualized neoantigens
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

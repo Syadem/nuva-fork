@@ -2,6 +2,7 @@
 id: 1218
 name: Meningococcal A polysaccharide vaccine conjugated to tetanus toxoid, unspecified
 description: Meningococcal polysaccharide conjugate vaccine with tetanus toxoid against serogroup A
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

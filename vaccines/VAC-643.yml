@@ -2,6 +2,7 @@
 id: 643
 name: Meningococcal ACWY conjugate vaccine, unspecified
 description: Quadrivalent meningococcal polysaccharide conjugate vaccine, serogroups A, C, W and Y
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

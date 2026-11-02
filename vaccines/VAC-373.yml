@@ -2,6 +2,7 @@
 id: 373
 name: SALK
 description: Inactivated polio (trivalent) vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

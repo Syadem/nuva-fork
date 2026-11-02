@@ -2,6 +2,7 @@
 id: 585
 name: TdapIPV - Diphtheria-Tetanus-Pertussis-Polio vaccine, low dose, unspecified
 description: Diphtheria toxoid (low dose), tetanus toxoid, pertussis (multicomponent acellular, 5 components, low dose) and inactivated polio (trivalent) vaccine, adsorbed
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

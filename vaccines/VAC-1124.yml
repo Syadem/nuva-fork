@@ -2,6 +2,7 @@
 id: 1124
 name: COVID-19 inactivated vaccine, whole virus, in clinical trial, unspecified
 description: COVID-19 inactivated vaccine, whole virus, in clinical trial, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

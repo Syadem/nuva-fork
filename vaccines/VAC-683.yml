@@ -2,6 +2,7 @@
 id: 683
 name: EPIVACCORONA
 description: COVID-19 vaccine, protein subunit, recombinant spike protein
+notes: "https://tass.com/coronavirus-outbreak-in-china/1310653\r\n"
 generic: false
 immunoglobulin: false
 injection_methods:

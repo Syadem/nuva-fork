@@ -2,6 +2,7 @@
 id: 1225
 name: Diphtheria (standard dose), tetanus, typhoid (whole inactivated) and paratypoid A and B (whole inactivated) vaccines, unspecified
 description: Diphtheria (standard dose), tetanus, typhoid (whole inactivated) and paratypoid A and B (whole inactivated) vaccines, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

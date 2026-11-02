@@ -2,6 +2,7 @@
 id: 671
 name: Clover-Spike-SCB-2019-Covid
 description: COVID-19 vaccine, protein subunit, recombinant spike protein
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

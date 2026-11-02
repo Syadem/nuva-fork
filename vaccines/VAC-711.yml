@@ -2,6 +2,7 @@
 id: 711
 name: Typhoid conjugate vaccine, unspecified
 description: Polysaccharide typhoid conjugate vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

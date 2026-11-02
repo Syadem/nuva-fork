@@ -2,6 +2,7 @@
 id: 677
 name: Chinese-PLA-ARN-Covid
 description: COVID-19 vaccine, mRNA encoding the SARS-CoV-2 spike protein, ongoing clinical trial
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

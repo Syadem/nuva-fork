@@ -2,6 +2,7 @@
 id: 1346
 name: FLU QUADRIVALENT MCV
 description: Quadrivalent inactivated seasonal influenza vaccine, split virion
+notes: https://www.medigenvac.com/en/research_vaccine_view.php?id=4
 generic: false
 immunoglobulin: false
 injection_methods:

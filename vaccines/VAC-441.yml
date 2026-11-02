@@ -2,6 +2,7 @@
 id: 441
 name: SKY Varicella Inj
 description: Live attenuated chickenpox vaccine (SK Bioscience laboratory)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

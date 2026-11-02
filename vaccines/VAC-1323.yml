@@ -2,6 +2,17 @@
 id: 1323
 name: MENFIVE
 description: Quadrivalent meningococcal polysaccharide conjugate vaccine, serogroups A, C, W, X and Y
+notes: "https://www.seruminstitute.com/product_MenFive.php\r
+
+  https://www.gavi.org/fr/vaccineswork/meningite-nouveau-vaccin-confirme-securite-grande-echelle\r
+
+  https://www.sciencedirect.com/science/article/abs/pii/S0264410X26001982\r
+
+  En juillet 2023, l’Organisation mondiale de la santé a préqualifié un nouveau vaccin conjugué contre le méningocoque, qui protège contre les cinq principales causes de méningite épidémique en Afrique subsaharienne. Bien que les essais cliniques aient déjà montré que le vaccin Men5CV était sûr et efficace, l’OMS a recommandé aux pays qui l’introduisent de surveiller étroitement les effets indésirables dans des conditions réelles.\r
+
+  Une nouvelle étude, publiée dans Vaccine, fournit les premières données à grande échelle sur la sécurité du vaccin en conditions réelles, après son utilisation lors de campagnes de riposte aux épidémies au Nigeria et au Niger en 2024.\r
+
+  Elle confirme la sécurité du vaccin en situation d’épidémie, avec des taux très faibles d’effets indésirables graves et aucun nouveau signal de sécurité détecté."
 generic: false
 immunoglobulin: false
 injection_methods:

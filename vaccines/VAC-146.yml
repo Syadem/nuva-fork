@@ -2,6 +2,7 @@
 id: 146
 name: Japanese Encephalitis live attenuated vaccine 14-14-2 strain, unspecified
 description: Live attenuated Japanese encephalitis vaccine, 14-14-2 strain
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

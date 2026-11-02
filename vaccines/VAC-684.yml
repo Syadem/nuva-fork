@@ -2,6 +2,7 @@
 id: 684
 name: QazVac
 description: COVID-19 vaccine, whole virion inactivated
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

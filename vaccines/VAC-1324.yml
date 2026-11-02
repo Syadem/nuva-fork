@@ -2,6 +2,7 @@
 id: 1324
 name: NASOVAC-S
 description: Influenza A(H1N1)pdm09 pandemic vaccine, live attenuated, obtained from egg culture
+notes: https://www.seruminstitute.com/product_influenza_vaccines.php
 generic: false
 immunoglobulin: false
 injection_methods:

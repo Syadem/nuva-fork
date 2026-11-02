@@ -2,6 +2,7 @@
 id: 702
 name: rRBD produced in CHO-cell chemically conjugate to tetanus toxoid
 description: COVID-19 vaccine, protein subunit, conjugated to tetanus toxoid
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

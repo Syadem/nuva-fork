@@ -2,6 +2,7 @@
 id: 1230
 name: Meningococcal C and anti-Haemophilus influenzae type b vaccine, conjugated with tetanus toxoid, unspecified
 description: Conjugate vaccine against Haemophilus influenzae type b (conjugated with tetanus toxoid) and against meningococci serogroup C (conjugated with tetanus toxoid)
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

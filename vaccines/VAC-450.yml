@@ -2,6 +2,7 @@
 id: 450
 name: VIROVAC MASSLING, PEROTID, RUBELLA
 description: Live attenuated measles, mumps and rubella vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 810
 name: Meningococcal polyvalent polysaccharide vaccine, unspecified
 description: Meningococcal polyvalent unconjugated polysaccharide vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

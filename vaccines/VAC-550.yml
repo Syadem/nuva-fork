@@ -2,6 +2,7 @@
 id: 550
 name: Measles and rubella live attenuated vaccine, unspecified
 description: Live attenuated measles and rubella vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

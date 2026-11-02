@@ -2,6 +2,7 @@
 id: 863
 name: Hepatitis B immunoglobulin, unspecified
 description: Hepatitis B immunoglobulin
+notes:
 generic: true
 immunoglobulin: true
 injection_methods: []

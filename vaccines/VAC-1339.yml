@@ -2,6 +2,7 @@
 id: 1339
 name: BIMERVAX XBB.1.16
 description: COVID-19 vaccine, protein subunit, recombinant homodimeric RBD protein, Omicron variant XBB.1.16, with adjuvant (SQBA)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 1247
 name: Hepatitis A vaccine, unspecified
 description: Hepatitis A vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

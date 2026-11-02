@@ -2,6 +2,7 @@
 id: 1245
 name: Meningococcal vaccine against serogroups A, C, W and Y (polysaccharide conjugated to tetanus toxoid), and against serogroup B (recombinant)
 description: Meningococcal vaccine against serogroups A, C, W and Y (polysaccharide conjugated to tetanus toxoid), and against serogroup B (recombinant)
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

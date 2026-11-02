@@ -2,6 +2,7 @@
 id: 231
 name: FLUKOVAX
 description: Trivalent inactivated seasonal influenza vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

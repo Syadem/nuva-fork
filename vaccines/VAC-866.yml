@@ -2,6 +2,7 @@
 id: 866
 name: Meningococcal A conjugate polysaccharide vaccine, unspecified
 description: Meningococcal polysaccharide conjugate vaccine, serogroup A
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

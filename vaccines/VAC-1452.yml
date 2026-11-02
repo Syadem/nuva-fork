@@ -2,6 +2,7 @@
 id: 1452
 name: SCI-B-VAC
 description: Recombinant hepatitis B vaccine, three antigens (HbS, pre-S1 and pre-S2)
+notes: https://www.vbivaccines.com/wp-content/uploads/2016/05/Sci-B-Vac-Package-Insert-1.pdf
 generic: false
 immunoglobulin: false
 injection_methods:

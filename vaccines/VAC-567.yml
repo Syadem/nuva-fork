@@ -2,6 +2,7 @@
 id: 567
 name: SHINGRIX
 description: Shingles vaccine (recombinant, with adjuvant)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

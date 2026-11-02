@@ -2,6 +2,7 @@
 id: 1224
 name: Respiratory syncytial virus (RSV) vaccine, recombinant, F-glycoprotein (prefusion) RSV subtypes A and B, unspecified
 description: Respiratory syncytial virus (RSV) vaccine, recombinant, F-glycoprotein (prefusion), bivalent (RSV subtypes A and B), unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 22
 name: NEISVAC
 description: Meningococcal conjugate vaccine, serogroup C (conjugated to tetanus toxoid)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

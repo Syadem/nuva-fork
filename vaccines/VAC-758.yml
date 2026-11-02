@@ -2,6 +2,7 @@
 id: 758
 name: SpFN COVID 19 vaccine + AFLQ
 description: "COVID-19 vaccine, protein subunit, recombinant spike protein, with adjuvant (AFKQ: liposomal containing saponin QS21)"
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

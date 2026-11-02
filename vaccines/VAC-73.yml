@@ -2,6 +2,7 @@
 id: 73
 name: IXIARO
 description: Whole virion inactivated Japanese encephalitis vaccine, Vero cell-derived, adsorbed
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 1400
 name: SHANIPV
 description: Inactivated polio (trivalent) vaccine
+notes: https://extranet.who.int/prequal/vaccines/p/shanipvtm-0
 generic: false
 immunoglobulin: false
 injection_methods:

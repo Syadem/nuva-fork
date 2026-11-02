@@ -2,6 +2,7 @@
 id: 898
 name: Leishmaniasis vaccine, unspecified
 description: Leishmaniasis vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

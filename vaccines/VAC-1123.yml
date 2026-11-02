@@ -2,6 +2,7 @@
 id: 1123
 name: Influenza trivalent live attenuated vaccine, unspecified
 description: Live attenuated trivalent seasonal influenza vaccine, nasal
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

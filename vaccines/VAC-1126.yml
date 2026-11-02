@@ -2,6 +2,7 @@
 id: 1126
 name: Diphtheria (standard dose), tetanus, pertussis (whole inactivated), anti-Haemophilus influenzae type b (conjugated with tetanus toxoid) and polio (whole inactivated, trivalent) pentavalent DTP Hib vaccine, pediatric
 description: Diphtheria (toxoid, standard dose), tetanus (toxoid), pertussis (whole inactivated), anti-Haemophilus influenzae type b (conjugated with tetanus toxoid) and polio (whole inactivated, trivalent) vaccine, pediatric
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

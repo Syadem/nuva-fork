@@ -2,6 +2,7 @@
 id: 423
 name: TWINRIX JUNIOR
 description: Combined hepatitis A and B vaccine, pediatric dose
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

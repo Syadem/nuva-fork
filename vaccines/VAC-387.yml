@@ -2,6 +2,7 @@
 id: 387
 name: TETANOL
 description: Tetanus toxoid vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 1162
 name: COVID-19 mRNA vaccine, bivalent, original virus and Omicron BA.1 variant, 15 micrograms, unspecified
 description: COVID-19 mRNA vaccine, bivalent, original virus and Omicron BA.1 variant, 15 micrograms, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

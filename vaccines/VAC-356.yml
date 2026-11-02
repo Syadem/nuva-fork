@@ -1,14 +1,15 @@
 ---
 id: 356
-name: RECOMBIVAX HB
-description: Hepatitis B vaccine (Paediatric and adult dosage at 10 µg and dosage for dialysis patients at 40 µg)
+name: RECOMBIVAX HB PEDIATRIC
+description: Hepatitis B vaccine, pediatric dose
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []
 created_at: 1626689124
-updated_at: 1666959921
+updated_at: 1792405563
 valence_ids:
-- 68
+- 170
 other_names:
 - RECOMBIVAXHB
 codes:

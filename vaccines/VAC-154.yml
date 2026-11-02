@@ -2,6 +2,7 @@
 id: 154
 name: Malaria vaccine, unspecified
 description: Malaria vaccine (used in clinical trials)
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

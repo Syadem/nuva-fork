@@ -2,6 +2,7 @@
 id: 1293
 name: VAKSIN BCG KERING
 description: Live attenuated tuberculosis vaccine
+notes: https://www.biofarma.co.id/id/our-product/detail/vaksin-bcg-beku-kering
 generic: false
 immunoglobulin: false
 injection_methods:

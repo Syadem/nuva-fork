@@ -2,6 +2,7 @@
 id: 1209
 name: Measles vaccine, whole inactivated, unspecified
 description: Whole inactivated measles vaccine (historical)
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

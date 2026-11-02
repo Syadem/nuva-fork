@@ -2,6 +2,7 @@
 id: 598
 name: DTwPHibHepB pentavalent vaccine, unspecified
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (whole-cell inactivated), Haemophilus influenzae type b (conjugated, unspecified) and hepatitis B (recombinant) pediatric vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

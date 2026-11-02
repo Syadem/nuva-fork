@@ -2,6 +2,7 @@
 id: 1063
 name: Hepatitis C vaccine, unspecified
 description: Hepatitis C vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

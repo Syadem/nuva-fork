@@ -2,6 +2,7 @@
 id: 763
 name: mRNA-1273.351
 description: COVID-19 vaccine, mRNA encoding the SARS-CoV-2 variant B.1.351 spike protein, ongoing clinical trial (encapsulated in a lipid nanoparticle)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

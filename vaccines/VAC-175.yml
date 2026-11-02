@@ -2,6 +2,7 @@
 id: 175
 name: A.D.T. BOOSTER
 description: Diphtheria toxoid (low dose) and tetanus toxoid vaccine (used for booster shots)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

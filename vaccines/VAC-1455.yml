@@ -2,6 +2,7 @@
 id: 1455
 name: MENGIVAC A + C
 description: Unconjugated meningococcal polysaccharide vaccine, serogroups A and C
+notes: https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml (si lien non fonctionnel, rechercher Mengivac dans la barre de recherche des médicaments Infomed en supprimant les filtres pré-sélectionnés).
 generic: false
 immunoglobulin: false
 injection_methods:

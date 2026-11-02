@@ -2,6 +2,7 @@
 id: 380
 name: T.Polio, unspecified
 description: Tetanus toxoid and inactivated polio (trivalent) vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

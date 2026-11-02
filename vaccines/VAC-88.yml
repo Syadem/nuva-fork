@@ -2,6 +2,7 @@
 id: 88
 name: DTIPV vaccine, unspecified
 description: Diphtheria toxoid (standard dose), tetanus toxoid and inactivated polio (trivalent) pediatric vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

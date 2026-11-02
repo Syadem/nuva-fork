@@ -2,6 +2,7 @@
 id: 1196
 name: Japanese encephalitis vaccine, whole inactivated prepared from murine brain tissue, unspecified
 description: Whole inactivated vaccine against Japanese encephalitis, prepared from murine brain tissue, Nakayama strain, injectable route
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,9 @@
 id: 1351
 name: TETANA PRO
 description: Tetanus toxoid vaccine
+notes: "https://nzozkrokowa.pl/szczepionki/tetana-pro/\r
+
+  https://leki.pl/produkty/tetana-pro/"
 generic: false
 immunoglobulin: false
 injection_methods:

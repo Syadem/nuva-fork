@@ -2,6 +2,7 @@
 id: 615
 name: VACCIN T.P. PASTEUR
 description: Tetanus toxoid and inactivated polio (trivalent) vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

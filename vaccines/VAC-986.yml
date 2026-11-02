@@ -2,6 +2,7 @@
 id: 986
 name: H ATETAL ISI
 description: Tetanus toxoid vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

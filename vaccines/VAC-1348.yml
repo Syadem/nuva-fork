@@ -2,6 +2,7 @@
 id: 1348
 name: TETANA
 description: Tetanus toxoid vaccine
+notes: https://biomed.pl/wp-content/uploads/2024/08/Tetana-leaflet.pdf
 generic: false
 immunoglobulin: false
 injection_methods:

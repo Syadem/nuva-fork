@@ -2,6 +2,11 @@
 id: 1363
 name: HEPAVAX-GENE B 10 µg
 description: Recombinant hepatitis B vaccine, pediatric dose
+notes: "Flacon ou seringue préremplie.\r
+
+  \r
+
+  https://www.mfds.go.kr/eng/brd/m_30/view.do?seq=70955&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1"
 generic: false
 immunoglobulin: false
 injection_methods:

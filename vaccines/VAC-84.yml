@@ -2,6 +2,7 @@
 id: 84
 name: Influenza H5N1 pre-pandemic vaccine, unspecified
 description: Influenza A(H5N1) vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

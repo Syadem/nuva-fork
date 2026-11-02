@@ -2,6 +2,7 @@
 id: 1049
 name: TDVAX
 description: Diphtheria toxoid (low dose) and tetanus toxoid vaccine
+notes: https://www.tdvax.com/documents/3022863/0/prescription-information.pdf/9a77379e-07ee-45ba-80c1-949acdff177d
 generic: false
 immunoglobulin: false
 injection_methods:

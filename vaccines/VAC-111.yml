@@ -2,6 +2,7 @@
 id: 111
 name: Yellow fever vaccine, unspecified
 description: Live attenuated yellow fever vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

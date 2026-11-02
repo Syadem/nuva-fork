@@ -2,6 +2,7 @@
 id: 1398
 name: PANFLU.1
 description: Influenza A(H1N1)pdm09 pandemic vaccine, inactivated, obtained from egg culture
+notes: https://www.sinovac.com/en-us/portfolio/influenza
 generic: false
 immunoglobulin: false
 injection_methods:

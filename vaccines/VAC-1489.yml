@@ -2,6 +2,13 @@
 id: 1489
 name: CELTURA
 description: Influenza A(H1N1)pdm09 pandemic vaccine, inactivated, obtained from egg culture
+notes: "https://extranet.who.int/prequal/vaccines/p/celtura\r
+
+  https://www.news.admin.ch/fr/nsb?id=30101\r
+
+  \r
+
+  Labo également Novartis."
 generic: false
 immunoglobulin: false
 injection_methods:

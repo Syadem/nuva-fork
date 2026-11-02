@@ -2,6 +2,7 @@
 id: 577
 name: TRIPACEL HYBRID
 description: Diphtheria toxoid (standard dose), tetanus toxoid and pertussis (multicomponent acellular, standard dose) pediatric vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

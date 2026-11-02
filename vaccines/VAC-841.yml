@@ -2,6 +2,7 @@
 id: 841
 name: INFLUVAC 0,25 mL
 description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, surface antigen, paediatric dose
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 983
 name: VACCINO ANTIPOL ISI
 description: Polio vaccine (whole inactivated, trivalent)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

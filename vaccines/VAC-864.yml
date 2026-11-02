@@ -2,6 +2,7 @@
 id: 864
 name: Varicella-Zoster immunoglobulin, unspecified
 description: Varicella-Zoster immunoglobulin
+notes:
 generic: true
 immunoglobulin: true
 injection_methods: []

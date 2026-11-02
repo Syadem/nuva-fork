@@ -2,6 +2,7 @@
 id: 144
 name: Cholera vaccine, unspecified
 description: Cholera vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

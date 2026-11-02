@@ -2,6 +2,7 @@
 id: 692
 name: COVAXX
 description: COVID-19 vaccine, protein subunit
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 703
 name: Adjuvanted protein subunit (RBD)
 description: COVID-19 vaccine, protein subunit, adjuvanted
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

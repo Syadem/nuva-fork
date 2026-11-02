@@ -2,6 +2,7 @@
 id: 79
 name: ENCEPUR
 description: Tick-borne encephalitis vaccine, whole-virus inactivated, K23 strain
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

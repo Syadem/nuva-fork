@@ -2,6 +2,7 @@
 id: 91
 name: VACCIN CCB PASTEUR
 description: A combination of inactivated bacteria to stimulate the immune system. CCB = against bronchial complications. Not really a vaccine...
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

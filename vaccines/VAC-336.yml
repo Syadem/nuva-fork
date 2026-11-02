@@ -2,13 +2,14 @@
 id: 336
 name: PNEUMOVAX
 description: Unconjugated pneumococcal polysaccharide vaccine, 23-valent, serotypes 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F and 33F
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689123
-updated_at: 1764080793
+updated_at: 1793025607
 valence_ids:
 - 206
 - 207
@@ -39,6 +40,60 @@ other_names:
 codes:
 - nomenclature: SYADEM
   code: c3ae4d8f-73f7-4601-b4c6-972ba0113aa1
+- nomenclature: AIC
+  code: "034933"
+- nomenclature: CIS
+  code: "66229252"
+- nomenclature: GTIN
+  code: "04150103113049"
+- nomenclature: GTIN
+  code: "00191778020915"
+- nomenclature: GTIN
+  code: "00191778021011"
+- nomenclature: GTIN
+  code: "00191778023060"
+- nomenclature: GTIN
+  code: "00191778021820"
+- nomenclature: GTIN
+  code: "00191778009347"
+- nomenclature: GTIN
+  code: "00191778017960"
+- nomenclature: GTIN
+  code: "05948985002846"
+- nomenclature: GTIN
+  code: "00191778022254"
+- nomenclature: GTIN
+  code: "07680005090010"
+- nomenclature: GTIN
+  code: "00191778008975"
+- nomenclature: GTIN
+  code: "00191778012576"
+- nomenclature: GTIN
+  code: "60300064837034"
+- nomenclature: GTIN
+  code: "60300064943001"
+- nomenclature: CTI
+  code: "224165"
+- nomenclature: CTI
+  code: "483182"
+- nomenclature: CTI-EXTEND
+  code: 224165-01
+- nomenclature: CTI-EXTEND
+  code: 224165-02
+- nomenclature: CTI-EXTEND
+  code: 224165-03
+- nomenclature: CTI-EXTEND
+  code: 483182-01
+- nomenclature: CTI-EXTEND
+  code: "483182"
+- nomenclature: INFARMED
+  code: "3513280"
+- nomenclature: INFARMED
+  code: "3513389"
+- nomenclature: INFARMED
+  code: "3513488"
+- nomenclature: GTIN
+  code: "00191778003697"
 - nomenclature: ELGA
   code: "4202462"
 - nomenclature: ELGA
@@ -183,55 +238,3 @@ codes:
   code: "20140416000035"
 - nomenclature: GTIN
   code: "20010209000118"
-- nomenclature: AIC
-  code: "034933"
-- nomenclature: CIS
-  code: "66229252"
-- nomenclature: GTIN
-  code: "04150103113049"
-- nomenclature: GTIN
-  code: "00191778020915"
-- nomenclature: GTIN
-  code: "00191778021011"
-- nomenclature: GTIN
-  code: "00191778023060"
-- nomenclature: GTIN
-  code: "00191778021820"
-- nomenclature: GTIN
-  code: "00191778009347"
-- nomenclature: GTIN
-  code: "00191778017960"
-- nomenclature: GTIN
-  code: "05948985002846"
-- nomenclature: GTIN
-  code: "00191778022254"
-- nomenclature: GTIN
-  code: "07680005090010"
-- nomenclature: GTIN
-  code: "00191778008975"
-- nomenclature: GTIN
-  code: "00191778012576"
-- nomenclature: GTIN
-  code: "60300064837034"
-- nomenclature: GTIN
-  code: "60300064943001"
-- nomenclature: CTI
-  code: "224165"
-- nomenclature: CTI
-  code: "483182"
-- nomenclature: CTI-EXTEND
-  code: 224165-01
-- nomenclature: CTI-EXTEND
-  code: 224165-02
-- nomenclature: CTI-EXTEND
-  code: 224165-03
-- nomenclature: CTI-EXTEND
-  code: 483182-01
-- nomenclature: CTI-EXTEND
-  code: "483182"
-- nomenclature: INFARMED
-  code: "3513280"
-- nomenclature: INFARMED
-  code: "3513389"
-- nomenclature: INFARMED
-  code: "3513488"

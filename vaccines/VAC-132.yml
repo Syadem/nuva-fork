@@ -2,6 +2,7 @@
 id: 132
 name: Tetanus vaccine, unspecified
 description: Tetanus toxoid vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

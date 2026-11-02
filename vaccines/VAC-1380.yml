@@ -2,6 +2,7 @@
 id: 1380
 name: ZYVAC TCV
 description: Typhoid conjugate vaccine, Vi polysaccharide linked to tetanus toxoid protein
+notes: https://www.zyduslife.com/public/pdf/3_PIs%20&%20SmPC_Typhoid%20Vi%20Conjugate%20Vaccine%20I.P._ZyVac%C2%AETCV.pdf
 generic: false
 immunoglobulin: false
 injection_methods:

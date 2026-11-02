@@ -2,6 +2,7 @@
 id: 839
 name: Brucella inactivated whole-cell vaccine, unspecified
 description: Whole-cell inactivated brucellosis vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

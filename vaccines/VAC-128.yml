@@ -2,6 +2,7 @@
 id: 128
 name: HB VAX DNA 10 µg
 description: Recombinant hepatitis B vaccine with 10 micrograms of HBs antigen (although 10 µg, this vaccine is indicated from the age of 16)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

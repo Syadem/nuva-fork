@@ -2,6 +2,11 @@
 id: 1505
 name: SCTV01C
 description: COVID-19 protein subunit vaccine, recombinant protein
+notes: "https://www.sinocelltech.com/public/home/file/20250120/2023-Safety%20and%20immunogenicity%20of%20a%20tetravalent%20and%20bivalent%20SARS-CoV-2%20protein%20booster%20vaccine%20in%20men.pdf?\r
+
+  \r
+
+  https://clinicaltrials.gov/study/NCT05308602"
 generic: false
 immunoglobulin: false
 injection_methods:

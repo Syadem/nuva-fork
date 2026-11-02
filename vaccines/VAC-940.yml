@@ -2,6 +2,7 @@
 id: 940
 name: SPUTNIK-LIGHT
 description: COVID-19 vaccine with non-replicating viral vector, adenovirus encoding the peak protein of SARS-CoV-2
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 769
 name: SC-Ad6-1
 description: COVID-19 vaccine, non-replicating adenoviral 6 vector encoding the SARS-CoV-2 spike protein
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

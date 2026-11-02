@@ -2,6 +2,7 @@
 id: 568
 name: BOOSTRIX-POLIO
 description: Diphtheria toxoid (low dose), tetanus toxoid, pertussis (multicomponent acellular, 5 components, low dose) and inactivated polio (trivalent) vaccine, adsorbed
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 495
 name: BEXSERO
 description: 4-component meningococcal vaccine, serogroup B
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 485
 name: TETAGAM P (immunoglobuline)
 description: Anti-tetanus immunoglobulin
+notes:
 generic: false
 immunoglobulin: true
 injection_methods: []

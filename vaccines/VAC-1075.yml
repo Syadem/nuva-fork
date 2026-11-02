@@ -2,6 +2,7 @@
 id: 1075
 name: Anthrax acellular vaccine, unspecified
 description: Acellular anthrax vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

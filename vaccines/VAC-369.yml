@@ -2,6 +2,7 @@
 id: 369
 name: RUBEOVAX
 description: Live attenuated measles vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

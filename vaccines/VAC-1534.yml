@@ -2,6 +2,7 @@
 id: 1534
 name: Seasonal influenza vaccine, trivalent inactivated, obtained from egg culture, split virion, pediatric form
 description: Seasonal influenza vaccine, trivalent inactivated, obtained from egg culture, split virion, pediatric form
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

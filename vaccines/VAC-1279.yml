@@ -2,6 +2,7 @@
 id: 1279
 name: Anthrax vaccine, adjuvanted adsorbed
 description: Anthrax vaccine, adjuvanted adsorbed
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

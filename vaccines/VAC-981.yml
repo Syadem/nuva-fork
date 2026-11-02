@@ -2,6 +2,7 @@
 id: 981
 name: VACCINO PERTOSSE ISI
 description: Pertussis vaccine, unspecified
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

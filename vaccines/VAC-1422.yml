@@ -2,6 +2,7 @@
 id: 1422
 name: COVID-19 protein subunit vaccine, recombinant N protein
 description: COVID-19 protein subunit vaccine, recombinant N protein
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

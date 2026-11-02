@@ -2,6 +2,7 @@
 id: 34
 name: SPIROLEPT
 description: Inactivated whole-cell leptospirosis vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

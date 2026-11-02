@@ -2,6 +2,7 @@
 id: 654
 name: Hepatitis A + Hepatitis B vaccine Adult, unspecified
 description: Combined hepatitis A and B vaccine, adult dose
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

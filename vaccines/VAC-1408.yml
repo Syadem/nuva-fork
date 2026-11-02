@@ -2,6 +2,9 @@
 id: 1408
 name: ENIVACHB
 description: Recombinant hepatitis B vaccine, pediatric dose
+notes: "https://www.panaceabiotec.com/en/products/product-list\r
+
+  https://www.panaceabiotec.com/assets/documents/SmPc_EnivacHB.pdf"
 generic: false
 immunoglobulin: false
 injection_methods:

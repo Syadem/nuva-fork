@@ -2,6 +2,7 @@
 id: 873
 name: INFLUPOZZI ADIUVATO
 description: Trivalent inactivated seasonal influenza vaccine, egg-based, surface antigen, adjuvanted with MF59C.1
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

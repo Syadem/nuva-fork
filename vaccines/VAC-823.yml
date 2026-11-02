@@ -2,6 +2,7 @@
 id: 823
 name: Influenza VLP vaccine, unspecified
 description: Virus-Like Particle (VLP) seasonal influenza vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

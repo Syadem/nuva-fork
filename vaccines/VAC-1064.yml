@@ -2,6 +2,7 @@
 id: 1064
 name: HIV vaccine, unspecified
 description: HIV vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 1512
 name: BUTANTAN DT ADULT
 description: Diphtheria toxoid (low dose) and tetanus toxoid vaccine
+notes: https://en.butantan.gov.br/portfolio.php
 generic: false
 immunoglobulin: false
 injection_methods:

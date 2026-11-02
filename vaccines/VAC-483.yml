@@ -2,6 +2,7 @@
 id: 483
 name: FLUAD PAEDIATRICS
 description: Trivalent inactivated seasonal influenza vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

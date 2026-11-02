@@ -2,6 +2,7 @@
 id: 530
 name: TETANOL PUR
 description: Tetanus toxoid vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

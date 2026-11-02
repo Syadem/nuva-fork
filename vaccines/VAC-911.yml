@@ -2,6 +2,7 @@
 id: 911
 name: Hepatitis A whole inactivated vaccine, monovalent, pediatric dose, unspecified
 description: Whole virion inactivated hepatitis A vaccine, monovalent, pediatric dose
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

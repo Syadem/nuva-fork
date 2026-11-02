@@ -2,6 +2,7 @@
 id: 1170
 name: COVID-19 non-replicating viral vector vaccine, chimpanzee adenovirus ChadOx1 encoding the SARS-CoV-2 spike protein
 description: Non-replicating viral vector anti-covid 19 vaccine, chimpanzee adenovirus ChadOx1 encoding the SARS-CoV-2 spike protein
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 1266
 name: PENMENVY
 description: Meningococcal broad-spectrum vaccine against serogroups A, B, C, W and Y
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 1515
 name: BUTANTAN RABIES
 description: Whole virion inactivated rabies vaccine, cultured on Vero cells
+notes: https://en.butantan.gov.br/portfolio.php
 generic: false
 immunoglobulin: false
 injection_methods:

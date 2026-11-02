@@ -2,6 +2,7 @@
 id: 189
 name: ANADIFTERALL
 description: Diphtheria toxoid (standard dose) pediatric vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

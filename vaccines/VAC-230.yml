@@ -2,6 +2,7 @@
 id: 230
 name: FLUAD
 description: Trivalent inactivated seasonal influenza vaccine, surface antigen, adjuvanted
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

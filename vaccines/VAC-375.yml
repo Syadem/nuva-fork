@@ -2,6 +2,7 @@
 id: 375
 name: SEROBACTERIN
 description: Inactivated whole-cell cholera vaccine for injection combined with polysaccharide typhoid vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 1045
 name: INFANRIX-IPV/Hib
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose), inactivated polio (trivalent) and Haemophilus influenzae type b pediatric vaccine
+notes: https://ca.gsk.com/media/6457/infanrix-ipv-hib.pdf
 generic: false
 immunoglobulin: false
 injection_methods:

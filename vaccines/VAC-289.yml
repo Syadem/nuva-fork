@@ -2,6 +2,7 @@
 id: 289
 name: M-VAX
 description: Live attenuated measles vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

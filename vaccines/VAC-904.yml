@@ -2,6 +2,7 @@
 id: 904
 name: Rabies duck embryo vaccine, unspecified
 description: Whole virion inactivated rabies vaccine, purified duck embryo vaccine (PDEV), inactivated with ß-propiolactone
+notes: "263 | Rab-I-PDEV | Whole virion inactivated rabies vaccine, purified duck embryo vaccine "
 generic: true
 immunoglobulin: false
 injection_methods: []

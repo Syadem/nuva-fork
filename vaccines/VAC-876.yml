@@ -2,6 +2,7 @@
 id: 876
 name: CINQUERIX
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose), Haemophilus influenzae type b (conjugated to tetanus toxoid) and inactivated polio (trivalent) pediatric vaccine, adsorbed
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

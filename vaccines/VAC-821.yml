@@ -2,6 +2,7 @@
 id: 821
 name: Influenza inactivated vaccine, split or subunit, unspecified
 description: Inactivated seasonal influenza vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

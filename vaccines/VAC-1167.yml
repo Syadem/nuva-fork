@@ -2,6 +2,7 @@
 id: 1167
 name: Pertussis acellular vaccine, unspecified
 description: Acellular pertussis vaccine, standard dose
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 293
 name: MENAFRIVAC
 description: Meningococcal conjugate vaccine, serogroup A (conjugated to tetanus toxoid)
+notes: https://www.seruminstitute.com/product_poly_meningococcal.php
 generic: false
 immunoglobulin: false
 injection_methods:

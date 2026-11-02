@@ -2,6 +2,7 @@
 id: 794
 name: T-igT, unspecified
 description: Tetanus toxoid vaccine combined with anti-tetanus immunoglobulin
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

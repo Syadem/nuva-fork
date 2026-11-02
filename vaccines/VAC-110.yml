@@ -2,6 +2,7 @@
 id: 110
 name: Influenza vaccine, unspecified
 description: Seasonal influenza vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

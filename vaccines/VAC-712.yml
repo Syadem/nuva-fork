@@ -2,6 +2,7 @@
 id: 712
 name: Typhoid-hepatitis A vaccine, unspecified
 description: Combined typhoid and hepatitis A vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

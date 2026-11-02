@@ -2,6 +2,7 @@
 id: 854
 name: Poliomyelitis mOPV3 Sabin monovalent oral vaccine type 3, unspecified
 description: Polio vaccine (live attenuated, monovalent) against poliovirus types 3, oral
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

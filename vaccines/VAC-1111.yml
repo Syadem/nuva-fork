@@ -2,6 +2,7 @@
 id: 1111
 name: Japanese Encephalitis Vaccine, whole inactivated, prepared on Vero cells, unspecified
 description: Whole inactivated Japanese encephalitis vaccine, prepared in Vero cells
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

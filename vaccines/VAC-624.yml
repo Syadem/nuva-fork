@@ -2,6 +2,7 @@
 id: 624
 name: M-M-Vax
 description: Live attenuated measles and mumps vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

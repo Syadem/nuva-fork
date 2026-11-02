@@ -2,6 +2,7 @@
 id: 1228
 name: Respiratory syncytial virus (RSV) vaccine, recombinant, F protein-derived RSVPreF3 antigen, unspecified
 description: Respiratory syncytial virus (RSV) vaccine, recombinant, F protein-derived RSVPreF3 antigen, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

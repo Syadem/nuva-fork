@@ -2,6 +2,7 @@
 id: 1461
 name: DIFTET
 description: Paediatric diphtheria vaccine (toxoid, standard dose) and tetanus vaccine (toxoid)
+notes: https://extranet.who.int/prequal/vaccines/p/diftet
 generic: false
 immunoglobulin: false
 injection_methods:

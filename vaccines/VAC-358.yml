@@ -2,6 +2,7 @@
 id: 358
 name: Rabies immunoglobulin human origin, unspecified
 description: Rabies immunoglobulin, human origin
+notes:
 generic: true
 immunoglobulin: true
 injection_methods: []

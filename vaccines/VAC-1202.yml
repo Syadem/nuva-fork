@@ -2,6 +2,7 @@
 id: 1202
 name: COVID-19 vaccine with live attenuated virus, unspecified
 description: Anti-covid 19 vaccine with live attenuated virus, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 1161
 name: Diphtheria (standard dose), tetanus, pertussis (whole inactivated) and Haemophilus influenzae type b (tetanus toxoid conjugated) quadrivalent DTPeP vaccine, pediatric
 description: Diphtheria (standard dose), tetanus, pertussis (whole inactivated) and Haemophilus influenzae type b (tetanus toxoid conjugated) vaccine, pediatric
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

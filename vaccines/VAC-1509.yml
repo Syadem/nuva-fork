@@ -2,6 +2,7 @@
 id: 1509
 name: BUTANTAN HEP B
 description: Hepatitis B vaccine, recombinant hepatitis B surface antigen (HBsAg), unspecified
+notes: https://en.butantan.gov.br/portfolio.php
 generic: false
 immunoglobulin: false
 injection_methods:

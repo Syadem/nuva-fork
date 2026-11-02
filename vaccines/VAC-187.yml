@@ -2,6 +2,7 @@
 id: 187
 name: AMARIL
 description: Live attenuated yellow fever vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

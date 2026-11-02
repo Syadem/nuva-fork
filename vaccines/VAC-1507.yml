@@ -2,6 +2,11 @@
 id: 1507
 name: BUTANTAN-DV
 description: Live-attenuated, recombinant chimeric, quadrivalent vaccine against the four serotypes (DEN-1, DEN-2, DEN-3 and DEN-4) of the dengue virus
+notes: "https://www.nature.com/articles/s41591-026-04255-3\r
+
+  \r
+
+  https://en.butantan.gov.br/portfolio.php"
 generic: false
 immunoglobulin: false
 injection_methods:

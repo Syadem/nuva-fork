@@ -2,6 +2,7 @@
 id: 790
 name: Diphtheria, tetanus and hepatitis B (recombinant) vaccine, unspecified
 description: Diphtheria toxoid (unspecified dose), tetanus toxoid and hepatitis B (recombinant) vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

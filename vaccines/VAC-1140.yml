@@ -2,6 +2,7 @@
 id: 1140
 name: COVID-19 bivalent mRNA vaccine against the original virus and the Omicron BA.4/5 variant, 25 micrograms, unspecified
 description: Covid 19 bivalent mRNA vaccine against the original virus and the Omicron BA.4/5 variant, 25 micrograms, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

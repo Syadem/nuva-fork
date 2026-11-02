@@ -2,6 +2,7 @@
 id: 427
 name: TYPHOID-KOVAX
 description: Polysaccharide typhoid vaccine (Vi capsular antigen)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 718
 name: CIGB-66
 description: COVID-19 vaccine, protein subunit (RBD protein + hepatitis B virus core antigen)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -23,7 +23,8 @@ Currently the specs cover antigen types, valences, diseases, vaccines and their 
   existing entries, and exactly one unique SYADEM UUID code.
 - For diseases: unique integer valence references to existing entries and
   exactly one unique SYADEM UUID code.
-- For vaccines: boolean `generic` and `immunoglobulin`, nullable descriptions,
+- For vaccines: boolean `generic` and `immunoglobulin`, nullable string fields
+  `description` and `notes`,
   string-array `other_names`, integer references to existing valences, one unique
   SYADEM UUID code, and `injection_methods` restricted to `intramuscular`,
   `subcutaneous`, `intradermal`, `intranasal` and `oral`.

@@ -2,6 +2,7 @@
 id: 1025
 name: CORBEVAX
 description: "COVID-19 vaccine, protein subunit, recombinant spike protein; other name: BECOV2A"
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

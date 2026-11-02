@@ -2,6 +2,7 @@
 id: 858
 name: HPV vaccine bivalent, unspecified
 description: Human Papillomavirus vaccine, bivalent (types 16 and 18), recombinant
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

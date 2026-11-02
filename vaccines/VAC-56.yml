@@ -2,6 +2,7 @@
 id: 56
 name: VACCIN TETANIQUE PASTEUR
 description: Tetanus toxoid vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

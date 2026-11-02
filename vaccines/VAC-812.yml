@@ -2,6 +2,7 @@
 id: 812
 name: Plague inactivated whole vaccine, unspecified
 description: Plague (whole-cell inactivated) vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

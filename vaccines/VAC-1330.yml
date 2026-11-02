@@ -2,6 +2,7 @@
 id: 1330
 name: FLU-M TETRA
 description: Quadrivalent inactivated seasonal influenza vaccine, split virion
+notes: "https://spbniivs.ru/en/portfolio/vaccines/flu-m-tetra/\r\n"
 generic: false
 immunoglobulin: false
 injection_methods:

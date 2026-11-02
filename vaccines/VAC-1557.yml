@@ -2,6 +2,7 @@
 id: 1557
 name: Influenza vaccine, trivalent, inactivated, split or subunit, unspecified
 description: Influenza vaccine, trivalent, inactivated, split or subunit, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

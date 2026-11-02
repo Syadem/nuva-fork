@@ -2,6 +2,7 @@
 id: 42
 name: VACCIN BCG SSI
 description: Tuberculosis vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

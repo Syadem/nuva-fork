@@ -2,6 +2,7 @@
 id: 105
 name: PANENZA
 description: Influenza A(H1N1)pdm09 pandemic vaccine, inactivated, obtained from egg culture
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

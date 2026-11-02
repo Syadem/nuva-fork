@@ -2,6 +2,7 @@
 id: 824
 name: Hepatitis A virosome vaccine, unspecified
 description: Inactivated hepatitis A vaccine, virosome, pediatric or adult
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 236
 name: FLUZONE HIGH-DOSE
 description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, high dose
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

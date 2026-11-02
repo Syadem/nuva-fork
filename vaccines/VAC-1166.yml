@@ -2,6 +2,7 @@
 id: 1166
 name: COVID-19 mRNA vaccine encoding the SARS-CoV-2 spike protein, currently in clinical trial, unspecified
 description: Anti-covid 19 mRNA vaccine encoding the SARS-CoV-2 spike protein, currently in clinical trial, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

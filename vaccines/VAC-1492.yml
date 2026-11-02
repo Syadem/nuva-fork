@@ -2,6 +2,7 @@
 id: 1492
 name: POLYOMYELITIS IMPFSTOFF BERNA
 description: Inactivated polio (trivalent) vaccine
+notes: Berna reprit par Novartis.
 generic: false
 immunoglobulin: false
 injection_methods:

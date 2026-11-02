@@ -2,6 +2,7 @@
 id: 1458
 name: TRIDIPIGEN
 description: Paediatric diphtheria vaccine (toxoid, standard dose), tetanus vaccine (toxoid) and pertussis vaccine (whole inactivated)
+notes: https://jeffreydachmd.com/wp-content/uploads/2017/01/discontinued_vaccines-1.pdf
 generic: false
 immunoglobulin: false
 injection_methods:

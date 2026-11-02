@@ -2,6 +2,7 @@
 id: 1203
 name: Brucellosis vaccine, protein (P.I. antigen)
 description: P.I. (phenol-insoluble) protein antigen vaccine against brucellosis
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

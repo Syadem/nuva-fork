@@ -2,6 +2,7 @@
 id: 908
 name: Adenovirus type 7 vaccine, unspecified
 description: Adenovirus type 7 vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

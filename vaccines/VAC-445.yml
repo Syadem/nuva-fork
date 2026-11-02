@@ -2,6 +2,7 @@
 id: 445
 name: VAXIPAR
 description: Live mumps vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

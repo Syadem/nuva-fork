@@ -2,6 +2,7 @@
 id: 1520
 name: COMIRNATY XFG 30 µg
 description: COVID-19 mRNA vaccine, subvariant Omicron XFG, 30 micrograms, adult (+ 12 years)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

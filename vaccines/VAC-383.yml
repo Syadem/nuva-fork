@@ -2,6 +2,7 @@
 id: 383
 name: ANATOXAL TE
 description: Tetanus toxoid vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

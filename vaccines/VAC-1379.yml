@@ -2,6 +2,7 @@
 id: 1379
 name: ZYVAC MMR
 description: Live attenuated measles, mumps and rubella vaccine
+notes: https://www.zyduslife.com/public/pdf/6_%20PI%20&%20SmPC_Measles%20,Mumps%20and%20Rubella%20Vaccine%20I.P.(Freeze%20Dried)_ZyVac%C2%AEMMR.pdf
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 1194
 name: Tetanus, typhoid and paratypoid A and B vaccines, unspecified
 description: Tetanus (toxoid), typhoid (whole inactivated) and paratyphoid A and B (whole inactivated) vaccines
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

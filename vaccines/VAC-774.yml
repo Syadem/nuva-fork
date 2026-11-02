@@ -2,6 +2,7 @@
 id: 774
 name: FSME-IMMUN 0,25 mL
 description: Tick-borne encephalitis vaccine, whole-virus inactivated, pediatric dose
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 773
 name: ABNCoV2
 description: COVID-19 vaccine, VLP, recombinant spike protein, with or without adjuvant MF56 (squalene)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

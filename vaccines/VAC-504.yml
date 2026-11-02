@@ -2,6 +2,7 @@
 id: 504
 name: INFANRIX Polio HIB Nourrissons
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose), Haemophilus influenzae type b (conjugated to tetanus toxoid) and inactivated polio (trivalent) pediatric vaccine, adsorbed
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

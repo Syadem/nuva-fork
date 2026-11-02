@@ -2,6 +2,11 @@
 id: 1198
 name: Chinkungunya vaccine, live attenuated, unspecified
 description: Live attenuated chikungunya vaccine
+notes: "Recommandé : Pour les personnes de 18 ans et plus voyageant dans une zone en épidémie.\r
+
+  Peut être envisagé : Pour les voyageurs de 18 ans et plus dans une zone à risque élevé sans épidémie, pour un séjour prolongé (≥ 6 mois).\r
+
+  Précaution : Chez les personnes âgées de 65 ans et plus."
 generic: true
 immunoglobulin: false
 injection_methods: []

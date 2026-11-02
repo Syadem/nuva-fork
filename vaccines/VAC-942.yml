@@ -2,6 +2,7 @@
 id: 942
 name: Chicken embryo rabies vaccine, unspecified
 description: Whole virion inactivated rabies vaccine, cultured in chicken embryo cells (CEEC), inactivated with ß-propiolactone
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

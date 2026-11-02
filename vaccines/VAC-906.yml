@@ -2,6 +2,7 @@
 id: 906
 name: Shingles vaccine, unspecified
 description: Shingles vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

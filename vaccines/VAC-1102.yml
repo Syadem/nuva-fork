@@ -2,6 +2,7 @@
 id: 1102
 name: HIB-IMMUNE
 description: Haemophilus influenzae type b non-conjugated polysaccharide vaccine
+notes: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4745871/
 generic: false
 immunoglobulin: false
 injection_methods: []

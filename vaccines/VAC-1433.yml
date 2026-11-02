@@ -2,6 +2,7 @@
 id: 1433
 name: Plague vaccine, unspecified
 description: Plague vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

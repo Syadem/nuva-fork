@@ -2,6 +2,7 @@
 id: 272
 name: KAKSOISROKOTE DUBBELVACCIN
 description: Diphtheria toxoid (standard dose) and tetanus toxoid pediatric vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

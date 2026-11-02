@@ -2,6 +2,7 @@
 id: 830
 name: Shingles subunit vaccine, unspecified
 description: Subunit shingles vaccine (currently corresponds to glycoprotein E)
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

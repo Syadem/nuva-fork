@@ -2,6 +2,7 @@
 id: 430
 name: VACCIN DIFTERIC ADSORBIT
 description: Diphtheria toxoid (unspecified dose)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

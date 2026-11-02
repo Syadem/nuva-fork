@@ -2,6 +2,7 @@
 id: 1092
 name: KAMRAB
 description: Human-rabies immunoglobulin 150IU/ml
+notes:
 generic: false
 immunoglobulin: true
 injection_methods:

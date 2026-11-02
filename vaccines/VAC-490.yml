@@ -2,6 +2,7 @@
 id: 490
 name: KINRIX
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose) and inactivated polio (trivalent) pediatric vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

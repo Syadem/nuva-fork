@@ -2,6 +2,7 @@
 id: 610
 name: Tdap - Diphtheria-Tetanus-Pertussis vaccine, low dose, unspecified
 description: Diphtheria toxoid (low dose), tetanus toxoid and pertussis (multicomponent acellular, low dose) vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

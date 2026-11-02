@@ -2,6 +2,7 @@
 id: 686
 name: MULTI-PEPTIDE-pVAC-COVID
 description: COVID-19 vaccine, protein subunit, recombinant spike protein, adapted to human major histocompatibility complex II molecules
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

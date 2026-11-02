@@ -2,6 +2,7 @@
 id: 160
 name: Shingles live attenuated vaccine, unspecified
 description: Live attenuated shingles vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

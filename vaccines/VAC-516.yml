@@ -2,6 +2,7 @@
 id: 516
 name: ABHAYRAB
 description: Whole virion inactivated rabies vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

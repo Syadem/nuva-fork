@@ -2,6 +2,7 @@
 id: 1067
 name: Streptococcus pyogenes vaccine, unspecified
 description: Streptococcus pyogenes vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 1120
 name: Leptospirosis trivalent vaccine, unspecified
 description: Trivalent vaccine against leptospirosis caused by Canicola serovar canicola, Icterohaemorrhagiae serovar copenhageni and Pomona serovar mozdok
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

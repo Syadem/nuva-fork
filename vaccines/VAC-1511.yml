@@ -2,6 +2,7 @@
 id: 1511
 name: BUTANTAN DT
 description: Paediatric diphtheria vaccine (toxoid, standard dose) and tetanus vaccine (toxoid)
+notes: https://en.butantan.gov.br/portfolio.php
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 998
 name: LC16
 description: Smallpox vaccine, third generation (cell cultured vaccinia virus)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

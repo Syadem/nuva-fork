@@ -2,6 +2,7 @@
 id: 1453
 name: INVIVAC
 description: Influenza vaccine, trivalent, virosomal, unspecified
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

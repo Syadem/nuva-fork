@@ -2,6 +2,7 @@
 id: 38
 name: TICOVAC 0,5 mL
 description: Tick-borne encephalitis vaccine, whole-virus inactivated, Neudörfl strain, adult dose
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

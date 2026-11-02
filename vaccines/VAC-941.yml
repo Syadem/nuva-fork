@@ -2,6 +2,7 @@
 id: 941
 name: Anthrax immunoglobulin, unspecified
 description: Anthrax immunoglobuline
+notes:
 generic: true
 immunoglobulin: true
 injection_methods: []

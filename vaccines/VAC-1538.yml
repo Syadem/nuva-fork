@@ -2,6 +2,7 @@
 id: 1538
 name: COVID-19 bivalent mRNA vaccine, original virus + Omicron BA.1 variant, 25 micrograms each
 description: COVID-19 bivalent mRNA vaccine, original virus + Omicron BA.1 variant, 25 micrograms each
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

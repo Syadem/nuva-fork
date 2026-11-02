@@ -2,6 +2,7 @@
 id: 1420
 name: Respiratory syncytial virus glycoprotein F, stabilized in the prefusion conformation, encoded by a single-stranded 5' capped mRNA
 description: Respiratory syncytial virus glycoprotein F, stabilized in the prefusion conformation, encoded by a single-stranded 5' capped mRNA
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

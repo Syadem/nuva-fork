@@ -2,6 +2,7 @@
 id: 696
 name: KCONVAC MINHAI COVID-19 VACCINE
 description: COVID-19 vaccine, whole virion inactivated (Vero cell culture)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

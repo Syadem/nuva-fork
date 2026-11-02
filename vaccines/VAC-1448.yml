@@ -2,6 +2,9 @@
 id: 1448
 name: BCG VACCINE MERCK
 description: Live attenuated tuberculosis vaccine
+notes: "https://www.merck.com/product/usa/pi_circulars/b/bcg_vaccine/bcg_pi.pdf\r
+
+  \r\n"
 generic: false
 immunoglobulin: false
 injection_methods: []

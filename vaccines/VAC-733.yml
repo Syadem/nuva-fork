@@ -2,6 +2,7 @@
 id: 733
 name: HEPLISAV-B
 description: Recombinant hepatitis B vaccine, adult dose
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

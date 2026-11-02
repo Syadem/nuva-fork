@@ -2,6 +2,7 @@
 id: 1081
 name: BAYGAM
 description: Human immunoglobulin against certain viruses (hepatitis A, measles, chickenpox and rubella)
+notes: https://www.rxlist.com/baygam-drug.htm#description
 generic: false
 immunoglobulin: true
 injection_methods:

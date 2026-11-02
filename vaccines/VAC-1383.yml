@@ -2,6 +2,7 @@
 id: 1383
 name: CYVAC
 description: Malaria vaccine sporozoite surface protein, unspecified
+notes: https://extranet.who.int/prequal/vaccines/p/r21-malaria
 generic: false
 immunoglobulin: false
 injection_methods:

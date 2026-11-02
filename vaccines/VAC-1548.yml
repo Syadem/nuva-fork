@@ -2,6 +2,7 @@
 id: 1548
 name: Influenza vaccine, RNA-based, trivalent, unspecified
 description: Influenza vaccine, RNA-based, trivalent, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

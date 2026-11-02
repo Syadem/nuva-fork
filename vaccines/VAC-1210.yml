@@ -2,6 +2,7 @@
 id: 1210
 name: COVID-19 mRNA vaccine encoding the SARS-CoV-2 spike protein, original virus, 100 micrograms, unspecified
 description: COVID-19 mRNA vaccine encoding the SARS-CoV-2 spike protein, original virus, 100 micrograms, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

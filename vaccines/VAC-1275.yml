@@ -2,6 +2,7 @@
 id: 1275
 name: D BIOMED
 description: Diphtheria toxoid (standard dose) pediatric vaccine
+notes: https://biomed.pl/wp-content/uploads/2024/07/Ulotka-D.pdf
 generic: false
 immunoglobulin: false
 injection_methods:

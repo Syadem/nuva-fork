@@ -2,6 +2,7 @@
 id: 156
 name: HPV Vaccine
 description: Human Papillomavirus vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

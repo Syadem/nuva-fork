@@ -2,6 +2,11 @@
 id: 1246
 name: MCOMBRIAX
 description: Combined influenza/Covid 19 mRNA vaccine in clinical trial
+notes: "https://investors.modernatx.com/news/news-details/2024/Moderna-Announces-Positive-Phase-3-Data-for-Combination-Vaccine-Against-Influenza-and-COVID-19-/default.aspx\r
+
+  \r
+
+  https://www.ema.europa.eu/en/news/first-combined-covid-19-influenza-vaccine-people-50-years-older"
 generic: false
 immunoglobulin: false
 injection_methods: []

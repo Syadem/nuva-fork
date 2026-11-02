@@ -2,6 +2,7 @@
 id: 889
 name: MONO OPV3
 description: Polio vaccine (live attenuated, monovalent) against poliovirus type 3, oral
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

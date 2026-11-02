@@ -2,12 +2,13 @@
 id: 1251
 name: EUVICHOL-PLUS
 description: Cholera vaccine, oral, bivalent consisting of killed whole cells of Vibrio cholerae O1 (classical and El Tor) and O139
+notes: http://eubiologics.com/eng/sub2_1_1_2.php
 generic: false
 immunoglobulin: false
 injection_methods:
 - oral
 created_at: 1722260953
-updated_at: 1743695406
+updated_at: 1792145096
 valence_ids:
 - 367
 - 368

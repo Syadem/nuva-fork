@@ -2,6 +2,7 @@
 id: 1057
 name: ENGERIX B JUNIOR
 description: Hepatitis B recombinant vaccine, pediatric dose
+notes: Variation de nom du vaccin Engerix B 10.
 generic: false
 immunoglobulin: false
 injection_methods:

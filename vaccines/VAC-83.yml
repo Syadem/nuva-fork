@@ -2,6 +2,7 @@
 id: 83
 name: SYNFLORIX
 description: Pneumococcal polysaccharide conjugate vaccine, 10-valent, seroptypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 791
 name: Diphtheria (standard dose), tetanus, pertussis (whole or acellular, unspecified dose), inactivated polio (whole, trivalent), Haemophilus influenzae type b (conjugate, unspecified) and hepatitis B (recombinant) hexavalent DTPerHibPHepB vaccine, pediatric
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (whole or acellular, unspecified dose), inactivated polio (whole, trivalent), Haemophilus influenzae type b (conjugate, unspecified) and hepatitis B (recombinant) pediatric vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

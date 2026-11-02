@@ -2,6 +2,7 @@
 id: 1378
 name: VACTYPH
 description: Polysaccharide typhoid vaccine (Vi capsular antigen)
+notes: https://www.zyduslife.com/public/pdf/4_PI%20&%20SmPC_Typhoid%20Polysaccharide%20Vaccine%20I.P._VacTyph%C2%AE.pdf
 generic: false
 immunoglobulin: false
 injection_methods:

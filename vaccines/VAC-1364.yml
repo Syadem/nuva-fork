@@ -2,6 +2,7 @@
 id: 1364
 name: BIOHIB
 description: Haemophilus influenzae type b conjugate vaccine composed of PRP (polyribosylribitol phosphate) conjugated to tetanus toxoid
+notes: https://www.bharatbiotech.com/biohib.html
 generic: false
 immunoglobulin: false
 injection_methods:

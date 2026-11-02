@@ -2,6 +2,7 @@
 id: 861
 name: Meningococcal B multicomponent vaccine, unspecified
 description: Meningococcal vaccine, serogroup B (multicomponent - multiple proteins)
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

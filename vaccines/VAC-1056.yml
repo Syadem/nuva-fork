@@ -2,6 +2,15 @@
 id: 1056
 name: R21/MATRIX-M
 description: R21/Matrix-M pre-erythrocytic malaria vaccine
+notes: "https://www.who.int/fr/news/item/02-10-2023-who-recommends-r21-matrix-m-vaccine-for-malaria-prevention-in-updated-advice-on-immunization#:~:text=Le%20vaccin%20R21%20est%20le,Organisation%20avait%20recommand%C3%A9%20en%202021.\r
+
+  The R21/Matrix-M pre-erythrocytic malaria vaccine candidate was developed at the University of Oxford (Oxford, UK) and is currently manufactured by the Serum Institute of India (Pune, India).\r
+
+  https://cdn.who.int/media/docs/default-source/immunization/mvip/full-evidence-report-on-the-rtss-as01-malaria-vaccine-for-sage-mpag-(sept2021).pdf?sfvrsn=c9737be_5\r
+
+  https://www.thelancet.com/cms/10.1016/S1473-3099(22)00442-X/attachment/0d3c896e-a22b-4b4d-9494-66875432c5b9/mmc2.pdf\r
+
+  \r\n"
 generic: false
 immunoglobulin: false
 injection_methods: []

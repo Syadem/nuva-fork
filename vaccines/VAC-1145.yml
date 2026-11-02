@@ -2,6 +2,7 @@
 id: 1145
 name: Hepatitis B recombinant vaccine, three antigens, unspecified
 description: Recombinant hepatitis B vaccine, three antigens (HbS, pre-S1 and pre-S2)
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

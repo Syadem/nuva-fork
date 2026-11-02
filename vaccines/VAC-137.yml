@@ -2,6 +2,7 @@
 id: 137
 name: DT vaccine, unspecified
 description: Diphtheria toxoid (standard dose) and tetanus toxoid pediatric vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

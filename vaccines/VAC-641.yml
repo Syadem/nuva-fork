@@ -2,6 +2,7 @@
 id: 641
 name: GLOBORIX
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (whole-cell inactivated), Haemophilus influenzae type b (conjugated to tetanus toxoid) and meningococcal pediatric vaccine, serogroup A and C
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

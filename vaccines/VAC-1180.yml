@@ -2,6 +2,7 @@
 id: 1180
 name: Lyme disease recombinant vaccine, unspecified
 description: Recombinant anti-Borrelia burgdorferi vaccine - outer surface protein A (OspA)
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

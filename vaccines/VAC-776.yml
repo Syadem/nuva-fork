@@ -2,6 +2,7 @@
 id: 776
 name: TETRABIK
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose) and inactivated polio (trivalent) pediatric vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

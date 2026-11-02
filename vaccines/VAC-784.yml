@@ -2,6 +2,7 @@
 id: 784
 name: PERTAGEN
 description: Pertussis (multicomponent acellular, low dose) vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

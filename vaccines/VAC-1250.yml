@@ -2,6 +2,29 @@
 id: 1250
 name: EUVICHOL-S
 description: Cholera vaccine, oral, containing formalin-inactivated whole V. cholerae O1 bacteria
+notes: "https://www.cdc.gov/cholera/prevention/cholera-vaccines.html\r
+
+  https://www.who.int/fr/news/item/18-04-2024-who-prequalifies-new-oral-simplified-vaccine-for-cholera\r
+
+  https://extranet.who.int/prequal/vaccines/p/euvicholr-s\r
+
+  \r
+
+  https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(24)00059-7/fulltext?rss=yes\r
+
+  \r
+
+  Le besoin est « urgent ». L’OMS a approuvé une version simplifiée d’un vaccin oral contre le choléra, qui devrait permettre d’augmenter la production totale de ces sérums face à l’explosion des cas dans le monde.\r
+
+  \r
+
+  Le vaccin Euvichol-S est une formulation simplifiée d’Euvichol-Plus, avec moins de composants, ce qui devrait permettre de produire plus rapidement des volumes plus importants, a indiqué l’Organisation mondiale de la santé dans un communiqué diffusé vendredi. Il est produit par le groupe sud-coréen EuBiologics, dont l’OMS a déjà approuvé les vaccins Euvichol et Euvichol-Plus.\r
+
+  \r
+
+  \r
+
+  Pour l’organisation, le nouveau vaccin a un taux d’efficacité similaire aux formulations plus complexes. « Le nouveau vaccin est le troisième produit de la même famille de vaccins contre le choléra dans notre liste de préqualification », a déclaré Rogerio Gaspar, directeur du département de réglementation et de préqualification de l’OMS. Il espère « une augmentation rapide de la production et de l’approvisionnement dont de nombreuses communautés aux prises avec des épidémies de choléra ont un besoin urgent »."
 generic: false
 immunoglobulin: false
 injection_methods:

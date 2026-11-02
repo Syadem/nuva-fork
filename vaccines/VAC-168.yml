@@ -2,6 +2,7 @@
 id: 168
 name: AMBIRIX
 description: Combined hepatitis A and B vaccine, pediatric dose
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

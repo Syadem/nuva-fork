@@ -2,6 +2,7 @@
 id: 754
 name: Inactivated Koçak-19 Inaktif Adjuvant COVID-19 Vaccine
 description: COVID-19 vaccine, whole virion inactivated, adjuvanted (adjuvant unspecified)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 600
 name: Poliomyelitis OPV bivalent 1-3, unspecified
 description: Polio vaccine (live attenuated, bivalent) against poliovirus types 1 and 3, oral
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,12 +2,13 @@
 id: 1306
 name: TYPHIBEV
 description: Typhoid vaccine, Vi antigen conjugated to CRM197 protein
+notes: https://www.biologicale.com/pdf/Product_VB_Domestic_Marketing.pdf
 generic: false
 immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1741778711
-updated_at: 1744626393
+updated_at: 1792144667
 valence_ids:
 - 400
 other_names: []

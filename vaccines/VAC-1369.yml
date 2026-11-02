@@ -2,6 +2,9 @@
 id: 1369
 name: INDIRAB
 description: Whole virion inactivated rabies vaccine, cultured on Vero cells
+notes: "https://www.bharatbiotech.com/indirab.html\r
+
+  https://www.bharatbiotech.com/images/indirab/INDIRABPackageInsert.pdf"
 generic: false
 immunoglobulin: false
 injection_methods:

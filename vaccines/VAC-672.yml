@@ -2,6 +2,7 @@
 id: 672
 name: Vaxine-Spike-Covid
 description: COVID-19 vaccine, protein subunit, recombinant spike protein, with adjuvant (Advax)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

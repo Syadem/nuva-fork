@@ -2,6 +2,7 @@
 id: 147
 name: Influenza A(H1N1)2009 vaccine, unspecified
 description: Influenza A(H1N1)pdm09 pandemic vaccine, inactivated, obtained from egg culture
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

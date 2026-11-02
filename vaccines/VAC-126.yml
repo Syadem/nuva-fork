@@ -2,14 +2,15 @@
 id: 126
 name: HEVAC B
 description: Plasma vaccine against hepatitis B (first French vaccine)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689124
-updated_at: 1758812664
+updated_at: 1792404591
 valence_ids:
-- 68
+- 158
 other_names:
 - hevacb
 codes:

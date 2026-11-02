@@ -2,6 +2,21 @@
 id: 1053
 name: COMIRNATY OMICRON XBB.1.5 3 µg
 description: COVID-19 mRNA vaccine, subvariant Omicron XBB.1.5, 3 micrograms, paediatric dose (6 months-4 years)
+notes: "COMIRNATY OMICRON XBB.1.5 3 µg\r
+
+  Vaccin à ARNm contre la covid 19, subvariant Omicron XBB.1.5, 3 microgrammes\r
+
+  Omicron XBB.1.5 subvariant covid 19 mRNA vaccine, 3 micrograms\r
+
+  Omicron XBB.1.5 vacuna de ARNm covid 19 subvariante, 3 microgramos\r
+
+  Vaccino Omicron XBB.1.5 subvariante covid 19 mRNA, 3 microgrammi\r
+
+  Omicron XBB.1.5 subvariant covid 19 mRNA vaccin, 3 microgram\r
+
+  \r
+
+  PFIZER COMIRNATY-3 XBB.1.5 ENFANT (6 MOIS-4 ANS)"
 generic: false
 immunoglobulin: false
 injection_methods:

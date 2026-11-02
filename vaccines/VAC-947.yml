@@ -2,6 +2,7 @@
 id: 947
 name: IMMU-PHILUS
 description: Haemophilus influenzae type b vaccine, PRP polysaccharide conjugated to Neisseria meningitidis serogroup B outer membrane protein
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

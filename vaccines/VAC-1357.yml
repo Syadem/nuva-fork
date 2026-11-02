@@ -2,6 +2,7 @@
 id: 1357
 name: EUPOLIO
 description: Inactivated polio (trivalent) vaccine
+notes: https://www.lgchem.com/product-detail/eupolio-inj
 generic: false
 immunoglobulin: false
 injection_methods:

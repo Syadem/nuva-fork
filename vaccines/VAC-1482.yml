@@ -2,6 +2,7 @@
 id: 1482
 name: IMMUNOGLOBULINE HUMAINE DE L'HÉPATITE B LFB
 description: Hepatitis b immune globulin (human)
+notes: https://base-donnees-publique.medicaments.gouv.fr/medicament/68740103/extrait
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 818
 name: Typhoid-Paratyphoid vaccine, unspecified
 description: Typhoid and paratyphoid A and B vaccine, whole-cell inactivated
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

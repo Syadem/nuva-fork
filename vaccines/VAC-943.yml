@@ -2,6 +2,7 @@
 id: 943
 name: Rabies vaccine diploid cells, unspecified
 description: Whole virion inactivated rabies vaccine, prepared in human diploid cell culture (HDCV) MRC-5, inactivated with ß-propiolactone
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

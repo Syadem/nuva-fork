@@ -2,6 +2,7 @@
 id: 945
 name: Meningococcal vaccine serogroup unknown, unspecified
 description: Meningococcal vaccine, unspecified serogroup
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

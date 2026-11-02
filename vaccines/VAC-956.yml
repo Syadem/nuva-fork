@@ -2,6 +2,7 @@
 id: 956
 name: VACCINO COLERICO BERNA
 description: Inactivated whole-cell cholera vaccine for injection
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

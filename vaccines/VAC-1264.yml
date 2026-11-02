@@ -2,6 +2,7 @@
 id: 1264
 name: Avian influenza A(H5) vaccine, unspecified
 description: Avian influenza A(H5) vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

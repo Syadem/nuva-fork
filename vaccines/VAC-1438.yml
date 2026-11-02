@@ -2,6 +2,7 @@
 id: 1438
 name: Influenza vaccine, trivalent, inactivated, obtained from egg culture, fractionated or subunit, adjuvanted
 description: Influenza vaccine, trivalent, inactivated, obtained from egg culture, fractionated or subunit, adjuvanted
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

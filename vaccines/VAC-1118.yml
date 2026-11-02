@@ -2,6 +2,7 @@
 id: 1118
 name: Enterovirus A71 vaccine, unspecified
 description: Enterovirus A71 vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

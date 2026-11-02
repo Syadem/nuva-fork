@@ -2,6 +2,7 @@
 id: 393
 name: TICE BCG
 description: Tuberculosis vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

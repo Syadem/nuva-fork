@@ -2,6 +2,7 @@
 id: 332
 name: PENTAVALENTE
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (whole-cell inactivated), Haemophilus influenzae type b (conjugated to tetanus toxoid) and hepatitis B (recombinant) pediatric vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

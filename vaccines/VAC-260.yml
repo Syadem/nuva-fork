@@ -2,6 +2,7 @@
 id: 260
 name: IMOVAX Rabies I.D.
 description: Whole virion inactivated rabies vaccine, prepared in human diploid cell culture (HDCV), intradermal
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

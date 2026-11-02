@@ -2,6 +2,7 @@
 id: 484
 name: RABIVAX-S
 description: Whole virion inactivated rabies vaccine
+notes: https://www.seruminstitute.com/product_viral_rabies.php
 generic: false
 immunoglobulin: false
 injection_methods:

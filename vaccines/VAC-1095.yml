@@ -2,6 +2,9 @@
 id: 1095
 name: MVA85A
 description: Experimental tuberculosis vaccine
+notes: "https://www.atoute.org/n/IMG/pdf/Constituants_des_vaccins_version-actualisee.pdf\r
+
+  https://www.emergentbiosolutions.com/press/news-release-details-oxford-emergent-tuberculosis-consortium-vaccinates-last-infant/"
 generic: false
 immunoglobulin: false
 injection_methods:

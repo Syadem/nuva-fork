@@ -2,6 +2,7 @@
 id: 687
 name: UB-612 COVID-19 Vaccine
 description: COVID-19 vaccine, protein subunit, recombinant spike protein (based on S1 and S2 subunits of the Spike protein and M and N proteins of SARS-CoV-2)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

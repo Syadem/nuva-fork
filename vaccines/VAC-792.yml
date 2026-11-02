@@ -2,6 +2,7 @@
 id: 792
 name: Diphtheria-Tetanus-Pertussis-Polio-Hepatitis B pentavalent vaccine, unspecified
 description: Diphtheria toxoid (unspecified dose), tetanus toxoid, pertussis (whole-cell inactivated or acellular, unspecified dose), inactivated polio (trivalent) and hepatitis B (recombinant) vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

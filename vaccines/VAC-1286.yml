@@ -2,6 +2,11 @@
 id: 1286
 name: VAKSIN COVID-19 BIO FARMA
 description: COVID-19 vaccine, protein subunit, recombinant spike protein (RBD domain), administered intramuscularly.
+notes: "https://www.biofarma.co.id/id/our-product/detail/vaksin-campak-beku-kering\r
+
+  \r
+
+  Ce vaccin a été renommé \"IndoVac\" (voir VAC1283)."
 generic: false
 immunoglobulin: false
 injection_methods:

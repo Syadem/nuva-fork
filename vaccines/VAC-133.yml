@@ -2,6 +2,7 @@
 id: 133
 name: Smallpox vaccine, unspecified
 description: Live attenuated smallpox vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

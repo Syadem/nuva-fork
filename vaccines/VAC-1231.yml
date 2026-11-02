@@ -2,6 +2,7 @@
 id: 1231
 name: Diphtheria (standard dose), tetanus, pertussis (acellular, standard dose), hepatitis B and Haemophilus influenzae type b (tetanus toxoid conjugate) vaccine, pediatric
 description: Diphtheria (standard dose), tetanus, pertussis (acellular, standard dose), hepatitis B and Haemophilus influenzae type b (tetanus toxoid conjugate) vaccine, pediatric (10μg)
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

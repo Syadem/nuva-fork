@@ -2,6 +2,7 @@
 id: 1432
 name: Argentine hemorrhagic fever vaccine, Junin virus, unspecified
 description: Argentine hemorrhagic fever vaccine, Junin virus, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

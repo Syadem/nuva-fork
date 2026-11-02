@@ -2,6 +2,7 @@
 id: 768
 name: COVIVAC
 description: COVID-19 vaccine, non-replicating Newcastle disease virus vector encoding the SARS-CoV-2 spike protein, with or without CpG 1018 adjuvant
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

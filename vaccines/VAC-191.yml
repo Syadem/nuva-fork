@@ -2,6 +2,7 @@
 id: 191
 name: ARILVAX
 description: Live attenuated yellow fever vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

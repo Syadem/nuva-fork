@@ -2,6 +2,7 @@
 id: 1171
 name: Influenza trivalent vaccine, inactivated, obtained from egg culture, split or subunit, high dose, unspecified
 description: Influenza trivalent inactivated vaccine, obtained from egg culture, split or subunit, high dose
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

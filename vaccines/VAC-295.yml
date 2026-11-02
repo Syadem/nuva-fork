@@ -2,6 +2,7 @@
 id: 295
 name: MENOMUNE-A/C/Y/W-135
 description: Unconjugated meningococcal polysaccharide vaccine, serogroups A, C, W and Y
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

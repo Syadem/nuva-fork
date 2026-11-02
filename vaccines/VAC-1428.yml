@@ -2,6 +2,7 @@
 id: 1428
 name: COVID-19 vaccine, protein subunit, recombinant homodimeric RBD protein, Omicron variant XBB.1.16, with adjuvant (SQBA)
 description: COVID-19 vaccine, protein subunit, recombinant homodimeric RBD protein, Omicron variant XBB.1.16, with adjuvant (SQBA)
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

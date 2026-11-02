@@ -2,6 +2,7 @@
 id: 1128
 name: COVID-19 plasmid DNA vaccine, unspecified
 description: Plasmid DNA anti-covid 19 vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

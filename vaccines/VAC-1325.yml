@@ -2,6 +2,9 @@
 id: 1325
 name: GENEVAC-B 10 µg
 description: Recombinant hepatitis B vaccine with thiomersal, pediatric dose
+notes: "https://www.seruminstitute.com/product_recombinant.php\r
+
+  https://www.seruminstitute.com/product_ind_genevacb.php"
 generic: false
 immunoglobulin: false
 injection_methods:

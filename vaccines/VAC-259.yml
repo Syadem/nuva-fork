@@ -2,6 +2,7 @@
 id: 259
 name: IMOVAX Rabies
 description: Whole virion inactivated rabies vaccine, prepared in MRC5 cells
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

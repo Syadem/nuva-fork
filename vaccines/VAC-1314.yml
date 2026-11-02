@@ -2,6 +2,7 @@
 id: 1314
 name: MEASLES SII
 description: Live attenuated measles vaccine
+notes: https://www.seruminstitute.com/product_viral_measles.php
 generic: false
 immunoglobulin: false
 injection_methods:

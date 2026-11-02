@@ -2,6 +2,7 @@
 id: 1235
 name: Rotavirus RIX4414 monovalent vaccine, unspecified
 description: Rotavirus RIX4414 monovalent vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

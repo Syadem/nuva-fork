@@ -2,6 +2,7 @@
 id: 370
 name: RVA RABIES VACCINE ABSORBED BIOPORT
 description: Whole virion inactivated rabies vaccine, adsorbed on aluminium phosphate from BioPort laboratory
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

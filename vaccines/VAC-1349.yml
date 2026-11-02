@@ -2,6 +2,7 @@
 id: 1349
 name: TY BIOMED
 description: Whole-cell inactivated typhoid vaccine
+notes: https://biomed.pl/en/products/ty/
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 420
 name: BIO-TT Vaccine
 description: Tetanus toxoid vaccine
+notes: https://www.biofarma.co.id/id/our-product/detail/vaksin-biott
 generic: false
 immunoglobulin: false
 injection_methods:

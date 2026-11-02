@@ -2,6 +2,7 @@
 id: 475
 name: FOCLIVIA
 description: Influenza A(H5N1) vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

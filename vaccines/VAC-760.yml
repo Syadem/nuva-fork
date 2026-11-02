@@ -2,6 +2,7 @@
 id: 760
 name: ReCOV
 description: COVID-19 vaccine, protein subunit, recombinant spike protein, with adjuvant unspecified
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

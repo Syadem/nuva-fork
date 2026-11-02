@@ -2,6 +2,7 @@
 id: 1028
 name: RECOMBIVAX HB DIALYSIS
 description: Recombinant hepatitis B vaccine, dialysis patient dosage
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

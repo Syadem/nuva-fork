@@ -2,6 +2,7 @@
 id: 1277
 name: Chikungunya vaccine, unspecified
 description: Chikungunya vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

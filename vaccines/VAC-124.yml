@@ -2,6 +2,7 @@
 id: 124
 name: FOCETRIA (multidose)
 description: Pandemic influenza A(H1N1)pdm09 vaccine, inactivated, egg-based, surface antigen, with adjuvant
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

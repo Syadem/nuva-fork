@@ -2,6 +2,7 @@
 id: 487
 name: MENHIBRIX
 description: Haemophilus influenzae type b and meningococcal conjugate vaccine, serogroup A and C (conjugated to tetanus toxoid)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

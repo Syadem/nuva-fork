@@ -2,6 +2,11 @@
 id: 1087
 name: HYPERTET
 description: Human tetanus immunoglobulin, post-exposure treatment
+notes: "https://www.hypertet.com/en/hcp\r
+
+  https://www.rxlist.com/hypertet-drug.htm\r
+
+  https://pdf.hres.ca/dpd_pm/00062965.PDF"
 generic: false
 immunoglobulin: true
 injection_methods:

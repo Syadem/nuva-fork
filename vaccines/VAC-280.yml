@@ -2,6 +2,7 @@
 id: 280
 name: MUMPS-MEASLES VACCINE MICROGEN
 description: Live attenuated measles and mumps vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

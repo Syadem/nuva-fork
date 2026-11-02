@@ -2,6 +2,7 @@
 id: 1262
 name: MRESVIA
 description: Single-stranded 5' capped mRNA encoding the Respiratory syncytial virus glycoprotein F stabilized in the prefusion conformation
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

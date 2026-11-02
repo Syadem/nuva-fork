@@ -2,6 +2,7 @@
 id: 811
 name: Meningococcal B vaccine, unspecified
 description: Meningococcal vaccine, serogroup B, type of vaccine unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

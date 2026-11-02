@@ -2,6 +2,7 @@
 id: 424
 name: Typhoid live attenuated oral vaccine, unspecified
 description: Live attenuated typhoid vaccine, strain Ty21a, oral
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

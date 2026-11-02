@@ -2,6 +2,9 @@
 id: 1020
 name: Hepatitis A vaccine aventis pasteur MSD
 description: Whole virion inactivated hepatitis A vaccine, monovalent, adult dose
+notes: "1ère dénomination de AVAXIM 160.\r
+
+  virus de l'hépatite A souche GBM inactivé adsorbé.\r\n"
 generic: false
 immunoglobulin: false
 injection_methods:

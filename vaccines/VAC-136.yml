@@ -2,6 +2,7 @@
 id: 136
 name: DTwP - Diphtheria-Tetanus-Pertussis, unspecified
 description: Diphtheria toxoid (standard dose), tetanus toxoid and pertussis (whole-cell inactivated) pediatric vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 92
 name: VACCIN CHOLERIQUE PASTEUR
 description: Inactivated whole-cell cholera vaccine for injection
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

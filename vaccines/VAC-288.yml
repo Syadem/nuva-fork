@@ -2,6 +2,7 @@
 id: 288
 name: M-R VAX II
 description: Live attenuated measles and rubella vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

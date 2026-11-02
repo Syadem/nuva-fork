@@ -2,6 +2,7 @@
 id: 1391
 name: BILIVE
 description: Combined hepatitis A and B vaccine, adult dose
+notes: https://www.sinovac.com/en-us/portfolio/healive
 generic: false
 immunoglobulin: false
 injection_methods:

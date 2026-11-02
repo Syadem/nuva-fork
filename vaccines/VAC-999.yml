@@ -2,6 +2,7 @@
 id: 999
 name: WETVAX APSV
 description: Smallpox vaccine, first-generation, live vaccinia virus
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

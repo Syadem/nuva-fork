@@ -2,6 +2,7 @@
 id: 1181
 name: Diphtheria (standard dose), tetanus, pertussis (whole intact), Haemophilus influenzae type b (tetanus toxoid conjugated) and hepatitis B (recombinant) vaccine, pediatric
 description: Diphtheria (standard dose), tetanus, pertussis (whole intact), Haemophilus influenzae type b (tetanus toxoid conjugated) and hepatitis B (recombinant) vaccine, pediatric
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

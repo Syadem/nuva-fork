@@ -2,6 +2,7 @@
 id: 859
 name: HPV vaccine quadrivalent, unspecified
 description: Human Papillomavirus vaccine, quadrivalent (types 6, 11, 16, and 18), recombinant
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

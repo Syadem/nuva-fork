@@ -2,6 +2,7 @@
 id: 343
 name: PROHIBIT
 description: Haemophilus influenzae type b conjugate vaccine (PRP-D)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 177
 name: AC VAX
 description: Unconjugated meningococcal polysaccharide vaccine, serogroups A and C
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

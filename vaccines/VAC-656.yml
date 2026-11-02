@@ -2,6 +2,7 @@
 id: 656
 name: SPIKEVAX 0,2 mg/mL MODERNA
 description: COVID-19 mRNA vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 165
 name: VAQTA 25 U/0,5 mL
 description: Inactivated hepatitis A vaccine, pediatric dose
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

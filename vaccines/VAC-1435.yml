@@ -2,6 +2,7 @@
 id: 1435
 name: Rabies vaccine, inactivated, whole virion, cell culture-based, unspecified
 description: Rabies valence, inactivated, whole virion, cell culture-based, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

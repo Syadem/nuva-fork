@@ -2,6 +2,7 @@
 id: 12
 name: IMMUGRIP
 description: Trivalent inactivated seasonal influenza vaccine, split virion
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

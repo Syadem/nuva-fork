@@ -2,6 +2,7 @@
 id: 967
 name: HEPASOMA
 description: Inactivated whole-cell hepatitis A vaccine, virosome, pediatric or adult
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

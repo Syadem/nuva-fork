@@ -2,6 +2,7 @@
 id: 2
 name: AGRIPPAL
 description: Trivalent inactivated seasonal influenza vaccine, egg-based, surface antigen
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

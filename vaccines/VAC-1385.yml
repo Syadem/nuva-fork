@@ -2,6 +2,7 @@
 id: 1385
 name: GC FLU QUADRIVALENT
 description: Influenza quadrivalent inactivated vaccine, obtained from egg culture, split or subunit, unspecified
+notes: https://www.gcbiopharma.com/eng/product_view.do?idx=22&currentPage=1&searchColumn2List=1002
 generic: false
 immunoglobulin: false
 injection_methods:

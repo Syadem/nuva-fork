@@ -2,6 +2,7 @@
 id: 1226
 name: Hepatitis A and B combined vaccine, pediatric dose, unspecified
 description: Hepatitis A and B combined vaccine, pediatric dose, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

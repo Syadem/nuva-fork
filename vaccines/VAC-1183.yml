@@ -2,6 +2,7 @@
 id: 1183
 name: Ebola non-replicating viral vector vaccine, unspecified
 description: Non-replicating viral vector Ebola vaccine, modified Vaccine Ankara
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

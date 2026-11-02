@@ -2,6 +2,7 @@
 id: 233
 name: FLUMIST
 description: Seasonal influenza vaccine, trivalent, live attenuated, nasal
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

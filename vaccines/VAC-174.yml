@@ -2,6 +2,7 @@
 id: 174
 name: PROQUAD
 description: Live attenuated measles, mumps, rubella and chickenpox vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

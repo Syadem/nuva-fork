@@ -2,6 +2,7 @@
 id: 840
 name: ADDIGRIP
 description: Trivalent inactivated seasonal influenza vaccine, surface antigen
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

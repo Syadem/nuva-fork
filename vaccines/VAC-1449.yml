@@ -2,6 +2,7 @@
 id: 1449
 name: DITANRIX-PEDIATRIC
 description: Paediatric diphtheria vaccine (toxoid, standard dose) and tetanus vaccine (toxoid)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 1070
 name: Fluzone High-Dose Quadrivalent Southern Hemisphere
 description: Influenza quadrivalent inactivated vaccine, obtained from egg culture, split or subunit, high-dose
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

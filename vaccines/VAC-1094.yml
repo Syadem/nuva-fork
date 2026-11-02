@@ -2,6 +2,9 @@
 id: 1094
 name: OROCHOL
 description: live oral cholera vaccine
+notes: "https://www.cdc.gov/mmwr/volumes/71/rr/pdfs/rr7102a1-h.pdf\r
+
+  https://www.cdc.gov/mmwr/volumes/71/rr/pdfs/rr7102a1-h.pdf"
 generic: false
 immunoglobulin: false
 injection_methods:

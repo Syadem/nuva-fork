@@ -2,6 +2,7 @@
 id: 580
 name: CLAIRYG
 description: Measles immunoglobulin, human origin
+notes:
 generic: false
 immunoglobulin: true
 injection_methods: []

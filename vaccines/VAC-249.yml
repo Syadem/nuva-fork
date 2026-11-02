@@ -2,6 +2,7 @@
 id: 249
 name: RUBELLA VACCINE HPV-77
 description: Live attenuated rubella vaccine, grown on duck embryonic cells (HPV-77 strain)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

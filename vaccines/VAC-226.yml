@@ -2,6 +2,7 @@
 id: 226
 name: Diptheria, Tetanus and Acellular Pertussis Combined Walvax vaccine
 description: Diphtheria toxoid (standard dose), tetanus toxoid and pertussis (multicomponent acellular, standard dose) pediatric vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

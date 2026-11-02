@@ -2,6 +2,7 @@
 id: 1214
 name: COVID-19 mRNA vaccine encoding the SARS-CoV-2 spike protein, against the Omicron XBB.1.5 variant, 10µg, unspecified
 description: COVID-19 mRNA vaccine encoding the SARS-CoV-2 spike protein, against the Omicron XBB.1.5 variant, 10µg
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

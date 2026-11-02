@@ -2,6 +2,7 @@
 id: 815
 name: Pneumo-Hib, unspecified
 description: Haemophilus influenzae type b and pneumococcal conjugate vaccine , unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

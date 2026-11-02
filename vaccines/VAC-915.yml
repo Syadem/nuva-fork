@@ -2,6 +2,7 @@
 id: 915
 name: Hepatitis B vaccine, monovalent, adult dose, unspecified
 description: Recombinant hepatitis B vaccine, monovalent, adult dose
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

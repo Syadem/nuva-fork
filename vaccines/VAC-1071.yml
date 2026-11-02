@@ -2,6 +2,7 @@
 id: 1071
 name: RSV antibody or vaccine, unspecified
 description: RSV antibody or vaccine, unspecified
+notes: Non spécifié, pour les enregistrements historiques où l'on ne sait pas si le vaccin contre le VRS ou le vaccin MAB contre le VRS a été administré.
 generic: true
 immunoglobulin: false
 injection_methods: []

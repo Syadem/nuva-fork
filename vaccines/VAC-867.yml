@@ -2,6 +2,7 @@
 id: 867
 name: Diphtheria antitoxin, unspecified
 description: Diphtheria antitoxin
+notes: https://ansm.sante.fr/tableau-atun/antitoxine-diphterique-equine-solution-injectable
 generic: true
 immunoglobulin: true
 injection_methods: []

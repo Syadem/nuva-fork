@@ -2,6 +2,7 @@
 id: 1263
 name: COVID-19 mRNA vaccine encoding the SARS-COV-2 spike protein, authorized
 description: COVID-19 mRNA vaccine encoding the SARS-COV-2 spike protein, authorized
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 527
 name: VACCIN DIPHTERIQUE ET TETANIQUE ADSORBE
 description: Diphtheria toxoid (standard dose) and tetanus toxoid pediatric vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

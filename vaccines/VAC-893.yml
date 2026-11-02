@@ -2,6 +2,7 @@
 id: 893
 name: VACCINO ANTICOLERICO SCLAVO
 description: Cholera vaccine, unspecified
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

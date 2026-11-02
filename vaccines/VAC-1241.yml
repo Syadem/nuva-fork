@@ -2,6 +2,7 @@
 id: 1241
 name: Shingles vaccine, varicella-zoster virus (VZV) surface glycoprotein E (gE), unspecified
 description: Shingles vaccine, varicella-zoster virus (VZV) surface glycoprotein E (gE), unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

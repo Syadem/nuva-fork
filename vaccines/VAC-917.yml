@@ -2,6 +2,7 @@
 id: 917
 name: Hepatitis E vaccine, unspecified
 description: Recombinant Hepatitis E Peptide vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

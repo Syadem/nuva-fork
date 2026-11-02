@@ -2,6 +2,9 @@
 id: 1454
 name: PRIMAVAX
 description: Diphtheria vaccine (anatoxin, standard dose), tetanus vaccine (anatoxin) and hepatitis B vaccine
+notes: "https://www.drugfuture.com/ema/epar.aspx?ProductNumber=EMEA%252FH%252FC%252F000156&utm_source=chatgpt.com\r
+
+  https://ec.europa.eu/health/documents/community-register/2000/200007273695/dec_3695_fr.pdf\r\n"
 generic: false
 immunoglobulin: false
 injection_methods:

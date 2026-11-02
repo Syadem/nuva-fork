@@ -2,6 +2,7 @@
 id: 919
 name: Hib hbOC vaccine, unspecified
 description: Haemophilus influenzae type b vaccine, capsular oligosides (polyribosylribitol phosphate, PRP) conjugated to mutant diphtheria toxin CRM197
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

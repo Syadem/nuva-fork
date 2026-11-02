@@ -2,6 +2,9 @@
 id: 1048
 name: DECAVAC
 description: Diphtheria toxoid (low dose) and tetanus toxoid vaccine
+notes: "Idem Tenivac du même labo\r
+
+  https://www.fda.gov/media/76610/download\r\n"
 generic: false
 immunoglobulin: false
 injection_methods:

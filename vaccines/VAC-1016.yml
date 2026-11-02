@@ -2,6 +2,7 @@
 id: 1016
 name: IDFLU
 description: Trivalent inactivated seasonal influenza vaccine, surface antigen
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

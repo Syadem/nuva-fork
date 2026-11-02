@@ -2,6 +2,7 @@
 id: 921
 name: Japanese encephalitis vaccine, unspecified
 description: Japanese encephalitis vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 1017
 name: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (50 µg/50 µg)/mL MODERNA
 description: COVID-19 mRNA vaccine, bivalent, original virus + Omicron variant, 50 micrograms each
+notes: Flacon multidose de 2,5 ml (capsule amovible bleue)
 generic: false
 immunoglobulin: false
 injection_methods:

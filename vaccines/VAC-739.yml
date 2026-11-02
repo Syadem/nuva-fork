@@ -2,6 +2,7 @@
 id: 739
 name: RAZI Cov Pars
 description: COVID-19 vaccine, protein subunit, recombinant spike protein, with adjuvant unspecidfied
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

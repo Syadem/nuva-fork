@@ -2,6 +2,7 @@
 id: 1179
 name: Cholera and typhoid vaccine, injectable, unspecified
 description: Cholera (whole inactivated) and typhoid vaccine (unconjugated, purified Vi polysaccharide antigen), injectable
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

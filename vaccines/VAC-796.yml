@@ -2,6 +2,7 @@
 id: 796
 name: Pertussis vaccine, unspecified
 description: Pertussis vaccine (acellular or whole-cell inactivated)
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

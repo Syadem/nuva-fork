@@ -2,6 +2,7 @@
 id: 528
 name: MOSQUIRIX
 description: Hepatitis B and malaria (sporozoite surface protein) vaccine, unspecified
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

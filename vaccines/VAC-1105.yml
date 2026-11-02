@@ -2,6 +2,7 @@
 id: 1105
 name: BAT EMERGENT BIOSOLUTIONS
 description: Botulism Antitoxin Heptavalent (A, B, C, D, E, F, G) equine
+notes: https://www.emergentbiosolutions.com/wp-content/uploads/2022/01/BAT-Canada-Monograph-English.pdf
 generic: false
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 496
 name: GAMMATETANOS (immunoglobulines)
 description: Anti-tetanus immunoglobulin
+notes:
 generic: false
 immunoglobulin: true
 injection_methods: []

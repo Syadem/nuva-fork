@@ -2,6 +2,7 @@
 id: 804
 name: Anthrax vaccine, unspecified
 description: Anthrax vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 884
 name: DIF-PER-TET-ALL CHIRON
 description: Diphtheria toxoid (standard dose), tetanus toxoid and pertussis (multicomponent acellular, 3 components, standard dose) pediatric vaccine, adsorbed
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

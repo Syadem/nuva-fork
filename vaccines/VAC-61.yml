@@ -2,6 +2,7 @@
 id: 61
 name: VARIVAX
 description: Live attenuated chickenpox vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

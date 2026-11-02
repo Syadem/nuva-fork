@@ -2,6 +2,7 @@
 id: 318
 name: NOTHAV
 description: Inactivated hepatitis A vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

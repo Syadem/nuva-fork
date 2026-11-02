@@ -2,6 +2,7 @@
 id: 822
 name: Influenza vaccine, live attenuated, unspecified
 description: Seasonal influenza vaccine, live attenuated
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 952
 name: IMOVAX COLERA
 description: Inactivated whole-cell cholera vaccine for injection
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

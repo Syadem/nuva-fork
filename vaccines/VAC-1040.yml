@@ -2,6 +2,13 @@
 id: 1040
 name: AREXVY
 description: Respiratory syncytial virus (RSV) vaccine, recombinant, RSVPreF3 antigen derived from F protein, adjuvanted
+notes: "The investigational vaccine formulations are based on the RSVPreF3 antigen derived from the F protein of the RSV-A2 strain [19]. RSV F protein is the main surface virus antigen, well-conserved across RSV-A and -B subtypes [3,4], and induces potent nAb responses [20].\r
+
+  \r
+
+  Nine different RSVPreF3-based investigational vaccine formulations and placebo were assessed. RSVPreF3 formulations included 3 different RSVPreF3 antigen concentrations (30, 60, or 120 µg), and were unadjuvanted, or adjuvanted using AS01E or AS01B (see details in Supplementary Information). Placebo consisted of 150 mM sodium chloride solution.\r
+
+  \r\n"
 generic: false
 immunoglobulin: false
 injection_methods:

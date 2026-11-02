@@ -2,6 +2,7 @@
 id: 1334
 name: COMIRNATY KP.2 30 µg ADULT (+ 12 YEARS)
 description: COVID-19 mRNA vaccine, subvariant Omicron KP.2, 30 micrograms, adult (+ 12 years)
+notes: https://www.ema.europa.eu/fr/documents/product-information/comirnaty-epar-product-information_fr.pdf
 generic: false
 immunoglobulin: false
 injection_methods: []

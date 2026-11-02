@@ -2,6 +2,7 @@
 id: 827
 name: Measles, mumps, rubella and varicella (MMRV) live attenuated vaccine, unspecified
 description: Live attenuated measles, mumps, rubella and chickenpox vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

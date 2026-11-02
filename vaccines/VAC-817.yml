@@ -2,6 +2,7 @@
 id: 817
 name: Typhoid inactivated vaccine, unspecified
 description: Whole-cell inactivated typhoid vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

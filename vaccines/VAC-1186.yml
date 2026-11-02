@@ -2,6 +2,7 @@
 id: 1186
 name: COVID-19 vaccine with replicative viral vector with antigen-presenting cells, unspecified
 description: Anti-covid 19 vaccine with replicative viral vector with antigen-presenting cells, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

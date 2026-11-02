@@ -2,6 +2,9 @@
 id: 1502
 name: BIMERVAX LP.8.1
 description: COVID-19 vaccine, protein subunit, recombinant spike protein (RBD), Omicron LP.8.1 subvariant
+notes: "https://www.ema.europa.eu/en/medicines/human/EPAR/bimervax\r
+
+  https://www.ema.europa.eu/en/documents/product-information/bimervax-epar-product-information_en.pdf"
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 351
 name: QUINTUPLE
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose), Haemophilus influenzae type b (conjugated to tetanus toxoid) and hepatitis B (recombinant) pediatric vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

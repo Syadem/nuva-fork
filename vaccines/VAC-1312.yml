@@ -2,6 +2,7 @@
 id: 1312
 name: TT SII
 description: Tetanus vaccine (toxoid)
+notes: https://www.seruminstitute.com/product_diphtheriatetanus_texoid.php
 generic: false
 immunoglobulin: false
 injection_methods:

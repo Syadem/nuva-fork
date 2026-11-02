@@ -2,6 +2,7 @@
 id: 125
 name: AREPANRIX
 description: Influenza A(H1N1)pdm09 pandemic vaccine, inactivated, obtained from egg culture, split virion
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

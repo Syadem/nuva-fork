@@ -2,6 +2,7 @@
 id: 98
 name: HEXAVAC
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose), Haemophilus influenzae type b (conjugated to tetanus toxoid), inactivated polio (trivalent) and hepatitis B (recombinant) pediatric vaccine, adsorbed
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 862
 name: Measles immunoglobulin, unspecified
 description: Measles immunoglobulin
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

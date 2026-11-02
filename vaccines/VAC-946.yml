@@ -2,6 +2,7 @@
 id: 946
 name: TYPHIDRALL
 description: Typhoid and paratyphoid A and B vaccine, whole-cell inactivated
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

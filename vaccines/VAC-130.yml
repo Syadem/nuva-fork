@@ -2,6 +2,7 @@
 id: 130
 name: MMR Measles-Mumps-Rubella Vaccine, live attenuated, unspecified
 description: Live attenuated measles, mumps and rubella vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

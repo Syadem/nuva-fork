@@ -2,6 +2,7 @@
 id: 909
 name: Botulinum antitoxin
 description: Antitoxin against botulism
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,10 @@
 id: 443
 name: VARIE
 description: Smallpox vaccine, first-generation, live vaccinia virus
+notes: |-
+  Cloned VV lines P20 and P13, generated from smallpox Sevac VARIE vaccine (strain Praha) (Kutinová et al., 1995R11 ), were used as parental viruses for the preparation of recombinants. 
+  Institute of sera and Vaccine,
+  Czech Republic 
 generic: false
 immunoglobulin: false
 injection_methods: []

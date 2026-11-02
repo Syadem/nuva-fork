@@ -2,6 +2,7 @@
 id: 501
 name: EQUIRAB (immunoglobuline)
 description: Rabies immunoglobulin, equine origin
+notes:
 generic: false
 immunoglobulin: true
 injection_methods: []

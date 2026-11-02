@@ -2,6 +2,7 @@
 id: 799
 name: DT-Hib vaccine, unspecified
 description: Diphtheria toxoid (standard dose), tetanus toxoid and Haemophilus influenzae type b (conjugated unspecified) pediatric vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

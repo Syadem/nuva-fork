@@ -2,6 +2,7 @@
 id: 1205
 name: Ebola virus vaccine, recombinant live non-replicating viral vector Ad26.ZEBOV, unspecified
 description: Ebola virus vaccine, recombinant live non-replicating viral vector Ad26.ZEBOV, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

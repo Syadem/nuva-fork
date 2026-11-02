@@ -2,6 +2,7 @@
 id: 819
 name: Japanese Encephalitis inactivated vaccine, unspecified
 description: Whole virion inactivated japanese encephalitis vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

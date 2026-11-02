@@ -2,6 +2,7 @@
 id: 1069
 name: Vaccinia immune globulin
 description: Vaccinia immune globulin
+notes:
 generic: true
 immunoglobulin: true
 injection_methods: []

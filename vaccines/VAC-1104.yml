@@ -2,6 +2,7 @@
 id: 1104
 name: DIPHTHERIA ANTITOXIN B.P.
 description: Anti-diphtheria toxin immunoglobulin of equine origin
+notes: https://vinsbio.in/diphtheria-antitoxin-10000-bp/
 generic: false
 immunoglobulin: true
 injection_methods:

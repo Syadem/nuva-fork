@@ -2,6 +2,7 @@
 id: 135
 name: Polio vaccine, unspecified
 description: Polio vaccine, live or inactivated (unspecified)
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

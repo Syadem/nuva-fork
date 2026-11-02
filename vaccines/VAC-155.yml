@@ -2,6 +2,7 @@
 id: 155
 name: Dengue vaccine, unspecified
 description: Dengue vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

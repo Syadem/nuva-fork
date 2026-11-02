@@ -2,6 +2,7 @@
 id: 1168
 name: Diphtheria (standard dose), tetanus, pertussis (whole inactivated) and Haemophilus influenzae type b (diphtheria toxoid conjugate) vaccine (DTPeHib), pediatric
 description: Diphtheria (toxoid, standard dose), tetanus (toxoid), pertussis (whole inactivated) and Haemophilus influenzae type b (diphtheria toxoid conjugate) vaccine, pediatric
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

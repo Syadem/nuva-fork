@@ -2,6 +2,7 @@
 id: 1517
 name: AUJEMFLU
 description: Influenza vaccine, trivalent, inactivated, obtained from egg culture, fractionated or subunit, adjuvanted
+notes: https://www.ema.europa.eu/en/medicines/human/EPAR/aujemflu
 generic: false
 immunoglobulin: false
 injection_methods:

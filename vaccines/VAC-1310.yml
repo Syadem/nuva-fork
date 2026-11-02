@@ -2,6 +2,9 @@
 id: 1310
 name: SII TD-VAC
 description: Diphtheria vaccine (toxoid, reduced dose) and tetanus vaccine (toxoid)
+notes: "https://www.seruminstitute.com/product_ind_siitdvac.php\r
+
+  https://www.seruminstitute.com/product_diphtheriatetanus_absorbed.php"
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,11 @@
 id: 1283
 name: INDOVAC
 description: COVID-19 protein subunit vaccine, recombinant spike protein, intramuscular route
+notes: "https://www.biofarma.co.id/id/our-product/detail/indovac\r
+
+  \r
+
+  Anciennement connu sous le nom de \"Vaksin COVID-19 Bio Farma\"."
 generic: false
 immunoglobulin: false
 injection_methods:

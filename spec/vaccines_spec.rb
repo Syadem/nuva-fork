@@ -19,7 +19,7 @@ RSpec.describe 'The vaccines folder' do
 
       it 'matches the expected schema' do
         expect(data).to be_a(Hash)
-        expect(data.keys).to contain_exactly('id', 'name', 'description', 'generic', 'immunoglobulin', 'injection_methods', 'created_at', 'updated_at', 'valence_ids', 'other_names', 'codes')
+        expect(data.keys).to contain_exactly('id', 'name', 'description', 'notes', 'generic', 'immunoglobulin', 'injection_methods', 'created_at', 'updated_at', 'valence_ids', 'other_names', 'codes')
 
         expect(data['id']).to be_a(Integer)
         expect(data['id']).to be_positive
@@ -29,6 +29,7 @@ RSpec.describe 'The vaccines folder' do
         expect(data['name']).to be_a(String)
         expect(data['name'].strip).not_to be_empty
         expect(data['description']).to(be_a(String).or be_nil)
+        expect(data['notes']).to(be_a(String).or be_nil)
 
         expect(data['generic']).to(be(true).or be(false))
         expect(data['immunoglobulin']).to(be(true).or be(false))

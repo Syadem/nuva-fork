@@ -2,6 +2,11 @@
 id: 1504
 name: TD-PUR
 description: Diphtheria toxoid (low dose) and tetanus toxoid vaccine
+notes: "https://www.pei.de/EN/newsroom/hp-news/2025/250917-td-vaccine-td-immun-available-primary-booster-vaccination.html?utm_source=chatgpt.com\r
+
+  \r
+
+  https://www.phel.ch/jcms/phel_275864/td-pur-imp-d-vaccin-est-definitivement-retire-du-marche-et-est-remplace-par-boostrix-vaccin-antitetanique-antidiphterique-et-anticoqueluche-ou-revaxis-vaccin-antitetanique-antidiphterique-et-antipoliomyelite?utm_source=chatgpt.com"
 generic: false
 immunoglobulin: false
 injection_methods:

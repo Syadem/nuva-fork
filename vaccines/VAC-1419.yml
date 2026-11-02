@@ -2,6 +2,11 @@
 id: 1419
 name: Chikungunya VLP vaccine (recombinant, adsorbed)
 description: Chikungunya VLP vaccine (recombinant, adsorbed)
+notes: "Recommandé : Pour les personnes de 12 ans et plus voyageant dans une zone en épidémie.\r
+
+  Peut être envisagé : Pour les voyageurs de 12 ans et plus se rendant dans une zone à risque élevé sans épidémie, pour un séjour prolongé (≥ 6 mois).\r
+
+  Recommandé également pour les travailleurs de laboratoire exposés au virus."
 generic: true
 immunoglobulin: false
 injection_methods: []

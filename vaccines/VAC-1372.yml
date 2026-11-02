@@ -2,6 +2,7 @@
 id: 1372
 name: ROTAVAC
 description: Rotavirus vaccine
+notes: https://www.bharatbiotech.com/rotavac.html
 generic: false
 immunoglobulin: false
 injection_methods:

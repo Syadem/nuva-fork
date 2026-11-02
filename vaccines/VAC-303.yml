@@ -2,6 +2,7 @@
 id: 303
 name: MONIARIX
 description: Unconjugated pneumococcal polysaccharide vaccine, 17-valent, serotypes 1, 2, 3, 4, 6A, 7F, 8, 9N, 11A, 12F, 14, 15F, 17F, 18C, 19F, 23F and 25
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

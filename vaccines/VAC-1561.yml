@@ -1,0 +1,18 @@
+---
+id: 1561
+name: HEPA-B INJECTION PEDIATRIC
+description: Recombinant hepatitis B vaccine, paediatric dose
+notes:
+generic: false
+immunoglobulin: false
+injection_methods:
+- intramuscular
+created_at: 1792487167
+updated_at: 1792487216
+valence_ids:
+- 114
+other_names:
+- HEPABINJECTION
+codes:
+- nomenclature: SYADEM
+  code: abc8e993-d351-45e7-860f-ec5dadf0be69

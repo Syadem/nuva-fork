@@ -2,6 +2,7 @@
 id: 345
 name: Haemophilus influenzae type b (PRP-T) conjugated to tetanus toxoid vaccine, unspecified
 description: Haemophilus influenzae type b conjugate vaccine composed of PRP (polyribosylribitol phosphate) conjugated to tetanus toxoid
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

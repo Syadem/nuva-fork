@@ -2,6 +2,7 @@
 id: 245
 name: HEPTAVAX B
 description: Plasma hepatitis B vaccine, used in the USA from 1981 to 1990
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

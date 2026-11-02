@@ -2,6 +2,7 @@
 id: 121
 name: PRIORIX-TETRA
 description: Live attenuated measles, mumps, rubella and chickenpox vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

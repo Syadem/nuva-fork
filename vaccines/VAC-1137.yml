@@ -2,6 +2,7 @@
 id: 1137
 name: Tick-borne encephalitis whole inactivated vaccine, strain K23, unspecified
 description: Whole inactivated tick-borne encephalitis vaccine, strain K23, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

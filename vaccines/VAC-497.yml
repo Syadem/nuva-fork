@@ -2,6 +2,7 @@
 id: 497
 name: Tetanus immunoglobulin, unspecified
 description: Anti-tetanus immunoglobulin
+notes:
 generic: true
 immunoglobulin: true
 injection_methods: []

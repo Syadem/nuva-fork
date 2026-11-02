@@ -2,6 +2,7 @@
 id: 143
 name: Haemophilus influenzae B (or Hib) vaccine, unspecified
 description: Haemophilus influenzae type b conjugate vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

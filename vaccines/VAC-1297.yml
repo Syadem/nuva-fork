@@ -2,6 +2,7 @@
 id: 1297
 name: TT BIO FARMA
 description: Tetanus vaccine (toxoid)
+notes: https://www.biofarma.co.id/id/our-product/detail/vaksin-tt
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 308
 name: MORUMAN BERNA PRODUCTS
 description: Measles immunoglobulin
+notes:
 generic: false
 immunoglobulin: true
 injection_methods: []

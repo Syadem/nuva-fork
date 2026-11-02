@@ -2,6 +2,7 @@
 id: 820
 name: Influenza inactivated whole vaccine, obtained from egg culture, unspecified
 description: Influenza inactivated whole vaccine, obtained from egg culture, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

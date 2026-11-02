@@ -2,6 +2,7 @@
 id: 844
 name: VERORABVAX
 description: Whole virion inactivated rabies vaccine, WISTAR PM/WI 38-1503-3M strain, cultured on Vero cells, inactivated with ß-propiolactone
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

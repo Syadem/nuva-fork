@@ -2,6 +2,7 @@
 id: 828
 name: Rotavirus pentavalent vaccine, unspecified
 description: Live attenuated pentavalent rotavirus vaccine, oral
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

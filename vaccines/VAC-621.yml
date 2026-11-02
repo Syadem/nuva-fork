@@ -2,6 +2,7 @@
 id: 621
 name: MenC, unspecified
 description: Meningococcal conjugate Vaccine, serogroup C (conjugated to tetanus toxoid, Produced by the Ezequiel Dias Foundation)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

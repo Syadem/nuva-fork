@@ -2,6 +2,7 @@
 id: 1201
 name: Dengue tetravalent vaccine, live attenuated chimeric recombinant based on 17D yellow fever vaccine, unspecified
 description: Dengue tetravalent vaccine, live attenuated chimeric recombinant based on 17D yellow fever vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

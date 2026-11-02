@@ -2,6 +2,7 @@
 id: 229
 name: FLU SHIELD
 description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

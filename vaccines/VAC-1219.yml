@@ -2,6 +2,7 @@
 id: 1219
 name: Diphtheria (standard dose), tetanus, pertussis (whole inactivated), Haemophilus influenzae type b (tetanus toxoid conjugated) and meningococcal serogroups A and C (toxoid conjugate) vaccine, pediatric
 description: Diphtheria (standard dose), tetanus, pertussis (whole inactivated), Haemophilus influenzae type b (tetanus toxoid conjugated) and meningococcal serogroups A and C (toxoid conjugate) vaccine, pediatric
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

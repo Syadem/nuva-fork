@@ -2,6 +2,9 @@
 id: 1405
 name: EASYFOURPOL
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose), Haemophilus influenzae type b (conjugated to tetanus toxoid) and inactivated polio (trivalent) pediatric vaccine, adsorbed
+notes: "https://www.panaceabiotec.com/en/products/product-list\r
+
+  https://www.panaceabiotec.com/assets/documents/SmPc_EasyfourPol%20vaccine_2023.pdf"
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 1033
 name: COMIRNATY ORIGINAL/OMICRON BA.4-5 (5/5 µg) BIONTECH-PFIZER
 description: COVID-19 bivalent mRNA vaccine, original virus + Omicron BA.4/5 variant, 5 micrograms each, paediatric dose 5-11 years
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

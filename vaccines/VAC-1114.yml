@@ -2,6 +2,7 @@
 id: 1114
 name: Typhoid fever and hepatitis A vaccine, unspecified
 description: Typhoid vaccine combined with hepatitis A vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

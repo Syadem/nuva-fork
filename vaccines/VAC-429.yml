@@ -2,6 +2,7 @@
 id: 429
 name: VACCIN COMBINAT DIFTERO-TETANIC
 description: Diphtheria toxoid (standard dose) and tetanus toxoid pediatric vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

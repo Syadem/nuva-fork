@@ -2,6 +2,7 @@
 id: 1556
 name: TG4050
 description: Non-HPV-related squamous cell carcinomas of the head and neck vaccine, unspecified
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

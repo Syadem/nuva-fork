@@ -2,6 +2,7 @@
 id: 1221
 name: Diphtheria (standard dose), tetanus and rubella vaccine, unspecified
 description: Pediatric diphtheria (toxoid, standard dose), tetanus (toxoid) and rubella vaccine (live attenuated)
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

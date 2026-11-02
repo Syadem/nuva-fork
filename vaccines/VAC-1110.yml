@@ -2,6 +2,7 @@
 id: 1110
 name: Meningococcal C vaccine unconjugated, unspecified
 description: Meningococcal C vaccine unconjugated, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

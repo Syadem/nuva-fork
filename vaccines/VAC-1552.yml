@@ -2,6 +2,7 @@
 id: 1552
 name: Diphtheria vaccine (anatoxin, standard dose), tetanus vaccine (anatoxin) and hepatitis B vaccine
 description: Diphtheria vaccine (anatoxin, standard dose), tetanus vaccine (anatoxin) and hepatitis B vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

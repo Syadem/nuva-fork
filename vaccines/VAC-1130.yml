@@ -2,6 +2,7 @@
 id: 1130
 name: Influenza trivalent inactivated and tetanus toxoid vaccine, unspecified
 description: Trivalent inactivated seasonal influenza vaccine, split virion and tetanus (toxoid)
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

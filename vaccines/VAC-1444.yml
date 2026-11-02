@@ -2,6 +2,7 @@
 id: 1444
 name: Influenza vaccine, trivalent, VLP, unspecified
 description: Influenza vaccine, trivalent, VLP, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

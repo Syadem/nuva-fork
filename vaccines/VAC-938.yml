@@ -2,6 +2,7 @@
 id: 938
 name: Influenza quadrivalent vaccine, unspecified
 description: Quadrivalent inactivated seasonal influenza vaccine, split virion or surface antigen vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

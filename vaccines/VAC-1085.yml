@@ -2,6 +2,7 @@
 id: 1085
 name: MYCOBAX
 description: Live, attenuated tuberculosis vaccine
+notes: https://violinet.org/vaxquery/vaccine_detail.php?c_vaccine_id=315&keywords=mycobax
 generic: false
 immunoglobulin: false
 injection_methods: []

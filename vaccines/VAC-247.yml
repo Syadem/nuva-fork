@@ -2,6 +2,7 @@
 id: 247
 name: HIBTITER
 description: Haemophilus influenzae type b vaccine, capsular oligosaccharides (polyribosylribitol phosphate, PRP) conjugated to mutant diphtheria toxin CRM197
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 70
 name: DT BIS
 description: Diphtheria toxoid (standard dose) and tetanus toxoid pediatric vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

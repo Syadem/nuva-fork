@@ -2,6 +2,7 @@
 id: 1338
 name: ZOONOTIC
 description: Influenza A(H5N1) vaccine (fragmented virion, inactivated, adjuvanted)
+notes: https://www.ema.europa.eu/en/medicines/human/EPAR/zoonotic-influenza-vaccine-seqirus
 generic: false
 immunoglobulin: false
 injection_methods:

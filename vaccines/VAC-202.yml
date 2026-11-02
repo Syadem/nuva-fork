@@ -2,6 +2,7 @@
 id: 202
 name: BVAC
 description: Antitoxin against botulism
+notes: usage militaire
 generic: false
 immunoglobulin: false
 injection_methods: []

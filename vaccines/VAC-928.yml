@@ -2,6 +2,7 @@
 id: 928
 name: Hepatitis A live attenuated vaccine, unspecified
 description: Live attenuated hepatitis A vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

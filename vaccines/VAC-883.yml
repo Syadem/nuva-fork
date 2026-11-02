@@ -2,6 +2,7 @@
 id: 883
 name: ENTEROVACCINO TIFICO SCLAVO
 description: Whole-cell inactivated typhoid vaccine, oral
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

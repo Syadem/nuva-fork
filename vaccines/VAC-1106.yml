@@ -2,6 +2,7 @@
 id: 1106
 name: COVID-19 VLP vaccine, unspecified
 description: Covid 19 VLP vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

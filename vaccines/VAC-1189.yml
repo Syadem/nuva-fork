@@ -2,6 +2,7 @@
 id: 1189
 name: COVID-19 non-replicating vector vaccine, modified Ankara vaccine encoding the SARS-CoV-2 spike protein, unspecified
 description: COVID-19 non-replicating vector vaccine, modified Ankara vaccine encoding the SARS-CoV-2 spike protein, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

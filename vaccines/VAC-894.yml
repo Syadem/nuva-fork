@@ -2,6 +2,7 @@
 id: 894
 name: Adenovirus vaccine, unspecified
 description: Adenovirus vaccine, unspecified type
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

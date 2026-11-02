@@ -2,6 +2,7 @@
 id: 1084
 name: BAYTET
 description: Tetanus immune globulin human solvent/detergent treated 250 units
+notes: https://www.rxlist.com/baytet-drug.htm
 generic: false
 immunoglobulin: true
 injection_methods:

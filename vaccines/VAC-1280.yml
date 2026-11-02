@@ -2,6 +2,7 @@
 id: 1280
 name: Pneumococcal conjugate vaccine, 21-valent, adsorbed, serotypes 3, 6A, 7F, 8, 9N, 10A, 11A, 12F, 15A, 15B, 15C, 16F, 17F, 19A, 20A, 22F, 23A, 23B, 24F, 31, 33F, 35B
 description: Pneumococcal conjugate vaccine, 21-valent, adsorbed, serotypes 3, 6A, 7F, 8, 9N, 10A, 11A, 12F, 15A, 15B, 15C, 16F, 17F, 19A, 20A, 22F, 23A, 23B, 24F, 31, 33F, 35B
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

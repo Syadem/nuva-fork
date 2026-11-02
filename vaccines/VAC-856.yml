@@ -2,6 +2,7 @@
 id: 856
 name: Diphtheria (standard dose), tetanus and pertussis (multicomponent acellular, standard dose) and Haemophilus influenzae type b (conjugated, unspecified) DTaPHib vaccine, pediatric
 description: Diphtheria toxoid (standard dose), tetanus toxoid and pertussis (multicomponent acellular, standard dose) and Haemophilus influenzae type b (conjugated, unspecified) pediatric vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

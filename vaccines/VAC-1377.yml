@@ -2,6 +2,7 @@
 id: 1377
 name: VAXIFLU-4
 description: Influenza quadrivalent inactivated vaccine, obtained from egg culture, split or subunit, unspecified
+notes: https://www.zyduslife.com/public/pdf/2_PI%20&SmPC_Inactivated%20Influenza%20Vaccine%20((Split%20Virion)%20I.P.(Tetravalent)_Vaxiflu-4.pdf
 generic: false
 immunoglobulin: false
 injection_methods:

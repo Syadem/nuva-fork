@@ -2,6 +2,7 @@
 id: 1431
 name: RSV vaccine, unspecified
 description: RSV vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

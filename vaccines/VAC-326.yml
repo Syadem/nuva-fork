@@ -2,6 +2,7 @@
 id: 326
 name: PEDVAXHIB
 description: Haemophilus influenzae type b vaccine, capsular polysaccharide (polyribosylribitol phosphate, PRP) conjugated to outer membrane protein of Neisseria meningitidis serogroup B
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

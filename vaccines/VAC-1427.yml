@@ -2,6 +2,7 @@
 id: 1427
 name: Japanese encephalitis vaccine, whole inactivated, prepared in Vero cells, 6 micrograms
 description: Japanese encephalitis vaccine, whole inactivated, prepared in Vero cells, 6 micrograms
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

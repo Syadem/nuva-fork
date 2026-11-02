@@ -2,6 +2,7 @@
 id: 1535
 name: COVID-19 vaccine, protein subunit, recombinant spike protein, with adjuvant unspecified
 description: COVID-19 vaccine, protein subunit, recombinant spike protein, with adjuvant unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

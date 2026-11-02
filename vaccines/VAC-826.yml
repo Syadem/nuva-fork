@@ -2,6 +2,7 @@
 id: 826
 name: MEASLES AND RUBELLA VACCINE SII
 description: Live attenuated measles and rubella vaccine
+notes: https://www.seruminstitute.com/product_viral_measles-rubella.php
 generic: false
 immunoglobulin: false
 injection_methods:

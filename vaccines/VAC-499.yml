@@ -2,6 +2,7 @@
 id: 499
 name: BERIRAB
 description: Rabies immunoglobulin, human origin
+notes:
 generic: false
 immunoglobulin: true
 injection_methods: []

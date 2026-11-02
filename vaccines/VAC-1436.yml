@@ -2,6 +2,7 @@
 id: 1436
 name: Rabies vaccine, inactivated, whole virion, prepared from animal brain tissue infected with rabies virus, unspecified
 description: Rabies vaccine, inactivated, whole virion, prepared from animal brain tissue infected with rabies virus, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

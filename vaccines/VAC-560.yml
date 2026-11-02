@@ -2,6 +2,7 @@
 id: 560
 name: VAXIGRIPTETRA
 description: Quadrivalent inactivated seasonal influenza vaccine, surface antigens
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

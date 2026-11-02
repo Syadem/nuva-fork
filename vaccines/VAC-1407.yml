@@ -2,6 +2,9 @@
 id: 1407
 name: NOVOHIB
 description: Haemophilus influenzae type b conjugate vaccine composed of PRP (polyribosylribitol phosphate) conjugated to tetanus toxoid
+notes: "https://www.panaceabiotec.com/en/products/product-list\r
+
+  https://www.panaceabiotec.com/assets/documents/SmPc_NovoHib.pdf"
 generic: false
 immunoglobulin: false
 injection_methods:

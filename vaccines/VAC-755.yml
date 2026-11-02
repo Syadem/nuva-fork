@@ -2,6 +2,7 @@
 id: 755
 name: Adjuvanted inactivated vaccine against SARS-CoV-2
 description: "COVID-19 vaccine, whole virion inactivated, adjuvanted (adjuvant : aluminium hydroxide + TLR9 agonist (CpG ODN)"
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 1497
 name: TD-VIRELON
 description: Diphtheria toxoid (low dose), tetanus toxoid and inactivated polio (trivalent) vaccine
+notes: https://www.impfkritik.de/upload/pdf/fachinfo/Td-Virelon-Td-IPV-Chiron-Behring-2006-09.pdf
 generic: false
 immunoglobulin: false
 injection_methods:

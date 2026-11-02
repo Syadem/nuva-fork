@@ -2,6 +2,7 @@
 id: 161
 name: ZOSTAVAX
 description: Live attenuated shingles vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

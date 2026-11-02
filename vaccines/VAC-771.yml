@@ -2,6 +2,7 @@
 id: 771
 name: VBI-2902a
 description: COVID-19 vaccine, VLP, recombinant spike protein, with adjuvant (aluminum phosphate)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

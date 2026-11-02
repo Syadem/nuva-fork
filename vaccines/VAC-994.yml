@@ -2,6 +2,7 @@
 id: 994
 name: VARIVAX II
 description: Live attenuated chickenpox vaccine
+notes: "Un vaccin contre la varicelle plus thermostable que le précédent, le Varivax III®, est maintenant disponible sur le marché. Ce produit peut être conservé à une température se situant entre 2 et 8 C o et ne nécessite plus d'être congelé. "
 generic: false
 immunoglobulin: false
 injection_methods: []

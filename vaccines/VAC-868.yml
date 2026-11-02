@@ -2,6 +2,7 @@
 id: 868
 name: MENPOVAX A
 description: Unconjugated meningococcal polysaccharide vaccine, serogroup A
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

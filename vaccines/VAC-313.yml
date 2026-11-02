@@ -2,6 +2,7 @@
 id: 313
 name: MUMPS inactivated
 description: Whole virion Inactivated mumps vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 525
 name: INFANRIX PENTA
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose), inactivated polio (trivalent) and hepatitis B (recombinant) pediatric vaccine, adsorbed
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

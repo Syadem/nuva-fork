@@ -2,6 +2,7 @@
 id: 1193
 name: Japanese encephalitis vaccine, live recombinant attenuated, unspecified
 description: Live attenuated Japanese encephalitis vaccine, chimeric recombinant
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

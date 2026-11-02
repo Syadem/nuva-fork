@@ -2,6 +2,7 @@
 id: 394
 name: TIG
 description: Anti-tetanus immunoglobulin
+notes:
 generic: false
 immunoglobulin: true
 injection_methods: []

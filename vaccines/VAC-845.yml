@@ -2,6 +2,7 @@
 id: 845
 name: ORAL POLIO VACCINE PRODUCED ON VERO MERIEUX CELLS
 description: Inactivated polio (trivalent) vaccine, oral
+notes: "http://agence-prd.ansm.sante.fr/php/ecodex/extrait.php?specid=60111635\r\n"
 generic: false
 immunoglobulin: false
 injection_methods:

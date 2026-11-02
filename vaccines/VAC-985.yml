@@ -2,6 +2,7 @@
 id: 985
 name: VACCINO TAB TE ISI
 description: Tetanus toxoid, typhoid (whole-cell inactivated) and paratyphoid A and B (whole-cell inactivated) vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

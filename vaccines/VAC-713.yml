@@ -2,6 +2,7 @@
 id: 713
 name: Typhoid polysaccharide vaccine, unspecified
 description: Polysaccharide typhoid vaccine (Vi capsular antigen)
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 944
 name: Cholera inactivated whole virion oral vaccine, unspecified
 description: Oral Inactivated whole-cell cholera vaccine
+notes: Notes
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 252
 name: VAXIGRIP ENFANTS
 description: Seasonal influenza vaccine, trivalent inactivated, obtained from egg culture, split virion, pediatric form
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

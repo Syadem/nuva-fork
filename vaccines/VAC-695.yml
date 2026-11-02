@@ -2,6 +2,7 @@
 id: 695
 name: RBD-HBsAg-VLPs-Covid
 description: COVID-19 vaccine, VLP, recombinant spike protein. The RBD antigen of SARS-Cov-2 is conjugated to the HBs antigen of hepatitis B virus
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

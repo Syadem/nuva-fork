@@ -2,6 +2,7 @@
 id: 1356
 name: EUVAX B 10 µg
 description: Recombinant hepatitis B vaccine, paediatric dose
+notes: https://www.lgchem.com/product-detail/euvaxb-inj
 generic: false
 immunoglobulin: false
 injection_methods:

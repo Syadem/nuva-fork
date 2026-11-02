@@ -2,6 +2,7 @@
 id: 881
 name: Japanese Encephalitis live attenuated vaccine, unspecified
 description: Live attenuated Japanese encephalitis vaccine, strain and production platform not specified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

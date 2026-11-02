@@ -2,6 +2,7 @@
 id: 1481
 name: FLUVACCINOL
 description: Trivalent inactivated seasonal influenza vaccine, surface antigen, adult dose
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

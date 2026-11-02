@@ -2,6 +2,7 @@
 id: 1237
 name: Malaria vaccine pre-erythrocytic R21/Matrix-M
 description: Malaria vaccine pre-erythrocytic R21/Matrix-M
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

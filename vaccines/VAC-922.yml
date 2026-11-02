@@ -2,6 +2,7 @@
 id: 922
 name: Adenovirus live attenuated vaccine, type 4 and type 7, oral
 description: Adenovirus type 7 and 4 vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

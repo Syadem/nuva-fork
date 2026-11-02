@@ -2,6 +2,7 @@
 id: 726
 name: AdCOVID
 description: COVID-19 vaccine, non-replicating adenoviral vector encoding the SARS-CoV-2 spike protein
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

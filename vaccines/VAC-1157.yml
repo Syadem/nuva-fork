@@ -2,6 +2,7 @@
 id: 1157
 name: Smallpox 3rd generation vaccine, modified Ankara vaccinia virus, unspecified
 description: Third generation smallpox vaccine, modified vaccinia Ankara virus, non-replicating
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

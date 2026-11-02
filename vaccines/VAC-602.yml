@@ -2,6 +2,7 @@
 id: 602
 name: DTaP - Diphtheria-Tetanus-Pertussis vaccine, standard dose, unspecified
 description: Diphtheria toxoid (standard dose), tetanus toxoid and pertussis (multicomponent acellular, standard dose) pediatric vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

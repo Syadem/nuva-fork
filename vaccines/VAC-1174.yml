@@ -2,6 +2,7 @@
 id: 1174
 name: Diphtheria (standard dose), tetanus, pertussis (multicomponent acellular, standard dose), polio (whole inactivated, trivalent) and hepatitis B (recombinant) vaccine (DTPaPHepB), pediatric
 description: Diphtheria (toxoid, standard dose), tetanus (toxoid), pertussis (multicomponent acellular, standard dose), polio (whole inactivated, trivalent) and hepatitis B (recombinant) vaccine, pediatric
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

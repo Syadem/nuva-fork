@@ -2,6 +2,7 @@
 id: 590
 name: VACCIN BCG AJVACCINES
 description: Tuberculosis vaccine
+notes: https://cima.aemps.es/cima/dochtml/p/40773/Prospecto_40773.html
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 973
 name: VIROFLU
 description: Trivalent inactivated seasonal influenza vaccine, virosome
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

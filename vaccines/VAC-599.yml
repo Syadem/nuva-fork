@@ -2,6 +2,7 @@
 id: 599
 name: DTPerHibHepB pentavalent vaccine, unspecified
 description: Diphtheria toxoid (standard dose), tetanus toxoid and pertussis (multicomponent acellular, unspecified dose), Haemophilus influenzae type b (conjugated, unspecified) and hepatitis B (recombinant) pediatric vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

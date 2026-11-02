@@ -2,6 +2,7 @@
 id: 1373
 name: ROTAVAC 5D
 description: Rotavirus vaccine
+notes: https://www.bharatbiotech.com/images/rotavac5d/ROTAVAC-5d-patient-product-information.pdf
 generic: false
 immunoglobulin: false
 injection_methods:

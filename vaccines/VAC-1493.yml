@@ -2,6 +2,9 @@
 id: 1493
 name: ACEL P
 description: Acellular pertussis vaccine, standard dose
+notes: "https://dhpp.hpfb-dgpsa.ca/dhpp/resource/43147\r
+
+  https://msss.gouv.qc.ca/professionnels/vaccination/piq-programmes-et-noms-commerciaux-des-vaccins/noms-commerciaux-de-divers-vaccins/"
 generic: false
 immunoglobulin: false
 injection_methods:

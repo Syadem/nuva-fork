@@ -2,6 +2,7 @@
 id: 1554
 name: VAXRABEO
 description: Whole inactivated rabies vaccine, prepared in Vero cell culture (PVRV), Wistar strain, inactivation by ß-propiolactone
+notes: https://www.ema.europa.eu/en/medicines/human/EPAR/vaxrabeo
 generic: false
 immunoglobulin: false
 injection_methods: []

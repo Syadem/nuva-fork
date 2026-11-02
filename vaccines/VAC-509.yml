@@ -2,6 +2,7 @@
 id: 509
 name: BIKEN
 description: "Whole virion inactivated Japanese encephalitis vaccine, mouse brain-derived, Nakayama strain - Other name: JEVAX"
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

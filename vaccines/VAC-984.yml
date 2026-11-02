@@ -2,6 +2,7 @@
 id: 984
 name: VACCINO ANTIVAIOLOSO ISI
 description: Smallpox vaccine, first-generation, live vaccinia virus
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

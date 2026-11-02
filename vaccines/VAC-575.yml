@@ -2,6 +2,7 @@
 id: 575
 name: FSME-IMMUN
 description: Tick-borne encephalitis vaccine, whole-virus inactivated, Neudörfl strain, adult dose
+notes: "04150102594955 : code GTIN d'un produit enregistré en Allemagne. Confirmation par Pfizer de la validité de ce GTIN.\r\n"
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 532
 name: TETANUS VACCIN
 description: Tetanus toxoid vaccine, marketed in Holland by Bilthoven Biologicals
+notes: "https://www.bbio.nl/wat-wij-maken/productoverzicht/tetanus-vaccin/\r\n"
 generic: false
 immunoglobulin: false
 injection_methods:

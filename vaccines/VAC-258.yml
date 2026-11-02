@@ -2,6 +2,7 @@
 id: 258
 name: IMOVAX R.O.R.
 description: Live attenuated measles, mumps and rubella vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

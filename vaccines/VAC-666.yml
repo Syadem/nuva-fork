@@ -2,6 +2,7 @@
 id: 666
 name: "JCOVDEN (former name: JANSSEN COVID-19 VACCINE)"
 description: COVID-19 vaccine with non-replicating viral vector (adenovirus)
+notes: https://ansm.sante.fr/tableau-vaccin/jcovden-janssen
 generic: false
 immunoglobulin: false
 injection_methods:

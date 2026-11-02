@@ -2,6 +2,7 @@
 id: 832
 name: Herpes Simplex vaccine, unspecified
 description: Inactivated herpes simplex vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

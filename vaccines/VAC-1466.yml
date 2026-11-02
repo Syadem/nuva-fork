@@ -2,6 +2,7 @@
 id: 1466
 name: COMIRNATY LP.8.1 30 µg
 description: COVID-19 mRNA vaccine, subvariant Omicron LP.8.1, 30 micrograms, adult (+ 12 years)
+notes: https://www.ema.europa.eu/fr/documents/product-information/comirnaty-epar-product-information_fr.pdf
 generic: false
 immunoglobulin: false
 injection_methods:

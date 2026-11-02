@@ -2,6 +2,7 @@
 id: 1013
 name: FLUBLOK TRIVALENT
 description: Trivalent recombinant seasonal influenza vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

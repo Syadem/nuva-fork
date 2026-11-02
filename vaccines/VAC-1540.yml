@@ -2,6 +2,7 @@
 id: 1540
 name: Typhoid and tetanus vaccine, injectable suspension
 description: Typhoid and tetanus vaccine, injectable suspension
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

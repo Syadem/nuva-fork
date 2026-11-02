@@ -2,6 +2,7 @@
 id: 1423
 name: Influenza vaccine A(H1N1)pdm09 pandemic, live attenuated
 description: Influenza A(H1N1)pdm09 pandemic vaccine, live attenuated, obtained from egg culture
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

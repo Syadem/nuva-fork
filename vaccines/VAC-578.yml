@@ -2,6 +2,7 @@
 id: 578
 name: INFANRIX-HIB
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose) and Haemophilus influenzae type b (conjugated to tetanus toxoid) pediatric vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

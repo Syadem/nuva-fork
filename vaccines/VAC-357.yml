@@ -2,6 +2,7 @@
 id: 357
 name: RESPIGAM, RSV-IVIG
 description: Immunoglobulin anti-RSV
+notes:
 generic: false
 immunoglobulin: true
 injection_methods: []

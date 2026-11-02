@@ -2,6 +2,7 @@
 id: 31
 name: ROTATEQ
 description: Live attenuated pentavalent rotavirus vaccine, oral
+notes: "Changement de titulaire de l'AMM en Europe en avril 2022 : de MSD vaccins vers Merck."
 generic: false
 immunoglobulin: false
 injection_methods:

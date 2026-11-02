@@ -2,6 +2,7 @@
 id: 1550
 name: Tick-borne encephalitis vaccine, whole-virus inactivated, K23 strain, 0,25 mL
 description: Tick-borne encephalitis vaccine, whole-virus inactivated, K23 strain, 0,25 mL
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 1295
 name: DT BIO FARMA
 description: Paediatric diphtheria vaccine (toxoid, standard dose) and tetanus vaccine (toxoid)
+notes: https://www.biofarma.co.id/id/our-product/detail/vaksin-jerap-dt
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 965
 name: ANATOXAL TE TAB
 description: Tetanus toxoid, typhoid (whole-cell inactivated) and paratyphoid A and B (whole-cell inactivated) vaccines
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 1476
 name: Meningococcal vaccine against A, C, W, Y (conjugated polysaccharide) and B
 description: Meningococcal vaccine against A, C, W, Y (conjugated polysaccharide) and B
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 1159
 name: Influenza trivalent recombinant vaccine, unspecified
 description: Trivalent Recombinant Seasonal Influenza Vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

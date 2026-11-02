@@ -2,6 +2,7 @@
 id: 897
 name: Hantavirus vaccine, unspecified
 description: Hantavirus vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

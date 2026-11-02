@@ -2,6 +2,7 @@
 id: 1206
 name: COVID-19 vaccine with self-amplifying mRNA, unspecified
 description: Anti-covid 19 vaccine with self-amplifying mRNA, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

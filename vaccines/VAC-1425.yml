@@ -2,6 +2,7 @@
 id: 1425
 name: Typhoid vaccine, Vi antigen conjugated to CRM197 protein
 description: Typhoid vaccine, Vi antigen conjugated to CRM197 protein
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

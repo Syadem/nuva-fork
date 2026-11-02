@@ -2,6 +2,19 @@
 id: 1491
 name: RUBEVAC
 description: Live attenuated rubella vaccine
+notes: "Souche de virus atténué de la rubéole Tiantan-Hi-Warble\r
+
+  Développée en Chine (Institut de Tiantan).\r
+
+  Equivalent de RA27/3, Cendehill ou HPV-77 pour d’autres vaccins antirubéoleux.\r
+
+  Commercialisé au Pakistan.\r
+
+  \ BIOTEST PHARMACEUTICALS (PVT.) LTD. possible distributeur.\r
+
+  https://dawaai.pk/medicine/rubevac-36466.html\r
+
+  https://healthwire.pk/pharmacy/medicine/rubevac-inj"
 generic: false
 immunoglobulin: false
 injection_methods:

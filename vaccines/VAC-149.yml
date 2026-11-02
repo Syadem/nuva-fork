@@ -2,6 +2,7 @@
 id: 149
 name: Meningococcal B:14:P1.7,16 vaccine, unspecified
 description: Meningococcal vaccine, serogroup B (outer membrane vesicle protein B:14:P1.7,16)
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

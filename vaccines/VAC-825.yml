@@ -2,6 +2,7 @@
 id: 825
 name: Hepatitis A and hepatitis B combined vaccine, unspecified
 description: Combined hepatitis A and B vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

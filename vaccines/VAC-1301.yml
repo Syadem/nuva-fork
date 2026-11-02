@@ -2,6 +2,7 @@
 id: 1301
 name: BE Td
 description: Diphtheria vaccine (toxoid, reduced dose) and tetanus vaccine (toxoid)
+notes: https://www.biologicale.com/pdf/Product_VB_Domestic_Marketing.pdf
 generic: false
 immunoglobulin: false
 injection_methods:

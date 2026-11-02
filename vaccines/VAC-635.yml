@@ -2,6 +2,7 @@
 id: 635
 name: PREFLUCEL
 description: Trivalent inactivated seasonal influenza vaccine, purified antigens
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

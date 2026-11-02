@@ -2,6 +2,7 @@
 id: 54
 name: VACCIN RABIQUE PASTEUR
 description: Whole virion inactivated rabies vaccine, Wistar virus strain PM1503-3M, cultured on Vero cells
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

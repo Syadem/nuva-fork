@@ -2,6 +2,7 @@
 id: 367
 name: RUBELLOVAC
 description: Live attenuated rubella vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

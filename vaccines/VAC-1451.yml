@@ -2,6 +2,7 @@
 id: 1451
 name: CHIROFLU
 description: Trivalent inactivated seasonal influenza vaccine, split virion
+notes: "https://cima.aemps.es/cima/dochtml/p/62792/Prospecto_62792.html\r\n"
 generic: false
 immunoglobulin: false
 injection_methods:

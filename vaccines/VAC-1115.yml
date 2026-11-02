@@ -2,6 +2,7 @@
 id: 1115
 name: Diphtheria (standard dose), tetanus, pertussis (multicomponent acellular, standard dose), Haemophilus influenzae type b (tetanus toxoid conjugated) and polio (whole inactivated, trivalent) pentavalent DTPaHibP vaccine, adsorbed, pediatric
 description: Diphtheria (toxoid, standard dose), tetanus (toxoid), pertussis (multicomponent acellular, standard dose), Haemophilus influenzae type b (tetanus toxoid conjugated) and polio (whole inactivated, trivalent) vaccine, adsorbed, pediatric
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

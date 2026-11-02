@@ -2,6 +2,7 @@
 id: 1395
 name: MUMPS SINOVAC VACCINE
 description: Live attenuated mumps vaccine
+notes: https://www.sinovac.com/en-us/portfolio/mumps
 generic: false
 immunoglobulin: false
 injection_methods:

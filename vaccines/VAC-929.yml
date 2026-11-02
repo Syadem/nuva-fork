@@ -2,6 +2,7 @@
 id: 929
 name: Seasonal influenza vaccine, quadrivalent, inactivated, obtained from egg culture, pediatric dose
 description: Seasonal influenza vaccine, quadrivalent, inactivated, obtained from egg culture, pediatric dose
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

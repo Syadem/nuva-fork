@@ -2,6 +2,7 @@
 id: 1543
 name: Malaria vaccine sporozoite surface protein, unspecified
 description: Malaria vaccine sporozoite surface protein, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

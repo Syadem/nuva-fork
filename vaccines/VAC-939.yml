@@ -2,6 +2,17 @@
 id: 939
 name: PREHEVBRIO
 description: Recombinant hepatitis B vaccine, three antigens (HbS, pre-S1 and pre-S2)
+notes: "PreHevbrio\r
+
+  VBI’s vaccine candidate is the only 3-antigen hepatitis B vaccine, comprised of the S, pre-S1, and pre-S2 surface antigens of the hepatitis B virus, and is approved for use in the United States under the name PreHevbrio™ [Hepatitis B Vaccine (Recombinant)], and in Israel under the name Sci-B-Vac®. This vaccine candidate is not yet approved in Canada or Europe, where the regulatory submissions are still under review.\r
+
+  \r
+
+  Valence : \r
+
+  HepB-r-3Ag, Vaccin recombinant contre l'hépatite B, trois antigènes (HbS, pré-S1 et pré-S2)\r
+
+  HepB-r-3Ag, Hepatitis B recombinant vaccine, three antigens (HbS, pre-S1 et pre-S2)"
 generic: false
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 52
 name: VACCIN MENINGOCOCCIQUE A+C
 description: Unconjugated meningococcal polysaccharide vaccine, serogroups A and C
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 1042
 name: COVID-19 vaccine, non-replicating viral vector, unspecified
 description: COVID-19 vaccine, non-replicating viral vector
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 1249
 name: Influenza vaccine, trivalent inactivated, split or subunit, intradermal route, unspecified
 description: Influenza vaccine, trivalent inactivated, split or subunit, intradermal route, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

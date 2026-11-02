@@ -2,6 +2,7 @@
 id: 1122
 name: Smallpox 1st generation live vaccine, unspecified
 description: First generation smallpox vaccine, live vaccinia virus
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

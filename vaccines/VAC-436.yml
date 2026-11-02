@@ -2,6 +2,7 @@
 id: 436
 name: VAKSIN CAMPAK KERING
 description: Live attenuated measles vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 1215
 name: Diphtheria (standard dose), tetanus, pertussis (multicomponent acellular, standard dose), anti-Haemophilus influenzae type b (conjugated to the outer membrane protein of Neisseria meningitidis serogroup B), poliomyelitis (whole inactivated, trivalent) and hepatitis B (recombinant) vaccine, adsorbed, pediatric
 description: Diphtheria (standard dose), tetanus, pertussis (multicomponent acellular, standard dose), anti-Haemophilus influenzae type b (conjugated to the outer membrane protein of Neisseria meningitidis serogroup B), poliomyelitis (whole inactivated, trivalent) and hepatitis B (recombinant) vaccine, adsorbed, pediatric
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

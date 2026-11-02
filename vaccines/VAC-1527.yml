@@ -2,6 +2,7 @@
 id: 1527
 name: COVID-19 protein subunit vaccine, recombinant spike protein (RBD domain), with adjuvant (SQBA), Omicron XFG.1.1 subvariant.
 description: COVID-19 protein subunit vaccine, recombinant spike protein (RBD domain), with adjuvant (SQBA), Omicron XFG.1.1 subvariant.
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

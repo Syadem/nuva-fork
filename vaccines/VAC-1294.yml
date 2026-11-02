@@ -2,6 +2,7 @@
 id: 1294
 name: BIO-TD
 description: Diphtheria vaccine (toxoid, reduced dose) and tetanus vaccine (toxoid)
+notes: https://www.biofarma.co.id/id/our-product/detail/vaksin-biotd-vaksin-jerap-td
 generic: false
 immunoglobulin: false
 injection_methods:

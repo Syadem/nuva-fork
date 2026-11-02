@@ -2,6 +2,7 @@
 id: 1488
 name: POLIORIX
 description: Inactivated polio (trivalent) vaccine
+notes: https://www.i-apteka.pl/product-pol-49641-POLIORIX-roztwor-do-wstrzykiwan.html
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 1113
 name: COVID-19 protein subunit vaccine, recombinant spike protein, unspecified
 description: Anti-covid 19 protein subunit vaccine, recombinant spike protein, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

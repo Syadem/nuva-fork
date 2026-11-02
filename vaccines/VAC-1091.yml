@@ -2,6 +2,7 @@
 id: 1091
 name: VARIZIG
 description: Varicella Zoster Immune Globulin (Human)
+notes: https://www.kamada.com/product/varizig/
 generic: false
 immunoglobulin: true
 injection_methods:

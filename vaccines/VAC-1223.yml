@@ -2,6 +2,7 @@
 id: 1223
 name: Immunoglobulin against respiratory syncytial virus (RSV), unspecified
 description: Immunoglobulin against respiratory syncytial virus (RSV), unspecified
+notes:
 generic: true
 immunoglobulin: true
 injection_methods: []

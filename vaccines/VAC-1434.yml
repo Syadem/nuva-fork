@@ -2,6 +2,7 @@
 id: 1434
 name: Meningococcal A vaccine, unspecified
 description: Meningococcal A vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

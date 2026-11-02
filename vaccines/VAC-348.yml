@@ -2,6 +2,7 @@
 id: 348
 name: QUADRACEL/HIBEST
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, 5 components, standard dose), Haemophilus influenzae type b (conjugated to tetanus toxoid) and inactivated polio (trivalent) pediatric vaccine, adsorbed
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

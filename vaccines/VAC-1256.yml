@@ -2,6 +2,7 @@
 id: 1256
 name: Diphtheria (standard dose), tetanus, pertussis (whole cell), Haemophilus influenzae type b (conjugated to tetanus toxoid), inactivated polio (trivalent) and hepatitis B (recombinant) pediatric vaccine, adsorbed
 description: Diphtheria (standard dose), tetanus, pertussis (whole cell), Haemophilus influenzae type b (conjugated to tetanus toxoid), inactivated polio (trivalent) and hepatitis B (recombinant) pediatric vaccine, adsorbed
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

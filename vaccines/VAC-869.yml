@@ -2,6 +2,7 @@
 id: 869
 name: MENPOVAX C
 description: Unconjugated meningococcal polysaccharide vaccine, serogroup C
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

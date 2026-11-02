@@ -2,6 +2,7 @@
 id: 1006
 name: SHANVAC B
 description: Recombinant hepatitis B vaccine, HBsAg 20 µg, children and adult dose
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

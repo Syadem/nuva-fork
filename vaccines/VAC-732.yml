@@ -2,6 +2,7 @@
 id: 732
 name: COVAC-1 - COVAC-2
 description: COVID-19 vaccine, protein subunit, recombinant spike protein, with adjuvant (squalene)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 1072
 name: COVID-19 mRNA vaccine, original virus, 25 µg, unspecified
 description: COVID-19 mRNA vaccine, original virus, 25 micrograms
+notes: Vaccin Covid 19 à ARNm, virus originel, 25 microgrammes, sans précision
 generic: true
 immunoglobulin: false
 injection_methods: []

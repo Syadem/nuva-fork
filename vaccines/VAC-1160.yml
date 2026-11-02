@@ -2,6 +2,7 @@
 id: 1160
 name: Smallpox 2nd generation live vaccine, unspecified
 description: Second generation smallpox vaccine, vaccinia virus obtained by cell culture
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

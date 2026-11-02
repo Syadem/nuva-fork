@@ -2,6 +2,7 @@
 id: 813
 name: Pneumococcal unconjugated polysaccharide vaccine, unspecified
 description: Unconjugated pneumococcal polysaccharide vaccine, serotypes unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 1445
 name: Avian influenza vaccine, mRNA
 description: Avian influenza vaccine, mRNA
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

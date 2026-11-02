@@ -2,6 +2,17 @@
 id: 1479
 name: VACPERTAGEN
 description: Pertussis vaccine (recombinant, acellular, reduced-dose, bivalent, adsorbed).
+notes: "https://www.ema.europa.eu/en/medicines/human/EPAR/vacpertagen#product-details\r
+
+  J07AJ02\r
+
+  EMEA/H/C/006304\r
+
+  https://www.ema.europa.eu/fr/documents/product-information/vacpertagen-epar-product-information_fr.pdf\r
+
+  \r
+
+  \r\n"
 generic: false
 immunoglobulin: false
 injection_methods:

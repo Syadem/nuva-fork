@@ -2,6 +2,7 @@
 id: 11
 name: HBVAXPRO 5 µg
 description: Recombinant hepatitis B vaccine, pediatric dose
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

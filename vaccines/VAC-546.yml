@@ -2,6 +2,7 @@
 id: 546
 name: DULTAVAX
 description: Diphtheria toxoid (low dose), tetanus toxoid and inactivated polio (trivalent) vaccine, adsorbed
+notes: Date de distribution et d'AMM approximatives, équivalentes à celles de Revaxis, autre vaccin dTPolio de Sanofi Pasteur et marqué comme équivalent au vaccin Dultavax sur MesVaccins (https://www.mesvaccins.net/web/vaccines/546-dultavax).
 generic: false
 immunoglobulin: false
 injection_methods:

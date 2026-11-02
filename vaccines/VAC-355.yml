@@ -2,6 +2,7 @@
 id: 355
 name: RABAVERT
 description: Whole virion inactivated rabies vaccine, Flury LEP strain, purified chick embryo cell vaccine (PCECV), inactivated with ß-propiolactone
+notes: Rabipur = Tradename Rabavert in US and Canada.
 generic: false
 immunoglobulin: false
 injection_methods: []

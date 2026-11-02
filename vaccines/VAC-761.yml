@@ -2,6 +2,7 @@
 id: 761
 name: V-01
 description: COVID-19 vaccine, protein subunit, recombinant spike protein, fusion protein
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 892
 name: POLIOVAX-IN
 description: Inactivated polio (trivalent) vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

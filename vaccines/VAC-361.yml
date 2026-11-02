@@ -2,6 +2,7 @@
 id: 361
 name: RIT - LM-2
 description: Live attenuated measles and mumps vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

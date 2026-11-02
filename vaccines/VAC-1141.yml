@@ -2,6 +2,7 @@
 id: 1141
 name: Bird Flu H5N8 Vaccine, unspecified
 description: Bird Flu H5N8 Vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

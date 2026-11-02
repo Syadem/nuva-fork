@@ -2,6 +2,7 @@
 id: 924
 name: FLUZONE INTRADERMAL
 description: Trivalent inactivated seasonal influenza vaccine, high dose, intradermal
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

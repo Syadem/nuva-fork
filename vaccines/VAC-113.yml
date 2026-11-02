@@ -2,6 +2,7 @@
 id: 113
 name: Rubella vaccine, live attenuated, unspecified
 description: Vaccine rubella, live attenuated
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

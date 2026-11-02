@@ -2,6 +2,7 @@
 id: 728
 name: Covid-19/aAPC
 description: COVID-19 vaccine prepared by applying lentivirus modification with immune modulatory genes and the viral minigenes to the artificial antigen presenting cells (aAPCs)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,9 @@
 id: 1402
 name: EASYSIX
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (whole cell), Haemophilus influenzae type b (conjugated to tetanus toxoid), inactivated polio (trivalent) and hepatitis B (recombinant) pediatric vaccine, adsorbed
+notes: "https://www.panaceabiotec.com/en/products/product-list\r
+
+  https://www.panaceabiotec.com/assets/documents/SmPc_EasySix_2024%20_Rev.01.pdf"
 generic: false
 immunoglobulin: false
 injection_methods:

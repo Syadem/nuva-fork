@@ -2,6 +2,7 @@
 id: 256
 name: IMOVAX MUMPS
 description: Live attenuated mumps vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

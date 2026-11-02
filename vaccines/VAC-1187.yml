@@ -2,6 +2,7 @@
 id: 1187
 name: COVID-19 vaccine with replicative viral vector, measles virus encoding the SARS-CoV-2 spike protein, unspecified
 description: Anti-covid 19 vaccine with replicative viral vector, measles virus encoding the SARS-CoV-2 spike protein, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

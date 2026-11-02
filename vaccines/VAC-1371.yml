@@ -2,6 +2,9 @@
 id: 1371
 name: REVAC-B MCF
 description: Recombinant hepatitis B vaccine, pediatric dose
+notes: "https://www.bharatbiotech.com/revacb_mcf.html\r
+
+  https://www.bharatbiotech.com/images/revac-b-mcf/revacb_mcf_ppi.pdf"
 generic: false
 immunoglobulin: false
 injection_methods:

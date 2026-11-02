@@ -2,6 +2,7 @@
 id: 540
 name: IPAD T
 description: Tetanus toxoid vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 968
 name: INFLEXAL V
 description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, virosome
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 1065
 name: Leprosy vaccine
 description: Leprosy vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

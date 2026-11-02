@@ -2,6 +2,7 @@
 id: 291
 name: MEASLES VACCINE AIK-C STRAIN POLYVAC
 description: Live attenuated measles vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

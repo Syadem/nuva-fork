@@ -2,6 +2,7 @@
 id: 1409
 name: COVID-19 mRNA vaccine, Omicron JN.1 subvariant, 50 micrograms per dose, multidose vial
 description: COVID-19 mRNA vaccine, Omicron JN.1 subvariant, 50 micrograms per dose, multidose vial
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 887
 name: POLIORAL
 description: Polio vaccine (live attenuated, trivalent) against polioviruses 1, 2 and 3, oral
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

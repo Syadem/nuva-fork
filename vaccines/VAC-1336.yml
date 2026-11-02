@@ -2,6 +2,7 @@
 id: 1336
 name: KOSTAIVE
 description: COVID-19 vaccine, mRNA encoding the SARS-CoV-2 spike protein, original virus
+notes: https://www.ema.europa.eu/en/medicines/human/EPAR/kostaive
 generic: false
 immunoglobulin: false
 injection_methods:

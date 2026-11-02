@@ -2,6 +2,7 @@
 id: 1337
 name: CONVACELL
 description: COVID-19 protein subunit vaccine, recombinant N protein
+notes: https://spbniivs.ru/en/portfolio/vaccines/convacell/
 generic: false
 immunoglobulin: false
 injection_methods:

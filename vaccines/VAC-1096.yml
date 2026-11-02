@@ -2,6 +2,9 @@
 id: 1096
 name: MORCVAX
 description: Oral Inactivated whole-cell cholera vaccine
+notes: "Seulement utilisé au Vietnam\r
+
+  https://www.atoute.org/n/IMG/pdf/Constituants_des_vaccins_version-actualisee.pdf"
 generic: false
 immunoglobulin: false
 injection_methods:

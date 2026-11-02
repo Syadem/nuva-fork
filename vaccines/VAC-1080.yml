@@ -2,6 +2,9 @@
 id: 1080
 name: COVAXIN
 description: COVID-19 vaccine, whole virion inactivated
+notes: "https://www.bharatbiotech.com/images/covaxin/covaxin-smpc1.pdf\r
+
+  https://www.bharatbiotech.com/covaxin.html"
 generic: false
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 902
 name: Rabies vaccine Semple type, unspecified
 description: Whole virion inactivated rabies vaccine, prepared from goat or sheep brain tissue infected with rabies virus, contains myelin
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

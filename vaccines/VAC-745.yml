@@ -2,6 +2,7 @@
 id: 745
 name: MF59 adjuvanted SARS-CoV-2 Sclamp vaccine
 description: COVID-19 vaccine, protein subunit, recombinant spike protein, with adjuvant (squalene)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

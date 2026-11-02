@@ -2,6 +2,7 @@
 id: 1191
 name: Urinary infections vaccine for the prevention of women, unspecified
 description: Vaccine against Escherichia coli, Klebsiella pneumoniae, Enterococcus faecalis, Proteus vulgaris
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

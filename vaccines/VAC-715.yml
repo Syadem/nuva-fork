@@ -2,6 +2,7 @@
 id: 715
 name: ERUCOV-VAC
 description: COVID-19 vaccine, whole virion inactivated
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

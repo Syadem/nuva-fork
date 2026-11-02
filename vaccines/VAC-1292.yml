@@ -2,6 +2,7 @@
 id: 1292
 name: BIO-TCV
 description: Typhoid vaccine, Vi antigen conjugated to tetanus toxoid
+notes: https://www.biofarma.co.id/id/our-product/detail/bio-tcv?product=Vaksin%20Bakteri%20%20-%20Bio-TCV
 generic: false
 immunoglobulin: false
 injection_methods:

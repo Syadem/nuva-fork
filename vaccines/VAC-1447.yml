@@ -2,6 +2,7 @@
 id: 1447
 name: VACCIN BCG SYNTHAVERSE
 description: Tuberculosis vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

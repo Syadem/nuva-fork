@@ -2,6 +2,11 @@
 id: 1078
 name: ENVACGEN
 description: Whole inactivated enterovirus A71 vaccine
+notes: "Indiqué pour l'immunisation active pour la prévention des maladies causées par l'entérovirus 71 chez les enfants âgés de 2 mois à moins de 6 ans.\r
+
+  \r
+
+  https://trpma.org.tw/eng/members/34"
 generic: false
 immunoglobulin: false
 injection_methods:

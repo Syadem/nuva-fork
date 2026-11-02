@@ -2,6 +2,7 @@
 id: 920
 name: Diphtheria-tetanus Td vaccine, unspecified
 description: Diphtheria toxoid (reduced dose) and tetanus toxoid vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

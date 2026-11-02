@@ -2,6 +2,7 @@
 id: 836
 name: FLUAD TETRA
 description: Quadrivalent inactivated seasonal influenza vaccine with surface antigens
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

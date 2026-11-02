@@ -2,6 +2,7 @@
 id: 157
 name: Pneumococcal vaccine, unspecified
 description: Pneumococcal conjugate or non conjugate polysaccharide vaccine, number of serotypes unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

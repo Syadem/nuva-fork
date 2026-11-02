@@ -2,6 +2,7 @@
 id: 1298
 name: BETT
 description: Tetanus vaccine (toxoid)
+notes: https://www.biologicale.com/pdf/Product_VB_Domestic_Marketing.pdf
 generic: false
 immunoglobulin: false
 injection_methods:

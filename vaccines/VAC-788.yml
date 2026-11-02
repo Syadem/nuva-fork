@@ -2,6 +2,7 @@
 id: 788
 name: Haemophilus influenzae type b (conjugated, unspecified) and inactivated polio (trivalent) vaccine (Hib-IPV), unspecified
 description: Haemophilus influenzae type b (conjugated, unspecified) and inactivated polio (trivalent) vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

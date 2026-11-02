@@ -2,6 +2,7 @@
 id: 989
 name: HANTAVAX
 description: Whole-virion Inactivated vaccine against haemorrhagic fever with renal syndrome (HFRS) caused by hantavirus
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

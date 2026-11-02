@@ -2,6 +2,7 @@
 id: 534
 name: MENJUGATE 10 µg
 description: Meningococcal conjugate vaccine, serogroup C (conjugated to CRM197 Protein)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

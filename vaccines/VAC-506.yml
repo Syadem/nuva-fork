@@ -2,6 +2,7 @@
 id: 506
 name: Pentavalent DTaPHibIPV vaccine, unspecified
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose), Haemophilus influenzae type b (conjugated, unspecified) and inactivated polio (trivalent) pediatric vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

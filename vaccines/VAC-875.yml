@@ -2,6 +2,7 @@
 id: 875
 name: PANDEMIC INFLUENZA VACCINE H5N1 ASTRAZENECA
 description: Pre-pandemic influenza A(H5N1) vaccine, live attenuated, nasal
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

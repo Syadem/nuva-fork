@@ -2,6 +2,7 @@
 id: 903
 name: Rabies vaccine Fuenzalida type, unspecified
 description: Whole virion inactivated rabies vaccine, prepared from suckling mouse brain tissue infected with rabies virus, decreased myelin content
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

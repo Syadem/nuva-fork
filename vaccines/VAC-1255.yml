@@ -2,6 +2,11 @@
 id: 1255
 name: HEXASIIL
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (whole cell), Haemophilus influenzae type b (conjugated to tetanus toxoid), inactivated polio (trivalent) and hepatitis B (recombinant) pediatric vaccine, adsorbed
+notes: "https://extranet.who.int/prequal/sites/default/files/vwa_vaccine/FVP-P-448-449_HexaSIIL_SIIPL_PI-2024_0.pdf\r
+
+  https://extranet.who.int/prequal/vaccines/p/hexasiil-0\r
+
+  https://www.seruminstitute.com/product_hexasiil.php"
 generic: false
 immunoglobulin: false
 injection_methods:

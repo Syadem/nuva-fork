@@ -2,6 +2,7 @@
 id: 1375
 name: TWINRAB
 description: Rabies immunoglobulin, unspecified
+notes: https://www.zyduslife.com/research.html
 generic: false
 immunoglobulin: false
 injection_methods:

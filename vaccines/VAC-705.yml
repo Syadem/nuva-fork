@@ -2,11 +2,12 @@
 id: 705
 name: INFLUSPLIT TETRA
 description: Quadrivalent inactivated seasonal influenza vaccine with surface antigens
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []
 created_at: 1626689122
-updated_at: 1692138731
+updated_at: 1793020298
 valence_ids:
 - 40
 other_names:
@@ -33,3 +34,5 @@ codes:
   code: "3400928099846"
 - nomenclature: SCT_NUVA
   code: "8461002000102"
+- nomenclature: GTIN
+  code: "04150202706586"

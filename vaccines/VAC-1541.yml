@@ -2,6 +2,7 @@
 id: 1541
 name: Influenza quadrivalent inactivated vaccine, obtained from egg culture, split or subunit, unspecified
 description: Influenza quadrivalent inactivated vaccine, obtained from egg culture, split or subunit, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

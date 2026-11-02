@@ -2,6 +2,7 @@
 id: 317
 name: NABI-HB
 description: Hepatitis B immunoglobulin
+notes:
 generic: false
 immunoglobulin: true
 injection_methods: []

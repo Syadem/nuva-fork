@@ -1,14 +1,16 @@
 ---
 id: 243
-name: HEPA-B INJECTION
-description: Hepatitis B vaccine (Paediatric dose 10 µg/mL and adult dose 20 µg/mL)
+name: HEPA-B INJECTION ADULT
+description: Recombinant hepatitis B vaccine, adult dose
+notes:
 generic: false
 immunoglobulin: false
-injection_methods: []
+injection_methods:
+- intramuscular
 created_at: 1626689124
-updated_at: 1666959919
+updated_at: 1792487173
 valence_ids:
-- 68
+- 115
 other_names:
 - HEPABINJECTION
 codes:

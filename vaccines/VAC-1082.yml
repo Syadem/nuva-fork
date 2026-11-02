@@ -2,6 +2,7 @@
 id: 1082
 name: BAYHEP B
 description: Hepatitis b immune globulin (human)
+notes: https://www.rxlist.com/bayhep-b-drug.htm
 generic: false
 immunoglobulin: true
 injection_methods:

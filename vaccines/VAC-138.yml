@@ -2,6 +2,7 @@
 id: 138
 name: Diphtheria-Tetanus-Pertussis-Polio vaccine, unspecified
 description: Diphtheria toxoid (unspecified dose), tetanus toxoid, pertussis (whole-cell inactivated or acellular, unspecified dose) and inactivated polio (trivalent) vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

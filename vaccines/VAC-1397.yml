@@ -2,6 +2,7 @@
 id: 1397
 name: PANFLU
 description: Influenza A(H5N1) vaccine (fragmented virion, inactivated, adjuvanted)
+notes: https://www.sinovac.com/en-us/portfolio/influenza
 generic: false
 immunoglobulin: false
 injection_methods:

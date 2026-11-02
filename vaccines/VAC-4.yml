@@ -2,6 +2,7 @@
 id: 4
 name: D.T. POLIO MERIEUX
 description: Diphtheria toxoid (standard dose), tetanus toxoid and inactivated polio (trivalent) pediatric vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

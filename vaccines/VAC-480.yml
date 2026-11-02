@@ -2,6 +2,7 @@
 id: 480
 name: FENDRIX
 description: Recombinant hepatitis B vaccine, dialysis patient dosage
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

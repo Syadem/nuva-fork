@@ -2,6 +2,11 @@
 id: 1365
 name: COMVAC5
 description: Paediatric vaccine for diphtheria (toxoid, standard dose), tetanus (toxoid), whooping cough (whole, standard dose), hepatitis B and Haemophilus influenzae type b (conjugated with tetanus toxoid).
+notes: "https://www.bharatbiotech.com/comvac5.html\r
+
+  \r
+
+  https://www.bharatbiotech.com/images/comvac5/comvac5_ppi.pdf"
 generic: false
 immunoglobulin: false
 injection_methods:

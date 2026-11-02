@@ -2,6 +2,7 @@
 id: 927
 name: COVID-19 mRNA vaccine, paediatric dose, unspecified
 description: COVID-19 mRNA vaccine, pediatric dose
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

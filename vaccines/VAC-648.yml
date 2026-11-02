@@ -2,6 +2,7 @@
 id: 648
 name: COVID-19 vaccine, unspecified
 description: COVID-19 vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

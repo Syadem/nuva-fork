@@ -2,6 +2,7 @@
 id: 1172
 name: Diphtheria toxoid, reduced dose, unspecified
 description: Diphtheria vaccine (anatoxin, reduced dose)
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 40
 name: TYAVAX
 description: Hepatitis A (inactivated, adsorbed) and typhoid vaccine (polysaccharide)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

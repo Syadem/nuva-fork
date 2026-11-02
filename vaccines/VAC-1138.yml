@@ -2,6 +2,7 @@
 id: 1138
 name: COVID-19 recombinant protein subunit vaccine
 description: Recombinant protein subunit anti-covid 19 vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 1537
 name: Cholera vaccine, oral, containing formalin-inactivated whole V. cholerae O1 bacteria
 description: Cholera vaccine, oral, containing formalin-inactivated whole V. cholerae O1 bacteria
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 1190
 name: COVID-19 vaccine with replicative viral vector, vesicular stomatitis virus encoding the SARS-CoV-2 spike protein, unspecified
 description: Anti-covid 19 vaccine with replicative viral vector, vesicular stomatitis virus encoding the SARS-CoV-2 spike protein, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

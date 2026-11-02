@@ -2,6 +2,7 @@
 id: 1415
 name: Pseudomonas aeruginosa (a pus-forming bacterium) vaccine
 description: Pseudomonas aeruginosa (a pus-forming bacterium) vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 1238
 name: Hepatitis B and malaria (sporozoite surface protein) vaccine, unspecified
 description: Hepatitis B and malaria (sporozoite surface protein) vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

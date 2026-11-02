@@ -2,6 +2,7 @@
 id: 780
 name: VAXNEUVANCE
 description: Pneumococcal polysaccharide conjugate vaccine, 15-valent, adsorbed, serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, 22F, 23F and 33F
+notes: Le vaccin Vaxneuvance est un vaccin pneumococcique conjugué dirigé contre 15 sérotypes pneumococciques. Il a reçu une AMM européenne le 13 décembre chez les personnes âgées de 18 ans et plus et une extension d’AMM a été obtenue le 21 octobre 2022 chez les nourrissons, les enfants et les adolescents âgés de 6 semaines à moins de 18 ans. Le laboratoire MSD a sollicité la HAS pour une demande d’intégration du vaccin Vaxneuvance dans la stratégie de vaccination actuelle de prévention des infections à pneumocoque chez les nourrissons, enfants et adolescents de moins de 18 ans.
 generic: false
 immunoglobulin: false
 injection_methods:

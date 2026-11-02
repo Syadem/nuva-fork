@@ -2,6 +2,7 @@
 id: 1178
 name: Dengue tetravalent vaccine, live attenuated chimeric recombinant, unspecified
 description: Live attenuated, chimeric, recombinant, quadrivalent vaccine against the four serotypes (1, 2, 3 and 4) of dengue virus
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

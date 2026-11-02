@@ -2,6 +2,7 @@
 id: 1139
 name: COVID-19 vaccine, non-replicating vector, Newcastle disease virus encoding the SARS-CoV-2 spike protein, unspecified
 description: COVID-19 vaccine, non-replicating vector, Newcastle disease virus encoding the SARS-CoV-2 spike protein, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

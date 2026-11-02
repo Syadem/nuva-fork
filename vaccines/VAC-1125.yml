@@ -2,6 +2,7 @@
 id: 1125
 name: Hepatitis B vaccine, unspecified
 description: Hepatitis B vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

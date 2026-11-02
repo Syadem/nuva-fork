@@ -2,6 +2,7 @@
 id: 1152
 name: Meningococcal B vaccine containing fHbp of subfamilies A and B, unspecified
 description: Meningococcal B vaccine containing fHbp of subfamilies A and B, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

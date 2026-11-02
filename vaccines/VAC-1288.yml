@@ -2,6 +2,7 @@
 id: 1288
 name: VAKSIN POLIOMYELITIS BIO FARMA
 description: Polio vaccine (whole inactivated, trivalent)
+notes: https://www.biofarma.co.id/id/our-product/detail/vaksin-poliomyelitis-inaktif
 generic: false
 immunoglobulin: false
 injection_methods:

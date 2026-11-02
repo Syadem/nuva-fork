@@ -2,6 +2,7 @@
 id: 1465
 name: PERDIPIGEN
 description: Paediatric diphtheria vaccine (toxoid, standard dose) and pertussis (whole-cell inactivated)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

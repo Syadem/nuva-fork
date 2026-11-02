@@ -2,6 +2,7 @@
 id: 45
 name: ENGERIX B 10 µg
 description: Hepatitis B recombinant vaccine, pediatric dose
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

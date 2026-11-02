@@ -2,6 +2,7 @@
 id: 333
 name: PFIZER VAX-MEASLES K
 description: Whole inactivated measles vaccine, old
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

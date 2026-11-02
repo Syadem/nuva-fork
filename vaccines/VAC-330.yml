@@ -2,6 +2,7 @@
 id: 330
 name: PENTACT-HIB
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (whole-cell inactivated), Haemophilus influenzae type b (conjugated to tetanus toxoid) and inactivated polio (trivalent) pediatric vaccine, adsorbed
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

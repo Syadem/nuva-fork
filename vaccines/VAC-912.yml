@@ -2,6 +2,7 @@
 id: 912
 name: Hepatitis A vaccine, pediatric dose, unspecified
 description: Whole virion Inactivated hepatitis A vaccine, pediatric dose, formulation not specified (monovalent or bivalent with hepatitis B)
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

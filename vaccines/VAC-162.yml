@@ -2,6 +2,7 @@
 id: 162
 name: Brucellosis vaccine, unspecified
 description: Brucellosis vaccine, unspecified
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

@@ -2,6 +2,7 @@
 id: 502
 name: Rabies immunoglobulin, unspecified
 description: Rabies immunoglobulin, human or equine origin
+notes:
 generic: true
 immunoglobulin: true
 injection_methods: []

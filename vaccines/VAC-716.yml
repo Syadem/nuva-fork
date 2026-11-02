@@ -2,6 +2,7 @@
 id: 716
 name: SARS-CoV-2-RBD-Fc fusion protein
 description: COVID-19 vaccine, protein subunit
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

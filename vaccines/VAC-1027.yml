@@ -2,6 +2,7 @@
 id: 1027
 name: COVIVAC CHUMAKOV COVID-19 VACCINE
 description: "COVID-19 vaccine, whole virion inactivated; other name: Kovivac"
+notes: "NCT05046548\r\nNCT05407142\r\n"
 generic: false
 immunoglobulin: false
 injection_methods:

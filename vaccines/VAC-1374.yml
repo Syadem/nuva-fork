@@ -2,6 +2,7 @@
 id: 1374
 name: TYPBAR-TCV
 description: Typhoid conjugate vaccine, Vi polysaccharide linked to tetanus toxoid protein
+notes: https://www.bharatbiotech.com/typbartcv.html
 generic: false
 immunoglobulin: false
 injection_methods:

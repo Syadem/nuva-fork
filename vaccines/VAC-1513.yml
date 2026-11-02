@@ -2,6 +2,7 @@
 id: 1513
 name: BUTANTAN DTP
 description: Diphtheria toxoid (standard dose), tetanus toxoid and pertussis (whole-cell inactivated) pediatric vaccine
+notes: https://en.butantan.gov.br/portfolio.php
 generic: false
 immunoglobulin: false
 injection_methods:

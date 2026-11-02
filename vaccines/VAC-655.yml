@@ -2,6 +2,7 @@
 id: 655
 name: Diphtheria vaccine, unspecified
 description: Diphtheria toxoid (unspecified dose)
+notes:
 generic: true
 immunoglobulin: false
 injection_methods:

@@ -2,6 +2,7 @@
 id: 932
 name: Influenza quadrivalent recombinant vaccine, unspecified
 description: Quadrivalent recombinant seasonal influenza vaccine
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

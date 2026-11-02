@@ -2,6 +2,7 @@
 id: 325
 name: PEDIARIX
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose), inactivated polio (trivalent) and hepatitis B (recombinant) pediatric vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

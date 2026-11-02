@@ -2,6 +2,7 @@
 id: 213
 name: DI-TE-POL
 description: Diphtheria toxoid (standard dose), tetanus toxoid and inactivated polio (trivalent) pediatric vaccine
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

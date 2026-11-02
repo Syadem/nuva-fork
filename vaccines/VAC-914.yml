@@ -2,6 +2,7 @@
 id: 914
 name: Hepatitis B vaccine, monovalent, pediatric dose, unspecified
 description: Hepatitis B recombinant vaccine, monovalent, pediatric dose
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []

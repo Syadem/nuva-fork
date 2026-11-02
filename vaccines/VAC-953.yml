@@ -2,6 +2,7 @@
 id: 953
 name: PROCOMVAX
 description: Hepatitis B and Haemophilus influenzae type b vaccine (OMP conjugate)
+notes:
 generic: false
 immunoglobulin: false
 injection_methods: []

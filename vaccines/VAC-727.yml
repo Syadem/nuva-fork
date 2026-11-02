@@ -2,6 +2,7 @@
 id: 727
 name: AdCLD-CoV19
 description: COVID-19 vaccine, non-replicating adenovirus 5/35 vector encoding the SARS-CoV-2 spike protein
+notes:
 generic: false
 immunoglobulin: false
 injection_methods:

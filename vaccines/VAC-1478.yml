@@ -2,6 +2,7 @@
 id: 1478
 name: SYNAGIS 50 mg (PALIZIVUMAB)
 description: hRSV monoclonal antibody
+notes:
 generic: false
 immunoglobulin: true
 injection_methods:

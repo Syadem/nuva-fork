@@ -2,6 +2,7 @@
 id: 442
 name: VARICELLON
 description: Immunoglobulin against chickenpox virus
+notes:
 generic: false
 immunoglobulin: true
 injection_methods: []

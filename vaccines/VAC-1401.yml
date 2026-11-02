@@ -2,6 +2,7 @@
 id: 1401
 name: 9-VALENT HPV VACCINE INNOVAX
 description: Human Papillomavirus vaccine, nonavalent (types 6, 11, 16, 18, 31, 33, 45, 52, and 58), recombinant
+notes: https://www.innovax.cn/en/research/209.html
 generic: false
 immunoglobulin: false
 injection_methods: []

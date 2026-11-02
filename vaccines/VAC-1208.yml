@@ -2,6 +2,7 @@
 id: 1208
 name: Diphtheria (standard dose), tetanus, pertussis (whole inactivated) and hepatitis B (recombinant) vaccine, adsorbed, pediatric
 description: Diphtheria (toxoid, standard dose), tetanus (toxoid), pertussis (whole inactivated) and hepatitis B (recombinant) vaccine, adsorbed, pediatric
+notes:
 generic: true
 immunoglobulin: false
 injection_methods: []
