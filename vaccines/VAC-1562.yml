@@ -1,0 +1,15 @@
+---
+id: 1562
+generic: true
+name: hgfd
+description:
+immunoglobulin: true
+notes:
+created_at: 1793983857
+updated_at: 1793983857
+other_names: []
+valence_ids:
+- 172
+codes:
+- nomenclature: SYADEM
+  code: 4aacc5f6-0a88-4032-81b2-372e76c1b0d7
