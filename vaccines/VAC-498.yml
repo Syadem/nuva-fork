@@ -4,12 +4,10 @@ name: IMOGAM RAGE
 description: Rabies immunoglobulin, human origin
 notes:
 generic: false
-immunoglobulin: true
 injection_methods: []
 created_at: 1626689127
 updated_at: 1666959923
-valence_ids:
-- 252
+generic_vaccine_id: 358
 other_names:
 - IMOGAM(immunoglobulines)
 codes:

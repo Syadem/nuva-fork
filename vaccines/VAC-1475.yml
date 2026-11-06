@@ -4,7 +4,7 @@ name: Human monoclonal antibody against respiratory syncytial virus (RSV), clesr
 description: Human monoclonal antibody against respiratory syncytial virus (RSV), clesrovimab, unspecified
 notes:
 generic: true
-immunoglobulin: false
+immunoglobulin: true
 injection_methods: []
 created_at: 1759929157
 updated_at: 1759929157

@@ -4,13 +4,11 @@ name: FLUENZ
 description: Seasonal influenza vaccine, trivalent, live attenuated, nasal
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intranasal
 created_at: 1626689130
 updated_at: 1763120047
-valence_ids:
-- 1
+generic_vaccine_id: 1123
 other_names:
 - FLUENZ
 - grippe

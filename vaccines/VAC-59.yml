@@ -4,13 +4,11 @@ name: TYPHERIX
 description: Polysaccharide typhoid vaccine (Vi capsular antigen)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689123
 updated_at: 1791795617
-valence_ids:
-- 32
+generic_vaccine_id: 713
 other_names:
 - TYPHERIX
 - typhoideinjectable

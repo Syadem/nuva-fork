@@ -4,12 +4,10 @@ name: COMIRNATY JN.1 3 µg CHILDREN (6 MONTHS-4 YEARS)
 description: COVID-19 mRNA vaccine, subvariant Omicron JN.1, 3 micrograms, dose (6 months-4 years)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1724441185
 updated_at: 1745575205
-valence_ids:
-- 381
+generic_vaccine_id: 1413
 other_names:
 - brétovaméran
 codes:

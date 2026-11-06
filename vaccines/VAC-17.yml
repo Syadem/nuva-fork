@@ -4,16 +4,12 @@ name: M-M-RVAXPRO
 description: Live attenuated measles, mumps and rubella vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689121
 updated_at: 1749223572
-valence_ids:
-- 5
-- 77
-- 79
+generic_vaccine_id: 130
 other_names:
 - MMRVaxPro
 - rougeole

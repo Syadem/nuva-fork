@@ -10,15 +10,11 @@ notes: "Koprowski :\r
 
   Remplacé par l’OPV Sabin, puis plus tard par l’IPV (Salk) moderne"
 generic: false
-immunoglobulin: false
 injection_methods:
 - oral
 created_at: 1767880214
 updated_at: 1767880214
-valence_ids:
-- 33
-- 85
-- 132
+generic_vaccine_id: 320
 other_names: []
 codes:
 - nomenclature: SYADEM

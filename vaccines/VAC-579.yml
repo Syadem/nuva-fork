@@ -4,12 +4,10 @@ name: CLAIRYG 50 mg/mL
 description: Measles immunoglobulin, human origin
 notes:
 generic: false
-immunoglobulin: true
 injection_methods: []
 created_at: 1626689130
 updated_at: 1744205846
-valence_ids:
-- 55
+generic_vaccine_id: 862
 other_names:
 - CLAIRYG50mg/ml
 codes:

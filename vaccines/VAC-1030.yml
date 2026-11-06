@@ -4,13 +4,11 @@ name: GEMCOVAC-19
 description: COVID-19 vaccine, mRNA encoding the SARS-CoV-2 spike protein, ongoing clinical trial
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1665565273
 updated_at: 1712916390
-valence_ids:
-- 135
+generic_vaccine_id: 1166
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -4,15 +4,12 @@ name: VACCIN T.P. PASTEUR
 description: Tetanus toxoid and inactivated polio (trivalent) vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689124
 updated_at: 1758816075
-valence_ids:
-- 56
-- 67
+generic_vaccine_id: 380
 other_names:
 - T.P.
 - T/P

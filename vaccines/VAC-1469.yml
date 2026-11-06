@@ -8,13 +8,11 @@ notes: "https://www.vidal.fr/actualites/31406-le-vaccin-mnexspike-de-moderna-con
 
   https://www.modernatx.com/en-US/products/mnexspike"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1757517580
 updated_at: 1757668229
-valence_ids:
-- 428
+generic_vaccine_id: 1473
 other_names: []
 codes:
 - nomenclature: SYADEM

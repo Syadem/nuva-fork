@@ -4,13 +4,11 @@ name: EPAXAL
 description: Inactivated hepatitis A vaccine, virosome, pediatric or adult
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689124
 updated_at: 1758813711
-valence_ids:
-- 130
+generic_vaccine_id: 824
 other_names:
 - EPAXALBERNAPRODUCTSNA
 - EPAXAL

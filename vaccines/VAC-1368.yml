@@ -6,13 +6,11 @@ notes: "https://www.bharatbiotech.com/images/incovacc/incovacc-factsheet.pdf\r
 
   https://www.bharatbiotech.com/intranasal-vaccine.html"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intranasal
 created_at: 1743762547
 updated_at: 1743762547
-valence_ids:
-- 69
+generic_vaccine_id: 1170
 other_names: []
 codes:
 - nomenclature: SYADEM

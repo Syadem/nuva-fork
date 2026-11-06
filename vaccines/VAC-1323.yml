@@ -14,17 +14,11 @@ notes: "https://www.seruminstitute.com/product_MenFive.php\r
 
   Elle confirme la sécurité du vaccin en situation d’épidémie, avec des taux très faibles d’effets indésirables graves et aucun nouveau signal de sécurité détecté."
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1741884345
 updated_at: 1775133198
-valence_ids:
-- 41
-- 57
-- 78
-- 136
-- 404
+generic_vaccine_id: 1311
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -4,12 +4,10 @@ name: HAVRIX 360 U
 description: Inactivated hepatitis A vaccine, pediatric dose
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689128
 updated_at: 1758806635
-valence_ids:
-- 142
+generic_vaccine_id: 911
 other_names:
 - HAVRIX 360 U
 codes:

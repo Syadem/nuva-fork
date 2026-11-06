@@ -4,14 +4,10 @@ name: DAPTACEL
 description: Diphtheria toxoid (standard dose), tetanus toxoid and pertussis (multicomponent acellular, standard dose) pediatric vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689123
 updated_at: 1698915207
-valence_ids:
-- 8
-- 67
-- 97
+generic_vaccine_id: 602
 other_names:
 - DAPTACEL
 codes:

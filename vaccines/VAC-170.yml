@@ -4,13 +4,11 @@ name: AFLUNOV
 description: Influenza A(H5N1) vaccine (surface antigen, inactivated, adjuvanted)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689124
 updated_at: 1758813269
-valence_ids:
-- 51
+generic_vaccine_id: 84
 other_names:
 - AFLUNOV
 codes:

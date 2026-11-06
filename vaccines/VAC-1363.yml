@@ -8,13 +8,11 @@ notes: "Flacon ou seringue préremplie.\r
 
   https://www.mfds.go.kr/eng/brd/m_30/view.do?seq=70955&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1743693912
 updated_at: 1743694020
-valence_ids:
-- 114
+generic_vaccine_id: 914
 other_names:
 - HEPAVAXGENE
 codes:

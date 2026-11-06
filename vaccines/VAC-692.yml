@@ -4,12 +4,10 @@ name: COVAXX
 description: COVID-19 vaccine, protein subunit
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689121
 updated_at: 1684151097
-valence_ids:
-- 11
+generic_vaccine_id: 1138
 other_names: []
 codes:
 - nomenclature: SYADEM

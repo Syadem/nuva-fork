@@ -6,13 +6,11 @@ notes: "https://www.ema.europa.eu/en/medicines/human/EPAR/celldemic\r
 
   https://www.ema.europa.eu/fr/documents/product-information/celldemic-epar-product-information_fr.pdf"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1742909094
 updated_at: 1743067860
-valence_ids:
-- 51
+generic_vaccine_id: 84
 other_names: []
 codes:
 - nomenclature: SYADEM

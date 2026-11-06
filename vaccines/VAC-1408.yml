@@ -6,13 +6,11 @@ notes: "https://www.panaceabiotec.com/en/products/product-list\r
 
   https://www.panaceabiotec.com/assets/documents/SmPc_EnivacHB.pdf"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1744289110
 updated_at: 1744289110
-valence_ids:
-- 114
+generic_vaccine_id: 914
 other_names: []
 codes:
 - nomenclature: SYADEM

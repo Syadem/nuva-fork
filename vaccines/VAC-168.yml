@@ -4,14 +4,11 @@ name: AMBIRIX
 description: Combined hepatitis A and B vaccine, pediatric dose
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689130
 updated_at: 1748964221
-valence_ids:
-- 115
-- 143
+generic_vaccine_id: 1226
 other_names:
 - ambirix
 - hepatiteA

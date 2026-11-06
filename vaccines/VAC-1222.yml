@@ -4,7 +4,7 @@ name: Human monoclonal antibody against respiratory syncytial virus (RSV), paliv
 description: Human monoclonal antibody against respiratory syncytial virus (RSV), palivizumab, unspecified
 notes:
 generic: true
-immunoglobulin: false
+immunoglobulin: true
 injection_methods: []
 created_at: 1717600208
 updated_at: 1740490861

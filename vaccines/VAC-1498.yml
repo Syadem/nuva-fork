@@ -4,13 +4,11 @@ name: EPIVACCORONA-N
 description: COVID-19 protein subunit vaccine, recombinant protein
 notes: https://www.vax-before-travel.com/vaccines/epivaccorona-vaccine?
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1768916099
 updated_at: 1769438807
-valence_ids:
-- 104
+generic_vaccine_id: 1113
 other_names: []
 codes:
 - nomenclature: SYADEM

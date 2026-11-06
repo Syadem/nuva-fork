@@ -4,12 +4,10 @@ name: NUVAXOVID XBB.1.5
 description: COVID-19 vaccine, protein subunit, recombinant spike protein nanoparticles, with adjuvant (Matrix M), Omicron XBB.1.5 subvariant
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1701816051
 updated_at: 1712669838
-valence_ids:
-- 328
+generic_vaccine_id: 1236
 other_names:
 - NUVAXOVID Omicron XBB.1.5
 codes:

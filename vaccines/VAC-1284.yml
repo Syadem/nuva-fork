@@ -4,17 +4,11 @@ name: NUSAGARD
 description: Human Papillomavirus vaccine, quadrivalent (types 6, 11, 16, and 18), recombinant
 notes: https://www.biofarma.co.id/id/our-product/detail/nusagard
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1741087195
 updated_at: 1741094962
-valence_ids:
-- 52
-- 238
-- 239
-- 240
-- 241
+generic_vaccine_id: 859
 other_names: []
 codes:
 - nomenclature: SYADEM

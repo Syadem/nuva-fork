@@ -4,17 +4,11 @@ name: EUPENTA
 description: Vaccin pédiatrique diphtérique (anatoxine, dose standard), tétanique (anatoxine), coquelucheux (entier, dose standard), hépatite B et anti-Haemophilus influenzae type b (conjugué à l'anatoxine tétanique)
 notes: https://www.lgchem.com/product-detail/eupeta-inj
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1743669435
 updated_at: 1743669435
-valence_ids:
-- 10
-- 67
-- 97
-- 114
-- 156
+generic_vaccine_id: 1181
 other_names: []
 codes:
 - nomenclature: SYADEM

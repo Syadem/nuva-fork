@@ -14,12 +14,10 @@ notes: "PreHevbrio\r
 
   HepB-r-3Ag, Hepatitis B recombinant vaccine, three antigens (HbS, pre-S1 et pre-S2)"
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1652799765
 updated_at: 1713357555
-valence_ids:
-- 291
+generic_vaccine_id: 1145
 other_names: []
 codes:
 - nomenclature: SYADEM

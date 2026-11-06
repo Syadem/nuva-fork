@@ -4,13 +4,11 @@ name: VARIZIG
 description: Varicella Zoster Immune Globulin (Human)
 notes: https://www.kamada.com/product/varizig/
 generic: false
-immunoglobulin: true
 injection_methods:
 - intramuscular
 created_at: 1715784809
 updated_at: 1744880113
-valence_ids:
-- 88
+generic_vaccine_id: 864
 other_names: []
 codes:
 - nomenclature: SYADEM

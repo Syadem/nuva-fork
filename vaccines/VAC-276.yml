@@ -4,12 +4,10 @@ name: LIOVAX
 description: Smallpox vaccine, first-generation, live vaccinia virus
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689122
 updated_at: 1666959920
-valence_ids:
-- 294
+generic_vaccine_id: 1122
 other_names:
 - LIOVAX
 codes:

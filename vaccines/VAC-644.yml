@@ -6,12 +6,10 @@ description: "Live attenuated, chimeric recombinant, quadrivalent vaccine agains
   Other names: TAK-003; DENVAX"
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689123
 updated_at: 1791988398
-valence_ids:
-- 65
+generic_vaccine_id: 1178
 other_names:
 - tak-003
 - denvax

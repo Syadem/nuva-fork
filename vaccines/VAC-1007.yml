@@ -4,12 +4,10 @@ name: ISTIVAC4
 description: Quadrivalent inactivated seasonal influenza vaccine, split virion
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1659108275
 updated_at: 1713170348
-valence_ids:
-- 40
+generic_vaccine_id: 938
 other_names: []
 codes:
 - nomenclature: SYADEM

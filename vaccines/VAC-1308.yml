@@ -4,14 +4,11 @@ name: DT BIOLOGICAL E LTD
 description: Paediatric diphtheria vaccine (toxoid, standard dose) and tetanus vaccine (toxoid)
 notes: https://www.biologicale.com/pdf/Product_VB_International_Marketing.pdf
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1741792208
 updated_at: 1741792208
-valence_ids:
-- 67
-- 97
+generic_vaccine_id: 137
 other_names: []
 codes:
 - nomenclature: SYADEM

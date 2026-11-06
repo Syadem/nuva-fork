@@ -4,14 +4,11 @@ name: TYT BIOMED
 description: Typhoid and tetanus vaccine, injectable suspension
 notes: https://biomed.pl/wp-content/uploads/2024/07/Ulotka-TyT.pdf
 generic: false
-immunoglobulin: false
 injection_methods:
 - subcutaneous
 created_at: 1739959734
 updated_at: 1739959734
-valence_ids:
-- 14
-- 67
+generic_vaccine_id: 1540
 other_names: []
 codes:
 - nomenclature: SYADEM

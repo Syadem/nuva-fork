@@ -6,13 +6,11 @@ notes: "https://www.panaceabiotec.com/en/products/product-list\r
 
   https://www.panaceabiotec.com/assets/documents/SmPc_NovoHib.pdf"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1744280833
 updated_at: 1744280833
-valence_ids:
-- 156
+generic_vaccine_id: 345
 other_names: []
 codes:
 - nomenclature: SYADEM

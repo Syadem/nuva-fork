@@ -4,13 +4,11 @@ name: Adjuvanted inactivated vaccine against SARS-CoV-2
 description: "COVID-19 vaccine, whole virion inactivated, adjuvanted (adjuvant : aluminium hydroxide + TLR9 agonist (CpG ODN)"
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - subcutaneous
 created_at: 1626689124
 updated_at: 1717515002
-valence_ids:
-- 265
+generic_vaccine_id: 1124
 other_names: []
 codes:
 - nomenclature: SYADEM

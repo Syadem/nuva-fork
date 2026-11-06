@@ -4,13 +4,11 @@ name: POLIORIX
 description: Inactivated polio (trivalent) vaccine
 notes: https://www.i-apteka.pl/product-pol-49641-POLIORIX-roztwor-do-wstrzykiwan.html
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1767629882
 updated_at: 1767629882
-valence_ids:
-- 56
+generic_vaccine_id: 270
 other_names: []
 codes:
 - nomenclature: SYADEM

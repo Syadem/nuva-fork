@@ -4,22 +4,11 @@ name: PNEUMOSIL
 description: Pneumococcal polysaccharide conjugate vaccine, 10-valent, serotypes 1, 5, 6A, 6B, 7F, 9V, 14, 19A, 19F and 23F
 notes: https://www.seruminstitute.com/product_pneumococcal_polysaccharide.php
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1741877151
 updated_at: 1744626410
-valence_ids:
-- 186
-- 189
-- 190
-- 191
-- 192
-- 194
-- 198
-- 201
-- 202
-- 204
+generic_vaccine_id: 1424
 other_names:
 - 10valent
 - 10-valent

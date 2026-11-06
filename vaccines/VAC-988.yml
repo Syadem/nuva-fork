@@ -4,15 +4,10 @@ name: VACCINO MENINGOCOCCICO POLISACCARIDICO TETRAVALENTE GSK
 description: Unconjugated meningococcal polysaccharide vaccine, serogroups A, C, W and Y
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1655717006
 updated_at: 1713187927
-valence_ids:
-- 37
-- 137
-- 138
-- 139
+generic_vaccine_id: 152
 other_names: []
 codes:
 - nomenclature: SYADEM

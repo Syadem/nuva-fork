@@ -4,16 +4,10 @@ name: CINQUERIX
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose), Haemophilus influenzae type b (conjugated to tetanus toxoid) and inactivated polio (trivalent) pediatric vaccine, adsorbed
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1648262863
 updated_at: 1713858169
-valence_ids:
-- 8
-- 56
-- 67
-- 97
-- 156
+generic_vaccine_id: 1115
 other_names: []
 codes:
 - nomenclature: SYADEM

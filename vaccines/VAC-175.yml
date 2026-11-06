@@ -4,14 +4,11 @@ name: A.D.T. BOOSTER
 description: Diphtheria toxoid (low dose) and tetanus toxoid vaccine (used for booster shots)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689123
 updated_at: 1749630853
-valence_ids:
-- 34
-- 67
+generic_vaccine_id: 920
 other_names:
 - ADT
 - A.D.T.

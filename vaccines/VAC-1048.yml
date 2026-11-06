@@ -6,14 +6,11 @@ notes: "Idem Tenivac du même labo\r
 
   https://www.fda.gov/media/76610/download\r\n"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1692304950
 updated_at: 1712753105
-valence_ids:
-- 34
-- 67
+generic_vaccine_id: 920
 other_names:
 - dT
 - Td

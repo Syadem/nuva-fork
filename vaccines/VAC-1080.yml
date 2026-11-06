@@ -6,13 +6,11 @@ notes: "https://www.bharatbiotech.com/images/covaxin/covaxin-smpc1.pdf\r
 
   https://www.bharatbiotech.com/covaxin.html"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1715692721
 updated_at: 1745575507
-valence_ids:
-- 265
+generic_vaccine_id: 1124
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -8,16 +8,11 @@ notes: "https://www.nature.com/articles/s41591-026-04255-3\r
 
   https://en.butantan.gov.br/portfolio.php"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1773755708
 updated_at: 1773825126
-valence_ids:
-- 435
-- 436
-- 437
-- 438
+generic_vaccine_id: 1544
 other_names:
 - butantandenguevaccine
 codes:

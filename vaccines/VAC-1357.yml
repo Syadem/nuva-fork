@@ -4,13 +4,11 @@ name: EUPOLIO
 description: Inactivated polio (trivalent) vaccine
 notes: https://www.lgchem.com/product-detail/eupolio-inj
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1743672128
 updated_at: 1743672128
-valence_ids:
-- 56
+generic_vaccine_id: 270
 other_names: []
 codes:
 - nomenclature: SYADEM

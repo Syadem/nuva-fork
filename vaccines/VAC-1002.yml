@@ -4,12 +4,10 @@ name: Q-VAX
 description: Inactivated Q fever vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1659101620
 updated_at: 1713173937
-valence_ids:
-- 172
+generic_vaccine_id: 896
 other_names: []
 codes:
 - nomenclature: SYADEM

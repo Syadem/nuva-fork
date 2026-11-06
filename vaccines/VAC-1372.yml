@@ -4,13 +4,11 @@ name: ROTAVAC
 description: Rotavirus vaccine
 notes: https://www.bharatbiotech.com/rotavac.html
 generic: false
-immunoglobulin: false
 injection_methods:
 - oral
 created_at: 1744014479
 updated_at: 1744014479
-valence_ids:
-- 106
+generic_vaccine_id: 158
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -8,12 +8,10 @@ notes: "Le nom de VACCIN BCG BIOMED-LUBLIN a été remplacé par VACCIN BCG SYNT
 
   Nom du labo également incorrect : Sanofi Pasteur au lieu de BIOMED."
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689129
 updated_at: 1751041461
-valence_ids:
-- 96
+generic_vaccine_id: 134
 other_names:
 - tuberculeuse
 - tuberculose

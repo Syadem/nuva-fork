@@ -4,13 +4,11 @@ name: Cadila-DNA-covid
 description: COVID-19 plasmid DNA vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intradermal
 created_at: 1626689128
 updated_at: 1717515414
-valence_ids:
-- 35
+generic_vaccine_id: 1128
 other_names:
 - covid19
 - adncovid19cadila

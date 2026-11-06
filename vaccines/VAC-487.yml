@@ -4,15 +4,11 @@ name: MENHIBRIX
 description: Haemophilus influenzae type b and meningococcal conjugate vaccine, serogroup A and C (conjugated to tetanus toxoid)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689130
 updated_at: 1740495816
-valence_ids:
-- 156
-- 266
-- 276
+generic_vaccine_id: 1220
 other_names: []
 codes:
 - nomenclature: SYADEM

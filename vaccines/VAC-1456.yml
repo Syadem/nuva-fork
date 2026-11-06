@@ -4,13 +4,11 @@ name: WYVAC
 description: Whole virion inactivated rabies vaccine, prepared in MRC5 cells
 notes: https://americanhistory.si.edu/collections/search/object/nmah_1335595
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1753802067
 updated_at: 1753802110
-valence_ids:
-- 258
+generic_vaccine_id: 943
 other_names: []
 codes:
 - nomenclature: SYADEM

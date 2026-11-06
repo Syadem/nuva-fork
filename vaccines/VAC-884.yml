@@ -4,14 +4,10 @@ name: DIF-PER-TET-ALL CHIRON
 description: Diphtheria toxoid (standard dose), tetanus toxoid and pertussis (multicomponent acellular, 3 components, standard dose) pediatric vaccine, adsorbed
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1649076731
 updated_at: 1753971156
-valence_ids:
-- 8
-- 67
-- 97
+generic_vaccine_id: 602
 other_names: []
 codes:
 - nomenclature: SYADEM

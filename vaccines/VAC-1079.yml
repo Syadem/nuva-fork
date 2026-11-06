@@ -6,15 +6,11 @@ notes: "https://www.atoute.org/n/IMG/pdf/Constituants_des_vaccins_version-actual
 
   https://www.finlay.edu.cu/en/vaccine/vax-spiral-trivalent-antileptospirosis/"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1714137112
 updated_at: 1740757699
-valence_ids:
-- 75
-- 347
-- 348
+generic_vaccine_id: 1120
 other_names: []
 codes:
 - nomenclature: SYADEM

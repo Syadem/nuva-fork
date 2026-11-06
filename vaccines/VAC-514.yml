@@ -4,13 +4,11 @@ name: ROTARIX
 description: Monovalent rotavirus vaccine, oral
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - oral
 created_at: 1626689126
 updated_at: 1749222659
-valence_ids:
-- 141
+generic_vaccine_id: 1235
 other_names:
 - ROTARIX
 - rotavirus

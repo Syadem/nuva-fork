@@ -4,14 +4,11 @@ name: MEASLES AND RUBELLA VACCINE ZYDUS
 description: Live attenuated measles and rubella vaccine
 notes: https://www.zyduslife.com/public/pdf/7_PI%20&%20SmpC_Measles%20and%20Rubella%20Vaccine%20I.P.%20(Freeze%20Dried).pdf
 generic: false
-immunoglobulin: false
 injection_methods:
 - subcutaneous
 created_at: 1744030859
 updated_at: 1744030859
-valence_ids:
-- 5
-- 79
+generic_vaccine_id: 550
 other_names: []
 codes:
 - nomenclature: SYADEM

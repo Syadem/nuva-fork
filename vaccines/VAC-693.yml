@@ -4,13 +4,11 @@ name: VXA-CoV2-1-Covid
 description: COVID-19 vaccine, non-replicating adenovirus 5 vector encoding the SARS-CoV-2 spike protein, adjuvanted, oral tableted
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - oral
 created_at: 1626689120
 updated_at: 1717516248
-valence_ids:
-- 50
+generic_vaccine_id: 1176
 other_names:
 - VXA-CoV2-1-Covid
 codes:

@@ -6,13 +6,11 @@ notes: "https://www.bharatbiotech.com/revacb_mcf.html\r
 
   https://www.bharatbiotech.com/images/revac-b-mcf/revacb_mcf_ppi.pdf"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1743782314
 updated_at: 1743782314
-valence_ids:
-- 114
+generic_vaccine_id: 914
 other_names: []
 codes:
 - nomenclature: SYADEM

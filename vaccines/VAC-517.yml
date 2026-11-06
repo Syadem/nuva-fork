@@ -4,13 +4,11 @@ name: FLUARIXTETRA
 description: Quadrivalent inactivated seasonal influenza vaccine, split virion
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689126
 updated_at: 1758815568
-valence_ids:
-- 40
+generic_vaccine_id: 938
 other_names:
 - FLUARIXTETRA
 - grippe

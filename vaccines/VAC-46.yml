@@ -4,14 +4,12 @@ name: ENGERIX B 20 µg
 description: Recombinant hepatitis B vaccine, adult dose
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689125
 updated_at: 1790849640
-valence_ids:
-- 115
+generic_vaccine_id: 915
 other_names:
 - hepatiteb
 - hepb

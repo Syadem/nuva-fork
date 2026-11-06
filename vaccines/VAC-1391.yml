@@ -4,14 +4,11 @@ name: BILIVE
 description: Combined hepatitis A and B vaccine, adult dose
 notes: https://www.sinovac.com/en-us/portfolio/healive
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1744114446
 updated_at: 1744114446
-valence_ids:
-- 115
-- 145
+generic_vaccine_id: 654
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -4,12 +4,10 @@ name: FLUOGEN
 description: Seasonal influenza vaccine, trivalent, whole virion inactivated, obtained from egg culture
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689121
 updated_at: 1791809133
-valence_ids:
-- 152
+generic_vaccine_id: 820
 other_names:
 - FLUOGEN
 codes:

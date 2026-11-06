@@ -4,13 +4,11 @@ name: SPIKEVAX XFG 25 µg
 description: COVID-19 mRNA vaccine, subvariant Omicron XFG, 25 micrograms
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1787931001
 updated_at: 1787931001
-valence_ids:
-- 179
+generic_vaccine_id: 1532
 other_names: []
 codes:
 - nomenclature: SYADEM

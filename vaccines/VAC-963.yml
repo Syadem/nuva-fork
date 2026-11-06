@@ -4,14 +4,10 @@ name: ANATOXAL DI TE PER
 description: Diphtheria toxoid (standard dose), tetanus toxoid and pertussis (whole-cell inactivated) pediatric vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1653901447
 updated_at: 1713275193
-valence_ids:
-- 10
-- 67
-- 97
+generic_vaccine_id: 136
 other_names: []
 codes:
 - nomenclature: SYADEM

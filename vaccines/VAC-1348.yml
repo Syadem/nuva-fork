@@ -4,13 +4,11 @@ name: TETANA
 description: Tetanus toxoid vaccine
 notes: https://biomed.pl/wp-content/uploads/2024/08/Tetana-leaflet.pdf
 generic: false
-immunoglobulin: false
 injection_methods:
 - subcutaneous
 created_at: 1743586654
 updated_at: 1743599989
-valence_ids:
-- 67
+generic_vaccine_id: 132
 other_names: []
 codes:
 - nomenclature: SYADEM

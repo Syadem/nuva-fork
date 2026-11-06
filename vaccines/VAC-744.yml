@@ -4,13 +4,11 @@ name: COVID-19 inactivated vaccine
 description: COVID-19 vaccine, whole virion inactivated
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689122
 updated_at: 1717570732
-valence_ids:
-- 265
+generic_vaccine_id: 1124
 other_names: []
 codes:
 - nomenclature: SYADEM

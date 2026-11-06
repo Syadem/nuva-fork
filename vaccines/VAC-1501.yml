@@ -6,13 +6,11 @@ notes: "https://www.ema.europa.eu/en/medicines/human/EPAR/spikevax\r
 
   https://www.ema.europa.eu/en/documents/product-information/spikevax-epar-product-information_en.pdf"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1768928073
 updated_at: 1768928073
-valence_ids:
-- 432
+generic_vaccine_id: 1545
 other_names: []
 codes:
 - nomenclature: SYADEM

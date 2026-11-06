@@ -4,12 +4,10 @@ name: MUMPS LIVE
 description: Live attenuated mumps vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689120
 updated_at: 1742079651
-valence_ids:
-- 77
+generic_vaccine_id: 153
 other_names:
 - MUMPS
 codes:

@@ -4,13 +4,11 @@ name: BIOHIB
 description: Haemophilus influenzae type b conjugate vaccine composed of PRP (polyribosylribitol phosphate) conjugated to tetanus toxoid
 notes: https://www.bharatbiotech.com/biohib.html
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1743759423
 updated_at: 1743759423
-valence_ids:
-- 156
+generic_vaccine_id: 345
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -8,13 +8,11 @@ notes: "Both vaccines are derived from the New York City Board of Health strain 
 
   ACAM2000 is a vaccine developed by Acambis, which was acquired by Sanofi Pasteur in 2008, before selling the smallpox vaccine to Emergent Biosolutions in 2017. Six strains of vaccinia were isolated from 3,000 doses of Dryvax and found to exhibit significant variation in virulence. The strain with the most similar virulence to the overall Dryvax mixture was selected and grown in MRC-5 cells to make the ACAM1000 vaccine. After a successful Phase I trial of ACAM1000, the virus was passaged three times in Vero cells to develop ACAM2000, which entered mass production at Baxter. The United States ordered over 200 million doses of ACAM2000 in 1999–2001 for its stockpile, and production is ongoing to replace expired vaccine.\r\n"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intradermal
 created_at: 1658585704
 updated_at: 1741363815
-valence_ids:
-- 295
+generic_vaccine_id: 1160
 other_names: []
 codes:
 - nomenclature: SYADEM

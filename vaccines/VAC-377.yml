@@ -6,15 +6,11 @@ notes: "https://www.seruminstitute.com/product_diphtheriatetanuspertussis.php\r
 
   https://www.seruminstitute.com/product_ind_tripleantigen.php"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689127
 updated_at: 1743431361
-valence_ids:
-- 10
-- 67
-- 97
+generic_vaccine_id: 136
 other_names:
 - SIITRIPLEANTIGEN
 - TRIPLE ANTIGEN SII

@@ -8,14 +8,11 @@ notes: "https://extranet.who.int/prequal/vaccines/p/walrinvaxr\r
 
   https://extranet.who.int/prequal/sites/default/files/vwa_vaccine/fvp-p-426_hpv2_1dose_yuxizerum_pi-2024.pdf"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1740395123
 updated_at: 1740396560
-valence_ids:
-- 240
-- 241
+generic_vaccine_id: 1426
 other_names:
 - hpv16-18
 - vph16-18

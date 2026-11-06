@@ -6,13 +6,11 @@ notes: "https://www.bharatbiotech.com/hnvac.html\r
 
   https://www.bharatbiotech.com/images/hnvac/hnvac_ppi.pdf"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1743761429
 updated_at: 1791812694
-valence_ids:
-- 99
+generic_vaccine_id: 147
 other_names: []
 codes:
 - nomenclature: SYADEM

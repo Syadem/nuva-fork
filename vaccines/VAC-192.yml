@@ -4,12 +4,10 @@ name: ATTENUVAX
 description: Live attenuated measles vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689127
 updated_at: 1666959919
-valence_ids:
-- 5
+generic_vaccine_id: 114
 other_names:
 - ATTENUVAX
 codes:

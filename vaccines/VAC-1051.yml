@@ -16,13 +16,11 @@ notes: "COMIRNATY OMICRON XBB.1.5 30 µg\r
 
   PFIZER COMIRNATY-30 XBB.1.5 ADULTE (+ 12 ANS)"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1694901946
 updated_at: 1745575795
-valence_ids:
-- 323
+generic_vaccine_id: 1244
 other_names:
 - COMIRNATY OMICRON XBB.1.5 30 µg
 codes:

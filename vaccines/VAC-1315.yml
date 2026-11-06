@@ -4,13 +4,11 @@ name: MUMPS SII
 description: Live attenuated mumps vaccine
 notes: https://www.seruminstitute.com/product_viral_mumps.php
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1741799013
 updated_at: 1744273836
-valence_ids:
-- 77
+generic_vaccine_id: 153
 other_names:
 - Vaccinoreillons
 codes:

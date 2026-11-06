@@ -8,13 +8,10 @@ notes: "https://investors.modernatx.com/news/news-details/2024/Moderna-Announces
 
   https://www.ema.europa.eu/en/news/first-combined-covid-19-influenza-vaccine-people-50-years-older"
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1720429398
 updated_at: 1772555332
-valence_ids:
-- 168
-- 366
+generic_vaccine_id: 1248
 other_names: []
 codes:
 - nomenclature: SYADEM

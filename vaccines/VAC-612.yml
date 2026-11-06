@@ -4,15 +4,11 @@ name: DTP-vax FINLAY
 description: Diphtheria toxoid (standard dose), tetanus toxoid and whole-cell inactivated pertussis pediatric vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689128
 updated_at: 1666959925
-valence_ids:
-- 10
-- 67
-- 97
+generic_vaccine_id: 136
 other_names:
 - DTwP(coquelucheuxentierdosecomplète)
 - D.T.wP

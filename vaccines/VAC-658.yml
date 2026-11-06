@@ -4,13 +4,11 @@ name: COMIRNATY 30 µg BIONTECH-PFIZER
 description: Covid 19 mRNA vaccine, from age 12, 30 micrograms
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689126
 updated_at: 1694902721
-valence_ids:
-- 290
+generic_vaccine_id: 1150
 other_names:
 - BioNTech3LNPmRNAs
 - covid19

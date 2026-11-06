@@ -4,14 +4,11 @@ name: DITANRIX
 description: Diphtheria vaccine (toxoid, reduced dose) and tetanus vaccine (toxoid), adult dose
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689127
 updated_at: 1744193269
-valence_ids:
-- 34
-- 67
+generic_vaccine_id: 920
 other_names:
 - DITANRIXAdulte
 - DITENRIX

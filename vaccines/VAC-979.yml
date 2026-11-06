@@ -4,12 +4,10 @@ name: VACCINO ANTITETANICO ISI
 description: Tetanus toxoid vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1655476201
 updated_at: 1713196457
-valence_ids:
-- 67
+generic_vaccine_id: 132
 other_names: []
 codes:
 - nomenclature: SYADEM

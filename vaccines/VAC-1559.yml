@@ -4,14 +4,11 @@ name: EUVICHOL
 description: Cholera vaccine, oral, bivalent consisting of killed whole cells of Vibrio cholerae O1 (classical and El Tor) and O139
 notes: http://eubiologics.com/eng/sub2_1_1_1.php
 generic: false
-immunoglobulin: false
 injection_methods:
 - oral
 created_at: 1792145091
 updated_at: 1792145091
-valence_ids:
-- 367
-- 368
+generic_vaccine_id: 1257
 other_names: []
 codes:
 - nomenclature: SYADEM

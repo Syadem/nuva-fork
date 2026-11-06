@@ -4,16 +4,11 @@ name: TETRA-SOLGEN
 description: Pediatric diphtheria (toxoid, standard dose), tetanus (toxoid), pertussis (whole inactivated), and polio (whole inactivated, trivalent) vaccine
 notes: https://jeffreydachmd.com/wp-content/uploads/2017/01/discontinued_vaccines-1.pdf
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1753802567
 updated_at: 1753802567
-valence_ids:
-- 10
-- 56
-- 67
-- 97
+generic_vaccine_id: 1151
 other_names: []
 codes:
 - nomenclature: SYADEM

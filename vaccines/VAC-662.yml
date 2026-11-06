@@ -4,12 +4,10 @@ name: Osaka-DNA-covid / AG0301-COVID19
 description: COVID-19 plasmid DNA vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689121
 updated_at: 1717505265
-valence_ids:
-- 35
+generic_vaccine_id: 1128
 other_names:
 - covid19
 - adncovid19

@@ -4,13 +4,10 @@ name: HIBERNA PRODUCTSIX
 description: Tetanus toxoid and seasonal influenza (trivalent) vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689127
 updated_at: 1666959919
-valence_ids:
-- 15
-- 67
+generic_vaccine_id: 1130
 other_names:
 - HIBERNAPRODUCTSIX
 codes:

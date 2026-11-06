@@ -4,15 +4,11 @@ name: BUTANTAN DTAP
 description: Diphtheria toxoid (low dose), tetanus toxoid and pertussis toxoid (acellular, low dose) vaccine
 notes: https://en.butantan.gov.br/portfolio.php
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1773912885
 updated_at: 1773912885
-valence_ids:
-- 17
-- 34
-- 67
+generic_vaccine_id: 610
 other_names: []
 codes:
 - nomenclature: SYADEM

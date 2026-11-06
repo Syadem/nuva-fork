@@ -4,13 +4,11 @@ name: TRUMENBA
 description: Meningococcal vaccine, serogroup B (recombinant, adsorbed)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689121
 updated_at: 1758815974
-valence_ids:
-- 72
+generic_vaccine_id: 1152
 other_names:
 - Trumenba
 - TRUMEMBA

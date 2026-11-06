@@ -4,16 +4,11 @@ name: INFANRIX-IPV
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose) and inactivated polio (trivalent) pediatric vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689128
 updated_at: 1767978906
-valence_ids:
-- 8
-- 56
-- 67
-- 97
+generic_vaccine_id: 551
 other_names:
 - INFANRIXIPV
 codes:

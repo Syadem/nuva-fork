@@ -19,7 +19,10 @@ RSpec.describe 'The vaccines folder' do
 
       it 'matches the expected schema' do
         expect(data).to be_a(Hash)
-        expect(data.keys).to contain_exactly('id', 'name', 'description', 'notes', 'generic', 'immunoglobulin', 'injection_methods', 'created_at', 'updated_at', 'valence_ids', 'other_names', 'codes')
+
+        specific_fields = data['generic'] ? %w[valence_ids immunoglobulin] : %w[generic_vaccine_id]
+        
+        expect(data.keys).to contain_exactly('id', 'name', 'description', 'notes', 'generic', 'injection_methods', 'created_at', 'updated_at', *specific_fields, 'other_names', 'codes')
 
         expect(data['id']).to be_a(Integer)
         expect(data['id']).to be_positive
@@ -32,7 +35,6 @@ RSpec.describe 'The vaccines folder' do
         expect(data['notes']).to(be_a(String).or be_nil)
 
         expect(data['generic']).to(be(true).or be(false))
-        expect(data['immunoglobulin']).to(be(true).or be(false))
 
         expect(data['injection_methods']).to be_a(Array)
         expect(data['injection_methods']).to all(be_a(String))
@@ -48,18 +50,41 @@ RSpec.describe 'The vaccines folder' do
 
         expect(data['updated_at']).to be >= data['created_at']
 
-        expect(data['valence_ids']).to be_a(Array)
-        expect(data['valence_ids']).to all(be_a(Integer))
-        expect(data['valence_ids']).to all(be_positive)
-        expect(data['valence_ids']).to eq(data['valence_ids'].uniq)
+        if data['generic']
+          expect(data['immunoglobulin']).to(be(true).or be(false))
+          expect(data['valence_ids']).to be_a(Array)
+          expect(data['valence_ids']).to all(be_a(Integer))
+          expect(data['valence_ids']).to all(be_positive)
+          expect(data['valence_ids']).to eq(data['valence_ids'].uniq)
+        else
+          expect(data['generic_vaccine_id']).to be_a(Integer)
+          expect(data['generic_vaccine_id']).to be_positive
+        end
       end
 
-      it 'references existing valences' do
-        data['valence_ids'].each do |id|
-          valence_file = NUVA_ROOT.join('valences', "VAL-#{id}.yml")
+      it 'references existing valences or a generic vaccine according to its type' do
+        if data['generic']
+          data['valence_ids'].each do |id|
+            valence_file = NUVA_ROOT.join('valences', "VAL-#{id}.yml")
 
-          expect(valence_file).to be_file
-          expect(YAML.safe_load_file(valence_file)['id']).to eq(id)
+            expect(valence_file).to be_file
+            expect(YAML.safe_load_file(valence_file)['id']).to eq(id)
+          end
+        else
+          id = data['generic_vaccine_id']
+
+          expect(id).to be_a(Integer)
+          expect(id).to be_positive
+          expect(id).not_to eq(data['id'])
+
+          vaccine_file = NUVA_ROOT.join('vaccines', "VAC-#{id}.yml")
+
+          expect(vaccine_file).to be_file
+
+          generic_vaccine = YAML.safe_load_file(vaccine_file)
+
+          expect(generic_vaccine['id']).to eq(id)
+          expect(generic_vaccine['generic']).to be(true)
         end
       end
 

@@ -4,13 +4,11 @@ name: Inactivated SARS-CoV-2 vaccine FAKHRAVAC (MIVAC)
 description: COVID-19 vaccine, whole virion inactivated
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689126
 updated_at: 1717511793
-valence_ids:
-- 265
+generic_vaccine_id: 1124
 other_names: []
 codes:
 - nomenclature: SYADEM

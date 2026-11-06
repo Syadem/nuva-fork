@@ -4,14 +4,11 @@ name: CLODIVAC
 description: Diphtheria toxoid (low dose) and tetanus toxoid vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1739805558
 updated_at: 1739831787
-valence_ids:
-- 34
-- 67
+generic_vaccine_id: 920
 other_names:
 - Td
 - dT

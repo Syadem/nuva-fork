@@ -4,13 +4,11 @@ name: COH04S1
 description: COVID-19 vaccine, non-replicating modified Vaccinia Virus Ankara vector encoding the SARS-CoV-2 spike protein, containing DNA fragments encoding the spike protein and the nucleocapsid of SARS-CoV-2
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689130
 updated_at: 1684150808
-valence_ids:
-- 54
+generic_vaccine_id: 1189
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -6,13 +6,11 @@ notes: "https://sputnikvaccine.com/newsroom/pressreleases/kazakhstan-becomes-the
 
   Sputnik M : Version pédiatrique du Sputnik V, il est adapté pour les 12-17 ans. La composition et la technologie restent similaires, mais la dose et éventuellement certains composants peuvent être ajustés pour correspondre au système immunitaire des adolescents. Comme pour le Sputnik V, il repose sur la technologie des adénovirus recombinants, mais avec des adaptations spécifiques à cette tranche d’âge."
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1768917332
 updated_at: 1769253297
-valence_ids:
-- 70
+generic_vaccine_id: 1143
 other_names: []
 codes:
 - nomenclature: SYADEM

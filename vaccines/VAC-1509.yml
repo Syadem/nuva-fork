@@ -4,13 +4,11 @@ name: BUTANTAN HEP B
 description: Hepatitis B vaccine, recombinant hepatitis B surface antigen (HBsAg), unspecified
 notes: https://en.butantan.gov.br/portfolio.php
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1773830724
 updated_at: 1773830724
-valence_ids:
-- 90
+generic_vaccine_id: 101
 other_names: []
 codes:
 - nomenclature: SYADEM

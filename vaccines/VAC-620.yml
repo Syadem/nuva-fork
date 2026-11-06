@@ -4,13 +4,11 @@ name: IXCHIQ
 description: Live attenuated chikungunya vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689121
 updated_at: 1791988016
-valence_ids:
-- 60
+generic_vaccine_id: 1198
 other_names:
 - Vaccin chikungunya
 - Chik

@@ -4,16 +4,11 @@ name: NIMENRIX
 description: Quadrivalent meningococcal polysaccharide conjugate vaccine, serogroups A, C, W and Y (conjugated to tetanus toxoid)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689124
 updated_at: 1758815360
-valence_ids:
-- 266
-- 271
-- 272
-- 276
+generic_vaccine_id: 1182
 other_names:
 - NIMENRIX
 - nimanrix

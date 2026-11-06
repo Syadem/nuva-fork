@@ -4,13 +4,11 @@ name: SC-Ad6-1
 description: COVID-19 vaccine, non-replicating adenoviral 6 vector encoding the SARS-CoV-2 spike protein
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689128
 updated_at: 1689856642
-valence_ids:
-- 70
+generic_vaccine_id: 1143
 other_names: []
 codes:
 - nomenclature: SYADEM

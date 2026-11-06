@@ -4,12 +4,10 @@ name: MUMPS inactivated
 description: Whole virion Inactivated mumps vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689125
 updated_at: 1744099443
-valence_ids:
-- 48
+generic_vaccine_id: 1154
 other_names:
 - MUMPS
 codes:

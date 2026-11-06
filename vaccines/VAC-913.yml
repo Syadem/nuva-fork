@@ -8,13 +8,11 @@ notes: "Autres noms : PHH-1V, Versamune-CoV-2FC vaccine\r
 
   Nouveau nom (EMA) : BIMERVAX"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1651494842
 updated_at: 1713518791
-valence_ids:
-- 11
+generic_vaccine_id: 1138
 other_names: []
 codes:
 - nomenclature: SYADEM

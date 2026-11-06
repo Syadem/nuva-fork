@@ -8,12 +8,10 @@ notes: "https://www.ema.europa.eu/en/medicines/human/EPAR/hepacare\r
 
   Autorisé en 2000 par l'Union européenne et autorisation retirée volontairement en octobre 2002.\r\n"
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1753716719
 updated_at: 1753716719
-valence_ids:
-- 115
+generic_vaccine_id: 915
 other_names: []
 codes:
 - nomenclature: SYADEM

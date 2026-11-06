@@ -6,17 +6,11 @@ notes: "https://www.panaceabiotec.com/en/products/product-list\r
 
   https://www.panaceabiotec.com/assets/documents/SmPc_EasyfourPol%20vaccine_2023.pdf"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1744213816
 updated_at: 1744213816
-valence_ids:
-- 10
-- 56
-- 67
-- 97
-- 156
+generic_vaccine_id: 1126
 other_names: []
 codes:
 - nomenclature: SYADEM

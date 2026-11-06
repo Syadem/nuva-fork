@@ -4,14 +4,12 @@ name: BIOTHRAX
 description: Adsorbed acellular anthrax vaccine with adjuvant
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689125
 updated_at: 1744387015
-valence_ids:
-- 415
+generic_vaccine_id: 1279
 other_names:
 - BIOTHRAX
 codes:

@@ -4,12 +4,10 @@ name: RABIVAC
 description: Whole virion inactivated rabies vaccine, Flury LEP strain, purified chick embryo cell vaccine (PCECV), inactivated with ß-propiolactone
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1635263684
 updated_at: 1698920791
-valence_ids:
-- 259
+generic_vaccine_id: 942
 other_names:
 - Rabivac
 codes:

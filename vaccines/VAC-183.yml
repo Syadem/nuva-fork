@@ -4,13 +4,11 @@ name: AIMMUGEN
 description: Inactivated hepatitis A vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689124
 updated_at: 1666959919
-valence_ids:
-- 125
+generic_vaccine_id: 102
 other_names:
 - aimmugen
 codes:

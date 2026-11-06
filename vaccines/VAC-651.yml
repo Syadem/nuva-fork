@@ -4,13 +4,11 @@ name: CORONAVAC SINOVAC COVID-19 VACCINE
 description: "COVID-19 vaccine, whole virion inactivated, adjuvanted (adjuvant: aluminium hydroxide)"
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689122
 updated_at: 1744107479
-valence_ids:
-- 264
+generic_vaccine_id: 1119
 other_names:
 - Coronavac
 - vaccincovidsinovac

@@ -4,12 +4,10 @@ name: VACCINO BCG BERNA
 description: Live attenuated tuberculosis vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1653664870
 updated_at: 1713281897
-valence_ids:
-- 96
+generic_vaccine_id: 134
 other_names: []
 codes:
 - nomenclature: SYADEM

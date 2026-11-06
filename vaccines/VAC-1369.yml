@@ -6,13 +6,11 @@ notes: "https://www.bharatbiotech.com/indirab.html\r
 
   https://www.bharatbiotech.com/images/indirab/INDIRABPackageInsert.pdf"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1743776738
 updated_at: 1743777166
-valence_ids:
-- 260
+generic_vaccine_id: 1116
 other_names: []
 codes:
 - nomenclature: SYADEM

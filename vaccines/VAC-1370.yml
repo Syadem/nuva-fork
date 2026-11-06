@@ -6,13 +6,11 @@ notes: "https://www.bharatbiotech.com/jenvac.html\r
 
   https://www.bharatbiotech.com/images/jenvac/Jenvac_ppi.pdf"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1743779852
 updated_at: 1743779852
-valence_ids:
-- 251
+generic_vaccine_id: 1111
 other_names: []
 codes:
 - nomenclature: SYADEM

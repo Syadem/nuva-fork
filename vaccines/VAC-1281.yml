@@ -4,17 +4,11 @@ name: PENTABIO
 description: Vaccin pédiatrique diphtérique (anatoxine, dose standard), tétanique (anatoxine), coquelucheux (entier, dose standard), hépatite B et anti-Haemophilus influenzae type b (conjugué à l'anatoxine tétanique)
 notes: https://www.biofarma.co.id/id/our-product/detail/vaksin-pentabio-dtphbhib
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1741021241
 updated_at: 1741095007
-valence_ids:
-- 10
-- 67
-- 97
-- 114
-- 156
+generic_vaccine_id: 1181
 other_names: []
 codes:
 - nomenclature: SYADEM

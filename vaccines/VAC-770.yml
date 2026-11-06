@@ -4,13 +4,11 @@ name: NDV-HXP-S
 description: COVID-19 vaccine, replicating Newcastle disease virus vector encoding the SARS-CoV-2 spike protein, with or without CpG 1018 adjuvant
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689124
 updated_at: 1689856654
-valence_ids:
-- 95
+generic_vaccine_id: 1207
 other_names: []
 codes:
 - nomenclature: SYADEM

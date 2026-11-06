@@ -4,17 +4,11 @@ name: QUINTANRIX
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (whole-cell inactivated, standard dose), Haemophilus influenzae type b (conjugated to tetanus toxoid)  and hepatitis B (recombinant) pediatric vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1665561051
 updated_at: 1712916783
-valence_ids:
-- 10
-- 67
-- 97
-- 114
-- 156
+generic_vaccine_id: 1181
 other_names: []
 codes:
 - nomenclature: SYADEM

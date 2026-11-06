@@ -4,13 +4,10 @@ name: VACCIN TAB PASTEUR
 description: Typhoid and paratyphoid A and B vaccine, whole-cell inactivated
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689122
 updated_at: 1758808902
-valence_ids:
-- 45
-- 71
+generic_vaccine_id: 818
 other_names:
 - typhoideAB
 - typhoidiqueAB

@@ -4,14 +4,12 @@ name: ACT-HIB
 description: Haemophilus influenzae type b conjugate vaccine (tetanus protein conjugate)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689129
 updated_at: 1748962667
-valence_ids:
-- 156
+generic_vaccine_id: 345
 other_names:
 - ACTHIB
 - HIB

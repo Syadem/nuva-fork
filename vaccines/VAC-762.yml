@@ -4,13 +4,11 @@ name: CoV2 SAM (LNP) vaccine
 description: COVID-19 vaccine, self-amplifying mRNA (SAM) lipid nanoparticle (LNP) encoding the SARS-CoV-2 spike protein, ongoing clinical trial
 notes: self-amplifying mRNA (SAM) lipid nanoparticle (LNP) platform with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Spike antigen (CoV-2 SAM [LNP] vaccine
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689122
 updated_at: 1717570979
-valence_ids:
-- 169
+generic_vaccine_id: 1206
 other_names: []
 codes:
 - nomenclature: SYADEM

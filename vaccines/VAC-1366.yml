@@ -6,13 +6,11 @@ notes: "https://www.bharatbiotech.com/hillchol.html\r
 
   https://www.bharatbiotech.com/images/hillchol/HILLCHOL_FactSheet.pdf"
 generic: false
-immunoglobulin: false
 injection_methods:
 - oral
 created_at: 1743760584
 updated_at: 1743760584
-valence_ids:
-- 367
+generic_vaccine_id: 1537
 other_names: []
 codes:
 - nomenclature: SYADEM

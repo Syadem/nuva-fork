@@ -4,13 +4,11 @@ name: POLYOMYELITIS IMPFSTOFF BERNA
 description: Inactivated polio (trivalent) vaccine
 notes: Berna reprit par Novartis.
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1767806271
 updated_at: 1767865230
-valence_ids:
-- 56
+generic_vaccine_id: 270
 other_names: []
 codes:
 - nomenclature: SYADEM

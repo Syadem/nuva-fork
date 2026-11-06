@@ -4,14 +4,11 @@ name: COMVAX
 description: Hepatitis B and Haemophilus influenzae type b vaccine (OMP conjugate)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689125
 updated_at: 1698764351
-valence_ids:
-- 114
-- 155
+generic_vaccine_id: 1217
 other_names:
 - COMVAX
 codes:

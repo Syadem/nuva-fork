@@ -6,13 +6,11 @@ notes: "https://hepagamb.ca/_uploads/documents/hepagam/hepagam-pm-french.pdf\r
 
   https://www.kamada.com/product/hepagam-b/"
 generic: false
-immunoglobulin: true
 injection_methods:
 - intramuscular
 created_at: 1715786967
 updated_at: 1715786967
-valence_ids:
-- 47
+generic_vaccine_id: 863
 other_names: []
 codes:
 - nomenclature: SYADEM

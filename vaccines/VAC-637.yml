@@ -4,13 +4,10 @@ name: IPAD DT
 description: Diphtheria toxoid (standard dose) and tetanus toxoid pediatric vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689129
 updated_at: 1758874019
-valence_ids:
-- 67
-- 97
+generic_vaccine_id: 137
 other_names:
 - IPADDT
 - ipad.d.t.

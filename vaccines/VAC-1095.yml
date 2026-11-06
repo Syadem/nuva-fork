@@ -6,13 +6,11 @@ notes: "https://www.atoute.org/n/IMG/pdf/Constituants_des_vaccins_version-actual
 
   https://www.emergentbiosolutions.com/press/news-release-details-oxford-emergent-tuberculosis-consortium-vaccinates-last-infant/"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intradermal
 created_at: 1715849276
 updated_at: 1743080585
-valence_ids:
-- 96
+generic_vaccine_id: 134
 other_names: []
 codes:
 - nomenclature: SYADEM

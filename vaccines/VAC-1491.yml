@@ -16,13 +16,11 @@ notes: "Souche de virus atténué de la rubéole Tiantan-Hi-Warble\r
 
   https://healthwire.pk/pharmacy/medicine/rubevac-inj"
 generic: false
-immunoglobulin: false
 injection_methods:
 - subcutaneous
 created_at: 1767804881
 updated_at: 1767865032
-valence_ids:
-- 79
+generic_vaccine_id: 113
 other_names: []
 codes:
 - nomenclature: SYADEM

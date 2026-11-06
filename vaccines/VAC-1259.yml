@@ -4,13 +4,11 @@ name: COMIRNATY JN.1 10 µg CHILDREN (5-11 YEARS)
 description: COVID-19 mRNA vaccine, subvariant Omicron JN.1, 10 micrograms, paediatric dose (5-11 years)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1724441009
 updated_at: 1745575215
-valence_ids:
-- 380
+generic_vaccine_id: 1412
 other_names:
 - brétovaméran
 codes:

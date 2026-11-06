@@ -4,13 +4,11 @@ name: BATREVAC
 description: Trivalent inactivated seasonal influenza vaccine, surface antigen
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1635263683
 updated_at: 1757579833
-valence_ids:
-- 15
+generic_vaccine_id: 925
 other_names:
 - batrevak
 codes:

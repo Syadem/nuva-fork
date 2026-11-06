@@ -4,13 +4,11 @@ name: NOPV2
 description: Polio vaccine (live attenuated, monovalent) against polioviruses type 2, oral
 notes: https://www.biofarma.co.id/id/our-product/detail/nopv2-novel-oral-poliomyelitis-vaccine
 generic: false
-immunoglobulin: false
 injection_methods:
 - oral
 created_at: 1741094904
 updated_at: 1741101247
-valence_ids:
-- 33
+generic_vaccine_id: 852
 other_names: []
 codes:
 - nomenclature: SYADEM

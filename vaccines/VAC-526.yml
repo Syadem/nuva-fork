@@ -4,13 +4,11 @@ name: HECOLIN
 description: Recombinant Hepatitis E Peptide vaccine
 notes: https://www.innovax.cn/en/listed/148.html
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689125
 updated_at: 1744126483
-valence_ids:
-- 102
+generic_vaccine_id: 917
 other_names:
 - Hecolin
 - HEV239

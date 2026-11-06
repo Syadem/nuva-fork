@@ -4,12 +4,10 @@ name: POLIO LILLY
 description: Inactivated polio (trivalent) vaccine
 notes: Produit de 1954 à 1968.
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1767880752
 updated_at: 1767880851
-valence_ids:
-- 56
+generic_vaccine_id: 270
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -4,13 +4,10 @@ name: T POLIO MERIEUX
 description: Tetanus toxoid and inactivated polio (trivalent) vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689125
 updated_at: 1758807864
-valence_ids:
-- 56
-- 67
+generic_vaccine_id: 380
 other_names:
 - TPolioPasteur
 - TPPasteur

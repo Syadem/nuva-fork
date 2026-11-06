@@ -4,12 +4,10 @@ name: DARONRIX
 description: Influenza A(H5N1) vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689125
 updated_at: 1692135515
-valence_ids:
-- 51
+generic_vaccine_id: 84
 other_names:
 - DARONRIX
 codes:

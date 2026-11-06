@@ -4,13 +4,11 @@ name: COVID-eVax
 description: COVID-19 plasmid DNA vaccine, encoding the Spike protein of SARS-CoV-2
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689129
 updated_at: 1717494402
-valence_ids:
-- 35
+generic_vaccine_id: 1128
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -6,13 +6,11 @@ notes: "https://www.seruminstitute.com/product_recombinant.php\r
 
   https://www.seruminstitute.com/product_ind_genevacb.php"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1741947572
 updated_at: 1741950860
-valence_ids:
-- 115
+generic_vaccine_id: 915
 other_names: []
 codes:
 - nomenclature: SYADEM

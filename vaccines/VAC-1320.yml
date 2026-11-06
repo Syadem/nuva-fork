@@ -4,17 +4,11 @@ name: DIPHTHERIA, TETANUS, PERTUSSIS, HEPATITIS B AND HAEMOPHILUS INFLUENZAE B S
 description: Paediatric vaccine for diphtheria (toxoid, standard dose), tetanus (toxoid), whooping cough (whole, standard dose), hepatitis B and Haemophilus influenzae type b (conjugated with tetanus toxoid).
 notes: https://www.seruminstitute.com/product_combi_diphtheriatetanus3.php
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1741873583
 updated_at: 1742081170
-valence_ids:
-- 10
-- 67
-- 97
-- 114
-- 156
+generic_vaccine_id: 1181
 other_names:
 - DTwPHibHebB
 codes:

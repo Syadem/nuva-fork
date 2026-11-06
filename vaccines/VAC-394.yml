@@ -4,12 +4,10 @@ name: TIG
 description: Anti-tetanus immunoglobulin
 notes:
 generic: false
-immunoglobulin: true
 injection_methods: []
 created_at: 1626689123
 updated_at: 1666959922
-valence_ids:
-- 110
+generic_vaccine_id: 497
 other_names:
 - TIG
 codes:

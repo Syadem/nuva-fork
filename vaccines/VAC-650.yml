@@ -6,13 +6,11 @@ notes: "Changement code ATC J07BX03 > J07BN02 le 14/05/2023\r
 
   Retiré le 27/03/24"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689128
 updated_at: 1730135581
-valence_ids:
-- 69
+generic_vaccine_id: 1170
 other_names:
 - oxfordastrazeneca
 - astrazenecaoxford

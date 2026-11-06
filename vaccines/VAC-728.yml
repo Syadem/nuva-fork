@@ -4,13 +4,11 @@ name: Covid-19/aAPC
 description: COVID-19 vaccine prepared by applying lentivirus modification with immune modulatory genes and the viral minigenes to the artificial antigen presenting cells (aAPCs)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - subcutaneous
 created_at: 1626689121
 updated_at: 1717578560
-valence_ids:
-- 73
+generic_vaccine_id: 1186
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -4,13 +4,11 @@ name: V590 (COVID-19 Vaccine)
 description: COVID-19 vaccine, replicating vesicular stomatitis virus vector encoding the SARS-CoV-2 spike protein
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689123
 updated_at: 1684151135
-valence_ids:
-- 84
+generic_vaccine_id: 1190
 other_names: []
 codes:
 - nomenclature: SYADEM

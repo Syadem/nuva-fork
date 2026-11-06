@@ -8,13 +8,11 @@ notes: "Souche vaccinale RA27/3 utilisé historiquement dans certains pays (nota
 
   https://msss.gouv.qc.ca/professionnels/vaccination/piq-programmes-et-noms-commerciaux-des-vaccins/noms-commerciaux-des-vaccins-contre-la-rougeole-la-rubeole-et-les-oreillons/"
 generic: false
-immunoglobulin: false
 injection_methods:
 - subcutaneous
 created_at: 1767801318
 updated_at: 1767864477
-valence_ids:
-- 79
+generic_vaccine_id: 113
 other_names: []
 codes:
 - nomenclature: SYADEM

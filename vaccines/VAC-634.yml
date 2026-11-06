@@ -4,13 +4,11 @@ name: MVABEA
 description: Ebola virus vaccine with non-replicating viral vector
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689126
 updated_at: 1758873995
-valence_ids:
-- 109
+generic_vaccine_id: 1183
 other_names: []
 codes:
 - nomenclature: SYADEM

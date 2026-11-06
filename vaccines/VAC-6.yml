@@ -4,14 +4,12 @@ name: FLUVIRINE
 description: Trivalent inactivated seasonal influenza vaccine, egg-based, surface antigen
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689128
 updated_at: 1758788772
-valence_ids:
-- 15
+generic_vaccine_id: 925
 other_names:
 - FLUVIRINE
 - grippe

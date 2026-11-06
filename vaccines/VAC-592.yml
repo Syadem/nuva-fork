@@ -4,12 +4,10 @@ name: SPEEDA
 description: Whole virion inactivated rabies vaccine, cultured on Vero cells
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689128
 updated_at: 1698745420
-valence_ids:
-- 260
+generic_vaccine_id: 1116
 other_names:
 - SPEEDA
 codes:

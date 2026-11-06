@@ -4,13 +4,11 @@ name: CORVax12
 description: COVID-19 plasmid DNA vaccine, S-protein with or without the IL-12p70 plasmid combination
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intradermal
 created_at: 1626689124
 updated_at: 1717514456
-valence_ids:
-- 35
+generic_vaccine_id: 1128
 other_names: []
 codes:
 - nomenclature: SYADEM

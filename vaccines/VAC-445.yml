@@ -4,12 +4,10 @@ name: VAXIPAR
 description: Live mumps vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689129
 updated_at: 1744273840
-valence_ids:
-- 77
+generic_vaccine_id: 153
 other_names:
 - VAXIPAR
 codes:

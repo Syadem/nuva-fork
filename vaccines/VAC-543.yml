@@ -4,18 +4,11 @@ name: HEXAXIM
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose), Haemophilus influenzae type b (conjugated to tetanus toxoid), inactivated polio (trivalent) and hepatitis B (recombinant) pediatric vaccine, adsorbed
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689128
 updated_at: 1743502925
-valence_ids:
-- 8
-- 56
-- 67
-- 97
-- 114
-- 156
+generic_vaccine_id: 1121
 other_names:
 - hexacima
 - exacima

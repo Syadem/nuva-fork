@@ -4,12 +4,10 @@ name: AdCOVID
 description: COVID-19 vaccine, non-replicating adenoviral vector encoding the SARS-CoV-2 spike protein
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689123
 updated_at: 1717494508
-valence_ids:
-- 70
+generic_vaccine_id: 1143
 other_names: []
 codes:
 - nomenclature: SYADEM

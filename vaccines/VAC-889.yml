@@ -4,12 +4,10 @@ name: MONO OPV3
 description: Polio vaccine (live attenuated, monovalent) against poliovirus type 3, oral
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1649080568
 updated_at: 1713789466
-valence_ids:
-- 85
+generic_vaccine_id: 854
 other_names: []
 codes:
 - nomenclature: SYADEM

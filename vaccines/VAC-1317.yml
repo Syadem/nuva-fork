@@ -4,17 +4,11 @@ name: CERVAVAC
 description: Human Papillomavirus vaccine, quadrivalent (types 6, 11, 16, and 18), recombinant
 notes: https://www.seruminstitute.com/product_ind_cervavac.php
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1741859139
 updated_at: 1741950562
-valence_ids:
-- 52
-- 238
-- 239
-- 240
-- 241
+generic_vaccine_id: 859
 other_names: []
 codes:
 - nomenclature: SYADEM

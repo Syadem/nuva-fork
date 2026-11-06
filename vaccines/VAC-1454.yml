@@ -6,15 +6,11 @@ notes: "https://www.drugfuture.com/ema/epar.aspx?ProductNumber=EMEA%252FH%252FC%
 
   https://ec.europa.eu/health/documents/community-register/2000/200007273695/dec_3695_fr.pdf\r\n"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1753800764
 updated_at: 1753803503
-valence_ids:
-- 67
-- 90
-- 97
+generic_vaccine_id: 1552
 other_names: []
 codes:
 - nomenclature: SYADEM

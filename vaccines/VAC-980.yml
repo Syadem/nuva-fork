@@ -4,14 +4,10 @@ name: VAC.DPT ISI
 description: Diphtheria toxoid (unspecified dose), tetanus toxoid and pertussis (acellular, unspecified dose) vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1655476912
 updated_at: 1713195973
-valence_ids:
-- 67
-- 83
-- 117
+generic_vaccine_id: 797
 other_names: []
 codes:
 - nomenclature: SYADEM

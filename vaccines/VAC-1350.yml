@@ -6,12 +6,10 @@ notes: "https://www.gdziepolek.pl/produkty/77011/t-szczepionka-tezcowa-adsorbowa
 
   https://biomed.com.pl/index.html"
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1743602726
 updated_at: 1743602726
-valence_ids:
-- 67
+generic_vaccine_id: 132
 other_names: []
 codes:
 - nomenclature: SYADEM

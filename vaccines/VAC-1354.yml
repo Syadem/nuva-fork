@@ -8,17 +8,11 @@ notes: "https://www.mfds.go.kr/eng/brd/m_30/view.do?seq=70647&srchFr=&srchTo=&sr
 
   Plus commercialisé."
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1743668632
 updated_at: 1743668632
-valence_ids:
-- 10
-- 67
-- 97
-- 114
-- 156
+generic_vaccine_id: 1181
 other_names: []
 codes:
 - nomenclature: SYADEM

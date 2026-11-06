@@ -4,12 +4,10 @@ name: TYPBAR
 description: Typhoid conjugate vaccine, Vi polysaccharide linked to tetanus toxoid protein
 notes: https://www.bharatbiotech.com/typbar.html
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1647985935
 updated_at: 1744015368
-valence_ids:
-- 399
+generic_vaccine_id: 711
 other_names:
 - typbar bharat biotech
 codes:

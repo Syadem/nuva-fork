@@ -4,13 +4,10 @@ name: TEDIVAX PRO ADULTO
 description: Diphtheria toxoid (low dose) and tetanus toxoid vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1659104990
 updated_at: 1713172777
-valence_ids:
-- 34
-- 67
+generic_vaccine_id: 920
 other_names: []
 codes:
 - nomenclature: SYADEM

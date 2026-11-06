@@ -8,16 +8,11 @@ notes: "essai clinique\r
 
   Publication : https://redleafmedical.com/wp-content/uploads/Systematic-Review-UROMUNE_CUAJ.pdf\r\n"
 generic: false
-immunoglobulin: false
 injection_methods:
 - oral
 created_at: 1713530244
 updated_at: 1740758194
-valence_ids:
-- 341
-- 342
-- 343
-- 344
+generic_vaccine_id: 1191
 other_names: []
 codes:
 - nomenclature: SYADEM

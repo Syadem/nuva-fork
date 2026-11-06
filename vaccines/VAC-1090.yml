@@ -4,13 +4,11 @@ name: MENZB
 description: Meningococcal vaccine with outer membrane vesicle proteins
 notes: https://www.atoute.org/n/IMG/pdf/Constituants_des_vaccins_version-actualisee.pdf
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1715781442
 updated_at: 1717679264
-valence_ids:
-- 26
+generic_vaccine_id: 149
 other_names: []
 codes:
 - nomenclature: SYADEM

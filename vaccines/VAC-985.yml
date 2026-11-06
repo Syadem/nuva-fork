@@ -4,14 +4,10 @@ name: VACCINO TAB TE ISI
 description: Tetanus toxoid, typhoid (whole-cell inactivated) and paratyphoid A and B (whole-cell inactivated) vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1655714179
 updated_at: 1713190070
-valence_ids:
-- 45
-- 67
-- 71
+generic_vaccine_id: 1194
 other_names: []
 codes:
 - nomenclature: SYADEM

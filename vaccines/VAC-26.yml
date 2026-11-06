@@ -4,14 +4,12 @@ name: PREVIGRIP
 description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, surface antigen
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689126
 updated_at: 1791965744
-valence_ids:
-- 15
+generic_vaccine_id: 925
 other_names:
 - PREVIGRIP
 - grippe

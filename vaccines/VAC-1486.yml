@@ -4,13 +4,11 @@ name: GEN H-B-Vax 10
 description: Recombinant hepatitis B vaccine with 10 micrograms of HBs antigen for use from the age of 11 years
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1765537050
 updated_at: 1765537099
-valence_ids:
-- 114
+generic_vaccine_id: 914
 other_names: []
 codes:
 - nomenclature: SYADEM

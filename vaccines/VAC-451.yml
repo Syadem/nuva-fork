@@ -4,13 +4,11 @@ name: VIVOTIF
 description: Live attenuated typhoid vaccine, strain Ty21a, oral
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - oral
 created_at: 1626689129
 updated_at: 1773668174
-valence_ids:
-- 91
+generic_vaccine_id: 424
 other_names:
 - VIVOTIFBERNAPRODUCTSNA(TY21A)
 - ty21a

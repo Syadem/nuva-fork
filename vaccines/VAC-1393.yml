@@ -4,13 +4,11 @@ name: PROVARIX
 description: Live attenuated chickenpox vaccine
 notes: https://www.sinovac.com/en-us/portfolio/provarix
 generic: false
-immunoglobulin: false
 injection_methods:
 - subcutaneous
 created_at: 1744118163
 updated_at: 1744118163
-valence_ids:
-- 44
+generic_vaccine_id: 159
 other_names: []
 codes:
 - nomenclature: SYADEM

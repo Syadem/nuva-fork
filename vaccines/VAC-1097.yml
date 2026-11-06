@@ -4,12 +4,10 @@ name: CYTOGAM
 description: Human intravenous anti-CMV immunoglobulin
 notes: https://www.hema-quebec.qc.ca/userfiles/file/media/francais/hopitaux/produits/Cytogam_Notice%20de%20conditionnement.pdf
 generic: false
-immunoglobulin: true
 injection_methods: []
 created_at: 1715851732
 updated_at: 1717679426
-valence_ids:
-- 331
+generic_vaccine_id: 1062
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -4,13 +4,10 @@ name: TYPHIDRALL
 description: Typhoid and paratyphoid A and B vaccine, whole-cell inactivated
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1653472876
 updated_at: 1713346279
-valence_ids:
-- 45
-- 71
+generic_vaccine_id: 818
 other_names:
 - TYPHDRALL
 codes:

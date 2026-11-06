@@ -4,18 +4,11 @@ name: VAXELIS
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose), Haemophilus influenzae type b (conjugated to outer membrane protein of Neisseria meningitidis serogroup B), inactivated polio (trivalent) and hepatitis B (recombinant) pediatric vaccine, adsorbed
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689130
 updated_at: 1763412171
-valence_ids:
-- 8
-- 56
-- 67
-- 97
-- 114
-- 155
+generic_vaccine_id: 1215
 other_names:
 - VAXELIS
 codes:

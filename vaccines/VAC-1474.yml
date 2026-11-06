@@ -4,13 +4,11 @@ name: ENFLONSIA (clesrovimab)
 description: Human RSV monoclonal antibody
 notes: "https://www.vidal.fr/actualites/31429-la-fda-approuve-un-nouvel-anticorps-monoclonal-le-clesrovimab-cfor-merck-contre-le-vrs-chez-les-nourrissons.html\r\n"
 generic: false
-immunoglobulin: true
 injection_methods:
 - intramuscular
 created_at: 1759928741
 updated_at: 1790257797
-valence_ids:
-- 429
+generic_vaccine_id: 1475
 other_names: []
 codes:
 - nomenclature: SYADEM

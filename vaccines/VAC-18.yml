@@ -4,15 +4,10 @@ name: MENCEVAX
 description: Unconjugated meningococcal polysaccharide vaccine, serogroups A, C, W and Y
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689129
 updated_at: 1758790607
-valence_ids:
-- 37
-- 137
-- 138
-- 139
+generic_vaccine_id: 152
 other_names:
 - MENCEVAX
 - acw135y

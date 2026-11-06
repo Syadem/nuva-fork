@@ -4,15 +4,11 @@ name: DITEKIBOOSTER
 description: Diphtheria toxoid (low dose), tetanus toxoid and pertussis toxoid (acellular, low dose) vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1660038757
 updated_at: 1713168202
-valence_ids:
-- 17
-- 34
-- 67
+generic_vaccine_id: 610
 other_names:
 - dtca
 - diphtérie-tétanos-coqueluche

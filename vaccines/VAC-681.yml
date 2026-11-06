@@ -4,13 +4,11 @@ name: GRAd-COV2 COVID-19 Vaccine ReiThera
 description: COVID-19 vaccine, non-replicating adenoviral vector encoding the SARS-CoV-2 spike protein
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689120
 updated_at: 1717514929
-valence_ids:
-- 70
+generic_vaccine_id: 1143
 other_names:
 - ReiTheraGRAdVectorCovid
 - covid19

@@ -6,12 +6,10 @@ notes: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5085005/table/t0001/\r
 
   https://nomenclator.org/laboratorios/alentia-biotech-s-l.html"
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1716192624
 updated_at: 1716192746
-valence_ids:
-- 58
+generic_vaccine_id: 821
 other_names: []
 codes:
 - nomenclature: SYADEM

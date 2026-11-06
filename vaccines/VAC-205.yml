@@ -6,12 +6,10 @@ notes: "Un vaccin vivant atténué, préparé sur culture primaire de cellules r
 
   https://www.who.int/immunization/sage/meetings/2014/october/2_Barrett_JE_SAGE_Oct2014.pdf"
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689122
 updated_at: 1744903839
-valence_ids:
-- 100
+generic_vaccine_id: 146
 other_names:
 - CDJEVAX
 codes:

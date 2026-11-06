@@ -4,19 +4,11 @@ name: PREVENAR
 description: Pneumococcal conjugate vaccine, 7-valent, adsorbed, serotypes 4, 6B, 9V, 14, 18C, 19F and 23F
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689120
 updated_at: 1758791820
-valence_ids:
-- 188
-- 191
-- 194
-- 198
-- 200
-- 202
-- 204
+generic_vaccine_id: 324
 other_names:
 - PREVENAR
 - vaccin pneumocoques conjugue

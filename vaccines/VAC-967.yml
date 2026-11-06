@@ -4,12 +4,10 @@ name: HEPASOMA
 description: Inactivated whole-cell hepatitis A vaccine, virosome, pediatric or adult
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1655125732
 updated_at: 1713273049
-valence_ids:
-- 130
+generic_vaccine_id: 824
 other_names: []
 codes:
 - nomenclature: SYADEM

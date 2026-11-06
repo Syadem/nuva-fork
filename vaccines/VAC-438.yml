@@ -4,14 +4,10 @@ name: VAKSIN SERAP
 description: Diphtheria toxoid (standard dose), tetanus toxoid and pertussis (whole-cell inactivated or acellular, unspecified dose) pediatric vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689129
 updated_at: 1698914404
-valence_ids:
-- 3
-- 67
-- 97
+generic_vaccine_id: 601
 other_names:
 - VAKSINSERAP
 codes:

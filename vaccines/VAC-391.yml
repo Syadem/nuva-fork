@@ -4,16 +4,11 @@ name: TETRAMUNE
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (whole-cell inactivated) and Haemophilus influenzae type b (conjugated to diphtheria toxoid) pediatric vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689123
 updated_at: 1698916477
-valence_ids:
-- 10
-- 67
-- 97
-- 154
+generic_vaccine_id: 1168
 other_names:
 - TETRAMUNE
 codes:

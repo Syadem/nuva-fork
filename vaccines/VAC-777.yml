@@ -4,13 +4,11 @@ name: ADJUPANRIX
 description: Influenza A(H5N1) vaccine (fragmented virion, inactivated, adjuvanted)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689127
 updated_at: 1692138932
-valence_ids:
-- 51
+generic_vaccine_id: 84
 other_names:
 - Adjupanrix
 codes:

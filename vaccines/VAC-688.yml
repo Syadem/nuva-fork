@@ -4,13 +4,11 @@ name: Chinese-Influenza-intranasal-covid
 description: COVID-19 vaccine, replicating influenza virus vector, recombinant RBD protein, intranasal spray
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intranasal
 created_at: 1626689128
 updated_at: 1717507667
-valence_ids:
-- 66
+generic_vaccine_id: 1173
 other_names:
 - InfluenzavirusVectorCOVID19VaccineforintranasalSpray
 - Chinese-Influenza-intranasal-covid

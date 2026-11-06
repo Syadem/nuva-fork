@@ -4,14 +4,12 @@ name: SHANIPV
 description: Inactivated polio (trivalent) vaccine
 notes: https://extranet.who.int/prequal/vaccines/p/shanipvtm-0
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1744126031
 updated_at: 1744126031
-valence_ids:
-- 56
+generic_vaccine_id: 270
 other_names: []
 codes:
 - nomenclature: SYADEM

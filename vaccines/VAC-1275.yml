@@ -4,13 +4,11 @@ name: D BIOMED
 description: Diphtheria toxoid (standard dose) pediatric vaccine
 notes: https://biomed.pl/wp-content/uploads/2024/07/Ulotka-D.pdf
 generic: false
-immunoglobulin: false
 injection_methods:
 - subcutaneous
 created_at: 1739963702
 updated_at: 1791880614
-valence_ids:
-- 97
+generic_vaccine_id: 1165
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -4,13 +4,11 @@ name: Ervebo
 description: Ebola Zaire vaccine (rVSVΔG-ZEBOV-GP, live)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689126
 updated_at: 1758815987
-valence_ids:
-- 7
+generic_vaccine_id: 1199
 other_names:
 - rVSVZEBOV
 - ervebo

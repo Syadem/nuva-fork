@@ -4,17 +4,11 @@ name: TRITANRIX HepB+Hib
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (whole-cell inactivated), Haemophilus influenzae type b (conjugated to tetanus toxoid) and hepatitis B (recombinant) pediatric vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689122
 updated_at: 1698916864
-valence_ids:
-- 10
-- 67
-- 97
-- 114
-- 156
+generic_vaccine_id: 1181
 other_names:
 - TRITANRIXHepB/Hib
 - Tritanrix-HepB/Hib

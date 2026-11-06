@@ -4,12 +4,10 @@ name: VACV VACCINIA VIRUS LISTER ELSTREE
 description: Smallpox vaccine, first-generation, live vaccinia virus
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1659084203
 updated_at: 1713175006
-valence_ids:
-- 294
+generic_vaccine_id: 1122
 other_names: []
 codes:
 - nomenclature: SYADEM

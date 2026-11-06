@@ -6,12 +6,10 @@ notes: "Nouveau nom de SUPEMTEK.\r
 
   https://www.ema.europa.eu/en/medicines/human/EPAR/supemtek-tetra"
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1648260033
 updated_at: 1767868349
-valence_ids:
-- 112
+generic_vaccine_id: 1200
 other_names:
 - supemtek
 codes:

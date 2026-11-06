@@ -4,13 +4,11 @@ name: BAYTET
 description: Tetanus immune globulin human solvent/detergent treated 250 units
 notes: https://www.rxlist.com/baytet-drug.htm
 generic: false
-immunoglobulin: true
 injection_methods:
 - intramuscular
 created_at: 1715700736
 updated_at: 1715700736
-valence_ids:
-- 110
+generic_vaccine_id: 497
 other_names: []
 codes:
 - nomenclature: SYADEM

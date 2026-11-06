@@ -4,12 +4,10 @@ name: CANDID 1
 description: Live attenuated Argentine hemorrhagic fever vaccine, Junin virus
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1648827990
 updated_at: 1713793249
-valence_ids:
-- 173
+generic_vaccine_id: 1134
 other_names:
 - fièvre hémorragique dArgentine
 - haemorragic fever vaccine

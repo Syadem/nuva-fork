@@ -4,13 +4,11 @@ name: NOORA VACCINE
 description: COVID-19 vaccine, recombinant protein subunit
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1660921352
 updated_at: 1745576572
-valence_ids:
-- 11
+generic_vaccine_id: 1138
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -4,17 +4,11 @@ name: SHAN-5
 description: "Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (whole-cell inactivated), Haemophilus influenzae type b (conjugated to tetanus toxoid) and hepatitis B (recombinant) pediatric vaccine - Other name: DTwP-Hep B-Hib Liquid Vaccine"
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689124
 updated_at: 1698916834
-valence_ids:
-- 10
-- 67
-- 97
-- 114
-- 156
+generic_vaccine_id: 1181
 other_names:
 - DTwPHibHepB
 - D.T.wP.Hib.HepB

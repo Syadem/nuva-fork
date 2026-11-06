@@ -4,13 +4,11 @@ name: ZEROTYPH
 description: Polysaccharide typhoid vaccine (Vi capsular antigen)
 notes: https://www.mfds.go.kr/eng/brd/m_30/view.do?seq=70654&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=2
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1743521765
 updated_at: 1743521765
-valence_ids:
-- 32
+generic_vaccine_id: 713
 other_names: []
 codes:
 - nomenclature: SYADEM

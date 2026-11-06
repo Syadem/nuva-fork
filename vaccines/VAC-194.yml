@@ -4,12 +4,10 @@ name: B-CAPSA
 description: Haemophilus influenzae type b non-conjugated polysaccharide vaccine
 notes: "Distributed from 1987 to 1989 by Labo Mead Johnson US. Vérifier labo : Praxis ou Mead Johnson ?"
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689126
 updated_at: 1758813513
-valence_ids:
-- 49
+generic_vaccine_id: 1148
 other_names:
 - BCAPSA
 codes:

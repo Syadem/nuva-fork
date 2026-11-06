@@ -4,12 +4,10 @@ name: BCG PASTEUR
 description: Tuberculosis vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689127
 updated_at: 1758807631
-valence_ids:
-- 96
+generic_vaccine_id: 134
 other_names:
 - tuberculose
 - antituberculeux

@@ -4,16 +4,11 @@ name: TRIHIBIT
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose) and Haemophilus influenzae type b (conjugated to tetanus toxoid) vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689122
 updated_at: 1698915109
-valence_ids:
-- 8
-- 67
-- 97
-- 156
+generic_vaccine_id: 1164
 other_names:
 - TRIHIBIT
 codes:

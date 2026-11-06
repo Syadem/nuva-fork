@@ -4,12 +4,10 @@ name: VACCINO ANTICOLERICO SCLAVO
 description: Cholera vaccine, unspecified
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1649082075
 updated_at: 1713779423
-valence_ids:
-- 81
+generic_vaccine_id: 144
 other_names: []
 codes:
 - nomenclature: SYADEM

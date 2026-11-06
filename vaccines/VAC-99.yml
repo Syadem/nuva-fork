@@ -4,12 +4,10 @@ name: MENINVACT
 description: Meningococcal conjugate vaccine, serogroup C (conjugated to CRM197 Protein)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689120
 updated_at: 1758809260
-valence_ids:
-- 268
+generic_vaccine_id: 1211
 other_names:
 - MENINVACT
 - VACCIN MENINVACT

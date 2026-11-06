@@ -4,13 +4,11 @@ name: FLU-M TETRA
 description: Quadrivalent inactivated seasonal influenza vaccine, split virion
 notes: "https://spbniivs.ru/en/portfolio/vaccines/flu-m-tetra/\r\n"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1742835653
 updated_at: 1742835653
-valence_ids:
-- 40
+generic_vaccine_id: 938
 other_names: []
 codes:
 - nomenclature: SYADEM

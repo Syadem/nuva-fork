@@ -4,14 +4,11 @@ name: Polio Sabin One and Three GSK
 description: Polio vaccine (live attenuated, bivalent) against poliovirus types 1 and 3, oral
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - oral
 created_at: 1635263685
 updated_at: 1791984412
-valence_ids:
-- 85
-- 132
+generic_vaccine_id: 600
 other_names:
 - Vaccinpoliooralbivalenttypesnonconnus
 codes:

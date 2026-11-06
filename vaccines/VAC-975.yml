@@ -6,12 +6,10 @@ notes: "anatoxine coquelucheuse (PT) 25 ug,\r
 
   hémagglutinine filamenteuse (FHA) 25 ug, pertactine (protéine de membrane externe protéine membranaire 69kDa) 8 ug"
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1655471430
 updated_at: 1713255138
-valence_ids:
-- 8
+generic_vaccine_id: 1167
 other_names: []
 codes:
 - nomenclature: SYADEM

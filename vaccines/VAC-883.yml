@@ -4,12 +4,10 @@ name: ENTEROVACCINO TIFICO SCLAVO
 description: Whole-cell inactivated typhoid vaccine, oral
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1649075662
 updated_at: 1713792894
-valence_ids:
-- 71
+generic_vaccine_id: 817
 other_names: []
 codes:
 - nomenclature: SYADEM

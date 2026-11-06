@@ -4,13 +4,11 @@ name: QazVac
 description: COVID-19 vaccine, whole virion inactivated
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689125
 updated_at: 1717516150
-valence_ids:
-- 265
+generic_vaccine_id: 1124
 other_names:
 - QazCovid-in
 - covid19

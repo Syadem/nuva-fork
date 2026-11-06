@@ -4,13 +4,11 @@ name: BCG SII
 description: Live attenuated tuberculosis vaccine
 notes: https://www.seruminstitute.com/product_diphtheriatetanus_bcg.php
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1741798062
 updated_at: 1741949221
-valence_ids:
-- 96
+generic_vaccine_id: 134
 other_names:
 - Vaccintuberculose
 codes:

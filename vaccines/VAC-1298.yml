@@ -4,13 +4,11 @@ name: BETT
 description: Tetanus vaccine (toxoid)
 notes: https://www.biologicale.com/pdf/Product_VB_Domestic_Marketing.pdf
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1741708489
 updated_at: 1741710110
-valence_ids:
-- 67
+generic_vaccine_id: 132
 other_names: []
 codes:
 - nomenclature: SYADEM

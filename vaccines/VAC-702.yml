@@ -4,13 +4,11 @@ name: rRBD produced in CHO-cell chemically conjugate to tetanus toxoid
 description: COVID-19 vaccine, protein subunit, conjugated to tetanus toxoid
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689125
 updated_at: 1717493692
-valence_ids:
-- 11
+generic_vaccine_id: 1138
 other_names: []
 codes:
 - nomenclature: SYADEM

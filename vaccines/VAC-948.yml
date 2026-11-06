@@ -4,12 +4,10 @@ name: BACITHRAX
 description: Acellular anthrax vaccine, 50 micrograms per 0.5 mL dose, adjuvanted
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1653487361
 updated_at: 1713345043
-valence_ids:
-- 415
+generic_vaccine_id: 1279
 other_names: []
 codes:
 - nomenclature: SYADEM

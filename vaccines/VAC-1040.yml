@@ -10,13 +10,11 @@ notes: "The investigational vaccine formulations are based on the RSVPreF3 antig
 
   \r\n"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1684086988
 updated_at: 1712849091
-valence_ids:
-- 316
+generic_vaccine_id: 1228
 other_names:
 - areksvi
 - RSVPreF3

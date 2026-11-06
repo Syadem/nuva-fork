@@ -4,13 +4,10 @@ name: VAKSIN KOTIPA
 description: Inactivated whole-cell cholera vaccine for injection combined with inactivated whole-cell typhoid vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689124
 updated_at: 1698747672
-valence_ids:
-- 4
-- 71
+generic_vaccine_id: 807
 other_names:
 - VAKSINKOTIPA
 codes:

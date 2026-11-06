@@ -4,15 +4,11 @@ name: POLIORAL
 description: Polio vaccine (live attenuated, trivalent) against polioviruses 1, 2 and 3, oral
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - oral
 created_at: 1649078661
 updated_at: 1713790966
-valence_ids:
-- 33
-- 85
-- 132
+generic_vaccine_id: 320
 other_names:
 - poloralberna
 - polioralberna

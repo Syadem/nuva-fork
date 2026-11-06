@@ -4,13 +4,11 @@ name: VAKSIN BCG KERING
 description: Live attenuated tuberculosis vaccine
 notes: https://www.biofarma.co.id/id/our-product/detail/vaksin-bcg-beku-kering
 generic: false
-immunoglobulin: false
 injection_methods:
 - intradermal
 created_at: 1741170655
 updated_at: 1741172503
-valence_ids:
-- 96
+generic_vaccine_id: 134
 other_names: []
 codes:
 - nomenclature: SYADEM

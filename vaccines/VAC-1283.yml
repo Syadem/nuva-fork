@@ -8,13 +8,11 @@ notes: "https://www.biofarma.co.id/id/our-product/detail/indovac\r
 
   Anciennement connu sous le nom de \"Vaksin COVID-19 Bio Farma\"."
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1741086110
 updated_at: 1743762965
-valence_ids:
-- 11
+generic_vaccine_id: 1138
 other_names: []
 codes:
 - nomenclature: SYADEM

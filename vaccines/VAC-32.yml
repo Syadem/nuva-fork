@@ -4,14 +4,12 @@ name: ROUVAX
 description: Live attenuated measles vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689123
 updated_at: 1758792295
-valence_ids:
-- 5
+generic_vaccine_id: 114
 other_names:
 - ROUVAX
 codes:

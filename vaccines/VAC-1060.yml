@@ -4,13 +4,11 @@ name: SPIKEVAX XBB.1.5 50 µg MODERNA
 description: COVID-19 mRNA vaccine, subvariant Omicron XBB.1.5, 50 micrograms per dose
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1709200768
 updated_at: 1712590058
-valence_ids:
-- 329
+generic_vaccine_id: 1243
 other_names: []
 codes:
 - nomenclature: SYADEM

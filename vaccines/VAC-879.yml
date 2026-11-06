@@ -4,12 +4,10 @@ name: ACELLUVAX
 description: Pertussis (multicomponent acelullar, 3 components, standard dose) vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1648264599
 updated_at: 1713797203
-valence_ids:
-- 8
+generic_vaccine_id: 1167
 other_names: []
 codes:
 - nomenclature: SYADEM

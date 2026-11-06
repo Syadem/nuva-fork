@@ -8,13 +8,11 @@ notes: "http://eubiologics.com/eng/sub2_2.php#none\r
 
   https://extranet.who.int/prequal/vaccines/p/eutyph-c-inj-multi-dose"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1792144664
 updated_at: 1792144664
-valence_ids:
-- 400
+generic_vaccine_id: 1425
 other_names: []
 codes:
 - nomenclature: SYADEM

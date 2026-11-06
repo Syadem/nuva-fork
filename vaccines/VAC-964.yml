@@ -4,12 +4,10 @@ name: ANATOXAL DI
 description: Diphtheria toxoid vaccine (reduced dose)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1653903204
 updated_at: 1713274556
-valence_ids:
-- 34
+generic_vaccine_id: 1172
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -4,16 +4,11 @@ name: TETRACT-HIB
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (whole-cell inactivated) et Haemophilus influenzae type b (conjugated to tetanus toxoid) pediatric vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689125
 updated_at: 1758814967
-valence_ids:
-- 10
-- 67
-- 97
-- 156
+generic_vaccine_id: 1161
 other_names:
 - TETRACTHIB
 - diphterie

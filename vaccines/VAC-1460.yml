@@ -4,15 +4,11 @@ name: SOLGEN
 description: Paediatric diphtheria vaccine (toxoid, standard dose), tetanus vaccine (toxoid) and pertussis vaccine (whole inactivated)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1753866427
 updated_at: 1753866793
-valence_ids:
-- 10
-- 67
-- 97
+generic_vaccine_id: 136
 other_names:
 - trisolgen
 codes:

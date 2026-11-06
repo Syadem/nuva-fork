@@ -4,14 +4,11 @@ name: SHANCOL
 description: Oral Inactivated whole-cell cholera vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - oral
 created_at: 1626689128
 updated_at: 1722259730
-valence_ids:
-- 367
-- 368
+generic_vaccine_id: 1257
 other_names:
 - SHANCOLTM
 - SHANCOL

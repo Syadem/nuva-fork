@@ -14,13 +14,11 @@ notes: "https://www.ema.europa.eu/en/medicines/human/EPAR/vacpertagen#product-de
 
   \r\n"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1763413013
 updated_at: 1779873344
-valence_ids:
-- 17
+generic_vaccine_id: 1232
 other_names: []
 codes:
 - nomenclature: SYADEM

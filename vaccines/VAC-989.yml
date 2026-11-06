@@ -4,12 +4,10 @@ name: HANTAVAX
 description: Whole-virion Inactivated vaccine against haemorrhagic fever with renal syndrome (HFRS) caused by hantavirus
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1655718204
 updated_at: 1713187194
-valence_ids:
-- 174
+generic_vaccine_id: 897
 other_names: []
 codes:
 - nomenclature: SYADEM

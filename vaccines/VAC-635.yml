@@ -4,13 +4,11 @@ name: PREFLUCEL
 description: Trivalent inactivated seasonal influenza vaccine, purified antigens
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689126
 updated_at: 1692137979
-valence_ids:
-- 15
+generic_vaccine_id: 925
 other_names:
 - Preflucel
 codes:

@@ -4,14 +4,11 @@ name: PERDIPIGEN
 description: Paediatric diphtheria vaccine (toxoid, standard dose) and pertussis (whole-cell inactivated)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1753884982
 updated_at: 1753885205
-valence_ids:
-- 10
-- 67
+generic_vaccine_id: 1549
 other_names: []
 codes:
 - nomenclature: SYADEM

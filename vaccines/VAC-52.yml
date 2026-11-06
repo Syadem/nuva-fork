@@ -4,15 +4,12 @@ name: VACCIN MENINGOCOCCIQUE A+C
 description: Unconjugated meningococcal polysaccharide vaccine, serogroups A and C
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689128
 updated_at: 1758804479
-valence_ids:
-- 37
-- 137
+generic_vaccine_id: 151
 other_names:
 - menAc
 - meningococciqueAC

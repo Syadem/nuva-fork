@@ -4,15 +4,10 @@ name: VACCIN DT TAB PASTEUR
 description: Diphtheria toxoid (standard dose), tetanus toxoid, typhoid (whole-cell inactivated) and paratyphoid A and B (whole-cell inactivated) pediatric vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689122
 updated_at: 1758808513
-valence_ids:
-- 45
-- 67
-- 71
-- 97
+generic_vaccine_id: 1225
 other_names:
 - tabdtPasteur
 - typhoideAB

@@ -4,12 +4,10 @@ name: Inovio-DNA-Covid
 description: COVID-19 plasmid DNA vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689125
 updated_at: 1717515322
-valence_ids:
-- 35
+generic_vaccine_id: 1128
 other_names:
 - covid19
 - adncovid19inovio

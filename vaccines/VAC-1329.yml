@@ -8,13 +8,11 @@ notes: "https://spbniivs.ru/en/portfolio/vaccines/flu-m/\r
 
   https://extranet.who.int/prequal/sites/default/files/vwa_vaccine/fvp-p-429_influenzativ_10dose_spbsrivs_pi-2025.pdf"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1742834919
 updated_at: 1742835021
-valence_ids:
-- 15
+generic_vaccine_id: 925
 other_names: []
 codes:
 - nomenclature: SYADEM

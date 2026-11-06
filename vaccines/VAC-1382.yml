@@ -4,13 +4,11 @@ name: SKYTYPHOID
 description: Typhoid conjugate vaccine, Vi polysaccharide capsular antigen linked to a carrier protein (diphtheria toxin)
 notes: https://extranet.who.int/prequal/vaccines/p/skytyphoid-multi-inj
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1744036557
 updated_at: 1744885981
-valence_ids:
-- 445
+generic_vaccine_id: 1542
 other_names:
 - sky typhoid
 - skyt

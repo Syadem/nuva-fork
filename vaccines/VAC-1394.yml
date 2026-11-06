@@ -4,13 +4,11 @@ name: POLIO SINOVAC VACCINE
 description: Inactivated polio (trivalent) vaccine
 notes: https://www.sinovac.com/en-us/portfolio/polio
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1744119626
 updated_at: 1744119626
-valence_ids:
-- 56
+generic_vaccine_id: 270
 other_names: []
 codes:
 - nomenclature: SYADEM

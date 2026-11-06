@@ -12,14 +12,11 @@ notes: "https://clinicaltrials.gov/ct2/show/NCT04776317\r
 
   ChAdV68 SAM-LNP rS-TCE"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689123
 updated_at: 1745576962
-valence_ids:
-- 70
-- 169
+generic_vaccine_id: 1197
 other_names:
 - chad SAM covid19 vaccine
 codes:

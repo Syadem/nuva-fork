@@ -18,13 +18,11 @@ notes: "COMIRNATY OMICRON XBB.1.5 3 µg\r
 
   PFIZER COMIRNATY-3 XBB.1.5 ENFANT (6 MOIS-4 ANS)"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1694906119
 updated_at: 1745575722
-valence_ids:
-- 325
+generic_vaccine_id: 1158
 other_names:
 - XBB.1.5 3 µg
 - COMIRNATY OMICRON XBB.1.5 3 µg

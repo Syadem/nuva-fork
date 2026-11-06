@@ -4,13 +4,11 @@ name: COMIRNATY LP.8.1 10 µg
 description: COVID-19 mRNA vaccine, subvariant Omicron LP.8.1, 10 micrograms, paediatric dose (5-11 years)
 notes: https://www.ema.europa.eu/fr/documents/product-information/comirnaty-epar-product-information_fr.pdf
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1756387790
 updated_at: 1787557719
-valence_ids:
-- 425
+generic_vaccine_id: 1472
 other_names:
 - covid19comirnaty
 - comirnatycovid19

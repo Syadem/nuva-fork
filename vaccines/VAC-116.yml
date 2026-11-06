@@ -4,14 +4,10 @@ name: R.O.R SANOFI PASTEUR
 description: Live attenuated measles, mumps and rubella vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689125
 updated_at: 1743408325
-valence_ids:
-- 5
-- 77
-- 79
+generic_vaccine_id: 130
 other_names:
 - ror
 - rro

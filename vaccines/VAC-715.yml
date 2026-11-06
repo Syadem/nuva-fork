@@ -4,13 +4,11 @@ name: ERUCOV-VAC
 description: COVID-19 vaccine, whole virion inactivated
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689129
 updated_at: 1684150892
-valence_ids:
-- 265
+generic_vaccine_id: 1124
 other_names:
 - Turkovac
 codes:

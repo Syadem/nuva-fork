@@ -6,12 +6,10 @@ notes: "https://www.bcbdexther.fr/BcbDextherWeb/monographie/get?idProduit=77372&
 
   https://emed.ie/_docs/ID-Botulism-Antitoxin-Cliona-Kiersey-HSE-Nov-2008.pdf"
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1715930913
 updated_at: 1715930913
-valence_ids:
-- 63
+generic_vaccine_id: 909
 other_names: []
 codes:
 - nomenclature: SYADEM

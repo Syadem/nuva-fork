@@ -4,12 +4,10 @@ name: Fluzone High-Dose Quadrivalent Southern Hemisphere
 description: Influenza quadrivalent inactivated vaccine, obtained from egg culture, split or subunit, high-dose
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1710796300
 updated_at: 1791815150
-valence_ids:
-- 74
+generic_vaccine_id: 1146
 other_names: []
 codes:
 - nomenclature: SYADEM

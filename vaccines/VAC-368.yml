@@ -4,12 +4,10 @@ name: RUBELOGEN
 description: Live attenuated rubella vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689123
 updated_at: 1692134676
-valence_ids:
-- 79
+generic_vaccine_id: 113
 other_names:
 - RUBELOGEN
 codes:

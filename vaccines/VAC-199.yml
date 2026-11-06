@@ -4,13 +4,11 @@ name: BIMMUGEN
 description: Recombinant hepatitis B vaccine with 10 micrograms of HBsAg per 0.5 mL (a 0.25 mL formulation is available)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689123
 updated_at: 1692133387
-valence_ids:
-- 114
+generic_vaccine_id: 914
 other_names:
 - BIMMUGEN
 codes:

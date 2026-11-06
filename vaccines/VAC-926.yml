@@ -4,12 +4,10 @@ name: FLUCELVAX
 description: Trivalent inactivated seasonal influenza vaccine, produced in cell culture
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1651827781
 updated_at: 1757600269
-valence_ids:
-- 285
+generic_vaccine_id: 1175
 other_names: []
 codes:
 - nomenclature: SYADEM

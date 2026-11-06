@@ -4,12 +4,10 @@ name: IMOVAX SARAMPION
 description: Live attenuated measles vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689129
 updated_at: 1666959920
-valence_ids:
-- 5
+generic_vaccine_id: 114
 other_names:
 - IMOVAXSARAMPION
 codes:

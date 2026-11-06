@@ -4,14 +4,11 @@ name: BIVAC POLIO
 description: Polio vaccine (live attenuated, bivalent) against poliovirus types 1 and 3, oral
 notes: https://chumakovs.ru/products/
 generic: false
-immunoglobulin: false
 injection_methods:
 - oral
 created_at: 1744106943
 updated_at: 1744107046
-valence_ids:
-- 85
-- 132
+generic_vaccine_id: 600
 other_names: []
 codes:
 - nomenclature: SYADEM

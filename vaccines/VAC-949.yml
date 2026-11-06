@@ -4,12 +4,10 @@ name: IMOVAX BCG
 description: Tuberculosis vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1653488966
 updated_at: 1713344693
-valence_ids:
-- 96
+generic_vaccine_id: 134
 other_names: []
 codes:
 - nomenclature: SYADEM

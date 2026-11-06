@@ -4,13 +4,11 @@ name: BIKEN-HB
 description: Recombinant hepatitis B vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689124
 updated_at: 1792402686
-valence_ids:
-- 90
+generic_vaccine_id: 101
 other_names:
 - BIKENHB
 codes:

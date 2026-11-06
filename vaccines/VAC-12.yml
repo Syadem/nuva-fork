@@ -4,14 +4,12 @@ name: IMMUGRIP
 description: Trivalent inactivated seasonal influenza vaccine, split virion
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689123
 updated_at: 1758789857
-valence_ids:
-- 15
+generic_vaccine_id: 925
 other_names:
 - IMMUGRIP
 - grippe

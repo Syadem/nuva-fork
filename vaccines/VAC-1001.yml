@@ -4,12 +4,10 @@ name: V4020 VEEV VACCINE
 description: Live-attenuated V4020 for Venezuelan equine encephalitis virus vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1659085273
 updated_at: 1713174434
-valence_ids:
-- 171
+generic_vaccine_id: 895
 other_names: []
 codes:
 - nomenclature: SYADEM

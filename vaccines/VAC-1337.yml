@@ -4,13 +4,11 @@ name: CONVACELL
 description: COVID-19 protein subunit vaccine, recombinant N protein
 notes: https://spbniivs.ru/en/portfolio/vaccines/convacell/
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1742921889
 updated_at: 1743762897
-valence_ids:
-- 410
+generic_vaccine_id: 1422
 other_names: []
 codes:
 - nomenclature: SYADEM

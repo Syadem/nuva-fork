@@ -4,14 +4,12 @@ name: VARIVAX
 description: Live attenuated chickenpox vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689121
 updated_at: 1743694342
-valence_ids:
-- 44
+generic_vaccine_id: 159
 other_names:
 - VARIVAX
 - varicelle

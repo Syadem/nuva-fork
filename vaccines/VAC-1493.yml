@@ -6,13 +6,11 @@ notes: "https://dhpp.hpfb-dgpsa.ca/dhpp/resource/43147\r
 
   https://msss.gouv.qc.ca/professionnels/vaccination/piq-programmes-et-noms-commerciaux-des-vaccins/noms-commerciaux-de-divers-vaccins/"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1767806584
 updated_at: 1767865588
-valence_ids:
-- 8
+generic_vaccine_id: 1167
 other_names: []
 codes:
 - nomenclature: SYADEM

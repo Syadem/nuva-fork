@@ -4,13 +4,11 @@ name: VACCIN BRUCELLIQUE P.I. à usage humain
 description: Protein (P.I. antigen) brucellosis vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689126
 updated_at: 1758808318
-valence_ids:
-- 147
+generic_vaccine_id: 1203
 other_names:
 - VACCIN BRUCELLIQUE P.I. à usage humain
 - VACCIN BRUCELLIQUE PASTEUR

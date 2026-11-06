@@ -4,16 +4,11 @@ name: TRIVAX-HIB
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose) et Haemophilus influenzae type b (conjugated to tetanus toxoid) pediatric vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689126
 updated_at: 1698915505
-valence_ids:
-- 8
-- 67
-- 97
-- 156
+generic_vaccine_id: 1164
 other_names:
 - TRIVAXHIB
 codes:

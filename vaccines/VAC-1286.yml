@@ -8,13 +8,11 @@ notes: "https://www.biofarma.co.id/id/our-product/detail/vaksin-campak-beku-keri
 
   Ce vaccin a été renommé \"IndoVac\" (voir VAC1283)."
 generic: false
-immunoglobulin: false
 injection_methods:
 - subcutaneous
 created_at: 1741096385
 updated_at: 1745574809
-valence_ids:
-- 11
+generic_vaccine_id: 1138
 other_names: []
 codes:
 - nomenclature: SYADEM

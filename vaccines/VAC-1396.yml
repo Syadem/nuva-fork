@@ -4,13 +4,11 @@ name: ANFLU
 description: Trivalent inactivated seasonal influenza vaccine, split virion
 notes: https://www.sinovac.com/en-us/portfolio/influenza
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1744122442
 updated_at: 1744122442
-valence_ids:
-- 15
+generic_vaccine_id: 925
 other_names: []
 codes:
 - nomenclature: SYADEM

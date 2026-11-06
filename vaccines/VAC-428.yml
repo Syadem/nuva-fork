@@ -4,13 +4,10 @@ name: VA-MENGOC-BC
 description: Meningococcal vaccine, serogroups B and C
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689126
 updated_at: 1698771149
-valence_ids:
-- 26
-- 137
+generic_vaccine_id: 1229
 other_names:
 - VAMENGOCBC
 codes:

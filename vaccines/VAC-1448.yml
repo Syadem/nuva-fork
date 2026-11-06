@@ -6,12 +6,10 @@ notes: "https://www.merck.com/product/usa/pi_circulars/b/bcg_vaccine/bcg_pi.pdf\
 
   \r\n"
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1752659734
 updated_at: 1752659734
-valence_ids:
-- 96
+generic_vaccine_id: 134
 other_names: []
 codes:
 - nomenclature: SYADEM

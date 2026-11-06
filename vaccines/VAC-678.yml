@@ -4,12 +4,10 @@ name: COVIFENZ
 description: COVID-19 vaccine, VLP, recombinant spike protein, with adjuvant
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689129
 updated_at: 1790848087
-valence_ids:
-- 39
+generic_vaccine_id: 1106
 other_names:
 - MedicagoVLPCovid
 - covid19

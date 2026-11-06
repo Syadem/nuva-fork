@@ -6,13 +6,11 @@ notes: "Seulement utilisé au Vietnam\r
 
   https://www.atoute.org/n/IMG/pdf/Constituants_des_vaccins_version-actualisee.pdf"
 generic: false
-immunoglobulin: false
 injection_methods:
 - oral
 created_at: 1715850249
 updated_at: 1715850249
-valence_ids:
-- 21
+generic_vaccine_id: 944
 other_names: []
 codes:
 - nomenclature: SYADEM

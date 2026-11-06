@@ -4,15 +4,10 @@ name: MENACTRA
 description: Quadrivalent meningococcal polysaccharide conjugate vaccine, serogroups A, C, W and Y (conjugated to diphteria toxoid)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689123
 updated_at: 1698770709
-valence_ids:
-- 267
-- 270
-- 273
-- 277
+generic_vaccine_id: 1153
 other_names:
 - menactra
 - MeningococciqueQuadrivalentConjugue

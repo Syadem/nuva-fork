@@ -4,7 +4,7 @@ name: Hepatitis A, measles, chickenpox and rubella immunoglobulin, unspecified
 description: Immunoglobulin against hepatitis A, measles, chickenpox and rubella, unspecified
 notes:
 generic: true
-immunoglobulin: false
+immunoglobulin: true
 injection_methods: []
 created_at: 1717590902
 updated_at: 1788943388

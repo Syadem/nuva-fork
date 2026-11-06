@@ -4,12 +4,10 @@ name: FIOCRUZ COVID-19 VACCINE
 description: COVID-19 vaccine, non-replicating chimpanzee adenoviral vector ChAdOx1 encoding the SARS-CoV-2 spike protein
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1641215613
 updated_at: 1669199878
-valence_ids:
-- 69
+generic_vaccine_id: 1170
 other_names:
 - ChAdOx1 nCoV-19
 codes:

@@ -4,14 +4,11 @@ name: COMIRNATY ORIGINAL/OMICRON BA.1 (15/15 µg) BIONTECH-PFIZER
 description: COVID-19 vaccine bivalent RNAm, original virus + Omicron variant BA.1, 15 micrograms of each
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1662740704
 updated_at: 1745576377
-valence_ids:
-- 304
-- 305
+generic_vaccine_id: 1162
 other_names:
 - PFIZER BIONTECH COMIRNATY ORIGINAL/OMICRON BA.1 (15/15 microgrammes)
 - Pfizer-biontech bivalent BA.1

@@ -6,17 +6,11 @@ notes: "https://www.panaceabiotec.com/en/products/product-list\r
 
   https://www.panaceabiotec.com/assets/documents/SmPc_Easyfive-TT_2023.pdf"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1744212778
 updated_at: 1744212778
-valence_ids:
-- 10
-- 67
-- 97
-- 114
-- 156
+generic_vaccine_id: 1181
 other_names: []
 codes:
 - nomenclature: SYADEM

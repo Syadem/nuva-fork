@@ -4,13 +4,11 @@ name: ADDIGRIP
 description: Trivalent inactivated seasonal influenza vaccine, surface antigen
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1645848688
 updated_at: 1758874699
-valence_ids:
-- 15
+generic_vaccine_id: 925
 other_names:
 - addigrippe
 - adigrip

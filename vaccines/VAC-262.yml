@@ -4,12 +4,10 @@ name: IMOVAX RUBEOLA
 description: Live attenuated rubella vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689122
 updated_at: 1666959920
-valence_ids:
-- 79
+generic_vaccine_id: 113
 other_names:
 - IMOVAXRUBEOLA
 codes:

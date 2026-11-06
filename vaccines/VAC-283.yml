@@ -4,13 +4,11 @@ name: LYMERIX
 description: Recombinant Lyme disease vaccine, OspA antigen
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689124
 updated_at: 1742063723
-valence_ids:
-- 30
+generic_vaccine_id: 1180
 other_names:
 - LYMERIX
 codes:

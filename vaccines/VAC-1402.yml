@@ -6,18 +6,11 @@ notes: "https://www.panaceabiotec.com/en/products/product-list\r
 
   https://www.panaceabiotec.com/assets/documents/SmPc_EasySix_2024%20_Rev.01.pdf"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1744212065
 updated_at: 1744212065
-valence_ids:
-- 10
-- 56
-- 67
-- 97
-- 114
-- 156
+generic_vaccine_id: 1547
 other_names: []
 codes:
 - nomenclature: SYADEM

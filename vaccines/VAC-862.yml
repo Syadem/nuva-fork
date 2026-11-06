@@ -4,7 +4,7 @@ name: Measles immunoglobulin, unspecified
 description: Measles immunoglobulin
 notes:
 generic: true
-immunoglobulin: false
+immunoglobulin: true
 injection_methods: []
 created_at: 1647357958
 updated_at: 1720087827

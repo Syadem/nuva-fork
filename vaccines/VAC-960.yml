@@ -4,13 +4,10 @@ name: VIATIM
 description: Hepatitis A (inactivated, adsorbed) and typhoid vaccine (polysaccharide)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1653897650
 updated_at: 1713279423
-valence_ids:
-- 32
-- 125
+generic_vaccine_id: 1114
 other_names: []
 codes:
 - nomenclature: SYADEM

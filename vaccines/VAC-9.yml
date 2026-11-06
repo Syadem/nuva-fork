@@ -4,14 +4,12 @@ name: HBVAXPRO 10 µg
 description: Recombinant hepatitis B vaccine, adult dose
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689126
 updated_at: 1792412894
-valence_ids:
-- 114
+generic_vaccine_id: 914
 other_names:
 - HBVAXPRO10µg
 - HBVAXPRO10mg

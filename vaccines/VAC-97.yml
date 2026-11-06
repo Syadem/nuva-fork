@@ -4,12 +4,10 @@ name: VACCIN LEPTOSPIRES ICTEROHEMORRAGIAE PASTEUR
 description: Inactivated whole-cell leptospirosis vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689129
 updated_at: 1758808926
-valence_ids:
-- 75
+generic_vaccine_id: 148
 other_names:
 - VACCIN LEPTOSPIRES ICTEROHEMORRAGIAE PASTEUR
 - VACCIN LEPTOSPIRES ICTEROHEMORRAGIAE PASTEUR

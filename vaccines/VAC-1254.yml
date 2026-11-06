@@ -6,34 +6,11 @@ notes: "https://www.merck.com/product/usa/pi_circulars/c/capvaxive/capvaxive_pi.
 
   https://www.ema.europa.eu/en/medicines/human/EPAR/capvaxive#product-details\r\n"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1722503441
 updated_at: 1739125473
-valence_ids:
-- 187
-- 190
-- 192
-- 193
-- 195
-- 196
-- 197
-- 199
-- 201
-- 203
-- 205
-- 354
-- 355
-- 369
-- 370
-- 371
-- 372
-- 373
-- 374
-- 375
-- 376
-- 377
+generic_vaccine_id: 1280
 other_names:
 - 21valentpneumococcalvaccine
 codes:

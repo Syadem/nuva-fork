@@ -4,13 +4,11 @@ name: FENDRIX
 description: Recombinant hepatitis B vaccine, dialysis patient dosage
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689121
 updated_at: 1758815336
-valence_ids:
-- 12
+generic_vaccine_id: 916
 other_names:
 - Fendrix
 codes:

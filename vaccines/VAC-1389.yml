@@ -4,13 +4,11 @@ name: INLIVE
 description: Whole inactivated enterovirus A71 vaccine
 notes: https://www.sinovac.com/en-us/portfolio/inlive
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1744107856
 updated_at: 1744107856
-valence_ids:
-- 346
+generic_vaccine_id: 1118
 other_names: []
 codes:
 - nomenclature: SYADEM

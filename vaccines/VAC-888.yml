@@ -4,16 +4,10 @@ name: QUATTVAXEM
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (whole-cell inactivated), Haemophilus influenzae type b (conjugated to diphtheria toxoid) and hepatitis B (recombinant) pediatric vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1649079971
 updated_at: 1713790421
-valence_ids:
-- 10
-- 67
-- 97
-- 114
-- 154
+generic_vaccine_id: 1192
 other_names: []
 codes:
 - nomenclature: SYADEM

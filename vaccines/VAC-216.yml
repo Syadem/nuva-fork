@@ -4,13 +4,10 @@ name: ANATOXAL DI TE
 description: Diphtheria toxoid (standard dose) and tetanus toxoid pediatric vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689125
 updated_at: 1767967434
-valence_ids:
-- 67
-- 97
+generic_vaccine_id: 137
 other_names:
 - DITEANATOXAL
 codes:

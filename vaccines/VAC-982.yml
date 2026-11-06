@@ -4,12 +4,10 @@ name: VACCINO TIFICO ISI
 description: Typhoid vaccine, unspecified
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1655479540
 updated_at: 1713193590
-valence_ids:
-- 14
+generic_vaccine_id: 112
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -4,13 +4,11 @@ name: COMIRNATY 3 µg INFANTS AND CHILDREN BIONTECH-PFIZER
 description: COVID-19 mRNA vaccine, pediatric, 3 micrograms
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1662849577
 updated_at: 1712928099
-valence_ids:
-- 306
+generic_vaccine_id: 1188
 other_names:
 - Comirnaty 3 mcg
 - Comirnaty 3 microgrammes

@@ -4,16 +4,12 @@ name: TRIAXIS
 description: Diphtheria toxoid (low dose), tetanus toxoid and pertussis (multicomponent acellular, low dose) vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689123
 updated_at: 1749026357
-valence_ids:
-- 17
-- 34
-- 67
+generic_vaccine_id: 610
 other_names:
 - triaxis
 - triaksis

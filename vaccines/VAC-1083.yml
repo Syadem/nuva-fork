@@ -4,13 +4,11 @@ name: BAYRAB
 description: Anti-rabies immune globulin (human)
 notes: https://www.rxlist.com/bayrab-drug.htm
 generic: false
-immunoglobulin: true
 injection_methods:
 - intramuscular
 created_at: 1715700203
 updated_at: 1715700203
-valence_ids:
-- 252
+generic_vaccine_id: 358
 other_names: []
 codes:
 - nomenclature: SYADEM

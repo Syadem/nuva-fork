@@ -4,14 +4,10 @@ name: TRIACEL
 description: Diphtheria toxoid (standard dose), tetanus toxoid and inactivated polio (trivalent) pediatric vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689130
 updated_at: 1666959922
-valence_ids:
-- 56
-- 67
-- 97
+generic_vaccine_id: 88
 other_names:
 - TRIACEL
 codes:

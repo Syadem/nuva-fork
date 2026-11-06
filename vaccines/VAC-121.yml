@@ -4,17 +4,12 @@ name: PRIORIX-TETRA
 description: Live attenuated measles, mumps, rubella and chickenpox vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689123
 updated_at: 1749223767
-valence_ids:
-- 5
-- 44
-- 77
-- 79
+generic_vaccine_id: 827
 other_names:
 - vaccin priorix tetra
 - vaccin rougeole oreillons rubeole varicelle

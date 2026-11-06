@@ -4,13 +4,11 @@ name: CYFENDUS
 description: Adsorbed acellular anthrax vaccine with adjuvant
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1711442197
 updated_at: 1744367530
-valence_ids:
-- 415
+generic_vaccine_id: 1279
 other_names: []
 codes:
 - nomenclature: SYADEM

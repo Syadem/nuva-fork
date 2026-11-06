@@ -4,13 +4,11 @@ name: JYNNEOS
 description: Smallpox vaccine, third generation, modified vaccinia virus Ankara, non-replicative
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - subcutaneous
 created_at: 1654694378
 updated_at: 1713273547
-valence_ids:
-- 296
+generic_vaccine_id: 1157
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -4,12 +4,10 @@ name: INFLUSPLIT TETRA
 description: Quadrivalent inactivated seasonal influenza vaccine with surface antigens
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689122
 updated_at: 1793020298
-valence_ids:
-- 40
+generic_vaccine_id: 938
 other_names:
 - INFLUSPLITTETRA
 - influsplittmtetra

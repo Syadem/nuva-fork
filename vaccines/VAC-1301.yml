@@ -4,14 +4,11 @@ name: BE Td
 description: Diphtheria vaccine (toxoid, reduced dose) and tetanus vaccine (toxoid)
 notes: https://www.biologicale.com/pdf/Product_VB_Domestic_Marketing.pdf
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1741711437
 updated_at: 1747926634
-valence_ids:
-- 34
-- 67
+generic_vaccine_id: 920
 other_names: []
 codes:
 - nomenclature: SYADEM

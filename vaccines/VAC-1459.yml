@@ -4,15 +4,11 @@ name: TRINFAGEN N0.1
 description: Diphtheria toxoid (standard dose), tetanus toxoid and inactivated polio (trivalent) pediatric vaccine
 notes: https://jeffreydachmd.com/wp-content/uploads/2017/01/discontinued_vaccines-1.pdf
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1753865482
 updated_at: 1753865482
-valence_ids:
-- 56
-- 67
-- 97
+generic_vaccine_id: 88
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -12,12 +12,10 @@ notes: "https://www.who.int/fr/news/item/02-10-2023-who-recommends-r21-matrix-m-
 
   \r\n"
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1702917530
 updated_at: 1712651050
-valence_ids:
-- 311
+generic_vaccine_id: 1237
 other_names:
 - R21
 codes:

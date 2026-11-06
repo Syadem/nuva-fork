@@ -4,13 +4,11 @@ name: KEYTRUDA
 description: Melanoma vaccine, messenger RNA, individualized neoantigens
 notes: https://www.merck.com/news/merck-and-moderna-announce-phase-3-interpath-001-trial-of-intismeran-autogene-plus-keytruda-met-endpoints-of-recurrence-free-survival-rfs-and-distant-metastasis-free-survival-dmfs-in-patient/
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1787661376
 updated_at: 1787668049
-valence_ids:
-- 442
+generic_vaccine_id: 1524
 other_names: []
 codes:
 - nomenclature: SYADEM

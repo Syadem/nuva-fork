@@ -4,13 +4,11 @@ name: ROTASIIL
 description: Rotavirus vaccine
 notes: https://www.seruminstitute.com/product_viral_rotasiil.php
 generic: false
-immunoglobulin: false
 injection_methods:
 - oral
 created_at: 1626689122
 updated_at: 1741859510
-valence_ids:
-- 106
+generic_vaccine_id: 158
 other_names:
 - Rotasiil
 codes:

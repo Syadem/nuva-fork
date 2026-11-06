@@ -6,13 +6,11 @@ notes: "1ère dénomination de AVAXIM 160.\r
 
   virus de l'hépatite A souche GBM inactivé adsorbé.\r\n"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1661702071
 updated_at: 1712929191
-valence_ids:
-- 144
+generic_vaccine_id: 910
 other_names: []
 codes:
 - nomenclature: SYADEM

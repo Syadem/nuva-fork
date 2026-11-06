@@ -4,13 +4,11 @@ name: NUVAXOVID
 description: "COVID-19 vaccine, protein subunit, recombinant spike protein nanoparticles, with adjuvant (Matrix M) - Other name: NOVAVAX NVX-CoV2373 COVID-19 Vaccine"
 notes: Pour le rappel, dispo depuis le 13/12/22
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689126
 updated_at: 1671389968
-valence_ids:
-- 107
+generic_vaccine_id: 1129
 other_names:
 - covid19
 - novavaxnanoparticlecovid

@@ -4,13 +4,11 @@ name: SPIKEVAX JN.1 50 µg
 description: COVID-19 mRNA vaccine, subvariant Omicron JN.1, 50 microgram dose
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1739957185
 updated_at: 1743763224
-valence_ids:
-- 388
+generic_vaccine_id: 1409
 other_names: []
 codes:
 - nomenclature: SYADEM

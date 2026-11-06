@@ -8,13 +8,11 @@ notes: "Indiqué pour l'immunisation active pour la prévention des maladies cau
 
   https://trpma.org.tw/eng/members/34"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1714121908
 updated_at: 1717679606
-valence_ids:
-- 346
+generic_vaccine_id: 1118
 other_names: []
 codes:
 - nomenclature: SYADEM

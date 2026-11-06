@@ -4,12 +4,10 @@ name: ANATOXAL TE N
 description: Tetanus vaccine vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1653899153
 updated_at: 1713277144
-valence_ids:
-- 67
+generic_vaccine_id: 132
 other_names: []
 codes:
 - nomenclature: SYADEM

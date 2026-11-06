@@ -4,12 +4,10 @@ name: ROTASHIELD
 description: Rotavirus vaccine (First)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689125
 updated_at: 1692134628
-valence_ids:
-- 106
+generic_vaccine_id: 158
 other_names:
 - ROTASHIELD
 - RRV-TV Y

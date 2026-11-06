@@ -4,14 +4,12 @@ name: STAMARIL
 description: Live attenuated yellow fever vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1626689121
 updated_at: 1760706554
-valence_ids:
-- 92
+generic_vaccine_id: 111
 other_names: []
 codes:
 - nomenclature: SYADEM

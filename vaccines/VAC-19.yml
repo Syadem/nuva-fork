@@ -4,13 +4,11 @@ name: MENINGITEC
 description: Meningococcal conjugate vaccine, serogroup C (conjugated to CRM197 Protein)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689129
 updated_at: 1758790634
-valence_ids:
-- 268
+generic_vaccine_id: 1211
 other_names:
 - MENINGITEC
 - meningoC

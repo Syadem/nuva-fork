@@ -4,14 +4,11 @@ name: DT BIOMED
 description: Paediatric diphtheria vaccine (toxoid, standard dose) and tetanus vaccine (toxoid), adsorbed suspension for injection
 notes: https://biomed.pl/wp-content/uploads/2024/07/Ulotka-DT.pdf
 generic: false
-immunoglobulin: false
 injection_methods:
 - subcutaneous
 created_at: 1739962206
 updated_at: 1739962206
-valence_ids:
-- 67
-- 97
+generic_vaccine_id: 137
 other_names: []
 codes:
 - nomenclature: SYADEM

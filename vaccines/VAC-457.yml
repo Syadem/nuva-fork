@@ -4,12 +4,10 @@ name: YF-VAX
 description: Live attenuated yellow fever vaccine
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689130
 updated_at: 1666959923
-valence_ids:
-- 92
+generic_vaccine_id: 111
 other_names:
 - YFVAX
 codes:

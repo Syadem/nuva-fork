@@ -4,14 +4,12 @@ name: ENCEPUR N CHILDREN
 description: Tick-borne encephalitis vaccine, whole-virus inactivated, K23 strain, 0,25 mL
 notes: https://compendium.ch/fr/product/105793-encepur-n-susp-inj-enf
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 - subcutaneous
 created_at: 1763133729
 updated_at: 1765557614
-valence_ids:
-- 430
+generic_vaccine_id: 1550
 other_names: []
 codes:
 - nomenclature: SYADEM

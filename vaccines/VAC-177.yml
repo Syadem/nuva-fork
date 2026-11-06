@@ -4,13 +4,10 @@ name: AC VAX
 description: Unconjugated meningococcal polysaccharide vaccine, serogroups A and C
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689129
 updated_at: 1666959918
-valence_ids:
-- 37
-- 137
+generic_vaccine_id: 151
 other_names:
 - ACVAX
 codes:

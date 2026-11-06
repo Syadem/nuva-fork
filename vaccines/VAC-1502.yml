@@ -6,13 +6,11 @@ notes: "https://www.ema.europa.eu/en/medicines/human/EPAR/bimervax\r
 
   https://www.ema.europa.eu/en/documents/product-information/bimervax-epar-product-information_en.pdf"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1769599091
 updated_at: 1769599567
-valence_ids:
-- 434
+generic_vaccine_id: 1503
 other_names: []
 codes:
 - nomenclature: SYADEM

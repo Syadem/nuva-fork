@@ -24,14 +24,11 @@ notes: "EU/1/20/1507/009 Spikevax bivalent\r
 
   [EU-NUMBER|EU-1-20-1507-010]"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1672305380
 updated_at: 1745576343
-valence_ids:
-- 181
-- 308
+generic_vaccine_id: 1140
 other_names:
 - spikevax bivalent 25 microgrammes
 codes:

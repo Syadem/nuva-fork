@@ -4,7 +4,7 @@ name: Respiratory syncytial virus (RSV) human monoclonal antibody, nirsevimab, u
 description: Human monoclonal antibody against respiratory syncytial virus (RSV), nirsevimab, unspecified
 notes:
 generic: true
-immunoglobulin: false
+immunoglobulin: true
 injection_methods: []
 created_at: 1717593324
 updated_at: 1788942905

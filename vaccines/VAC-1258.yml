@@ -4,13 +4,11 @@ name: COMIRNATY JN.1 30 µg
 description: COVID-19 mRNA vaccine, subvariant Omicron JN.1, 30 micrograms, adult dose (+ 12 years)
 notes: "Comirnaty JN.1 30 Adulte (flacons à 6 doses) GTIN 04260703260927 "
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1724433631
 updated_at: 1745575317
-valence_ids:
-- 379
+generic_vaccine_id: 1411
 other_names:
 - Pfizer-comirnaty-30
 - brétovaméran

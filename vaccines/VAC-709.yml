@@ -4,12 +4,10 @@ name: COVI-VAC
 description: COVID-19 vaccine, live attenuated
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689127
 updated_at: 1684150859
-valence_ids:
-- 86
+generic_vaccine_id: 1202
 other_names:
 - covivac
 - covid vaccin voie nasale

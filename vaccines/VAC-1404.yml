@@ -6,16 +6,11 @@ notes: "https://www.panaceabiotec.com/en/products/product-list\r
 
   https://www.panaceabiotec.com/assets/documents/SmPc_Easyfour-TT.pdf"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1744213314
 updated_at: 1744213314
-valence_ids:
-- 10
-- 67
-- 97
-- 156
+generic_vaccine_id: 1161
 other_names: []
 codes:
 - nomenclature: SYADEM

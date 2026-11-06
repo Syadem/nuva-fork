@@ -4,13 +4,11 @@ name: IMMUNOGLOBULINE HUMAINE DE L'HÉPATITE B LFB
 description: Hepatitis b immune globulin (human)
 notes: https://base-donnees-publique.medicaments.gouv.fr/medicament/68740103/extrait
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1764604949
 updated_at: 1764605390
-valence_ids:
-- 47
+generic_vaccine_id: 863
 other_names: []
 codes:
 - nomenclature: SYADEM

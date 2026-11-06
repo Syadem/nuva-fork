@@ -4,13 +4,11 @@ name: COMIRNATY 10 µg  BIONTECH-PFIZER
 description: Covid 19 mRNA vaccine, 10 micrograms, paediatric dose 5-11 years
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1639647314
 updated_at: 1744192199
-valence_ids:
-- 289
+generic_vaccine_id: 927
 other_names:
 - comirnaty
 - Biontech pfizer

@@ -6,13 +6,11 @@ notes: "https://nzozkrokowa.pl/szczepionki/tetana-pro/\r
 
   https://leki.pl/produkty/tetana-pro/"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1743605868
 updated_at: 1743605868
-valence_ids:
-- 67
+generic_vaccine_id: 132
 other_names: []
 codes:
 - nomenclature: SYADEM

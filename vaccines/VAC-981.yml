@@ -4,12 +4,10 @@ name: VACCINO PERTOSSE ISI
 description: Pertussis vaccine, unspecified
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1655478493
 updated_at: 1713194391
-valence_ids:
-- 3
+generic_vaccine_id: 796
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -6,13 +6,10 @@ notes: "https://www.seruminstitute.com/product_ind_dualantigen.php\r
 
   https://www.seruminstitute.com/product_diphtheriatetanus_pediatric.php"
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689126
 updated_at: 1741949936
-valence_ids:
-- 67
-- 97
+generic_vaccine_id: 137
 other_names:
 - DUALANTIGENSII
 codes:

@@ -4,12 +4,10 @@ name: VACCIN DIFTERIC ADSORBIT
 description: Diphtheria toxoid (unspecified dose)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods: []
 created_at: 1626689128
 updated_at: 1666959922
-valence_ids:
-- 83
+generic_vaccine_id: 655
 other_names:
 - VACCINDIFTERICADSORBIT
 codes:

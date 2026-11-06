@@ -28,16 +28,11 @@ notes: "Ex code DataMatrix :\r
 
   https://www2a.cdc.gov/vaccines/iis/iisstandards/vaccines.asp?rpt=ndc\r\n"
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689121
 updated_at: 1758816044
-valence_ids:
-- 266
-- 271
-- 272
-- 276
+generic_vaccine_id: 1182
 other_names:
 - menquadtt
 - Men Quad TT

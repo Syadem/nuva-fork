@@ -8,13 +8,11 @@ notes: "https://www.hypertet.com/en/hcp\r
 
   https://pdf.hres.ca/dpd_pm/00062965.PDF"
 generic: false
-immunoglobulin: true
 injection_methods:
 - intramuscular
 created_at: 1715777049
 updated_at: 1717679226
-valence_ids:
-- 110
+generic_vaccine_id: 497
 other_names: []
 codes:
 - nomenclature: SYADEM

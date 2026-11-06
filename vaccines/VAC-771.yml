@@ -4,13 +4,11 @@ name: VBI-2902a
 description: COVID-19 vaccine, VLP, recombinant spike protein, with adjuvant (aluminum phosphate)
 notes:
 generic: false
-immunoglobulin: false
 injection_methods:
 - intramuscular
 created_at: 1626689123
 updated_at: 1689856664
-valence_ids:
-- 39
+generic_vaccine_id: 1106
 other_names: []
 codes:
 - nomenclature: SYADEM
