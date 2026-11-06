@@ -7,8 +7,6 @@ immunoglobulin: false
 notes:
 created_at: 1646756734
 updated_at: 1788945867
-injection_methods:
-- intramuscular
 other_names:
 - DTaPHib
 - DTCaHib

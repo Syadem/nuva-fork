@@ -7,8 +7,6 @@ immunoglobulin: false
 notes:
 created_at: 1651507094
 updated_at: 1713517425
-injection_methods:
-- intramuscular
 other_names: []
 valence_ids:
 - 12

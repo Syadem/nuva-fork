@@ -7,9 +7,6 @@ immunoglobulin: false
 notes:
 created_at: 1626689127
 updated_at: 1767630517
-injection_methods:
-- intramuscular
-- subcutaneous
 other_names:
 - pneumocoque non conjugué
 - unconjugated pneumococcal vaccine

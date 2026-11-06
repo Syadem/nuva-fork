@@ -7,8 +7,6 @@ immunoglobulin: false
 notes:
 created_at: 1626689129
 updated_at: 1769616952
-injection_methods:
-- intramuscular
 other_names:
 - haemophilusinfluenzetypeb
 - haemophilusinfluenzaetypeb

@@ -7,8 +7,6 @@ immunoglobulin: false
 notes:
 created_at: 1626689130
 updated_at: 1698916900
-injection_methods:
-- intramuscular
 other_names:
 - DTCeHibHepB
 - dtcehibhb

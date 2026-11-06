@@ -7,8 +7,6 @@ immunoglobulin: false
 notes:
 created_at: 1635263684
 updated_at: 1744810730
-injection_methods:
-- intramuscular
 other_names:
 - DiphTCoqPolioHepB
 valence_ids:

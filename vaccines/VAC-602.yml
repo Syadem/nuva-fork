@@ -7,8 +7,6 @@ immunoglobulin: false
 notes:
 created_at: 1626689126
 updated_at: 1747837752
-injection_methods:
-- intramuscular
 other_names:
 - DTCa
 - D.T.Ca

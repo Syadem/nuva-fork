@@ -7,7 +7,6 @@ immunoglobulin: false
 notes: Non spécifié, pour les enregistrements historiques où l'on ne sait pas si le vaccin contre le VRS ou le vaccin MAB contre le VRS a été administré.
 created_at: 1710797174
 updated_at: 1720084233
-injection_methods: []
 other_names: []
 valence_ids:
 - 338

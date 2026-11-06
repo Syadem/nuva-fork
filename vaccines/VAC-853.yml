@@ -7,8 +7,6 @@ immunoglobulin: false
 notes:
 created_at: 1646320847
 updated_at: 1788945972
-injection_methods:
-- oral
 other_names: []
 valence_ids:
 - 132

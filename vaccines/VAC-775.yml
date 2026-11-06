@@ -7,8 +7,6 @@ immunoglobulin: false
 notes:
 created_at: 1626689125
 updated_at: 1788947656
-injection_methods:
-- intramuscular
 other_names:
 - D.T.Ce.Hib
 - D/T/Ce/Hib

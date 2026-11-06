@@ -7,8 +7,6 @@ immunoglobulin: false
 notes:
 created_at: 1626689124
 updated_at: 1747727849
-injection_methods:
-- intramuscular
 other_names:
 - DTC
 - dtcoq

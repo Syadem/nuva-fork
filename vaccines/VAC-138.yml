@@ -7,8 +7,6 @@ immunoglobulin: false
 notes:
 created_at: 1626689122
 updated_at: 1767978613
-injection_methods:
-- intramuscular
 other_names:
 - dtcp
 - D.T.C.P.

@@ -7,8 +7,6 @@ immunoglobulin: false
 notes:
 created_at: 1646844819
 updated_at: 1720167595
-injection_methods:
-- intramuscular
 other_names:
 - hpv16-18
 - vph16-18

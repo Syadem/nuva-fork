@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 RSpec.describe 'The vaccines folder' do
-  files = Dir.glob(NUVA_ROOT.join('vaccines', '*')).sort
+  files             = Dir.glob(NUVA_ROOT.join('vaccines', '*')).sort
   injection_methods = %w[intramuscular subcutaneous intradermal intranasal oral].freeze
 
   it 'contains vaccines' do
@@ -20,9 +20,9 @@ RSpec.describe 'The vaccines folder' do
       it 'matches the expected schema' do
         expect(data).to be_a(Hash)
 
-        specific_fields = data['generic'] ? %w[valence_ids immunoglobulin] : %w[generic_vaccine_id]
+        specific_fields = data['generic'] ? %w[valence_ids immunoglobulin] : %w[generic_vaccine_id injection_methods]
         
-        expect(data.keys).to contain_exactly('id', 'name', 'description', 'notes', 'generic', 'injection_methods', 'created_at', 'updated_at', *specific_fields, 'other_names', 'codes')
+        expect(data.keys).to contain_exactly('id', 'name', 'description', 'notes', 'generic', 'created_at', 'updated_at', *specific_fields, 'other_names', 'codes')
 
         expect(data['id']).to be_a(Integer)
         expect(data['id']).to be_positive
@@ -33,13 +33,7 @@ RSpec.describe 'The vaccines folder' do
         expect(data['name'].strip).not_to be_empty
         expect(data['description']).to(be_a(String).or be_nil)
         expect(data['notes']).to(be_a(String).or be_nil)
-
         expect(data['generic']).to(be(true).or be(false))
-
-        expect(data['injection_methods']).to be_a(Array)
-        expect(data['injection_methods']).to all(be_a(String))
-        expect(data['injection_methods'] - injection_methods).to be_empty
-
         expect(data['other_names']).to be_a(Array)
         expect(data['other_names']).to all(be_a(String))
 
@@ -59,6 +53,9 @@ RSpec.describe 'The vaccines folder' do
         else
           expect(data['generic_vaccine_id']).to be_a(Integer)
           expect(data['generic_vaccine_id']).to be_positive
+          expect(data['injection_methods']).to be_a(Array)
+          expect(data['injection_methods']).to all(be_a(String))
+          expect(data['injection_methods'] - injection_methods).to be_empty
         end
       end
 

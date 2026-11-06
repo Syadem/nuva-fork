@@ -7,8 +7,6 @@ immunoglobulin: false
 notes:
 created_at: 1651828760
 updated_at: 1713432691
-injection_methods:
-- intramuscular
 other_names:
 - Vaccin Covid 19 à ARNm
 - COVID-19 mRNA vaccine paediatric dose unspecified

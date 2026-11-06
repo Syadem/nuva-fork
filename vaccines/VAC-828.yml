@@ -7,8 +7,6 @@ immunoglobulin: false
 notes:
 created_at: 1635263684
 updated_at: 1747820295
-injection_methods:
-- oral
 other_names:
 - Rotapentavalent
 valence_ids:

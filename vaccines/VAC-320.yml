@@ -7,8 +7,6 @@ immunoglobulin: false
 notes:
 created_at: 1626689128
 updated_at: 1788960564
-injection_methods:
-- oral
 other_names:
 - OPV
 - OPVI

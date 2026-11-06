@@ -7,8 +7,6 @@ immunoglobulin: false
 notes:
 created_at: 1734387523
 updated_at: 1788793425
-injection_methods:
-- intramuscular
 other_names:
 - AH5
 valence_ids:

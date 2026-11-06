@@ -7,9 +7,6 @@ immunoglobulin: false
 notes:
 created_at: 1626689121
 updated_at: 1788989742
-injection_methods:
-- intramuscular
-- subcutaneous
 other_names:
 - encephaliteJaponaise
 valence_ids:

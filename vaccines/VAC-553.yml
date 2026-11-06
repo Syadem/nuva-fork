@@ -7,8 +7,6 @@ immunoglobulin: false
 notes:
 created_at: 1626689123
 updated_at: 1788948090
-injection_methods:
-- intramuscular
 other_names:
 - dtpcoqhib
 - dtcphib

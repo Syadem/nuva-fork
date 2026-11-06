@@ -7,8 +7,6 @@ immunoglobulin: false
 notes:
 created_at: 1626689128
 updated_at: 1747737487
-injection_methods:
-- intramuscular
 other_names:
 - TPOLIO
 - TP

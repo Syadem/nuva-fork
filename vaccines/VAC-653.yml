@@ -7,8 +7,6 @@ immunoglobulin: false
 notes:
 created_at: 1626689127
 updated_at: 1747836257
-injection_methods:
-- intramuscular
 other_names:
 - HépatiteA+hépatiteBEnfant
 valence_ids:
