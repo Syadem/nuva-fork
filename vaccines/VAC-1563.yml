@@ -1,0 +1,15 @@
+---
+id: 1563
+generic: false
+generic_vaccine_id: 1144
+name: hgfd
+description:
+notes:
+created_at: 1793983881
+updated_at: 1793983881
+injection_methods:
+- intradermal
+other_names: []
+codes:
+- nomenclature: SYADEM
+  code: b9f56a07-c58b-4de9-9019-31e4d2f5f7eb
