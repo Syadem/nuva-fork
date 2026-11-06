@@ -1,19 +1,19 @@
 ---
 id: 808
+generic: true
 name: Haemophilus influenzae type b and meningococcal conjugate (serogroups C and Y) vaccine, unspecified
 description: Haemophilus influenzae type b and meningococcal conjugate vaccine, serogroups C and Y
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1635263684
 updated_at: 1788946595
+injection_methods: []
+other_names:
+- HibMenCY
 valence_ids:
 - 57
 - 78
 - 103
-other_names:
-- HibMenCY
 codes:
 - nomenclature: SYADEM
   code: eb3601d0-623e-46d4-9005-c112152e8934

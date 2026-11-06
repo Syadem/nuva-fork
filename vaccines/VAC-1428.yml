@@ -1,16 +1,16 @@
 ---
 id: 1428
+generic: true
 name: COVID-19 vaccine, protein subunit, recombinant homodimeric RBD protein, Omicron variant XBB.1.16, with adjuvant (SQBA)
 description: COVID-19 vaccine, protein subunit, recombinant homodimeric RBD protein, Omicron variant XBB.1.16, with adjuvant (SQBA)
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1744637457
 updated_at: 1744637457
+injection_methods: []
+other_names: []
 valence_ids:
 - 413
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: d917f10c-e578-4e38-ab8b-0437c7c45637

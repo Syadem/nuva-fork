@@ -1,16 +1,16 @@
 ---
 id: 1190
+generic: true
 name: COVID-19 vaccine with replicative viral vector, vesicular stomatitis virus encoding the SARS-CoV-2 spike protein, unspecified
 description: Anti-covid 19 vaccine with replicative viral vector, vesicular stomatitis virus encoding the SARS-CoV-2 spike protein, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717597767
 updated_at: 1743118697
+injection_methods: []
+other_names: []
 valence_ids:
 - 84
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 0ca625a6-355e-4ac7-a427-818e2e30a407

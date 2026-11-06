@@ -1,13 +1,13 @@
 ---
 id: 874
+generic: false
+generic_vaccine_id: 925
 name: INNOFLU
 description: Trivalent inactivated seasonal influenza vaccine, egg-based, surface antigen, adjuvanted with MF59C.2
 notes:
-generic: false
-injection_methods: []
 created_at: 1648262145
 updated_at: 1713866186
-generic_vaccine_id: 925
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

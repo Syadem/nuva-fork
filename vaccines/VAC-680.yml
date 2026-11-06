@@ -1,14 +1,14 @@
 ---
 id: 680
+generic: false
+generic_vaccine_id: 1119
 name: COVILO SINOPHARM COVID-19 VACCINE
 description: "COVID-19 vaccine, whole virion inactivated, Vero cell-cultured - Other names : SINOPHARM BBIBP-CorV COVID-19 ; COVID-19 Vaccine BIBP ; Hayat-vax"
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689121
 updated_at: 1767887656
-generic_vaccine_id: 1119
+injection_methods:
+- intramuscular
 other_names:
 - BIBPCovidInactivated
 - covid19

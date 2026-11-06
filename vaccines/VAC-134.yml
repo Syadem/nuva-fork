@@ -1,20 +1,20 @@
 ---
 id: 134
+generic: true
 name: BCG vaccine, unspecified
 description: Tuberculosis vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689123
 updated_at: 1785206256
-valence_ids:
-- 96
+injection_methods: []
 other_names:
 - BCG
 - tuberculose
 - antituberculeux
 - tuberculeux
+valence_ids:
+- 96
 codes:
 - nomenclature: SYADEM
   code: 099b63d7-662c-4b79-aaee-cde72dc4b1cd

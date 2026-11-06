@@ -1,14 +1,14 @@
 ---
 id: 1262
+generic: false
+generic_vaccine_id: 1420
 name: MRESVIA
 description: Single-stranded 5' capped mRNA encoding the Respiratory syncytial virus glycoprotein F stabilized in the prefusion conformation
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1730146652
 updated_at: 1744626963
-generic_vaccine_id: 1420
+injection_methods:
+- intramuscular
 other_names:
 - mvrsvia
 codes:

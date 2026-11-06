@@ -1,14 +1,14 @@
 ---
 id: 1104
+generic: false
+generic_vaccine_id: 867
 name: DIPHTHERIA ANTITOXIN B.P.
 description: Anti-diphtheria toxin immunoglobulin of equine origin
 notes: https://vinsbio.in/diphtheria-antitoxin-10000-bp/
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1716277285
 updated_at: 1716277340
-generic_vaccine_id: 867
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

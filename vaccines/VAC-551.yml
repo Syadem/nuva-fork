@@ -1,19 +1,14 @@
 ---
 id: 551
+generic: true
 name: DTaPIPV vaccine, standard dose, unspecified
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose) and inactivated polio (trivalent) pediatric vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intramuscular
+notes:
 created_at: 1626689128
 updated_at: 1747745193
-valence_ids:
-- 8
-- 56
-- 67
-- 97
+injection_methods:
+- intramuscular
 other_names:
 - DTCaPolio
 - DTCAP
@@ -24,6 +19,11 @@ other_names:
 - Dif. (att) Tét. Pol. + Coq. Acell
 - DTaPIPV
 - D-T-aP-IPV
+valence_ids:
+- 8
+- 56
+- 67
+- 97
 codes:
 - nomenclature: SYADEM
   code: f9d0e754-6618-4fac-aa70-507f9367152f

@@ -1,13 +1,13 @@
 ---
 id: 398
+generic: false
+generic_vaccine_id: 136
 name: TRI-IMMUNOL
 description: Diphtheria toxoid (standard dose), tetanus toxoid and pertussis (whole-cell inactivated) pediatric vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689124
 updated_at: 1698916111
-generic_vaccine_id: 136
+injection_methods: []
 other_names:
 - TRIIMMUNOL
 codes:

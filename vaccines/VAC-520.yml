@@ -1,13 +1,13 @@
 ---
 id: 520
+generic: false
+generic_vaccine_id: 1157
 name: IMVANEX
 description: Smallpox vaccine, third generation, modified vaccinia virus Ankara, non-replicative
 notes: Non dispo en France
-generic: false
-injection_methods: []
 created_at: 1626689122
 updated_at: 1758815595
-generic_vaccine_id: 1157
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,14 +1,14 @@
 ---
 id: 1376
+generic: false
+generic_vaccine_id: 1128
 name: ZYCOV-D
 description: COVID-19 plasmid DNA vaccine
 notes: https://www.zyduslife.com/public/pdf/5_PI&%20SmPC_Novel%20Corona%20Virus%202019-nCoV%20Vaccine%20(Recombinant)_ZYCOV-D%C2%AE.pdf
-generic: false
-injection_methods:
-- intradermal
 created_at: 1744020486
 updated_at: 1744020486
-generic_vaccine_id: 1128
+injection_methods:
+- intradermal
 other_names: []
 codes:
 - nomenclature: SYADEM

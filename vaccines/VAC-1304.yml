@@ -1,14 +1,14 @@
 ---
 id: 1304
+generic: false
+generic_vaccine_id: 1116
 name: BERAB
 description: Whole virion inactivated rabies vaccine, cultured on Vero cells
 notes: https://www.biologicale.com/pdf/Product_VB_Domestic_Marketing.pdf
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1741776319
 updated_at: 1773913751
-generic_vaccine_id: 1116
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

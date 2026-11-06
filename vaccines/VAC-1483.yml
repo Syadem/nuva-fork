@@ -1,15 +1,15 @@
 ---
 id: 1483
+generic: false
+generic_vaccine_id: 1533
 name: ENCEPUR N
 description: Tick-borne encephalitis vaccine, whole-virus inactivated, K23 strain
 notes:
-generic: false
+created_at: 1765534355
+updated_at: 1765534355
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1765534355
-updated_at: 1765534355
-generic_vaccine_id: 1533
 other_names: []
 codes:
 - nomenclature: SYADEM

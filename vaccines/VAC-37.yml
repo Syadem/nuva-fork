@@ -1,14 +1,14 @@
 ---
 id: 37
+generic: false
+generic_vaccine_id: 551
 name: TETRAVAC-ACELLULAIRE
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose) and inactivated polio (trivalent) pediatric vaccine
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689126
 updated_at: 1758793039
-generic_vaccine_id: 551
+injection_methods:
+- intramuscular
 other_names:
 - tetravacAcellulaire
 - 4vacAcellulaire

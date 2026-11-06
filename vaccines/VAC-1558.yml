@@ -1,5 +1,7 @@
 ---
 id: 1558
+generic: false
+generic_vaccine_id: 1425
 name: EUTYPH-C
 description: Typhoid vaccine, Vi antigen conjugated to CRM197 protein
 notes: "http://eubiologics.com/eng/sub2_2.php#none\r
@@ -7,12 +9,10 @@ notes: "http://eubiologics.com/eng/sub2_2.php#none\r
   \r
 
   https://extranet.who.int/prequal/vaccines/p/eutyph-c-inj-multi-dose"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1792144664
 updated_at: 1792144664
-generic_vaccine_id: 1425
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

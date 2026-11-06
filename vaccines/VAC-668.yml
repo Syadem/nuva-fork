@@ -1,14 +1,14 @@
 ---
 id: 668
+generic: false
+generic_vaccine_id: 1138
 name: Kentucky-RBD-Covid
 description: COVID-19 vaccine, protein subunit
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689129
 updated_at: 1717515681
-generic_vaccine_id: 1138
+injection_methods:
+- intramuscular
 other_names:
 - covid19kentucky
 - covid-19

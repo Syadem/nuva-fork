@@ -1,13 +1,13 @@
 ---
 id: 442
+generic: false
+generic_vaccine_id: 864
 name: VARICELLON
 description: Immunoglobulin against chickenpox virus
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689120
 updated_at: 1666959922
-generic_vaccine_id: 864
+injection_methods: []
 other_names:
 - VARICELLON
 codes:

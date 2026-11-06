@@ -1,16 +1,16 @@
 ---
 id: 1223
+generic: true
 name: Immunoglobulin against respiratory syncytial virus (RSV), unspecified
 description: Immunoglobulin against respiratory syncytial virus (RSV), unspecified
-notes:
-generic: true
 immunoglobulin: true
-injection_methods: []
+notes:
 created_at: 1717600249
 updated_at: 1740489441
+injection_methods: []
+other_names: []
 valence_ids:
 - 148
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: c8da6f49-1192-460f-b502-3266331aa701

@@ -1,13 +1,13 @@
 ---
 id: 934
+generic: false
+generic_vaccine_id: 153
 name: VACCIN OREILLONS AVENTIS PASTEUR MSD
 description: Live attenuated mumps vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1652694861
 updated_at: 1713360922
-generic_vaccine_id: 153
+injection_methods: []
 other_names:
 - VACCIN OREILLONS AVENTIS PASTEUR MSD
 codes:

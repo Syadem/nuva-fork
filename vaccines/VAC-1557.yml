@@ -1,16 +1,16 @@
 ---
 id: 1557
+generic: true
 name: Influenza vaccine, trivalent, inactivated, split or subunit, unspecified
 description: Influenza vaccine, trivalent, inactivated, split or subunit, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1790857502
 updated_at: 1790857522
+injection_methods: []
+other_names: []
 valence_ids:
 - 24
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 9bc3a499-1f62-4448-af8a-372591c813d5

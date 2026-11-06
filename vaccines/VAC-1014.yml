@@ -1,13 +1,13 @@
 ---
 id: 1014
+generic: false
+generic_vaccine_id: 159
 name: PROVARIVAX
 description: Live attenuated chickenpox vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1660122684
 updated_at: 1712936303
-generic_vaccine_id: 159
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

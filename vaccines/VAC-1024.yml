@@ -1,14 +1,14 @@
 ---
 id: 1024
+generic: false
+generic_vaccine_id: 1430
 name: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 (50 µg/50 µg)/mL MODERNA
 description: COVID-19 vaccine bivalent RNAm, original virus + Omicron variant BA.4/5, 50 micrograms of each
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1663016054
 updated_at: 1745576417
-generic_vaccine_id: 1430
+injection_methods:
+- intramuscular
 other_names:
 - variant Omicron BA.4/5
 codes:

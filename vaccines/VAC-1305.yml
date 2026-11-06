@@ -1,14 +1,14 @@
 ---
 id: 1305
+generic: false
+generic_vaccine_id: 550
 name: MRBEV
 description: Live attenuated measles and rubella vaccine
 notes: https://www.biologicale.com/pdf/Product_VB_Domestic_Marketing.pdf
-generic: false
-injection_methods:
-- subcutaneous
 created_at: 1741776773
 updated_at: 1741791705
-generic_vaccine_id: 550
+injection_methods:
+- subcutaneous
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,13 +1,13 @@
 ---
 id: 1012
+generic: false
+generic_vaccine_id: 270
 name: PICOVAX
 description: Inactivated polio (trivalent) vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1660058718
 updated_at: 1713167667
-generic_vaccine_id: 270
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

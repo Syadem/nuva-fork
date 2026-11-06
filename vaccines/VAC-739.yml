@@ -1,14 +1,14 @@
 ---
 id: 739
+generic: false
+generic_vaccine_id: 1113
 name: RAZI Cov Pars
 description: COVID-19 vaccine, protein subunit, recombinant spike protein, with adjuvant unspecidfied
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689127
 updated_at: 1717515222
-generic_vaccine_id: 1113
+injection_methods:
+- intramuscular
 other_names:
 - RaziCovPars
 codes:

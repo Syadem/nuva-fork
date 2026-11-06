@@ -1,16 +1,16 @@
 ---
 id: 377
+generic: false
+generic_vaccine_id: 136
 name: TRIPLE ANTIGEN SII
 description: Paediatric diphtheria vaccine (toxoid, standard dose), tetanus vaccine (toxoid) and pertussis vaccine (whole inactivated)
 notes: "https://www.seruminstitute.com/product_diphtheriatetanuspertussis.php\r
 
   https://www.seruminstitute.com/product_ind_tripleantigen.php"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689127
 updated_at: 1743431361
-generic_vaccine_id: 136
+injection_methods:
+- intramuscular
 other_names:
 - SIITRIPLEANTIGEN
 - TRIPLE ANTIGEN SII

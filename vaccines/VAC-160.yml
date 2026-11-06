@@ -1,17 +1,17 @@
 ---
 id: 160
+generic: true
 name: Shingles live attenuated vaccine, unspecified
 description: Live attenuated shingles vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689127
 updated_at: 1788988633
-valence_ids:
-- 20
+injection_methods: []
 other_names:
 - zona
+valence_ids:
+- 20
 codes:
 - nomenclature: SYADEM
   code: bdd29f09-991a-4bbe-b998-696240be2b91

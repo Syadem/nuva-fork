@@ -1,13 +1,13 @@
 ---
 id: 999
+generic: false
+generic_vaccine_id: 1122
 name: WETVAX APSV
 description: Smallpox vaccine, first-generation, live vaccinia virus
 notes:
-generic: false
-injection_methods: []
 created_at: 1659082250
 updated_at: 1713175729
-generic_vaccine_id: 1122
+injection_methods: []
 other_names:
 - WETVAX-APSV
 - Aventis Pasteur smallpox vaccine

@@ -1,14 +1,14 @@
 ---
 id: 1383
+generic: false
+generic_vaccine_id: 1543
 name: CYVAC
 description: Malaria vaccine sporozoite surface protein, unspecified
 notes: https://extranet.who.int/prequal/vaccines/p/r21-malaria
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1744038216
 updated_at: 1790844804
-generic_vaccine_id: 1543
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

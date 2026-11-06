@@ -1,13 +1,13 @@
 ---
 id: 82
+generic: false
+generic_vaccine_id: 149
 name: MenBvac
 description: Meningococcal vaccine, serogroup B (outer membrane vesicle protein B:14:P1.7,16)
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689126
 updated_at: 1761147617
-generic_vaccine_id: 149
+injection_methods: []
 other_names:
 - MemBvac
 - menbvac

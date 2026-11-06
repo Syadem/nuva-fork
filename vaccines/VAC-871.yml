@@ -1,15 +1,15 @@
 ---
 id: 871
+generic: false
+generic_vaccine_id: 1200
 name: SUPEMTEK TETRA
 description: Quadrivalent inactivated seasonal influenza vaccine, cell-based
 notes: "Nouveau nom de SUPEMTEK.\r
 
   https://www.ema.europa.eu/en/medicines/human/EPAR/supemtek-tetra"
-generic: false
-injection_methods: []
 created_at: 1648260033
 updated_at: 1767868349
-generic_vaccine_id: 1200
+injection_methods: []
 other_names:
 - supemtek
 codes:

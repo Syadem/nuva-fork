@@ -1,17 +1,17 @@
 ---
 id: 1426
+generic: true
 name: Human papillomavirus vaccine, bivalent recombinant (types 16 and 18) (Pichia pastoris)
 description: Human papillomavirus vaccine, bivalent recombinant (types 16 and 18) (Pichia pastoris)
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1744636670
 updated_at: 1788792349
+injection_methods: []
+other_names: []
 valence_ids:
 - 240
 - 241
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 8b8f9648-c7ec-44da-9671-16ed0f4547f4

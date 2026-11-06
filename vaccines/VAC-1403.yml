@@ -1,16 +1,16 @@
 ---
 id: 1403
+generic: false
+generic_vaccine_id: 1181
 name: EASYFIVE-TT
 description: Vaccin pédiatrique diphtérique (anatoxine, dose standard), tétanique (anatoxine), coquelucheux (entier, dose standard), hépatite B et anti-Haemophilus influenzae type b (conjugué à l'anatoxine tétanique)
 notes: "https://www.panaceabiotec.com/en/products/product-list\r
 
   https://www.panaceabiotec.com/assets/documents/SmPc_Easyfive-TT_2023.pdf"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1744212778
 updated_at: 1744212778
-generic_vaccine_id: 1181
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

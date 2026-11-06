@@ -1,15 +1,15 @@
 ---
 id: 174
+generic: false
+generic_vaccine_id: 827
 name: PROQUAD
 description: Live attenuated measles, mumps, rubella and chickenpox vaccine
 notes:
-generic: false
+created_at: 1626689122
+updated_at: 1749224549
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689122
-updated_at: 1749224549
-generic_vaccine_id: 827
 other_names:
 - proquad
 - varicelle

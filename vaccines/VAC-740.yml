@@ -1,13 +1,13 @@
 ---
 id: 740
+generic: false
+generic_vaccine_id: 1166
 name: PTX-COVID19-B
 description: COVID-19 vaccine, mRNA encoding the SARS-CoV-2 spike protein, ongoing clinical trial
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689123
 updated_at: 1684150616
-generic_vaccine_id: 1166
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

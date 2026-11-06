@@ -1,5 +1,7 @@
 ---
 id: 1462
+generic: false
+generic_vaccine_id: 1551
 name: PNU-IMUNE 14
 description: Pneumococcal unconjugated polysaccharide vaccine, 23-valent, serotypes 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F and 33F
 notes: "Version précédente du PNU-IMMUNE 23.\r
@@ -9,13 +11,11 @@ notes: "Version précédente du PNU-IMMUNE 23.\r
   https://www.drugs.com/cons/pnu-imune-23.html\r
 
   https://www.nvic.org/disease-vaccine/pneumococcal/vaccine-history"
-generic: false
+created_at: 1753869848
+updated_at: 1790086978
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1753869848
-updated_at: 1790086978
-generic_vaccine_id: 1551
 other_names:
 - pnuimmune
 - pnu

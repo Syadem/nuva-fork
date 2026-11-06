@@ -1,21 +1,21 @@
 ---
 id: 550
+generic: true
 name: Measles and rubella live attenuated vaccine, unspecified
 description: Live attenuated measles and rubella vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689123
 updated_at: 1788947826
-valence_ids:
-- 5
-- 79
+injection_methods: []
 other_names:
 - Rougeolerubéole
 - RR
 - roug-rub
 - rubéole-rougeole
+valence_ids:
+- 5
+- 79
 codes:
 - nomenclature: SYADEM
   code: 9e4554d2-f369-4a37-9487-fe273ec72824

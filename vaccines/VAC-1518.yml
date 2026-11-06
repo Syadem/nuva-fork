@@ -1,14 +1,14 @@
 ---
 id: 1518
+generic: false
+generic_vaccine_id: 1548
 name: MFLUSIVA
 description: Influenza vaccine, trivalent, messenger RNA
 notes: https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1786117172
 updated_at: 1786117172
-generic_vaccine_id: 1548
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

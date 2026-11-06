@@ -1,15 +1,15 @@
 ---
 id: 1321
+generic: false
+generic_vaccine_id: 345
 name: HAEMOPHILUS INFLUENZAE B SII
 description: Haemophilus influenzae type b vaccine, capsular polysaccharide (polyribosylribitol phosphate, PRP) conjugated to tetanus toxoid
 notes: https://www.seruminstitute.com/product_poly_haemophilus_influenzae.php
-generic: false
+created_at: 1741874724
+updated_at: 1741949417
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1741874724
-updated_at: 1741949417
-generic_vaccine_id: 345
 other_names:
 - Hib
 codes:

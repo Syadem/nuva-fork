@@ -1,23 +1,23 @@
 ---
 id: 610
+generic: true
 name: Tdap - Diphtheria-Tetanus-Pertussis vaccine, low dose, unspecified
 description: Diphtheria toxoid (low dose), tetanus toxoid and pertussis (multicomponent acellular, low dose) vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intramuscular
+notes:
 created_at: 1626689123
 updated_at: 1747732286
-valence_ids:
-- 17
-- 34
-- 67
+injection_methods:
+- intramuscular
 other_names:
 - dTca(àdoseréduite)
 - d.t.ca
 - d/T/ca
 - tdap
+valence_ids:
+- 17
+- 34
+- 67
 codes:
 - nomenclature: SYADEM
   code: 07bb6835-e453-42ad-b679-d67c994d0fe1

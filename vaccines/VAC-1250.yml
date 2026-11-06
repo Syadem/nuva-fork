@@ -1,5 +1,7 @@
 ---
 id: 1250
+generic: false
+generic_vaccine_id: 1537
 name: EUVICHOL-S
 description: Cholera vaccine, oral, containing formalin-inactivated whole V. cholerae O1 bacteria
 notes: "https://www.cdc.gov/cholera/prevention/cholera-vaccines.html\r
@@ -25,12 +27,10 @@ notes: "https://www.cdc.gov/cholera/prevention/cholera-vaccines.html\r
   \r
 
   Pour l’organisation, le nouveau vaccin a un taux d’efficacité similaire aux formulations plus complexes. « Le nouveau vaccin est le troisième produit de la même famille de vaccins contre le choléra dans notre liste de préqualification », a déclaré Rogerio Gaspar, directeur du département de réglementation et de préqualification de l’OMS. Il espère « une augmentation rapide de la production et de l’approvisionnement dont de nombreuses communautés aux prises avec des épidémies de choléra ont un besoin urgent »."
-generic: false
-injection_methods:
-- oral
 created_at: 1722245385
 updated_at: 1722292870
-generic_vaccine_id: 1537
+injection_methods:
+- oral
 other_names: []
 codes:
 - nomenclature: SYADEM

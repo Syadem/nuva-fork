@@ -1,14 +1,14 @@
 ---
 id: 1463
+generic: false
+generic_vaccine_id: 134
 name: FREEZE-DRIED BCG VACCINE JAPAN
 description: Tuberculosis vaccine
 notes: https://www.bcg.gr.jp/en/en_products/
-generic: false
-injection_methods:
-- intradermal
 created_at: 1753878007
 updated_at: 1753878007
-generic_vaccine_id: 134
+injection_methods:
+- intradermal
 other_names: []
 codes:
 - nomenclature: SYADEM

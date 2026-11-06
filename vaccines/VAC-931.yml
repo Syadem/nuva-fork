@@ -1,13 +1,13 @@
 ---
 id: 931
+generic: false
+generic_vaccine_id: 932
 name: FLUBLOK QUADRIVALENT
 description: Quadrivalent recombinant seasonal influenza vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1651849529
 updated_at: 1713429650
-generic_vaccine_id: 932
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

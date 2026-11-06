@@ -1,17 +1,17 @@
 ---
 id: 135
+generic: true
 name: Polio vaccine, unspecified
 description: Polio vaccine, live or inactivated (unspecified)
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689126
 updated_at: 1785204896
-valence_ids:
-- 42
+injection_methods: []
 other_names:
 - poliomyelite
+valence_ids:
+- 42
 codes:
 - nomenclature: SYADEM
   code: 351d7da2-0297-4609-bd4c-f0fc491d61de

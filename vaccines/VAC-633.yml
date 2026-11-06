@@ -1,14 +1,14 @@
 ---
 id: 633
+generic: false
+generic_vaccine_id: 1205
 name: ZABDENO
 description: Ebola virus vaccine with live non-replicating recombinant virus vector
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689122
 updated_at: 1758873244
-generic_vaccine_id: 1205
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,16 +1,16 @@
 ---
 id: 1144
+generic: true
 name: COVID-19 protein subunit vaccine, recombinant SARS-CoV-2 spike protein, S-2P and CpG1018, unspecified
 description: Anti-covid 19 protein subunit vaccine, recombinant SARS-CoV-2 spike protein, S-2P and CpG1018, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717592868
 updated_at: 1743118951
+injection_methods: []
+other_names: []
 valence_ids:
 - 61
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: fe77526f-6a77-4772-8239-e19c3244f403

@@ -1,14 +1,14 @@
 ---
 id: 940
+generic: false
+generic_vaccine_id: 1195
 name: SPUTNIK-LIGHT
 description: COVID-19 vaccine with non-replicating viral vector, adenovirus encoding the peak protein of SARS-CoV-2
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1652863326
 updated_at: 1745576629
-generic_vaccine_id: 1195
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

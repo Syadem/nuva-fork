@@ -1,15 +1,15 @@
 ---
 id: 359
+generic: false
+generic_vaccine_id: 114
 name: RIMEVAX
 description: Live attenuated measles vaccine
 notes:
-generic: false
+created_at: 1626689125
+updated_at: 1666959921
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689125
-updated_at: 1666959921
-generic_vaccine_id: 114
 other_names:
 - RIMEVAX
 codes:

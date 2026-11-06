@@ -1,16 +1,16 @@
 ---
 id: 1545
+generic: true
 name: COVID-19 vaccine, Omicron variant LP.8.1, mRNA encoding the SARS-CoV-2 spike protein, 25 micrograms
 description: COVID-19 vaccine, Omicron variant LP.8.1, mRNA encoding the SARS-CoV-2 spike protein, 25 micrograms
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1790069710
 updated_at: 1790069710
+injection_methods: []
+other_names: []
 valence_ids:
 - 432
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: e054a0eb-eb1e-4a84-8dd0-453d627b0af8

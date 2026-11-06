@@ -1,14 +1,14 @@
 ---
 id: 763
+generic: false
+generic_vaccine_id: 1166
 name: mRNA-1273.351
 description: COVID-19 vaccine, mRNA encoding the SARS-CoV-2 variant B.1.351 spike protein, ongoing clinical trial (encapsulated in a lipid nanoparticle)
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689130
 updated_at: 1689856546
-generic_vaccine_id: 1166
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

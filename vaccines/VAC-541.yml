@@ -1,15 +1,15 @@
 ---
 id: 541
+generic: false
+generic_vaccine_id: 610
 name: BOOSTRIX
 description: Diphtheria toxoid (low dose), tetanus toxoid and pertussis (multicomponent acellular, low dose) vaccine
 notes:
-generic: false
+created_at: 1626689121
+updated_at: 1749025833
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689121
-updated_at: 1749025833
-generic_vaccine_id: 610
 other_names:
 - boostrix
 codes:

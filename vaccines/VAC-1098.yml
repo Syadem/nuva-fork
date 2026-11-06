@@ -1,14 +1,14 @@
 ---
 id: 1098
+generic: false
+generic_vaccine_id: 925
 name: XANAFLU
 description: Trivalent inactivated influenza vaccine
 notes: https://www.gov.mb.ca/health/publichealth/cdc/docs/hcp/2014/012714.pdf
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1715852759
 updated_at: 1715852759
-generic_vaccine_id: 925
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

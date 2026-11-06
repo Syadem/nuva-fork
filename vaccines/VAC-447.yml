@@ -1,13 +1,13 @@
 ---
 id: 447
+generic: false
+generic_vaccine_id: 1165
 name: VDA VACCIN DIFTERIC ADSORBIT
 description: Diphtheria toxoid (standard dose) pediatric vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689125
 updated_at: 1666959923
-generic_vaccine_id: 1165
+injection_methods: []
 other_names:
 - VDAVACCINDIFTERICADSORBIT
 codes:

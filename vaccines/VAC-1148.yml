@@ -1,16 +1,16 @@
 ---
 id: 1148
+generic: true
 name: Haemophilus influenzae type b vaccine, unconjugated polysaccharide, unspecified
 description: Haemophilus influenzae type b vaccine, unconjugated polysaccharide, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717593380
 updated_at: 1720082782
+injection_methods: []
+other_names: []
 valence_ids:
 - 49
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: e2c4fbef-4b1f-4dae-85ca-0ee4a37578b3

@@ -1,16 +1,16 @@
 ---
 id: 1202
+generic: true
 name: COVID-19 vaccine with live attenuated virus, unspecified
 description: Anti-covid 19 vaccine with live attenuated virus, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717598618
 updated_at: 1743118672
+injection_methods: []
+other_names: []
 valence_ids:
 - 86
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: ec389f95-0b32-414d-9a34-1a96ebce9fb5

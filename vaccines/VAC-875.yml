@@ -1,13 +1,13 @@
 ---
 id: 875
+generic: false
+generic_vaccine_id: 84
 name: PANDEMIC INFLUENZA VACCINE H5N1 ASTRAZENECA
 description: Pre-pandemic influenza A(H5N1) vaccine, live attenuated, nasal
 notes:
-generic: false
-injection_methods: []
 created_at: 1648262371
 updated_at: 1713865802
-generic_vaccine_id: 84
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,13 +1,13 @@
 ---
 id: 850
+generic: false
+generic_vaccine_id: 1184
 name: NEISVAC-C
 description: Meningococcal conjugate vaccine, serogroup C (conjugated to tetanus toxoid)
 notes:
-generic: false
-injection_methods: []
 created_at: 1646316997
 updated_at: 1761147220
-generic_vaccine_id: 1184
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

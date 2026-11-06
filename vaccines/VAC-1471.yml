@@ -1,16 +1,16 @@
 ---
 id: 1471
+generic: true
 name: COVID-19 mRNA vaccine, subvariant Omicron LP.8.1, 30 micrograms, adult (+ 12 years)
 description: COVID-19 mRNA vaccine, subvariant Omicron LP.8.1, 30 micrograms, adult (+ 12 years)
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1757602422
 updated_at: 1757603289
+injection_methods: []
+other_names: []
 valence_ids:
 - 424
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 7ee5dbe1-d4f8-4bb5-98f9-afe61a882b5a

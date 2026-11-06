@@ -1,19 +1,19 @@
 ---
 id: 1248
+generic: true
 name: Influenza/Covid 19 mRNA vaccine, unspecified
 description: Combined influenza and Covid 19 mRNA vaccine, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1721031064
 updated_at: 1740758676
-valence_ids:
-- 168
-- 366
+injection_methods: []
 other_names:
 - covid19influenza
 - influenzacovid19
+valence_ids:
+- 168
+- 366
 codes:
 - nomenclature: SYADEM
   code: d255c06a-b764-409f-a62d-532a8bff930e

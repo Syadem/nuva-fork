@@ -1,18 +1,18 @@
 ---
 id: 881
+generic: true
 name: Japanese Encephalitis live attenuated vaccine, unspecified
 description: Live attenuated Japanese encephalitis vaccine, strain and production platform not specified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1648591210
 updated_at: 1788945450
-valence_ids:
-- 248
+injection_methods: []
 other_names:
 - vva-encéphalite japonaise
 - liveattenuated-japanese-encephalitis
+valence_ids:
+- 248
 codes:
 - nomenclature: SYADEM
   code: b82c5e75-5fd4-4eb1-9fe0-9b77f8ca490e

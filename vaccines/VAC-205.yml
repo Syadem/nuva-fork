@@ -1,15 +1,15 @@
 ---
 id: 205
+generic: false
+generic_vaccine_id: 146
 name: CD.JEVAX
 description: Live attenuated Japanese encephalitis vaccine, prepared in primary hamster kidney cell (PHK) culture from the SA 14-14-2 strain
 notes: "Un vaccin vivant atténué, préparé sur culture primaire de cellules rénales de hamster (PHK), à partir de la souche SA 14-14-2 du VEJ, a été homologué et fait l’objet d’une large utilisation en Chine depuis 1988 (CD.JEVAX®)\r
 
   https://www.who.int/immunization/sage/meetings/2014/october/2_Barrett_JE_SAGE_Oct2014.pdf"
-generic: false
-injection_methods: []
 created_at: 1626689122
 updated_at: 1744903839
-generic_vaccine_id: 146
+injection_methods: []
 other_names:
 - CDJEVAX
 codes:

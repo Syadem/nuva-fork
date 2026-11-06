@@ -1,13 +1,13 @@
 ---
 id: 951
+generic: false
+generic_vaccine_id: 320
 name: IMOVAX POLIO ORALE
 description: Polio vaccine (live attenuated, trivalent) against polioviruses 1, 2 and 3, oral
 notes:
-generic: false
-injection_methods: []
 created_at: 1653490662
 updated_at: 1713343864
-generic_vaccine_id: 320
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

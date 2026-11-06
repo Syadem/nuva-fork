@@ -1,14 +1,14 @@
 ---
 id: 1517
+generic: false
+generic_vaccine_id: 1438
 name: AUJEMFLU
 description: Influenza vaccine, trivalent, inactivated, obtained from egg culture, fractionated or subunit, adjuvanted
 notes: https://www.ema.europa.eu/en/medicines/human/EPAR/aujemflu
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1785859187
 updated_at: 1791796209
-generic_vaccine_id: 1438
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

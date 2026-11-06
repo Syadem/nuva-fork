@@ -1,5 +1,7 @@
 ---
 id: 471
+generic: false
+generic_vaccine_id: 915
 name: HEPAVAX-GENE B 20 µg
 description: Recombinant hepatitis B vaccine, adult dose
 notes: "Flacon ou seringue préremplie.\r
@@ -7,12 +9,10 @@ notes: "Flacon ou seringue préremplie.\r
   \r
 
   https://www.mfds.go.kr/eng/brd/m_30/view.do?seq=70955&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689128
 updated_at: 1743693924
-generic_vaccine_id: 915
+injection_methods:
+- intramuscular
 other_names:
 - HEPAVAXGENE
 codes:

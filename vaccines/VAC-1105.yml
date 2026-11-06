@@ -1,13 +1,13 @@
 ---
 id: 1105
+generic: false
+generic_vaccine_id: 909
 name: BAT EMERGENT BIOSOLUTIONS
 description: Botulism Antitoxin Heptavalent (A, B, C, D, E, F, G) equine
 notes: https://www.emergentbiosolutions.com/wp-content/uploads/2022/01/BAT-Canada-Monograph-English.pdf
-generic: false
-injection_methods: []
 created_at: 1716278415
 updated_at: 1716278415
-generic_vaccine_id: 909
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,14 +1,14 @@
 ---
 id: 293
+generic: false
+generic_vaccine_id: 1218
 name: MENAFRIVAC
 description: Meningococcal conjugate vaccine, serogroup A (conjugated to tetanus toxoid)
 notes: https://www.seruminstitute.com/product_poly_meningococcal.php
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689124
 updated_at: 1741874826
-generic_vaccine_id: 1218
+injection_methods:
+- intramuscular
 other_names:
 - MENAFRIVAC
 codes:

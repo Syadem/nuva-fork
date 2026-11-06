@@ -1,13 +1,13 @@
 ---
 id: 885
+generic: false
+generic_vaccine_id: 925
 name: INFLUPOZZI ZONALE
 description: Trivalent inactivated seasonal influenza vaccine, egg-based, surface antigen
 notes: Il est commercialisé en Italie par Istituto Vaccinogeno Pozzi Srl - il deviendra Novartis Vaccines and Diagnostics
-generic: false
-injection_methods: []
 created_at: 1649077458
 updated_at: 1713792054
-generic_vaccine_id: 925
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

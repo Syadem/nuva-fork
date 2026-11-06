@@ -1,13 +1,13 @@
 ---
 id: 374
+generic: false
+generic_vaccine_id: 925
 name: SANDOVAC
 description: Seasonal influenza  trivalent inactivated vaccine, obtained from egg culture
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689125
 updated_at: 1791917217
-generic_vaccine_id: 925
+injection_methods: []
 other_names:
 - SANDOVAC
 codes:

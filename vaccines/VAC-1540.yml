@@ -1,17 +1,17 @@
 ---
 id: 1540
+generic: true
 name: Typhoid and tetanus vaccine, injectable suspension
 description: Typhoid and tetanus vaccine, injectable suspension
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1789032596
 updated_at: 1789032596
+injection_methods: []
+other_names: []
 valence_ids:
 - 14
 - 67
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: fdf54b55-d1ae-4012-a6d6-543f2f79ca95

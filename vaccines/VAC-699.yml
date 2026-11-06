@@ -1,14 +1,14 @@
 ---
 id: 699
+generic: false
+generic_vaccine_id: 1190
 name: IIBR's RECOMBINANT VSV-DeltaG-spike VACCINE
 description: COVID-19 vaccine, replicating vesicular stomatitis virus vector encoding the SARS-CoV-2 spike protein
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689127
 updated_at: 1744363697
-generic_vaccine_id: 1190
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

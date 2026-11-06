@@ -1,23 +1,23 @@
 ---
 id: 88
+generic: true
 name: DTIPV vaccine, unspecified
 description: Diphtheria toxoid (standard dose), tetanus toxoid and inactivated polio (trivalent) pediatric vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689123
 updated_at: 1741009721
-valence_ids:
-- 56
-- 67
-- 97
+injection_methods: []
 other_names:
 - DTP
 - DTPoliomyelite
 - DtpPasteur
 - dtpolio
 - D.T.P.
+valence_ids:
+- 56
+- 67
+- 97
 codes:
 - nomenclature: SYADEM
   code: d51d40bc-3646-4dc3-8cb9-e810ce2e1029

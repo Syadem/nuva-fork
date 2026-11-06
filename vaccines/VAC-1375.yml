@@ -1,14 +1,14 @@
 ---
 id: 1375
+generic: false
+generic_vaccine_id: 502
 name: TWINRAB
 description: Rabies immunoglobulin, unspecified
 notes: https://www.zyduslife.com/research.html
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1744018997
 updated_at: 1744018997
-generic_vaccine_id: 502
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

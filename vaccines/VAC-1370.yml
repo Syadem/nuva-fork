@@ -1,16 +1,16 @@
 ---
 id: 1370
+generic: false
+generic_vaccine_id: 1111
 name: JENVAC
 description: Whole inactivated Japanese encephalitis vaccine, prepared in Vero cells
 notes: "https://www.bharatbiotech.com/jenvac.html\r
 
   https://www.bharatbiotech.com/images/jenvac/Jenvac_ppi.pdf"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1743779852
 updated_at: 1743779852
-generic_vaccine_id: 1111
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

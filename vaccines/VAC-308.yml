@@ -1,13 +1,13 @@
 ---
 id: 308
+generic: false
+generic_vaccine_id: 862
 name: MORUMAN BERNA PRODUCTS
 description: Measles immunoglobulin
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689121
 updated_at: 1745930397
-generic_vaccine_id: 862
+injection_methods: []
 other_names:
 - MORUMANBERNAPRODUCTSNA
 codes:

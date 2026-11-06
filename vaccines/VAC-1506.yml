@@ -1,14 +1,14 @@
 ---
 id: 1506
+generic: false
+generic_vaccine_id: 1553
 name: STROVAC
 description: Urinary tract infections vaccine, Escherichia coli, Klebsiella pneumoniæ, Enterococcus fæcalis, Morganella morganii, Proteus mirabilis
 notes: https://www.fachinfo.de/fi/detail/021332?
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1773153166
 updated_at: 1790154868
-generic_vaccine_id: 1553
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

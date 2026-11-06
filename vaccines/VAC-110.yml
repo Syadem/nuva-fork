@@ -1,19 +1,19 @@
 ---
 id: 110
+generic: true
 name: Influenza vaccine, unspecified
 description: Seasonal influenza vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689122
 updated_at: 1739265266
-valence_ids:
-- 128
+injection_methods: []
 other_names:
 - grippe
 - grippal
 - gripe
+valence_ids:
+- 128
 codes:
 - nomenclature: SYADEM
   code: 9ddde196-017f-42db-a545-0d52f1f2e499

@@ -1,13 +1,13 @@
 ---
 id: 220
+generic: false
+generic_vaccine_id: 137
 name: DT MERIEUX
 description: Diphtheria toxoid (standard dose) and tetanus toxoid pediatric vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689130
 updated_at: 1666959919
-generic_vaccine_id: 137
+injection_methods: []
 other_names:
 - DT
 codes:

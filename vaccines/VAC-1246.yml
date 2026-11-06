@@ -1,5 +1,7 @@
 ---
 id: 1246
+generic: false
+generic_vaccine_id: 1248
 name: MCOMBRIAX
 description: Combined influenza/Covid 19 mRNA vaccine in clinical trial
 notes: "https://investors.modernatx.com/news/news-details/2024/Moderna-Announces-Positive-Phase-3-Data-for-Combination-Vaccine-Against-Influenza-and-COVID-19-/default.aspx\r
@@ -7,11 +9,9 @@ notes: "https://investors.modernatx.com/news/news-details/2024/Moderna-Announces
   \r
 
   https://www.ema.europa.eu/en/news/first-combined-covid-19-influenza-vaccine-people-50-years-older"
-generic: false
-injection_methods: []
 created_at: 1720429398
 updated_at: 1772555332
-generic_vaccine_id: 1248
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,15 +1,15 @@
 ---
 id: 1100
+generic: false
+generic_vaccine_id: 909
 name: BOTULISM ANTITOXIN BEHRING
 description: Equine botulinum antitoxin types A, B and E
 notes: "https://www.bcbdexther.fr/BcbDextherWeb/monographie/get?idProduit=77372&p=rO0ABXNyACBmci5yZXNpcC5zZXJ2aWNlcy5vYmplY3RzLktFWVVybAAAAAAAMJXBAgAESQAJaWRQcm9kdWl0SQAEbW9kZUwAAmNldAASTGphdmEvbGFuZy9TdHJpbmc7TAACc2VxAH4AAXhwAAEuPAAAAAJ0ABNSRVNJUC1MRS1DT05TRUlMTEVSdAAXODEyNDQyNzI4MTM3Mjg3MTE5ODk4ODg=\r
 
   https://emed.ie/_docs/ID-Botulism-Antitoxin-Cliona-Kiersey-HSE-Nov-2008.pdf"
-generic: false
-injection_methods: []
 created_at: 1715930913
 updated_at: 1715930913
-generic_vaccine_id: 909
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

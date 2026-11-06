@@ -1,16 +1,16 @@
 ---
 id: 1185
+generic: true
 name: COVID-19 vaccine with non-replicating viral vector, adenovirus 26 encoding the spike protein of SARS-CoV-2, unspecified
 description: Anti-covid 19 vaccine with non-replicating viral vector, adenovirus 26 encoding the spike protein of SARS-CoV-2, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717597499
 updated_at: 1743118741
+injection_methods: []
+other_names: []
 valence_ids:
 - 27
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 2f0835a7-6098-4acf-b178-36353b9b5b63

@@ -1,14 +1,14 @@
 ---
 id: 115
+generic: false
+generic_vaccine_id: 911
 name: AVAXIM 80 U
 description: Inactivated hepatitis A vaccine, pediatric dose
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689123
 updated_at: 1758811208
-generic_vaccine_id: 911
+injection_methods:
+- intramuscular
 other_names:
 - avaxim80U
 - hepatiteA

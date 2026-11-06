@@ -1,5 +1,7 @@
 ---
 id: 594
+generic: false
+generic_vaccine_id: 1182
 name: MenQuadfi
 description: Quadrivalent meningococcal polysaccharide conjugate vaccine, serogroups A, C, W and Y (conjugated to tetanus toxoid)
 notes: "Ex code DataMatrix :\r
@@ -27,12 +29,10 @@ notes: "Ex code DataMatrix :\r
   IIS CVX CDC : 49281-0590-05\tMenQuadfi\tSanofi Pasteur Inc.\t4/23/2020\t\t00349281590054 (sale GTIN)\t1/31/2022\t49281-0590-58\tFalse\t00349281590580 (Use GTIN)\t1/31/2022\r
 
   https://www2a.cdc.gov/vaccines/iis/iisstandards/vaccines.asp?rpt=ndc\r\n"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689121
 updated_at: 1758816044
-generic_vaccine_id: 1182
+injection_methods:
+- intramuscular
 other_names:
 - menquadtt
 - Men Quad TT

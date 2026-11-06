@@ -1,15 +1,15 @@
 ---
 id: 41
+generic: false
+generic_vaccine_id: 713
 name: TYPHIM VI
 description: Polysaccharide typhoid vaccine (Vi capsular antigen)
 notes:
-generic: false
+created_at: 1626689129
+updated_at: 1758795363
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689129
-updated_at: 1758795363
-generic_vaccine_id: 713
 other_names:
 - TYPHIM VI
 - TYPHIM

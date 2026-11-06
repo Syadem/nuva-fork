@@ -1,16 +1,16 @@
 ---
 id: 937
+generic: true
 name: Botulism vaccine, unspecified
 description: Botulism vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1652716314
 updated_at: 1713359601
+injection_methods: []
+other_names: []
 valence_ids:
 - 280
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: b2669f8e-7d9e-42ce-b211-9591f06f75b6

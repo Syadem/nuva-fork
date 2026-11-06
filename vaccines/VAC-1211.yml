@@ -1,16 +1,16 @@
 ---
 id: 1211
+generic: true
 name: Meningococcal C polysaccharide vaccine conjugated to CRM197 protein, unspecified
 description: Meningococcal C vaccine, polysaccharide conjugated to CRM197 protein
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717599185
 updated_at: 1717665088
+injection_methods: []
+other_names: []
 valence_ids:
 - 268
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: b8f4a441-f5b7-46bc-9973-08944891cf53

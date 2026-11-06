@@ -1,14 +1,14 @@
 ---
 id: 707
+generic: false
+generic_vaccine_id: 1124
 name: Coronavirus SARS-CoV-2 inactivé
 description: COVID-19 vaccine, whole virion inactivated (Vero cell culture)
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689122
 updated_at: 1717515160
-generic_vaccine_id: 1124
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

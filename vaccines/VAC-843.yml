@@ -1,14 +1,14 @@
 ---
 id: 843
+generic: false
+generic_vaccine_id: 1116
 name: NOVIRAB
 description: Whole virion inactivated rabies vaccine, WISTAR PM/WI 38-1503-3M strain, cultured on Vero cells, inactivated with ß-propiolactone
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1645855838
 updated_at: 1758874739
-generic_vaccine_id: 1116
+injection_methods:
+- intramuscular
 other_names:
 - novirab
 - novirabe

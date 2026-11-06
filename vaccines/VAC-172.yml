@@ -1,13 +1,13 @@
 ---
 id: 172
+generic: false
+generic_vaccine_id: 137
 name: DIFTAVAX
 description: Diphtheria toxoid (standard dose) and tetanus toxoid pediatric vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689123
 updated_at: 1758813307
-generic_vaccine_id: 137
+injection_methods: []
 other_names:
 - DIFTAVAX
 codes:

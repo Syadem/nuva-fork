@@ -1,14 +1,14 @@
 ---
 id: 188
+generic: false
+generic_vaccine_id: 345
 name: QUIMI-HIB
 description: Haemophilus influenzae type b vaccine, capsular polysaccharide (polyribosylribitol phosphate, PRP) conjugated to tetanus toxoid
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689130
 updated_at: 1666959919
-generic_vaccine_id: 345
+injection_methods:
+- intramuscular
 other_names:
 - AMC
 - hib

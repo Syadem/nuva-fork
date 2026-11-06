@@ -1,13 +1,13 @@
 ---
 id: 986
+generic: false
+generic_vaccine_id: 132
 name: H ATETAL ISI
 description: Tetanus toxoid vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1655715378
 updated_at: 1713189405
-generic_vaccine_id: 132
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,14 +1,14 @@
 ---
 id: 1295
+generic: false
+generic_vaccine_id: 137
 name: DT BIO FARMA
 description: Paediatric diphtheria vaccine (toxoid, standard dose) and tetanus vaccine (toxoid)
 notes: https://www.biofarma.co.id/id/our-product/detail/vaksin-jerap-dt
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1741174063
 updated_at: 1741174063
-generic_vaccine_id: 137
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

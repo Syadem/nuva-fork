@@ -1,16 +1,16 @@
 ---
 id: 1501
+generic: false
+generic_vaccine_id: 1545
 name: SPIKEVAX LP.8.1 25 µg
 description: COVID-19 mRNA vaccine, subvariant Omicron LP.8.1, 25 micrograms
 notes: "https://www.ema.europa.eu/en/medicines/human/EPAR/spikevax\r
 
   https://www.ema.europa.eu/en/documents/product-information/spikevax-epar-product-information_en.pdf"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1768928073
 updated_at: 1768928073
-generic_vaccine_id: 1545
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

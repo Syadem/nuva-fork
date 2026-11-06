@@ -1,13 +1,13 @@
 ---
 id: 473
+generic: false
+generic_vaccine_id: 84
 name: PRE-PANDEMIC INFLUENZA VACCINE H5N1
 description: Influenza A(H5N1) vaccine (split, adjuvanted)
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689123
 updated_at: 1692135470
-generic_vaccine_id: 84
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,16 +1,16 @@
 ---
 id: 1129
+generic: true
 name: COVID-19 protein subunit vaccine, recombinant spike protein in nanoparticles, unspecified
 description: Anti-covid 19 protein subunit vaccine, recombinant spike protein in nanoparticles, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717591146
 updated_at: 1743118998
+injection_methods: []
+other_names: []
 valence_ids:
 - 107
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 22f2d4a8-a6cc-4188-8efd-344ab994cb7a

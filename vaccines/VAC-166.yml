@@ -1,15 +1,15 @@
 ---
 id: 166
+generic: false
+generic_vaccine_id: 910
 name: VAQTA 50 U
 description: Inactivated hepatitis A vaccine, adult dose
 notes:
-generic: false
+created_at: 1626689122
+updated_at: 1744312896
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689122
-updated_at: 1744312896
-generic_vaccine_id: 910
 other_names:
 - vaqtaAdultes
 - hepatiteA

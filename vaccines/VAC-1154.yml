@@ -1,16 +1,16 @@
 ---
 id: 1154
+generic: true
 name: Mumps whole inactivated vaccine, unspecified
 description: Whole inactivated mumps vaccine, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717593765
 updated_at: 1788942602
+injection_methods: []
+other_names: []
 valence_ids:
 - 48
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 3ab1a533-fc2e-41d2-9614-da02576e0e43

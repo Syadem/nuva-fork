@@ -1,13 +1,13 @@
 ---
 id: 196
+generic: false
+generic_vaccine_id: 829
 name: BIAVAX
 description: Live attenuated rubella and mumps vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689124
 updated_at: 1666959919
-generic_vaccine_id: 829
+injection_methods: []
 other_names:
 - BIAVAX
 codes:

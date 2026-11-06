@@ -1,16 +1,16 @@
 ---
 id: 1499
+generic: false
+generic_vaccine_id: 1143
 name: SPUTNIK-M
 description: COVID-19 vaccine, non-replicating viral vector, adenovirus 6 encoding the SARS-CoV-2 spike protein, intended for adolescents
 notes: "https://sputnikvaccine.com/newsroom/pressreleases/kazakhstan-becomes-the-first-country-outside-russia-to-authorize-sputnik-m-vaccine-for-adolescents-/\r
 
   Sputnik M : Version pédiatrique du Sputnik V, il est adapté pour les 12-17 ans. La composition et la technologie restent similaires, mais la dose et éventuellement certains composants peuvent être ajustés pour correspondre au système immunitaire des adolescents. Comme pour le Sputnik V, il repose sur la technologie des adénovirus recombinants, mais avec des adaptations spécifiques à cette tranche d’âge."
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1768917332
 updated_at: 1769253297
-generic_vaccine_id: 1143
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

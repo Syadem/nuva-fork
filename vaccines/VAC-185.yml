@@ -1,13 +1,13 @@
 ---
 id: 185
+generic: false
+generic_vaccine_id: 137
 name: ALDITEANA
 description: Diphtheria toxoid (standard dose) and tetanus toxoid pediatric vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689123
 updated_at: 1666959919
-generic_vaccine_id: 137
+injection_methods: []
 other_names:
 - ALDITEANA
 codes:

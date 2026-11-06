@@ -1,13 +1,13 @@
 ---
 id: 193
+generic: false
+generic_vaccine_id: 1279
 name: AVAC-1, AVA
 description: Adsorbed acellular anthrax vaccine with adjuvant
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689123
 updated_at: 1744382447
-generic_vaccine_id: 1279
+injection_methods: []
 other_names:
 - Biothrax
 codes:

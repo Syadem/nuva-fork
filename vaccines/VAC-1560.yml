@@ -1,14 +1,14 @@
 ---
 id: 1560
+generic: false
+generic_vaccine_id: 914
 name: RECOMBIVAX HB ADULT
 description: Recombinant hepatitis B vaccine, adult dose
 notes: https://www.merck.ca/fr/wp-content/uploads/sites/83/2021/07/RECOMBIVAX_HB-CI_F.pdf
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1792412854
 updated_at: 1792412854
-generic_vaccine_id: 914
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

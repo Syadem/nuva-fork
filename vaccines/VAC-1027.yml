@@ -1,14 +1,14 @@
 ---
 id: 1027
+generic: false
+generic_vaccine_id: 1044
 name: COVIVAC CHUMAKOV COVID-19 VACCINE
 description: "COVID-19 vaccine, whole virion inactivated; other name: Kovivac"
 notes: "NCT05046548\r\nNCT05407142\r\n"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1665502524
 updated_at: 1745575864
-generic_vaccine_id: 1044
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

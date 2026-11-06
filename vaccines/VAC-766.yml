@@ -1,14 +1,14 @@
 ---
 id: 766
+generic: false
+generic_vaccine_id: 1166
 name: HDT-301
 description: COVID-19 vaccine, mRNA encoding the SARS-CoV-2 spike protein, ongoing clinical trial (encapsulated in a lipid nanoparticle)
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689124
 updated_at: 1689856608
-generic_vaccine_id: 1166
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,15 +1,15 @@
 ---
 id: 10
+generic: false
+generic_vaccine_id: 916
 name: HBVAXPRO 40 µg
 description: Recombinant hepatitis B vaccine, dialysis patient dosage
 notes:
-generic: false
+created_at: 1626689129
+updated_at: 1785769125
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689129
-updated_at: 1785769125
-generic_vaccine_id: 916
 other_names:
 - HBVAXPRO40µg
 - HBVAXPRO40mg

@@ -1,14 +1,14 @@
 ---
 id: 836
+generic: false
+generic_vaccine_id: 938
 name: FLUAD TETRA
 description: Quadrivalent inactivated seasonal influenza vaccine with surface antigens
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1642775469
 updated_at: 1758874659
-generic_vaccine_id: 938
+injection_methods:
+- intramuscular
 other_names:
 - fluad
 - fluad4

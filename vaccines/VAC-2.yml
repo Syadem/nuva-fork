@@ -1,15 +1,15 @@
 ---
 id: 2
+generic: false
+generic_vaccine_id: 925
 name: AGRIPPAL
 description: Trivalent inactivated seasonal influenza vaccine, egg-based, surface antigen
 notes:
-generic: false
+created_at: 1626689121
+updated_at: 1767112419
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689121
-updated_at: 1767112419
-generic_vaccine_id: 925
 other_names:
 - AGRIPPAL
 - AGRIPAL

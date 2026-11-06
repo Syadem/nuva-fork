@@ -1,16 +1,16 @@
 ---
 id: 898
+generic: true
 name: Leishmaniasis vaccine, unspecified
 description: Leishmaniasis vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1649240724
 updated_at: 1713776040
+injection_methods: []
+other_names: []
 valence_ids:
 - 175
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 5b76c3a9-7a8e-47a4-af58-e453ca8fbc34

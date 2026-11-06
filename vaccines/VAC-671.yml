@@ -1,14 +1,14 @@
 ---
 id: 671
+generic: false
+generic_vaccine_id: 1113
 name: Clover-Spike-SCB-2019-Covid
 description: COVID-19 vaccine, protein subunit, recombinant spike protein
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689123
 updated_at: 1717511468
-generic_vaccine_id: 1113
+injection_methods:
+- intramuscular
 other_names:
 - covid19
 - Clover-Spike-SCB-2019-Covid

@@ -1,13 +1,13 @@
 ---
 id: 993
+generic: false
+generic_vaccine_id: 920
 name: TD ADSORBED
 description: Diphtheria toxoid (reduced dose) and tetanus toxoid vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1655733458
 updated_at: 1742065491
-generic_vaccine_id: 920
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

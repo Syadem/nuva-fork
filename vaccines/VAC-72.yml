@@ -1,14 +1,14 @@
 ---
 id: 72
+generic: false
+generic_vaccine_id: 1196
 name: JE-VAX
 description: "Whole virion inactivated Japanese encephalitis vaccine, mouse brain-derived, Nakayama strain - Other names: JEVAX, BIKEN"
 notes: N'est plus utilisé
-generic: false
-injection_methods:
-- subcutaneous
 created_at: 1626689125
 updated_at: 1758807064
-generic_vaccine_id: 1196
+injection_methods:
+- subcutaneous
 other_names:
 - JE-VAX
 - encephalite japonaise

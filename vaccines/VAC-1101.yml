@@ -1,15 +1,15 @@
 ---
 id: 1101
+generic: false
+generic_vaccine_id: 821
 name: DOTARICIN
 description: Inactivated influenza vaccine with MF59 adjuvant
 notes: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5085005/table/t0001/\r
 
   https://nomenclator.org/laboratorios/alentia-biotech-s-l.html"
-generic: false
-injection_methods: []
 created_at: 1716192624
 updated_at: 1716192746
-generic_vaccine_id: 821
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

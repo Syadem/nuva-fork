@@ -1,16 +1,16 @@
 ---
 id: 1201
+generic: true
 name: Dengue tetravalent vaccine, live attenuated chimeric recombinant based on 17D yellow fever vaccine, unspecified
 description: Dengue tetravalent vaccine, live attenuated chimeric recombinant based on 17D yellow fever vaccine, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717598514
 updated_at: 1788938090
+injection_methods: []
+other_names: []
 valence_ids:
 - 87
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 813f401f-ec67-4e9c-bf5d-27f351b6fc0f

@@ -1,19 +1,19 @@
 ---
 id: 1182
+generic: true
 name: Meningococcal ACWY polysaccharide vaccine conjugated to tetanus toxoid, unspecified
 description: Quadrivalent polysaccharide conjugate vaccine against meningococci serogroups A, C, W and Y (conjugated with tetanus toxoid)
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717597318
 updated_at: 1740736892
+injection_methods: []
+other_names: []
 valence_ids:
 - 266
 - 271
 - 272
 - 276
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: a07d5143-f440-4bd4-aee5-f8a4e80fb3bb

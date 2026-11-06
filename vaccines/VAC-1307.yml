@@ -1,14 +1,14 @@
 ---
 id: 1307
+generic: false
+generic_vaccine_id: 1427
 name: JEEV 6 µg
 description: Whole inactivated Japanese encephalitis vaccine, prepared in Vero cells, 6 micrograms
 notes: https://www.biologicale.com/pdf/Product_VB_Domestic_Marketing.pdf
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1741787250
 updated_at: 1741787250
-generic_vaccine_id: 1427
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

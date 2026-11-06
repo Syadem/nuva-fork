@@ -1,13 +1,13 @@
 ---
 id: 674
+generic: false
+generic_vaccine_id: 1187
 name: Pasteur-MSD Measles vector Covid
 description: COVID-19 vaccine, replicating measles virus vector encoding the SARS-CoV-2 spike protein
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689121
 updated_at: 1717511859
-generic_vaccine_id: 1187
+injection_methods: []
 other_names:
 - covid19
 - Pasteur-Measles-vector-Covid

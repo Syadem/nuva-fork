@@ -1,14 +1,14 @@
 ---
 id: 1309
+generic: false
+generic_vaccine_id: 852
 name: NOVEL ORAL (nOPV) TYPE 2 BIOLOGICAL E. LTD
 description: Polio vaccine (live attenuated, monovalent) against polioviruses type 2, oral
 notes:
-generic: false
-injection_methods:
-- oral
 created_at: 1741794306
 updated_at: 1744978669
-generic_vaccine_id: 852
+injection_methods:
+- oral
 other_names: []
 codes:
 - nomenclature: SYADEM

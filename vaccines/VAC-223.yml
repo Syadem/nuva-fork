@@ -1,15 +1,15 @@
 ---
 id: 223
+generic: false
+generic_vaccine_id: 137
 name: DUAL ANTIGEN SII
 description: Diphtheria toxoid (standard dose) and tetanus toxoid pediatric vaccine
 notes: "https://www.seruminstitute.com/product_ind_dualantigen.php\r
 
   https://www.seruminstitute.com/product_diphtheriatetanus_pediatric.php"
-generic: false
-injection_methods: []
 created_at: 1626689126
 updated_at: 1741949936
-generic_vaccine_id: 137
+injection_methods: []
 other_names:
 - DUALANTIGENSII
 codes:

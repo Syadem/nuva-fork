@@ -1,5 +1,7 @@
 ---
 id: 1505
+generic: false
+generic_vaccine_id: 1113
 name: SCTV01C
 description: COVID-19 protein subunit vaccine, recombinant protein
 notes: "https://www.sinocelltech.com/public/home/file/20250120/2023-Safety%20and%20immunogenicity%20of%20a%20tetravalent%20and%20bivalent%20SARS-CoV-2%20protein%20booster%20vaccine%20in%20men.pdf?\r
@@ -7,12 +9,10 @@ notes: "https://www.sinocelltech.com/public/home/file/20250120/2023-Safety%20and
   \r
 
   https://clinicaltrials.gov/study/NCT05308602"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1769695937
 updated_at: 1769695937
-generic_vaccine_id: 1113
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

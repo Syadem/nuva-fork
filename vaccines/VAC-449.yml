@@ -1,14 +1,14 @@
 ---
 id: 449
+generic: false
+generic_vaccine_id: 320
 name: VIRELON T 20
 description: Polio vaccine (live attenuated, trivalent) against polioviruses 1, 2 and 3, oral
 notes:
-generic: false
-injection_methods:
-- oral
 created_at: 1626689124
 updated_at: 1692135263
-generic_vaccine_id: 320
+injection_methods:
+- oral
 other_names:
 - VIRELONT20
 codes:

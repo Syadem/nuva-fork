@@ -1,16 +1,16 @@
 ---
 id: 1310
+generic: false
+generic_vaccine_id: 920
 name: SII TD-VAC
 description: Diphtheria vaccine (toxoid, reduced dose) and tetanus vaccine (toxoid)
 notes: "https://www.seruminstitute.com/product_ind_siitdvac.php\r
 
   https://www.seruminstitute.com/product_diphtheriatetanus_absorbed.php"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1741796879
 updated_at: 1742078511
-generic_vaccine_id: 920
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

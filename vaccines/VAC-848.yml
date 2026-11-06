@@ -1,14 +1,14 @@
 ---
 id: 848
+generic: false
+generic_vaccine_id: 134
 name: VACCIN BCG INSTITUT MERIEUX
 description: Tuberculosis vaccine
 notes:
-generic: false
-injection_methods:
-- intradermal
 created_at: 1645857654
 updated_at: 1713973868
-generic_vaccine_id: 134
+injection_methods:
+- intradermal
 other_names:
 - BCG
 - BCG mérieux

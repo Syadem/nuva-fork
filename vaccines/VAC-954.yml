@@ -1,13 +1,13 @@
 ---
 id: 954
+generic: false
+generic_vaccine_id: 1196
 name: JAPANESE ENCEPHALITIS VACCINE
 description: Whole inactivated Japanese encephalitis vaccine, prepared in murine brain tissue, Nakayama strain, injectable, Korean Green Cross Corporation vaccine
 notes: https://www.mfds.go.kr/eng/brd/m_30/view.do?seq=69829&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=3
-generic: false
-injection_methods: []
 created_at: 1653639754
 updated_at: 1743518018
-generic_vaccine_id: 1196
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

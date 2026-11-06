@@ -1,17 +1,17 @@
 ---
 id: 503
+generic: true
 name: Rabies immunoglobulin equine origin, unspecified
 description: Rabies immunoglobulin, equine origin
-notes:
-generic: true
 immunoglobulin: true
-injection_methods: []
+notes:
 created_at: 1626689121
 updated_at: 1720095837
-valence_ids:
-- 253
+injection_methods: []
 other_names:
 - IMMUNOGLOBULINESANTIRABIQUESORIGINEEQUINE
+valence_ids:
+- 253
 codes:
 - nomenclature: SYADEM
   code: fe4a7b73-e7c6-4dde-a20f-e6316d2c2a92

@@ -1,14 +1,14 @@
 ---
 id: 1296
+generic: false
+generic_vaccine_id: 136
 name: DTP BIO FARMA
 description: Paediatric diphtheria vaccine (toxoid, standard dose), tetanus vaccine (toxoid) and pertussis vaccine (whole inactivated)
 notes: https://www.biofarma.co.id/id/our-product/detail/vaksin-dtp
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1741189123
 updated_at: 1741189508
-generic_vaccine_id: 136
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

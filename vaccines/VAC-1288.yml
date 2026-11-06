@@ -1,15 +1,15 @@
 ---
 id: 1288
+generic: false
+generic_vaccine_id: 270
 name: VAKSIN POLIOMYELITIS BIO FARMA
 description: Polio vaccine (whole inactivated, trivalent)
 notes: https://www.biofarma.co.id/id/our-product/detail/vaksin-poliomyelitis-inaktif
-generic: false
+created_at: 1741099485
+updated_at: 1741099485
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1741099485
-updated_at: 1741099485
-generic_vaccine_id: 270
 other_names: []
 codes:
 - nomenclature: SYADEM

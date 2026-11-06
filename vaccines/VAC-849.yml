@@ -1,16 +1,16 @@
 ---
 id: 849
+generic: true
 name: Tularemia vaccine, unspecified
 description: Tularemia vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1646305636
 updated_at: 1713973390
+injection_methods: []
+other_names: []
 valence_ids:
 - 151
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 18d6c893-202e-4153-90d8-3822a672e7f3

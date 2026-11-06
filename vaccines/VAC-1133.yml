@@ -1,19 +1,19 @@
 ---
 id: 1133
+generic: true
 name: Meningococcal ACWY polysaccharide conjugate vaccine, unspecified
 description: Quadrivalent meningococcal polysaccharide conjugate vaccine against serogroups A, C, W and Y (conjugated to CRM 197 protein)
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717591567
 updated_at: 1720083364
+injection_methods: []
+other_names: []
 valence_ids:
 - 268
 - 269
 - 274
 - 275
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: a55b1136-048c-4c92-b930-ea015f59d095

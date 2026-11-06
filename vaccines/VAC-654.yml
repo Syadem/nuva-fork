@@ -1,17 +1,14 @@
 ---
 id: 654
+generic: true
 name: Hepatitis A + Hepatitis B vaccine Adult, unspecified
 description: Combined hepatitis A and B vaccine, adult dose
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intramuscular
+notes:
 created_at: 1626689124
 updated_at: 1720088808
-valence_ids:
-- 115
-- 145
+injection_methods:
+- intramuscular
 other_names:
 - VaccinhépatiteA+hépatiteBAdulte
 - ha+hb
@@ -21,6 +18,9 @@ other_names:
 - ha-hb
 - vha-vhb
 - hépatitesAetB
+valence_ids:
+- 115
+- 145
 codes:
 - nomenclature: SYADEM
   code: d7dbdb1b-8b8f-4151-b1ac-317589759266

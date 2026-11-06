@@ -1,13 +1,13 @@
 ---
 id: 669
+generic: false
+generic_vaccine_id: 1166
 name: Arcturus-RNA-Covid
 description: COVID-19 vaccine, mRNA encoding the SARS-CoV-2 spike protein, ongoing clinical trial
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689125
 updated_at: 1717507391
-generic_vaccine_id: 1166
+injection_methods: []
 other_names:
 - covid19
 - arncovid19arcturus

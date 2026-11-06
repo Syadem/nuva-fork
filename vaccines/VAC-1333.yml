@@ -1,13 +1,13 @@
 ---
 id: 1333
+generic: false
+generic_vaccine_id: 1417
 name: COMIRNATY KP.2 10 µg CHILDREN (5-11 YEARS)
 description: COVID-19 mRNA vaccine, subvariant Omicron KP.2, 10 micrograms, paediatric dose (5-11 years)
 notes: https://www.ema.europa.eu/fr/documents/product-information/comirnaty-epar-product-information_fr.pdf
-generic: false
-injection_methods: []
 created_at: 1742913209
 updated_at: 1748966470
-generic_vaccine_id: 1417
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

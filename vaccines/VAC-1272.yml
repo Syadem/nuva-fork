@@ -1,14 +1,14 @@
 ---
 id: 1272
+generic: false
+generic_vaccine_id: 1415
 name: PSEUDOVAC
 description: Polyvalent vaccine against  pus bacterium Pseudomonas aeruginosa
 notes: https://biomed.pl/wp-content/uploads/2024/08/Pseudovac-leaflet.pdf
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1739961182
 updated_at: 1744625635
-generic_vaccine_id: 1415
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,14 +1,14 @@
 ---
 id: 664
+generic: false
+generic_vaccine_id: 1128
 name: GX-19-DNA-Covid
 description: COVID-19 plasmid DNA vaccine
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689121
 updated_at: 1684151428
-generic_vaccine_id: 1128
+injection_methods:
+- intramuscular
 other_names:
 - covid19
 - GX-19-DNA-Covid

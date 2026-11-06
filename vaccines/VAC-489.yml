@@ -1,13 +1,13 @@
 ---
 id: 489
+generic: false
+generic_vaccine_id: 130
 name: TRIMOVAX
 description: Live attenuated measles, mumps and rubella vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689125
 updated_at: 1692135944
-generic_vaccine_id: 130
+injection_methods: []
 other_names:
 - Trimovax
 - trimo-vax

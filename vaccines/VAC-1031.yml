@@ -1,14 +1,14 @@
 ---
 id: 1031
+generic: false
+generic_vaccine_id: 1039
 name: SPIKEVAX 50 µg MONODOSE MODERNA
 description: COVID-19 mRNA vaccine, original virus, 50 micrograms, pre-filled syringe
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1666986476
 updated_at: 1712916323
-generic_vaccine_id: 1039
+injection_methods:
+- intramuscular
 other_names:
 - SPIKEVAX 50 µg MONODOSE MODERNA
 - Spikevax 50 microgrammes dispersion pour injection

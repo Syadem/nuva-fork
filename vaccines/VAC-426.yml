@@ -1,13 +1,13 @@
 ---
 id: 426
+generic: false
+generic_vaccine_id: 817
 name: TYPHOID VACCINE WYETH
 description: Whole-cell inactivated typhoid vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689130
 updated_at: 1692135125
-generic_vaccine_id: 817
+injection_methods: []
 other_names:
 - TYPHOIDVACCINEY
 codes:

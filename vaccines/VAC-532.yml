@@ -1,14 +1,14 @@
 ---
 id: 532
+generic: false
+generic_vaccine_id: 132
 name: TETANUS VACCIN
 description: Tetanus toxoid vaccine, marketed in Holland by Bilthoven Biologicals
 notes: "https://www.bbio.nl/wat-wij-maken/productoverzicht/tetanus-vaccin/\r\n"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689127
 updated_at: 1685363238
-generic_vaccine_id: 132
+injection_methods:
+- intramuscular
 other_names:
 - TETANUSVACCINE
 codes:

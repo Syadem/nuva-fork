@@ -1,14 +1,14 @@
 ---
 id: 349
+generic: false
+generic_vaccine_id: 1151
 name: QUADRIGEN
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (whole-cell inactivated) and inactivated polio (trivalent) pediatric vaccine
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689123
 updated_at: 1698916290
-generic_vaccine_id: 1151
+injection_methods:
+- intramuscular
 other_names:
 - QUADRIGEN
 codes:

@@ -1,14 +1,14 @@
 ---
 id: 1297
+generic: false
+generic_vaccine_id: 132
 name: TT BIO FARMA
 description: Tetanus vaccine (toxoid)
 notes: https://www.biofarma.co.id/id/our-product/detail/vaksin-tt
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1741189664
 updated_at: 1741189664
-generic_vaccine_id: 132
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

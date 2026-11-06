@@ -1,14 +1,14 @@
 ---
 id: 1338
+generic: false
+generic_vaccine_id: 84
 name: ZOONOTIC
 description: Influenza A(H5N1) vaccine (fragmented virion, inactivated, adjuvanted)
 notes: https://www.ema.europa.eu/en/medicines/human/EPAR/zoonotic-influenza-vaccine-seqirus
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1743003825
 updated_at: 1743003825
-generic_vaccine_id: 84
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

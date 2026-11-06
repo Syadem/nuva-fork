@@ -1,16 +1,16 @@
 ---
 id: 905
+generic: true
 name: Rabies vaccine PHKCV, unspecified
 description: Whole virion rabies inactivated vaccine, cell culture-based, primary hamster kidney cell vaccine (PHKCV), Beijing strain, inactivated with formalin
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1650356006
 updated_at: 1713539031
+injection_methods: []
+other_names: []
 valence_ids:
 - 261
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 52726972-62c7-4117-b241-eff220e784cc

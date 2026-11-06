@@ -1,13 +1,13 @@
 ---
 id: 998
+generic: false
+generic_vaccine_id: 1177
 name: LC16
 description: Smallpox vaccine, third generation (cell cultured vaccinia virus)
 notes:
-generic: false
-injection_methods: []
 created_at: 1659021975
 updated_at: 1713176247
-generic_vaccine_id: 1177
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

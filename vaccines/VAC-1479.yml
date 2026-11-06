@@ -1,5 +1,7 @@
 ---
 id: 1479
+generic: false
+generic_vaccine_id: 1232
 name: VACPERTAGEN
 description: Pertussis vaccine (recombinant, acellular, reduced-dose, bivalent, adsorbed).
 notes: "https://www.ema.europa.eu/en/medicines/human/EPAR/vacpertagen#product-details\r
@@ -13,12 +15,10 @@ notes: "https://www.ema.europa.eu/en/medicines/human/EPAR/vacpertagen#product-de
   \r
 
   \r\n"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1763413013
 updated_at: 1779873344
-generic_vaccine_id: 1232
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

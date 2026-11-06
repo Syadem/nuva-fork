@@ -1,14 +1,14 @@
 ---
 id: 665
+generic: false
+generic_vaccine_id: 1119
 name: COVAXIN BHARAT BIOTECH COVID-19 VACCINE
 description: "COVID-19 vaccine, whole virion inactivated, adjuvated (adjuvant : TLR 7 and 8 agonist imidazoquinoline molecule adsorbed on aluminium hydroxide). Other names: BBV152, Bharat Inactivated Covid Vaccine"
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689121
 updated_at: 1684151486
-generic_vaccine_id: 1119
+injection_methods:
+- intramuscular
 other_names:
 - covid19bharat
 - covid-19

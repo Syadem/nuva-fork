@@ -1,13 +1,13 @@
 ---
 id: 356
+generic: false
+generic_vaccine_id: 1227
 name: RECOMBIVAX HB PEDIATRIC
 description: Hepatitis B vaccine, pediatric dose
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689124
 updated_at: 1792405563
-generic_vaccine_id: 1227
+injection_methods: []
 other_names:
 - RECOMBIVAXHB
 codes:

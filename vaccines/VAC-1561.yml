@@ -1,14 +1,14 @@
 ---
 id: 1561
+generic: false
+generic_vaccine_id: 914
 name: HEPA-B INJECTION PEDIATRIC
 description: Recombinant hepatitis B vaccine, paediatric dose
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1792487167
 updated_at: 1792487216
-generic_vaccine_id: 914
+injection_methods:
+- intramuscular
 other_names:
 - HEPABINJECTION
 codes:

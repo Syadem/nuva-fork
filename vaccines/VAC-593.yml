@@ -1,14 +1,14 @@
 ---
 id: 593
+generic: false
+generic_vaccine_id: 1116
 name: VERORAB
 description: Whole virion inactivated rabies vaccine, WISTAR PM/WI 38-1503-3M strain, cultured on Vero cells, inactivated with ß-propiolactone
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689121
 updated_at: 1785772048
-generic_vaccine_id: 1116
+injection_methods:
+- intramuscular
 other_names:
 - VERORAB
 codes:

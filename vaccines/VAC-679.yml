@@ -1,14 +1,14 @@
 ---
 id: 679
+generic: false
+generic_vaccine_id: 1144
 name: MEDIGEN-S-2P-CpH1018-COVID
 description: COVID-19 vaccine, protein subunit, recombinant spike protein, S-2P and CpG1018
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689125
 updated_at: 1743407830
-generic_vaccine_id: 1144
+injection_methods:
+- intramuscular
 other_names:
 - MedigenS2PCpH1018Covid
 - covid19

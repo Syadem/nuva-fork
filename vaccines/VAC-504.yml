@@ -1,14 +1,14 @@
 ---
 id: 504
+generic: false
+generic_vaccine_id: 1115
 name: INFANRIX Polio HIB Nourrissons
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose), Haemophilus influenzae type b (conjugated to tetanus toxoid) and inactivated polio (trivalent) pediatric vaccine, adsorbed
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689130
 updated_at: 1717579430
-generic_vaccine_id: 1115
+injection_methods:
+- intramuscular
 other_names:
 - infanrixpoliohib
 - infanrixhibpolio

@@ -1,13 +1,13 @@
 ---
 id: 511
+generic: false
+generic_vaccine_id: 859
 name: SILGARD
 description: Human Papillomavirus vaccine, based on VLP (Virus Like Particles), nonavalent (types 6, 11, 16, and 18), recombinant, adsorbed
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689125
 updated_at: 1666959924
-generic_vaccine_id: 859
+injection_methods: []
 other_names:
 - GARDASIL
 - HPV

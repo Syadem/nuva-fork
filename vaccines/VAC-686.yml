@@ -1,13 +1,13 @@
 ---
 id: 686
+generic: false
+generic_vaccine_id: 1043
 name: MULTI-PEPTIDE-pVAC-COVID
 description: COVID-19 vaccine, protein subunit, recombinant spike protein, adapted to human major histocompatibility complex II molecules
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689126
 updated_at: 1743408160
-generic_vaccine_id: 1043
+injection_methods: []
 other_names:
 - Multi-peptide-pVAC-covid
 codes:

@@ -1,17 +1,17 @@
 ---
 id: 1162
+generic: true
 name: COVID-19 mRNA vaccine, bivalent, original virus and Omicron BA.1 variant, 15 micrograms, unspecified
 description: COVID-19 mRNA vaccine, bivalent, original virus and Omicron BA.1 variant, 15 micrograms, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717594249
 updated_at: 1745594301
+injection_methods: []
+other_names: []
 valence_ids:
 - 304
 - 305
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 2f19b015-6879-4838-8aab-67c1e66c3f20

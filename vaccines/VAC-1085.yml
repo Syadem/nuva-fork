@@ -1,13 +1,13 @@
 ---
 id: 1085
+generic: false
+generic_vaccine_id: 134
 name: MYCOBAX
 description: Live, attenuated tuberculosis vaccine
 notes: https://violinet.org/vaxquery/vaccine_detail.php?c_vaccine_id=315&keywords=mycobax
-generic: false
-injection_methods: []
 created_at: 1715762978
 updated_at: 1715762978
-generic_vaccine_id: 134
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

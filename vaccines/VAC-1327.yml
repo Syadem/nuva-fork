@@ -1,14 +1,14 @@
 ---
 id: 1327
+generic: false
+generic_vaccine_id: 101
 name: HEPATITIS B SII
 description: Recombinant hepatitis B vaccine without thiomersal, adult and paediatric dose
 notes: https://www.seruminstitute.com/product_recombinant2.php
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1741948196
 updated_at: 1741949472
-generic_vaccine_id: 101
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

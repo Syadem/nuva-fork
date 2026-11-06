@@ -1,16 +1,16 @@
 ---
 id: 1116
+generic: true
 name: Rabies vaccine, whole inactivated, prepared in Vero cell culture, unspecified
 description: Whole inactivated rabies vaccine, prepared in Vero cell culture (PVRV), Wistar strain, inactivation by ß-propiolactone
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717590025
 updated_at: 1717677930
+injection_methods: []
+other_names: []
 valence_ids:
 - 260
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: d0a363aa-668b-4c8a-bc40-4f403724b60a

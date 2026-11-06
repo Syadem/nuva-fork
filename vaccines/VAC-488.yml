@@ -1,14 +1,14 @@
 ---
 id: 488
+generic: false
+generic_vaccine_id: 1115
 name: PENTAXIM
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, 5 components, standard dose), Haemophilus influenzae type b (conjugated to tetanus toxoid) and inactivated polio (trivalent) pediatric vaccine, adsorbed
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689126
 updated_at: 1758815384
-generic_vaccine_id: 1115
+injection_methods:
+- intramuscular
 other_names:
 - PENTAXIM
 codes:

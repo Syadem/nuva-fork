@@ -1,19 +1,19 @@
 ---
 id: 114
+generic: true
 name: Measles live attenuated vaccine, unspecified
 description: Live attenuated measles vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689128
 updated_at: 1788992083
-valence_ids:
-- 5
+injection_methods: []
 other_names:
 - ROUGEOLEUSE
 - rougeole
 - measlesvaccine
+valence_ids:
+- 5
 codes:
 - nomenclature: SYADEM
   code: b09f99ec-9f53-4888-9db1-cbc9ad956887

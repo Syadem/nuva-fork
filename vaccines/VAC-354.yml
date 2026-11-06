@@ -1,13 +1,13 @@
 ---
 id: 354
+generic: false
+generic_vaccine_id: 113
 name: RA27/3
 description: Live attenuated rubella vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689122
 updated_at: 1692134569
-generic_vaccine_id: 113
+injection_methods: []
 other_names:
 - RA27/3
 codes:

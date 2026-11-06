@@ -1,14 +1,14 @@
 ---
 id: 826
+generic: false
+generic_vaccine_id: 550
 name: MEASLES AND RUBELLA VACCINE SII
 description: Live attenuated measles and rubella vaccine
 notes: https://www.seruminstitute.com/product_viral_measles-rubella.php
-generic: false
-injection_methods:
-- subcutaneous
 created_at: 1635263685
 updated_at: 1741949306
-generic_vaccine_id: 550
+injection_methods:
+- subcutaneous
 other_names:
 - Vaccinrougeolerubéole
 codes:

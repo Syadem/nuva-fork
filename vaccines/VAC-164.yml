@@ -1,13 +1,13 @@
 ---
 id: 164
+generic: false
+generic_vaccine_id: 925
 name: INTANZA 9 µg
 description: Trivalent inactivated seasonal influenza vaccine, split virion
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689124
 updated_at: 1758813163
-generic_vaccine_id: 925
+injection_methods: []
 other_names:
 - INTANZA
 - intanza9µg

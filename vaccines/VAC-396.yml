@@ -1,5 +1,7 @@
 ---
 id: 396
+generic: false
+generic_vaccine_id: 320
 name: BIOPOLIO
 description: Polio vaccine (live attenuated, trivalent) against polioviruses 1, 2 and 3, oral
 notes: "WHO:\r
@@ -7,12 +9,10 @@ notes: "WHO:\r
   https://extranet.who.int/prequal/vaccines/p/biopolio-0\r
 
   \r\n"
-generic: false
-injection_methods:
-- oral
 created_at: 1626689129
 updated_at: 1714990439
-generic_vaccine_id: 320
+injection_methods:
+- oral
 other_names:
 - TOPV
 - vaccin polio trivalent oral

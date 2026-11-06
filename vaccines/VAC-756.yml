@@ -1,14 +1,14 @@
 ---
 id: 756
+generic: false
+generic_vaccine_id: 1202
 name: MV-014-212
 description: COVID-19 vaccine, live attenuated, expressing the SARS-CoV-2 spike protein
 notes:
-generic: false
-injection_methods:
-- intranasal
 created_at: 1626689122
 updated_at: 1684150711
-generic_vaccine_id: 1202
+injection_methods:
+- intranasal
 other_names: []
 codes:
 - nomenclature: SYADEM

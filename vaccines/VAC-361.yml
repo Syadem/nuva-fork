@@ -1,15 +1,15 @@
 ---
 id: 361
+generic: false
+generic_vaccine_id: 623
 name: RIT - LM-2
 description: Live attenuated measles and mumps vaccine
 notes:
-generic: false
+created_at: 1626689121
+updated_at: 1666959921
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689121
-updated_at: 1666959921
-generic_vaccine_id: 623
 other_names:
 - RITLM2
 - LM-2-RIT

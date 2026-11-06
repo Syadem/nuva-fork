@@ -1,14 +1,14 @@
 ---
 id: 243
+generic: false
+generic_vaccine_id: 915
 name: HEPA-B INJECTION ADULT
 description: Recombinant hepatitis B vaccine, adult dose
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689124
 updated_at: 1792487173
-generic_vaccine_id: 915
+injection_methods:
+- intramuscular
 other_names:
 - HEPABINJECTION
 codes:

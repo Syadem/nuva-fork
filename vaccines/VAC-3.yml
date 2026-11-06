@@ -1,17 +1,17 @@
 ---
 id: 3
+generic: false
+generic_vaccine_id: 910
 name: AVAXIM 160 U
 description: Inactivated hepatitis A vaccine, adult dose
 notes: "Codes CIP anciens\r
 
   https://drive.google.com/file/d/1y5AwEqyWctqRw64yuAZO-sDfEn1gnZuR/view?usp=sharing"
-generic: false
+created_at: 1626689123
+updated_at: 1758787826
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689123
-updated_at: 1758787826
-generic_vaccine_id: 910
 other_names:
 - hepatiteAaventispasteur
 - hepa

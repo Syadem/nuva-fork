@@ -1,18 +1,18 @@
 ---
 id: 148
+generic: true
 name: Leptospirosis vaccine, unspecified
 description: Inactivated whole-cell leptospirosis vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689123
 updated_at: 1747733667
-valence_ids:
-- 75
+injection_methods: []
 other_names:
 - leptospires
 - LEPTOSPIROSE
+valence_ids:
+- 75
 codes:
 - nomenclature: SYADEM
   code: a5c4fb11-48a5-4cd6-a3d5-5475c6ab6edc

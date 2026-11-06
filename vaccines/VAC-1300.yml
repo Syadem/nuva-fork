@@ -1,14 +1,14 @@
 ---
 id: 1300
+generic: false
+generic_vaccine_id: 915
 name: BEVAC 20 µg
 description: Recombinant hepatitis B vaccine, adult dose
 notes: https://www.biologicale.com/pdf/Product_VB_Domestic_Marketing.pdf
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1741710230
 updated_at: 1741710253
-generic_vaccine_id: 915
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

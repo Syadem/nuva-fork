@@ -1,14 +1,14 @@
 ---
 id: 689
+generic: false
+generic_vaccine_id: 1043
 name: CHINESE-RECOMBINANT-Sf9-COVID
 description: COVID-19 vaccine, protein subunit, recombinant spike protein, expressed by Baculovirus cultured on Sf9 cells
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689126
 updated_at: 1743407559
-generic_vaccine_id: 1043
+injection_methods:
+- intramuscular
 other_names:
 - COVID19recombinantvaccine(Sf9)
 - covid19

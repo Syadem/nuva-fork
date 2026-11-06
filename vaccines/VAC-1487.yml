@@ -1,14 +1,14 @@
 ---
 id: 1487
+generic: false
+generic_vaccine_id: 324
 name: PREVENAR-7
 description: Pneumococcal conjugate vaccine, 7-valent, adsorbed, serotypes 4, 6B, 9V, 14, 18C, 19F and 23F
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1765554760
 updated_at: 1765554881
-generic_vaccine_id: 324
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

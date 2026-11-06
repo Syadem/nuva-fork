@@ -1,22 +1,22 @@
 ---
 id: 855
+generic: true
 name: Diphtheria (unspecified dose), tetanus and inactivated polio (trivalent) vaccine, adsorbed
 description: Diphtheria toxoid (unspecified dose), tetanus toxoid and inactivated polio (trivalent) vaccine, adsorbed
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intramuscular
+notes:
 created_at: 1646745876
 updated_at: 1788945887
-valence_ids:
-- 56
-- 67
-- 83
+injection_methods:
+- intramuscular
 other_names:
 - diphtérie-tétanos-polio
 - DTP
 - diphtheria-tetanus-polio
+valence_ids:
+- 56
+- 67
+- 83
 codes:
 - nomenclature: SYADEM
   code: fdac4922-a30a-48d0-88bd-7c16c872528f

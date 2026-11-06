@@ -1,13 +1,13 @@
 ---
 id: 1453
+generic: false
+generic_vaccine_id: 1443
 name: INVIVAC
 description: Influenza vaccine, trivalent, virosomal, unspecified
 notes:
-generic: false
-injection_methods: []
 created_at: 1753795755
 updated_at: 1762270658
-generic_vaccine_id: 1443
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

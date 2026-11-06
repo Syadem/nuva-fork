@@ -1,13 +1,13 @@
 ---
 id: 350
+generic: false
+generic_vaccine_id: 551
 name: QUATRO-VIRELON
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose) and inactivated polio (trivalent) pediatric vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689126
 updated_at: 1698915391
-generic_vaccine_id: 551
+injection_methods: []
 other_names:
 - QUATROVIRELON
 codes:

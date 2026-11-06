@@ -1,13 +1,13 @@
 ---
 id: 877
+generic: false
+generic_vaccine_id: 1216
 name: INFANRIX HEPB
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose) and hepatitis B pediatric vaccine, adsorbed
 notes:
-generic: false
-injection_methods: []
 created_at: 1648263260
 updated_at: 1713798201
-generic_vaccine_id: 1216
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,14 +1,14 @@
 ---
 id: 1089
+generic: false
+generic_vaccine_id: 863
 name: HYPERHEB B
 description: Human anti-hepatitis B immunoglobulin, post-exposure treatment
 notes: https://www.hyperhepb.com/en/hcp
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1715779159
 updated_at: 1744814431
-generic_vaccine_id: 863
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

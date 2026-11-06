@@ -1,5 +1,7 @@
 ---
 id: 1278
+generic: false
+generic_vaccine_id: 1426
 name: WALRINVAX
 description: Bivalent recombinant vaccine against human papillomavirus (types 16 and 18) (Pichia pastoris)
 notes: "https://extranet.who.int/prequal/vaccines/p/walrinvaxr\r
@@ -7,12 +9,10 @@ notes: "https://extranet.who.int/prequal/vaccines/p/walrinvaxr\r
   \r
 
   https://extranet.who.int/prequal/sites/default/files/vwa_vaccine/fvp-p-426_hpv2_1dose_yuxizerum_pi-2024.pdf"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1740395123
 updated_at: 1740396560
-generic_vaccine_id: 1426
+injection_methods:
+- intramuscular
 other_names:
 - hpv16-18
 - vph16-18

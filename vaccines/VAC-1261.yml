@@ -1,14 +1,14 @@
 ---
 id: 1261
+generic: false
+generic_vaccine_id: 1414
 name: NUVAXOVID JN.1
 description: COVID-19 vaccine, protein subunit, recombinant spike protein nanoparticles, with adjuvant (Matrix M), Omicron JN.1 subvariant
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1728838552
 updated_at: 1763329803
-generic_vaccine_id: 1414
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

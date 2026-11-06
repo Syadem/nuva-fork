@@ -1,14 +1,14 @@
 ---
 id: 1302
+generic: false
+generic_vaccine_id: 1181
 name: COMBE FIVE
 description: Paediatric vaccine for diphtheria (toxoid, standard dose), tetanus (toxoid), whooping cough (whole, standard dose), hepatitis B and Haemophilus influenzae type b (conjugated with tetanus toxoid).
 notes: https://www.biologicale.com/pdf/Product_VB_Domestic_Marketing.pdf
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1741711859
 updated_at: 1743160142
-generic_vaccine_id: 1181
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

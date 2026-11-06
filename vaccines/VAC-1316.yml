@@ -1,14 +1,14 @@
 ---
 id: 1316
+generic: false
+generic_vaccine_id: 113
 name: RUBELLA SII
 description: Live attenuated rubella vaccine
 notes: https://www.seruminstitute.com/product_viral_rubella.php
-generic: false
-injection_methods:
-- subcutaneous
 created_at: 1741858650
 updated_at: 1742079817
-generic_vaccine_id: 113
+injection_methods:
+- subcutaneous
 other_names:
 - Vaccinrubéole
 codes:

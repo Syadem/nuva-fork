@@ -1,17 +1,17 @@
 ---
 id: 1238
+generic: true
 name: Hepatitis B and malaria (sporozoite surface protein) vaccine, unspecified
 description: Hepatitis B and malaria (sporozoite surface protein) vaccine, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717601618
 updated_at: 1790844927
+injection_methods: []
+other_names: []
 valence_ids:
 - 9
 - 114
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 557f21d4-f7ca-4b48-87cd-620bab156332

@@ -1,14 +1,14 @@
 ---
 id: 1512
+generic: false
+generic_vaccine_id: 920
 name: BUTANTAN DT ADULT
 description: Diphtheria toxoid (low dose) and tetanus toxoid vaccine
 notes: https://en.butantan.gov.br/portfolio.php
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1773831771
 updated_at: 1773914935
-generic_vaccine_id: 920
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

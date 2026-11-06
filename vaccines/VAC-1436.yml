@@ -1,16 +1,16 @@
 ---
 id: 1436
+generic: true
 name: Rabies vaccine, inactivated, whole virion, prepared from animal brain tissue infected with rabies virus, unspecified
 description: Rabies vaccine, inactivated, whole virion, prepared from animal brain tissue infected with rabies virus, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1747902291
 updated_at: 1764173063
+injection_methods: []
+other_names: []
 valence_ids:
 - 256
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 7ac3fcb5-d163-4763-aea4-0702c71ab6d1

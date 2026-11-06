@@ -1,14 +1,14 @@
 ---
 id: 1451
+generic: false
+generic_vaccine_id: 925
 name: CHIROFLU
 description: Trivalent inactivated seasonal influenza vaccine, split virion
 notes: "https://cima.aemps.es/cima/dochtml/p/62792/Prospecto_62792.html\r\n"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1753718771
 updated_at: 1753718771
-generic_vaccine_id: 925
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

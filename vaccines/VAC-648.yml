@@ -1,17 +1,17 @@
 ---
 id: 648
+generic: true
 name: COVID-19 vaccine, unspecified
 description: COVID-19 vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689121
 updated_at: 1785461526
-valence_ids:
-- 157
+injection_methods: []
 other_names:
 - COVID19Vaccinendéveloppement
+valence_ids:
+- 157
 codes:
 - nomenclature: SYADEM
   code: fe63342b-309d-44c9-9320-5015b291a443

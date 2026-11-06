@@ -1,16 +1,16 @@
 ---
 id: 1073
+generic: true
 name: Lyme disease vaccine, unspecified
 description: Lyme disease vaccine, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1710933772
 updated_at: 1720084219
+injection_methods: []
+other_names: []
 valence_ids:
 - 339
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 7dc31052-4c42-4d80-bec3-af72e71aa701

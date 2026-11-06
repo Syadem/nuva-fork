@@ -1,14 +1,14 @@
 ---
 id: 1025
+generic: false
+generic_vaccine_id: 1113
 name: CORBEVAX
 description: "COVID-19 vaccine, protein subunit, recombinant spike protein; other name: BECOV2A"
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1665497919
 updated_at: 1745575906
-generic_vaccine_id: 1113
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,13 +1,13 @@
 ---
 id: 969
+generic: false
+generic_vaccine_id: 1116
 name: LYSSAVAC N BERNA
 description: Whole virion inactivated rabies vaccine, cultured on Vero cells
 notes:
-generic: false
-injection_methods: []
 created_at: 1655127435
 updated_at: 1713271945
-generic_vaccine_id: 1116
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,16 +1,16 @@
 ---
 id: 1171
+generic: true
 name: Influenza trivalent vaccine, inactivated, obtained from egg culture, split or subunit, high dose, unspecified
 description: Influenza trivalent inactivated vaccine, obtained from egg culture, split or subunit, high dose
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717595164
 updated_at: 1791816422
+injection_methods: []
+other_names: []
 valence_ids:
 - 94
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 88933296-0c26-4b53-a61e-57e9035b7105

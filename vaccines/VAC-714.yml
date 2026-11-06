@@ -1,14 +1,14 @@
 ---
 id: 714
+generic: false
+generic_vaccine_id: 1119
 name: COVID-19 VACCINE (INACTIVATED, ADJUVANTED) VALNEVA
 description: "COVID-19 vaccine, whole virion inactivated, adjuvanted with CpG 10183 ! (cytosine phospho-guanine) a) in combination with aluminium hydroxide - Other name: Valneva VLA2001"
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689123
 updated_at: 1668034724
-generic_vaccine_id: 1119
+injection_methods:
+- intramuscular
 other_names:
 - VLA2001
 - COVID-19 VACCINE VALNEVA

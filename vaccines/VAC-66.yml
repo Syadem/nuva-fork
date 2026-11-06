@@ -1,13 +1,13 @@
 ---
 id: 66
+generic: false
+generic_vaccine_id: 551
 name: DTCP PASTEUR
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose) and inactivated polio (trivalent) pediatric vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689122
 updated_at: 1758806021
-generic_vaccine_id: 551
+injection_methods: []
 other_names:
 - DTPC
 - DTCPPASTEUR

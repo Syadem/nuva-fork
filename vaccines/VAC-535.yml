@@ -1,14 +1,14 @@
 ---
 id: 535
+generic: false
+generic_vaccine_id: 1215
 name: VAXELIS
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose), Haemophilus influenzae type b (conjugated to outer membrane protein of Neisseria meningitidis serogroup B), inactivated polio (trivalent) and hepatitis B (recombinant) pediatric vaccine, adsorbed
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689130
 updated_at: 1763412171
-generic_vaccine_id: 1215
+injection_methods:
+- intramuscular
 other_names:
 - VAXELIS
 codes:

@@ -1,16 +1,16 @@
 ---
 id: 1118
+generic: true
 name: Enterovirus A71 vaccine, unspecified
 description: Enterovirus A71 vaccine, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717590180
 updated_at: 1747729895
+injection_methods: []
+other_names: []
 valence_ids:
 - 346
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 04dfcb7a-9b25-4889-9751-9a4594051cef

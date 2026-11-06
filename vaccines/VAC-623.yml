@@ -1,24 +1,24 @@
 ---
 id: 623
+generic: true
 name: Measles-mumps vaccine, unspecified
 description: Live attenuated measles and mumps vaccine
-notes:
-generic: true
 immunoglobulin: false
+notes:
+created_at: 1626689128
+updated_at: 1752659400
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689128
-updated_at: 1752659400
-valence_ids:
-- 5
-- 77
 other_names:
 - mmvax
 - mm-vax
 - m-mvax
 - oreillons-rougeole
 - rougeole-oreillons
+valence_ids:
+- 5
+- 77
 codes:
 - nomenclature: SYADEM
   code: e98cbb1c-09c9-4bdf-abf3-f76f909a3f4b

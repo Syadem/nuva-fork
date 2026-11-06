@@ -1,18 +1,18 @@
 ---
 id: 1141
+generic: true
 name: Bird Flu H5N8 Vaccine, unspecified
 description: Bird Flu H5N8 Vaccine, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intramuscular
+notes:
 created_at: 1717592586
 updated_at: 1744364818
-valence_ids:
-- 385
+injection_methods:
+- intramuscular
 other_names:
 - h5n8
+valence_ids:
+- 385
 codes:
 - nomenclature: SYADEM
   code: 351fdf33-5da6-4f38-b5cd-54e665b2383d

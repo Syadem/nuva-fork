@@ -1,18 +1,18 @@
 ---
 id: 131
+generic: true
 name: Rabies vaccine, unspecified
 description: Whole virion inactivated rabies vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689128
 updated_at: 1744806170
-valence_ids:
-- 80
+injection_methods: []
 other_names:
 - rage
 - rabique
+valence_ids:
+- 80
 codes:
 - nomenclature: SYADEM
   code: 78577e35-6eea-4953-bb33-aa73a0097787

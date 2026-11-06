@@ -1,5 +1,7 @@
 ---
 id: 1036
+generic: false
+generic_vaccine_id: 1140
 name: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 25 µg/25 µg MODERNA
 description: COVID-19 vaccine bivalent RNAm, original virus + Omicron variant BA.4/5, 25 micrograms of each
 notes: "EU/1/20/1507/009 Spikevax bivalent\r
@@ -23,12 +25,10 @@ notes: "EU/1/20/1507/009 Spikevax bivalent\r
   [EU-NUMBER|EU-1-20-1507-009]\r
 
   [EU-NUMBER|EU-1-20-1507-010]"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1672305380
 updated_at: 1745576343
-generic_vaccine_id: 1140
+injection_methods:
+- intramuscular
 other_names:
 - spikevax bivalent 25 microgrammes
 codes:

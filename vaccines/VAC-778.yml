@@ -1,14 +1,14 @@
 ---
 id: 778
+generic: false
+generic_vaccine_id: 806
 name: VAXCHORA
 description: Live attenuated cholera vaccine (attenuated V. cholerae strain CVD 103-HgR produced by recombinant DNA technology)
 notes:
-generic: false
-injection_methods:
-- oral
 created_at: 1635263685
 updated_at: 1773668139
-generic_vaccine_id: 806
+injection_methods:
+- oral
 other_names:
 - Vaxchora
 - vaxcora

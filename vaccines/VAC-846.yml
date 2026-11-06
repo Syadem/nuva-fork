@@ -1,14 +1,14 @@
 ---
 id: 846
+generic: false
+generic_vaccine_id: 600
 name: VACCIN POLIOMYELITIQUE ORAL BIVALENT TYPES 1 et 3
 description: Polio vaccine (live attenuated, bivalent) against poliovirus types 1 and 3, oral
 notes:
-generic: false
-injection_methods:
-- oral
 created_at: 1645856899
 updated_at: 1714031317
-generic_vaccine_id: 600
+injection_methods:
+- oral
 other_names:
 - polio2 pasteur
 - polio oral pasteur

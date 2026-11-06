@@ -1,13 +1,13 @@
 ---
 id: 873
+generic: false
+generic_vaccine_id: 925
 name: INFLUPOZZI ADIUVATO
 description: Trivalent inactivated seasonal influenza vaccine, egg-based, surface antigen, adjuvanted with MF59C.1
 notes:
-generic: false
-injection_methods: []
 created_at: 1648261072
 updated_at: 1713866788
-generic_vaccine_id: 925
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

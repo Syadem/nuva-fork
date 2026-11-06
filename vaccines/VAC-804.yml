@@ -1,17 +1,17 @@
 ---
 id: 804
+generic: true
 name: Anthrax vaccine, unspecified
 description: Anthrax vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1635263684
 updated_at: 1744706964
-valence_ids:
-- 340
+injection_methods: []
 other_names:
 - Vaccincontrelecharbon
+valence_ids:
+- 340
 codes:
 - nomenclature: SYADEM
   code: 8f8ef5ed-dea4-464c-9210-7a8e5c160067

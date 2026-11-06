@@ -1,13 +1,13 @@
 ---
 id: 287
+generic: false
+generic_vaccine_id: 550
 name: M-R VAX
 description: Live attenuated measles and rubella vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689127
 updated_at: 1692133588
-generic_vaccine_id: 550
+injection_methods: []
 other_names:
 - MRVAX
 codes:

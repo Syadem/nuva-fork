@@ -1,14 +1,14 @@
 ---
 id: 1318
+generic: false
+generic_vaccine_id: 1208
 name: DIPHTHERIA, TETANUS, PERTUSSIS AND HEPATITIS B SII
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (whole-cell inactivated) and hepatitis B (recombinant) pediatric vaccine
 notes: https://www.seruminstitute.com/product_combi_diphtheriatetanus1.php
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1741863866
 updated_at: 1742080429
-generic_vaccine_id: 1208
+injection_methods:
+- intramuscular
 other_names:
 - DiphTCoqHepB
 codes:

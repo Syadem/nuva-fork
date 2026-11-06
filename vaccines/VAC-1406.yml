@@ -1,16 +1,16 @@
 ---
 id: 1406
+generic: false
+generic_vaccine_id: 1143
 name: SPUTNIK V
 description: COVID-19 vaccine, non-replicating adenoviral 6 vector encoding the SARS-CoV-2 spike protein
 notes: "https://www.panaceabiotec.com/en/products/product-list\r
 
   https://www.panaceabiotec.com/assets/documents/SmPC_Sputnik%20V%20vaccine.pdf"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1744278265
 updated_at: 1744278265
-generic_vaccine_id: 1143
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

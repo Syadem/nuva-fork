@@ -1,14 +1,14 @@
 ---
 id: 656
+generic: false
+generic_vaccine_id: 1210
 name: SPIKEVAX 0,2 mg/mL MODERNA
 description: COVID-19 mRNA vaccine
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689130
 updated_at: 1673134968
-generic_vaccine_id: 1210
+injection_methods:
+- intramuscular
 other_names:
 - covid19
 - moderna

@@ -1,16 +1,16 @@
 ---
 id: 894
+generic: true
 name: Adenovirus vaccine, unspecified
 description: Adenovirus vaccine, unspecified type
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1649237355
 updated_at: 1713779021
+injection_methods: []
+other_names: []
 valence_ids:
 - 278
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: f64d5a2e-c4d1-4241-9c1f-d25ec7a6b604

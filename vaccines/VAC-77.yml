@@ -1,13 +1,13 @@
 ---
 id: 77
+generic: false
+generic_vaccine_id: 153
 name: IMOVAX Mumps
 description: Live attenuated mumps vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689122
 updated_at: 1758807416
-generic_vaccine_id: 153
+injection_methods: []
 other_names:
 - oreillons
 - ourlien

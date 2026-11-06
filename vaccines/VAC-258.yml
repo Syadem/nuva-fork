@@ -1,13 +1,13 @@
 ---
 id: 258
+generic: false
+generic_vaccine_id: 130
 name: IMOVAX R.O.R.
 description: Live attenuated measles, mumps and rubella vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689125
 updated_at: 1666959920
-generic_vaccine_id: 130
+injection_methods: []
 other_names:
 - IMOVAXROR
 codes:

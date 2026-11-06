@@ -1,19 +1,19 @@
 ---
 id: 132
+generic: true
 name: Tetanus vaccine, unspecified
 description: Tetanus toxoid vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intramuscular
+notes:
 created_at: 1626689129
 updated_at: 1785318685
-valence_ids:
-- 67
+injection_methods:
+- intramuscular
 other_names:
 - tetanos
 - tetanique
+valence_ids:
+- 67
 codes:
 - nomenclature: SYADEM
   code: a1e088f9-f72f-4183-a486-9e6208df5ae8

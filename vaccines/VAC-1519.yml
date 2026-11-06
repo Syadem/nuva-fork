@@ -1,14 +1,14 @@
 ---
 id: 1519
+generic: false
+generic_vaccine_id: 1521
 name: COMIRNATY XFG 10 µg
 description: COVID-19 mRNA vaccine, subvariant Omicron XFG, 10 micrograms, paediatric dose (5-11 years)
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1787642455
 updated_at: 1787642677
-generic_vaccine_id: 1521
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

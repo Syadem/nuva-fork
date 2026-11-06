@@ -1,5 +1,7 @@
 ---
 id: 1464
+generic: false
+generic_vaccine_id: 820
 name: FLUBRON VACCINE
 description: Seasonal influenza vaccine, trivalent, whole virion inactivated, obtained from egg culture
 notes: "Variants : А.А: Asian-Formosa 77000, B. England 5000\r
@@ -9,12 +11,10 @@ notes: "Variants : А.А: Asian-Formosa 77000, B. England 5000\r
   \r
 
   https://archive.org/details/sim_the-lancet_1961-12-30_2_7218_0/page/1428/mode/2up?q=%22flubron+vaccine%22"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1753882744
 updated_at: 1791809127
-generic_vaccine_id: 820
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,16 +1,16 @@
 ---
 id: 932
+generic: true
 name: Influenza quadrivalent recombinant vaccine, unspecified
 description: Quadrivalent recombinant seasonal influenza vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1652694013
 updated_at: 1788944984
+injection_methods: []
+other_names: []
 valence_ids:
 - 287
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: a3b4a0e4-4bb1-4861-832b-5213224883f3

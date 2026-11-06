@@ -1,19 +1,19 @@
 ---
 id: 146
+generic: true
 name: Japanese Encephalitis live attenuated vaccine 14-14-2 strain, unspecified
 description: Live attenuated Japanese encephalitis vaccine, 14-14-2 strain
-notes:
-generic: true
 immunoglobulin: false
+notes:
+created_at: 1626689121
+updated_at: 1788989742
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689121
-updated_at: 1788989742
-valence_ids:
-- 100
 other_names:
 - encephaliteJaponaise
+valence_ids:
+- 100
 codes:
 - nomenclature: SYADEM
   code: 39cd757d-07e1-4496-a248-875e80ea52a9

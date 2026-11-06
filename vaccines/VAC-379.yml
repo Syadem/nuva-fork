@@ -1,13 +1,13 @@
 ---
 id: 379
+generic: false
+generic_vaccine_id: 132
 name: T-IMMUN
 description: Tetanus toxoid vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689122
 updated_at: 1666959922
-generic_vaccine_id: 132
+injection_methods: []
 other_names:
 - TIMMUN
 codes:

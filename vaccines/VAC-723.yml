@@ -1,13 +1,13 @@
 ---
 id: 723
+generic: false
+generic_vaccine_id: 1128
 name: GLS-5310
 description: COVID-19 plasmid DNA vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689125
 updated_at: 1684150781
-generic_vaccine_id: 1128
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,14 +1,14 @@
 ---
 id: 261
+generic: false
+generic_vaccine_id: 131
 name: IMOVAX Rabies I.M.
 description: Whole virion inactivated rabies vaccine (intramuscular administration)
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689125
 updated_at: 1666959920
-generic_vaccine_id: 131
+injection_methods:
+- intramuscular
 other_names:
 - IMOVAXRABIESIM
 codes:

@@ -1,16 +1,16 @@
 ---
 id: 1537
+generic: true
 name: Cholera vaccine, oral, containing formalin-inactivated whole V. cholerae O1 bacteria
 description: Cholera vaccine, oral, containing formalin-inactivated whole V. cholerae O1 bacteria
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1789031240
 updated_at: 1789031240
+injection_methods: []
+other_names: []
 valence_ids:
 - 367
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 4a011b1b-1051-4093-acf5-36b8cd14f44b

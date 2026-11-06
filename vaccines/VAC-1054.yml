@@ -1,14 +1,14 @@
 ---
 id: 1054
+generic: false
+generic_vaccine_id: 1132
 name: COMIRNATY ORIGINAL/OMICRON BA.4-5 (1,5/1,5 µg)
 description: COVID-19 mRNA vaccine, original virus + Omicron BA.4/5 variant, 1.5 micrograms each, paediatric dose (6 MONTHS-4 YEARS)
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1694906365
 updated_at: 1745575660
-generic_vaccine_id: 1132
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

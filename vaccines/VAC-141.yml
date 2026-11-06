@@ -1,14 +1,14 @@
 ---
 id: 141
+generic: false
+generic_vaccine_id: 1133
 name: MENVEO
 description: Quadrivalent meningococcal polysaccharide conjugate vaccine, serogroups A, C, W and Y (conjugated to CRM197 Protein)
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689120
 updated_at: 1758812976
-generic_vaccine_id: 1133
+injection_methods:
+- intramuscular
 other_names:
 - menveo
 - MCV4

@@ -1,14 +1,14 @@
 ---
 id: 1515
+generic: false
+generic_vaccine_id: 1116
 name: BUTANTAN RABIES
 description: Whole virion inactivated rabies vaccine, cultured on Vero cells
 notes: https://en.butantan.gov.br/portfolio.php
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1773913861
 updated_at: 1773914947
-generic_vaccine_id: 1116
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

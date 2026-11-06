@@ -1,15 +1,15 @@
 ---
 id: 280
+generic: false
+generic_vaccine_id: 623
 name: MUMPS-MEASLES VACCINE MICROGEN
 description: Live attenuated measles and mumps vaccine
 notes:
-generic: false
+created_at: 1626689120
+updated_at: 1666959920
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689120
-updated_at: 1666959920
-generic_vaccine_id: 623
 other_names:
 - mmv
 - mumps-measles

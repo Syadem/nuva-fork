@@ -1,14 +1,14 @@
 ---
 id: 701
+generic: false
+generic_vaccine_id: 1128
 name: bacTRL-Spike
 description: COVID-19 plasmid DNA vaccine, encoding the spike protein of SARS-CoV-2 carried by Bifidobacterium longum, oral
 notes:
-generic: false
-injection_methods:
-- oral
 created_at: 1626689122
 updated_at: 1717491794
-generic_vaccine_id: 1128
+injection_methods:
+- oral
 other_names: []
 codes:
 - nomenclature: SYADEM

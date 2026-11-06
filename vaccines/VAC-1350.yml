@@ -1,15 +1,15 @@
 ---
 id: 1350
+generic: false
+generic_vaccine_id: 132
 name: T SIS BIOMED
 description: Tetanus toxoid vaccine
 notes: "https://www.gdziepolek.pl/produkty/77011/t-szczepionka-tezcowa-adsorbowana-iniekcja/ulotka/96525?ns=true\r
 
   https://biomed.com.pl/index.html"
-generic: false
-injection_methods: []
 created_at: 1743602726
 updated_at: 1743602726
-generic_vaccine_id: 132
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

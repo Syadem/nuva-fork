@@ -1,16 +1,16 @@
 ---
 id: 1125
+generic: true
 name: Hepatitis B vaccine, unspecified
 description: Hepatitis B vaccine, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717590713
 updated_at: 1767967585
+injection_methods: []
+other_names: []
 valence_ids:
 - 68
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 9696081d-d446-4b2a-b5f0-8bae932092ac

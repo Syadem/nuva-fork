@@ -1,13 +1,13 @@
 ---
 id: 317
+generic: false
+generic_vaccine_id: 863
 name: NABI-HB
 description: Hepatitis B immunoglobulin
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689127
 updated_at: 1666959921
-generic_vaccine_id: 863
+injection_methods: []
 other_names:
 - NABIHB
 codes:

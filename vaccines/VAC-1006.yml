@@ -1,13 +1,13 @@
 ---
 id: 1006
+generic: false
+generic_vaccine_id: 915
 name: SHANVAC B
 description: Recombinant hepatitis B vaccine, HBsAg 20 µg, children and adult dose
 notes:
-generic: false
-injection_methods: []
 created_at: 1659107394
 updated_at: 1713170728
-generic_vaccine_id: 915
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

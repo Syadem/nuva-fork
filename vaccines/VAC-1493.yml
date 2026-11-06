@@ -1,16 +1,16 @@
 ---
 id: 1493
+generic: false
+generic_vaccine_id: 1167
 name: ACEL P
 description: Acellular pertussis vaccine, standard dose
 notes: "https://dhpp.hpfb-dgpsa.ca/dhpp/resource/43147\r
 
   https://msss.gouv.qc.ca/professionnels/vaccination/piq-programmes-et-noms-commerciaux-des-vaccins/noms-commerciaux-de-divers-vaccins/"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1767806584
 updated_at: 1767865588
-generic_vaccine_id: 1167
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

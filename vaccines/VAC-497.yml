@@ -1,17 +1,17 @@
 ---
 id: 497
+generic: true
 name: Tetanus immunoglobulin, unspecified
 description: Anti-tetanus immunoglobulin
-notes:
-generic: true
 immunoglobulin: true
-injection_methods: []
+notes:
 created_at: 1626689129
 updated_at: 1740736962
-valence_ids:
-- 110
+injection_methods: []
 other_names:
 - Immunoglobulines
+valence_ids:
+- 110
 codes:
 - nomenclature: SYADEM
   code: 82ef32a5-0317-47bd-b6e7-311d571f7e6c

@@ -1,16 +1,16 @@
 ---
 id: 1439
+generic: true
 name: Meningococcal vaccine, polyvalent, conjugate polysaccharide
 description: Meningococcal vaccine, polyvalent, conjugate polysaccharide
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1747907530
 updated_at: 1787922927
+injection_methods: []
+other_names: []
 valence_ids:
 - 234
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 4cc008e7-81db-496d-839d-9a4563f76ac9

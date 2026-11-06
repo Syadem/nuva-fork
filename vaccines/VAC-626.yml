@@ -1,13 +1,13 @@
 ---
 id: 626
+generic: false
+generic_vaccine_id: 550
 name: MoRu Viraten
 description: Live attenuated measles and rubella vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689124
 updated_at: 1772723302
-generic_vaccine_id: 550
+injection_methods: []
 other_names:
 - mo-ru-viraten
 - mo-ru viraten

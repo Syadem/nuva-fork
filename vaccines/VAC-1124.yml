@@ -1,16 +1,16 @@
 ---
 id: 1124
+generic: true
 name: COVID-19 inactivated vaccine, whole virus, in clinical trial, unspecified
 description: COVID-19 inactivated vaccine, whole virus, in clinical trial, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717590584
 updated_at: 1788943480
+injection_methods: []
+other_names: []
 valence_ids:
 - 265
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 7c715eaa-c9ff-4d1e-954d-f5dc1b8e0119

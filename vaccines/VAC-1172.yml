@@ -1,16 +1,16 @@
 ---
 id: 1172
+generic: true
 name: Diphtheria toxoid, reduced dose, unspecified
 description: Diphtheria vaccine (anatoxin, reduced dose)
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717595217
 updated_at: 1747736127
+injection_methods: []
+other_names: []
 valence_ids:
 - 34
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: d9e2e273-c68c-4f55-8f9d-65d9a234b555

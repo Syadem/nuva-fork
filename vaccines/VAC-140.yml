@@ -1,14 +1,14 @@
 ---
 id: 140
+generic: false
+generic_vaccine_id: 925
 name: INTANZA
 description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, split virion, intradermal
 notes:
-generic: false
-injection_methods:
-- intradermal
 created_at: 1626689130
 updated_at: 1791906788
-generic_vaccine_id: 925
+injection_methods:
+- intradermal
 other_names:
 - Intanza 15 µg
 - grippe

@@ -1,17 +1,17 @@
 ---
 id: 806
+generic: true
 name: Cholera live attenuated vaccine, unspecified
 description: Live attenuated cholera vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1635263684
 updated_at: 1788946649
-valence_ids:
-- 124
+injection_methods: []
 other_names:
 - Vaccincholériquevivantatténué
+valence_ids:
+- 124
 codes:
 - nomenclature: SYADEM
   code: 8870b243-dd2d-44ed-92a3-facf48c7297c

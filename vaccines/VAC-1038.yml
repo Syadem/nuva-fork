@@ -1,16 +1,16 @@
 ---
 id: 1038
+generic: true
 name: Tick-borne encephalitis vaccine, Neudörfl strain, adult dose, unspecified
 description: Tick-borne encephalitis vaccine, whole-virus inactivated, Neudörfl strain, adult dose
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1679052568
 updated_at: 1712851365
+injection_methods: []
+other_names: []
 valence_ids:
 - 314
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: a05427dd-8fc9-47bf-8c0f-66a00e90b4b3

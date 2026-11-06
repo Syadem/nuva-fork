@@ -1,13 +1,14 @@
 ---
 id: 1424
+generic: true
 name: Pneumococcal 10-valent polysaccharide conjugate vaccine, serotypes 1, 5, 6A, 6B, 7F, 9V, 14, 19A, 19F and 23F
 description: Pneumococcal 10-valent polysaccharide conjugate vaccine, serotypes 1, 5, 6A, 6B, 7F, 9V, 14, 19A, 19F and 23F
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1744635543
 updated_at: 1788855401
+injection_methods: []
+other_names: []
 valence_ids:
 - 186
 - 189
@@ -19,7 +20,6 @@ valence_ids:
 - 201
 - 202
 - 204
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 9731a06c-65b5-4fce-8324-158d0e78b23e

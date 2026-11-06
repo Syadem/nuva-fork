@@ -1,14 +1,14 @@
 ---
 id: 169
+generic: false
+generic_vaccine_id: 925
 name: OPTAFLU
 description: Trivalent inactivated seasonal influenza vaccine, surface antigen, cell-cultured
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689126
 updated_at: 1758813251
-generic_vaccine_id: 925
+injection_methods:
+- intramuscular
 other_names:
 - optaflu
 codes:

@@ -1,14 +1,14 @@
 ---
 id: 60
+generic: false
+generic_vaccine_id: 159
 name: VARILRIX
 description: Live attenuated chickenpox vaccine
 notes:
-generic: false
-injection_methods:
-- subcutaneous
 created_at: 1626689127
 updated_at: 1772400824
-generic_vaccine_id: 159
+injection_methods:
+- subcutaneous
 other_names:
 - VARILRIX
 - varicelle

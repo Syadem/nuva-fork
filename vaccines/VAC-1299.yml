@@ -1,14 +1,14 @@
 ---
 id: 1299
+generic: false
+generic_vaccine_id: 914
 name: BEVAC 10 µg
 description: Recombinant hepatitis B vaccine, pediatric dose
 notes: https://www.biologicale.com/pdf/Product_VB_Domestic_Marketing.pdf
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1741710020
 updated_at: 1741710020
-generic_vaccine_id: 914
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

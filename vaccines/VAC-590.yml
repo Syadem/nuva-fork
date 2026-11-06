@@ -1,14 +1,14 @@
 ---
 id: 590
+generic: false
+generic_vaccine_id: 134
 name: VACCIN BCG AJVACCINES
 description: Tuberculosis vaccine
 notes: https://cima.aemps.es/cima/dochtml/p/40773/Prospecto_40773.html
-generic: false
-injection_methods:
-- intradermal
 created_at: 1626689129
 updated_at: 1758816000
-generic_vaccine_id: 134
+injection_methods:
+- intradermal
 other_names:
 - VACCINBCGAJVaccines
 - bcgajvaccines

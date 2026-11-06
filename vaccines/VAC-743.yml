@@ -1,14 +1,14 @@
 ---
 id: 743
+generic: false
+generic_vaccine_id: 1143
 name: BBV154
 description: COVID-19 vaccine, non-replicating adenoviral vector encoding the SARS-CoV-2 spike protein
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689122
 updated_at: 1684150638
-generic_vaccine_id: 1143
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

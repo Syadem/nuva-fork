@@ -1,16 +1,16 @@
 ---
 id: 1227
+generic: true
 name: Hepatitis B recombinant vaccine, pediatric dose, unspecified
 description: Hepatitis B recombinant vaccine, pediatric dose, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717600511
 updated_at: 1788882502
+injection_methods: []
+other_names: []
 valence_ids:
 - 170
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 1b42a0b2-5f3e-47d7-afac-91c82ca356c4

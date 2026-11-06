@@ -1,16 +1,16 @@
 ---
 id: 1405
+generic: false
+generic_vaccine_id: 1126
 name: EASYFOURPOL
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose), Haemophilus influenzae type b (conjugated to tetanus toxoid) and inactivated polio (trivalent) pediatric vaccine, adsorbed
 notes: "https://www.panaceabiotec.com/en/products/product-list\r
 
   https://www.panaceabiotec.com/assets/documents/SmPc_EasyfourPol%20vaccine_2023.pdf"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1744213816
 updated_at: 1744213816
-generic_vaccine_id: 1126
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

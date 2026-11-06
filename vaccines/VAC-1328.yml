@@ -1,14 +1,14 @@
 ---
 id: 1328
+generic: false
+generic_vaccine_id: 134
 name: TUBERVAC
 description: Tuberculosis vaccine, live attenuated
 notes: https://www.seruminstitute.com/product_ind_tubervac.php
-generic: false
-injection_methods:
-- intradermal
 created_at: 1741948998
 updated_at: 1741948998
-generic_vaccine_id: 134
+injection_methods:
+- intradermal
 other_names: []
 codes:
 - nomenclature: SYADEM

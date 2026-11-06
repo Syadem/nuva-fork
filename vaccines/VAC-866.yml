@@ -1,18 +1,18 @@
 ---
 id: 866
+generic: true
 name: Meningococcal A conjugate polysaccharide vaccine, unspecified
 description: Meningococcal polysaccharide conjugate vaccine, serogroup A
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1647364621
 updated_at: 1788945660
-valence_ids:
-- 41
+injection_methods: []
 other_names:
 - méningAconjugué
 - conjugatedmeningococcalA
+valence_ids:
+- 41
 codes:
 - nomenclature: SYADEM
   code: a3cb8a2a-f3ff-4c4a-a66e-8538642b2226

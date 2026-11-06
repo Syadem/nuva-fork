@@ -1,20 +1,20 @@
 ---
 id: 151
+generic: true
 name: Meningococcal A + C vaccine, unspecified
 description: Unconjugated meningococcal polysaccharide vaccine, serogroups A and C
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689123
 updated_at: 1744712181
-valence_ids:
-- 37
-- 137
+injection_methods: []
 other_names:
 - MENINGOCOQUEAC
 - MENINGOAC
 - meningiteAC
+valence_ids:
+- 37
+- 137
 codes:
 - nomenclature: SYADEM
   code: b662cf93-86d3-4fa5-8dfb-aca43f618bdf

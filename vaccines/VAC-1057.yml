@@ -1,14 +1,14 @@
 ---
 id: 1057
+generic: false
+generic_vaccine_id: 914
 name: ENGERIX B JUNIOR
 description: Hepatitis B recombinant vaccine, pediatric dose
 notes: Variation de nom du vaccin Engerix B 10.
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1705413335
 updated_at: 1712591860
-generic_vaccine_id: 914
+injection_methods:
+- intramuscular
 other_names:
 - engerix b 10
 codes:

@@ -1,13 +1,13 @@
 ---
 id: 729
+generic: false
+generic_vaccine_id: 1142
 name: LV-SMENP-DC vaccine
 description: COVID-19 vaccine, non-replicating viral vector, with antigen presenting cells. Lentivirus-modified dendritic cells expressing a synthetic minigene based on SARS-CoV-2 viral protein extracts. This vaccine is also administered with recombinant T cells specific for SARS-CoV-2 antigens
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689127
 updated_at: 1684150570
-generic_vaccine_id: 1142
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

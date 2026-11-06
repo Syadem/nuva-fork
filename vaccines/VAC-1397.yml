@@ -1,14 +1,14 @@
 ---
 id: 1397
+generic: false
+generic_vaccine_id: 84
 name: PANFLU
 description: Influenza A(H5N1) vaccine (fragmented virion, inactivated, adjuvanted)
 notes: https://www.sinovac.com/en-us/portfolio/influenza
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1744123093
 updated_at: 1747319494
-generic_vaccine_id: 84
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

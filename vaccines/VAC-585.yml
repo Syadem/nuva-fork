@@ -1,19 +1,14 @@
 ---
 id: 585
+generic: true
 name: TdapIPV - Diphtheria-Tetanus-Pertussis-Polio vaccine, low dose, unspecified
 description: Diphtheria toxoid (low dose), tetanus toxoid, pertussis (multicomponent acellular, 5 components, low dose) and inactivated polio (trivalent) vaccine, adsorbed
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intramuscular
+notes:
 created_at: 1626689122
 updated_at: 1767976613
-valence_ids:
-- 17
-- 34
-- 56
-- 67
+injection_methods:
+- intramuscular
 other_names:
 - dTPca(adulteetadolescent)
 - dtcap
@@ -23,6 +18,11 @@ other_names:
 - diphtérie-tétanos-polio-coqueluche
 - diphterietetanospoliocoqueluche
 - dtcap dose réduite
+valence_ids:
+- 17
+- 34
+- 56
+- 67
 codes:
 - nomenclature: SYADEM
   code: 7d7468ca-ff34-4492-ae91-2cff490ec19c

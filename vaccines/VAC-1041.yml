@@ -1,16 +1,16 @@
 ---
 id: 1041
+generic: true
 name: COVID-19 mRNA vaccine, unspecified
 description: COVID-19 mRNA vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1684221261
 updated_at: 1743119217
+injection_methods: []
+other_names: []
 valence_ids:
 - 168
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 842db08b-cefa-4c7b-b9cb-0541d1285ee6

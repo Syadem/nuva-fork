@@ -1,13 +1,13 @@
 ---
 id: 642
+generic: false
+generic_vaccine_id: 1146
 name: FLUZONE HIGH-DOSE QUADRIVALENT
 description: Seasonal influenza vaccine, quadrivalent inactivated, obtained from egg culture, split-virion, high dose
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689120
 updated_at: 1791814360
-generic_vaccine_id: 1146
+injection_methods: []
 other_names:
 - FluzoneHighDoseQuadrivalent
 - grippe

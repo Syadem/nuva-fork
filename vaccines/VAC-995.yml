@@ -1,14 +1,14 @@
 ---
 id: 995
+generic: false
+generic_vaccine_id: 1157
 name: IMVAMUNE
 description: Smallpox vaccine, third generation, modified vaccinia virus Ankara, non-replicative
 notes:
-generic: false
-injection_methods:
-- subcutaneous
 created_at: 1658390345
 updated_at: 1713183794
-generic_vaccine_id: 1157
+injection_methods:
+- subcutaneous
 other_names: []
 codes:
 - nomenclature: SYADEM

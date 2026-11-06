@@ -1,16 +1,16 @@
 ---
 id: 1210
+generic: true
 name: COVID-19 mRNA vaccine encoding the SARS-CoV-2 spike protein, original virus, 100 micrograms, unspecified
 description: COVID-19 mRNA vaccine encoding the SARS-CoV-2 spike protein, original virus, 100 micrograms, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717599139
 updated_at: 1745593141
+injection_methods: []
+other_names: []
 valence_ids:
 - 180
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 424bd4b2-978d-47e4-b742-29f1714c5f7b

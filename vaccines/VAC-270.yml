@@ -1,19 +1,19 @@
 ---
 id: 270
+generic: true
 name: Poliomyelitis inactivated vaccine, unspecified
 description: Inactivated polio (trivalent) vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689123
 updated_at: 1788988458
-valence_ids:
-- 56
+injection_methods: []
 other_names:
 - IPV
 - polio inactivé
 - polio inactivé trivalent
+valence_ids:
+- 56
 codes:
 - nomenclature: SYADEM
   code: a733883c-afcf-45e9-a601-34b05d766f4c

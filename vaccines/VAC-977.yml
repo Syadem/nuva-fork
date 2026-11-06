@@ -1,13 +1,13 @@
 ---
 id: 977
+generic: false
+generic_vaccine_id: 817
 name: ENTEROVACCINO ISI
 description: Inactivated whole typhoid vaccine, oral
 notes:
-generic: false
-injection_methods: []
 created_at: 1655473160
 updated_at: 1713253601
-generic_vaccine_id: 817
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

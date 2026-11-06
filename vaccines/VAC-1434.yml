@@ -1,16 +1,16 @@
 ---
 id: 1434
+generic: true
 name: Meningococcal A vaccine, unspecified
 description: Meningococcal A vaccine, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1747898866
 updated_at: 1747898866
+injection_methods: []
+other_names: []
 valence_ids:
 - 297
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 479fa802-1113-4961-9f47-34c6169349c2

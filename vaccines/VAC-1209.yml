@@ -1,16 +1,16 @@
 ---
 id: 1209
+generic: true
 name: Measles vaccine, whole inactivated, unspecified
 description: Whole inactivated measles vaccine (historical)
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717599085
 updated_at: 1717665180
+injection_methods: []
+other_names: []
 valence_ids:
 - 93
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 16178216-a3ee-4d46-b1b0-b149449525c1

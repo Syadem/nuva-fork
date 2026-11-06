@@ -1,14 +1,14 @@
 ---
 id: 595
+generic: false
+generic_vaccine_id: 1200
 name: FLUCELVAX TETRA
 description: Quadrivalent inactivated seasonal influenza vaccine, cell-based
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689129
 updated_at: 1754485544
-generic_vaccine_id: 1200
+injection_methods:
+- intramuscular
 other_names:
 - FlucelvaxTetra
 codes:

@@ -1,14 +1,14 @@
 ---
 id: 646
+generic: false
+generic_vaccine_id: 858
 name: CECOLIN
 description: Human Papillomavirus vaccine, based on VLP (Virus Like Particles), bivalent (types 16 and 18), recombinant (Escherichia coli-expressed)
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689123
 updated_at: 1698742336
-generic_vaccine_id: 858
+injection_methods:
+- intramuscular
 other_names:
 - cecolin
 - cecaulin

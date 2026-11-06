@@ -1,13 +1,13 @@
 ---
 id: 947
+generic: false
+generic_vaccine_id: 344
 name: IMMU-PHILUS
 description: Haemophilus influenzae type b vaccine, PRP polysaccharide conjugated to Neisseria meningitidis serogroup B outer membrane protein
 notes:
-generic: false
-injection_methods: []
 created_at: 1653484359
 updated_at: 1713345554
-generic_vaccine_id: 344
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

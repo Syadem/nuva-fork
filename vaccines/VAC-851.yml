@@ -1,14 +1,14 @@
 ---
 id: 851
+generic: false
+generic_vaccine_id: 852
 name: POLIO SABIN MONO TWO (ORAL) GSK
 description: Polio vaccine (live attenuated, monovalent) against polioviruses type 2, oral
 notes:
-generic: false
-injection_methods:
-- oral
 created_at: 1646319165
 updated_at: 1713971271
-generic_vaccine_id: 852
+injection_methods:
+- oral
 other_names:
 - mopv2
 - Polio Sabin Mono Two oral GSK

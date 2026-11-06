@@ -1,14 +1,14 @@
 ---
 id: 845
+generic: false
+generic_vaccine_id: 1212
 name: ORAL POLIO VACCINE PRODUCED ON VERO MERIEUX CELLS
 description: Inactivated polio (trivalent) vaccine, oral
 notes: "http://agence-prd.ansm.sante.fr/php/ecodex/extrait.php?specid=60111635\r\n"
-generic: false
-injection_methods:
-- oral
 created_at: 1645856614
 updated_at: 1743409220
-generic_vaccine_id: 1212
+injection_methods:
+- oral
 other_names:
 - polio oral merieux
 - polio buvable

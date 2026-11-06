@@ -1,14 +1,14 @@
 ---
 id: 129
+generic: false
+generic_vaccine_id: 916
 name: HB VAX DNA 40 µg
 description: Recombinant hepatitis B vaccine, dialysis patient dosage
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689126
 updated_at: 1758812867
-generic_vaccine_id: 916
+injection_methods:
+- intramuscular
 other_names:
 - HBVAXDNA40µg
 codes:

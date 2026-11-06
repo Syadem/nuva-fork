@@ -1,20 +1,20 @@
 ---
 id: 1311
+generic: true
 name: Meningococcal ACWXY conjugate vaccine, unspecified
 description: Quadrivalent meningococcal polysaccharide conjugate vaccine, serogroups A, C, W, X and Y
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1741797435
 updated_at: 1742078841
+injection_methods: []
+other_names: []
 valence_ids:
 - 41
 - 57
 - 78
 - 136
 - 404
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: a9fca36c-0284-4f51-be7d-aadc8f6842de

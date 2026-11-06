@@ -1,20 +1,20 @@
 ---
 id: 1198
+generic: true
 name: Chinkungunya vaccine, live attenuated, unspecified
 description: Live attenuated chikungunya vaccine
+immunoglobulin: false
 notes: "Recommandé : Pour les personnes de 18 ans et plus voyageant dans une zone en épidémie.\r
 
   Peut être envisagé : Pour les voyageurs de 18 ans et plus dans une zone à risque élevé sans épidémie, pour un séjour prolongé (≥ 6 mois).\r
 
   Précaution : Chez les personnes âgées de 65 ans et plus."
-generic: true
-immunoglobulin: false
-injection_methods: []
 created_at: 1717598300
 updated_at: 1780584920
+injection_methods: []
+other_names: []
 valence_ids:
 - 60
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 133085ae-d603-47bc-a494-83a0263902fa

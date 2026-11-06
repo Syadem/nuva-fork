@@ -1,13 +1,13 @@
 ---
 id: 322
+generic: false
+generic_vaccine_id: 153
 name: PARIORIX
 description: Live attenuated mumps vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689124
 updated_at: 1744273429
-generic_vaccine_id: 153
+injection_methods: []
 other_names:
 - PARIORIX
 codes:

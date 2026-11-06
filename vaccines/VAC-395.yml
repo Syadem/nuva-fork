@@ -1,14 +1,14 @@
 ---
 id: 395
+generic: false
+generic_vaccine_id: 818
 name: TITIFICA
 description: Typhoid and paratyphoid A and B vaccine, whole-cell inactivated
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689121
 updated_at: 1698923418
-generic_vaccine_id: 818
+injection_methods:
+- intramuscular
 other_names:
 - TITIFICA
 codes:

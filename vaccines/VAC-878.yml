@@ -1,13 +1,13 @@
 ---
 id: 878
+generic: false
+generic_vaccine_id: 136
 name: TRITANRIX
 description: Diphtheria toxoid (standard dose), tetanus toxoid and pertussis (whole-cell inactivated) pediatric vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1648263787
 updated_at: 1713797645
-generic_vaccine_id: 136
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

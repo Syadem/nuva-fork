@@ -1,19 +1,19 @@
 ---
 id: 133
+generic: true
 name: Smallpox vaccine, unspecified
 description: Live attenuated smallpox vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689122
 updated_at: 1765187512
-valence_ids:
-- 22
+injection_methods: []
 other_names:
 - VARIOLE
 - variolique
 - antivariolique
+valence_ids:
+- 22
 codes:
 - nomenclature: SYADEM
   code: 080cdff5-c196-441a-a0b4-594e8dba9326

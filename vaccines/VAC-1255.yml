@@ -1,5 +1,7 @@
 ---
 id: 1255
+generic: false
+generic_vaccine_id: 1256
 name: HEXASIIL
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (whole cell), Haemophilus influenzae type b (conjugated to tetanus toxoid), inactivated polio (trivalent) and hepatitis B (recombinant) pediatric vaccine, adsorbed
 notes: "https://extranet.who.int/prequal/sites/default/files/vwa_vaccine/FVP-P-448-449_HexaSIIL_SIIPL_PI-2024_0.pdf\r
@@ -7,12 +9,10 @@ notes: "https://extranet.who.int/prequal/sites/default/files/vwa_vaccine/FVP-P-4
   https://extranet.who.int/prequal/vaccines/p/hexasiil-0\r
 
   https://www.seruminstitute.com/product_hexasiil.php"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1722843851
 updated_at: 1741860314
-generic_vaccine_id: 1256
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

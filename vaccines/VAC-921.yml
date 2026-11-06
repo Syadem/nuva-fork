@@ -1,16 +1,16 @@
 ---
 id: 921
+generic: true
 name: Japanese encephalitis vaccine, unspecified
 description: Japanese encephalitis vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1651572838
 updated_at: 1713444248
+injection_methods: []
+other_names: []
 valence_ids:
 - 249
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 0a003fe9-f2f6-4350-bfb5-fc4840b041fb

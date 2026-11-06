@@ -1,13 +1,13 @@
 ---
 id: 1556
+generic: false
+generic_vaccine_id: 1555
 name: TG4050
 description: Non-HPV-related squamous cell carcinomas of the head and neck vaccine, unspecified
 notes:
-generic: false
-injection_methods: []
 created_at: 1790177487
 updated_at: 1790177487
-generic_vaccine_id: 1555
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

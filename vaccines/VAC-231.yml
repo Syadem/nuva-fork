@@ -1,13 +1,13 @@
 ---
 id: 231
+generic: false
+generic_vaccine_id: 925
 name: FLUKOVAX
 description: Trivalent inactivated seasonal influenza vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689122
 updated_at: 1666959919
-generic_vaccine_id: 925
+injection_methods: []
 other_names:
 - FLUKOVAXPFINJ
 codes:

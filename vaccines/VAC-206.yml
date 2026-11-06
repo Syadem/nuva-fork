@@ -1,13 +1,13 @@
 ---
 id: 206
+generic: false
+generic_vaccine_id: 1167
 name: CELLUVAX
 description: Pertussis (multicomponent acellular, standard dose) vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689125
 updated_at: 1698915343
-generic_vaccine_id: 1167
+injection_methods: []
 other_names:
 - CELLUVAX
 codes:

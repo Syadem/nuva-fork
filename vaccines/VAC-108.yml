@@ -1,13 +1,13 @@
 ---
 id: 108
+generic: false
+generic_vaccine_id: 147
 name: PANDEMRIX
 description: Influenza A(H1N1)pdm09 pandemic vaccine, inactivated, obtained from egg culture
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689128
 updated_at: 1791812294
-generic_vaccine_id: 147
+injection_methods: []
 other_names:
 - PANDEMTRIX
 - vaccin grippe pandémique

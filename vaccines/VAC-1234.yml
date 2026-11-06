@@ -1,13 +1,14 @@
 ---
 id: 1234
+generic: true
 name: Pneumococcal 15-valent unconjugated polysaccharide vaccine, serotypes 1, 2, 3, 4, 6B, 7F, 8, 9N, 11A, 12F, 14, 15F, 18C, 19F and 23F
 description: Pneumococcal 15-valent unconjugated polysaccharide vaccine, serotypes 1, 2, 3, 4, 6B, 7F, 8, 9N, 11A, 12F, 14, 15F, 18C, 19F and 23F
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717601440
 updated_at: 1788795463
+injection_methods: []
+other_names: []
 valence_ids:
 - 206
 - 207
@@ -24,7 +25,6 @@ valence_ids:
 - 223
 - 225
 - 228
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 162586e1-39db-40a8-b3c0-0d1f2738d984

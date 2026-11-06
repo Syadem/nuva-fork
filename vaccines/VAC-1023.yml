@@ -1,14 +1,14 @@
 ---
 id: 1023
+generic: false
+generic_vaccine_id: 1169
 name: COMIRNATY ORIGINAL/OMICRON BA.4-5 (15/15 µg) BIONTECH-PFIZER
 description: COVID-19 vaccine bivalent RNAm, original virus + Omicron variant BA.4/5, 15 micrograms of each
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1663015018
 updated_at: 1745576399
-generic_vaccine_id: 1169
+injection_methods:
+- intramuscular
 other_names:
 - PFIZER BIONTECH BIVALENT BA.4-5
 - COMIRNATY ORIGINAL/OMICRON BA.4-5

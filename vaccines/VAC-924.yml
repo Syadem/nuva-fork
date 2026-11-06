@@ -1,13 +1,13 @@
 ---
 id: 924
+generic: false
+generic_vaccine_id: 1249
 name: FLUZONE INTRADERMAL
 description: Trivalent inactivated seasonal influenza vaccine, high dose, intradermal
 notes:
-generic: false
-injection_methods: []
 created_at: 1651585078
 updated_at: 1713434915
-generic_vaccine_id: 1249
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

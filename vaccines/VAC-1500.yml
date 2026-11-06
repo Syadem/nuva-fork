@@ -1,16 +1,16 @@
 ---
 id: 1500
+generic: false
+generic_vaccine_id: 1546
 name: COMIRNATY LP.8.1 50 µg
 description: COVID-19 mRNA vaccine, subvariant Omicron LP.8.1, 50 micrograms
 notes: "https://www.ema.europa.eu/en/medicines/human/EPAR/spikevax\r
 
   https://www.ema.europa.eu/en/documents/product-information/spikevax-epar-product-information_en.pdf"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1768920199
 updated_at: 1768925571
-generic_vaccine_id: 1546
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

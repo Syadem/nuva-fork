@@ -1,19 +1,19 @@
 ---
 id: 797
+generic: true
 name: Diph-T-aP/ap, unspecified
 description: Diphtheria toxoid (unspecified dose), tetanus toxoid and pertussis (acellular, unspecified dose) vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1635263684
 updated_at: 1785317821
+injection_methods: []
+other_names:
+- DiphTCoqacell
 valence_ids:
 - 67
 - 83
 - 117
-other_names:
-- DiphTCoqacell
 codes:
 - nomenclature: SYADEM
   code: 0dfea25f-1b5d-41b9-bdac-558415f27dc8

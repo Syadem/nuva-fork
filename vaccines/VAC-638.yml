@@ -1,13 +1,13 @@
 ---
 id: 638
+generic: false
+generic_vaccine_id: 270
 name: IPAD POLIO
 description: Inactivated polio (trivalent) vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689127
 updated_at: 1758874039
-generic_vaccine_id: 270
+injection_methods: []
 other_names:
 - IPADPOLIO
 - IPADP

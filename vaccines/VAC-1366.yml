@@ -1,16 +1,16 @@
 ---
 id: 1366
+generic: false
+generic_vaccine_id: 1537
 name: HILLCHOL
 description: Cholera vaccine, oral, containing formalin-inactivated whole V. cholerae O1 bacteria
 notes: "https://www.bharatbiotech.com/hillchol.html\r
 
   https://www.bharatbiotech.com/images/hillchol/HILLCHOL_FactSheet.pdf"
-generic: false
-injection_methods:
-- oral
 created_at: 1743760584
 updated_at: 1743760584
-generic_vaccine_id: 1537
+injection_methods:
+- oral
 other_names: []
 codes:
 - nomenclature: SYADEM

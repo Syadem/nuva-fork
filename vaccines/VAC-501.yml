@@ -1,13 +1,13 @@
 ---
 id: 501
+generic: false
+generic_vaccine_id: 503
 name: EQUIRAB (immunoglobuline)
 description: Rabies immunoglobulin, equine origin
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689125
 updated_at: 1666959923
-generic_vaccine_id: 503
+injection_methods: []
 other_names:
 - EQUIRAB(immunoglobulines)
 codes:

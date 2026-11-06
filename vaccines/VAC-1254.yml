@@ -1,16 +1,16 @@
 ---
 id: 1254
+generic: false
+generic_vaccine_id: 1280
 name: CAPVAXIVE
 description: Pneumococcal polysaccharide conjugate vaccine, 21-valent, adsorbed, serotypes 3, 6A, 7F, 8, 9N, 10A, 11A, 12F, 15A, 15B, 15C, 16F, 17F, 19A, 20A, 22F, 23A, 23B, 24F, 31, 33F, 35B
 notes: "https://www.merck.com/product/usa/pi_circulars/c/capvaxive/capvaxive_pi.pdf\r
 
   https://www.ema.europa.eu/en/medicines/human/EPAR/capvaxive#product-details\r\n"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1722503441
 updated_at: 1739125473
-generic_vaccine_id: 1280
+injection_methods:
+- intramuscular
 other_names:
 - 21valentpneumococcalvaccine
 codes:

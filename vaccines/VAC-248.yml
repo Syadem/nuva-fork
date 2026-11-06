@@ -1,13 +1,13 @@
 ---
 id: 248
+generic: false
+generic_vaccine_id: 163
 name: HINKUYS KAROKOE
 description: Pertussis (whole-cell inactivated) vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689128
 updated_at: 1698916772
-generic_vaccine_id: 163
+injection_methods: []
 other_names:
 - HINKUYSKAROKOE
 codes:

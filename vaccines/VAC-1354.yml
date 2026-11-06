@@ -1,5 +1,7 @@
 ---
 id: 1354
+generic: false
+generic_vaccine_id: 1181
 name: EUFORVAC
 description: Vaccin pédiatrique diphtérique (anatoxine, dose standard), tétanique (anatoxine), coquelucheux (entier, dose standard), hépatite B et anti-Haemophilus influenzae type b (conjugué à l'anatoxine tétanique)
 notes: "https://www.mfds.go.kr/eng/brd/m_30/view.do?seq=70647&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=2\r
@@ -7,12 +9,10 @@ notes: "https://www.mfds.go.kr/eng/brd/m_30/view.do?seq=70647&srchFr=&srchTo=&sr
   \r
 
   Plus commercialisé."
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1743668632
 updated_at: 1743668632
-generic_vaccine_id: 1181
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

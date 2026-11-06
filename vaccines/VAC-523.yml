@@ -1,15 +1,15 @@
 ---
 id: 523
+generic: false
+generic_vaccine_id: 860
 name: GARDASIL 9
 description: Human Papillomavirus vaccine, based on VLP (Virus Like Particles), nonavalent (types 6, 11, 16, 18, 31, 33, 45, 52, and 58), recombinant, adsorbed
 notes:
-generic: false
+created_at: 1626689126
+updated_at: 1776950302
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689126
-updated_at: 1776950302
-generic_vaccine_id: 860
 other_names:
 - papillomavirus
 - HPV

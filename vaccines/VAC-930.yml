@@ -1,14 +1,14 @@
 ---
 id: 930
+generic: false
+generic_vaccine_id: 1135
 name: Ad5-nCoV COVID-19 INHALATION VACCINE
 description: COVID-19 vaccine, non-replicating viral vector, adenovirus type 5, for inhalation
 notes:
-generic: false
-injection_methods:
-- intranasal
 created_at: 1651845390
 updated_at: 1717493147
-generic_vaccine_id: 1135
+injection_methods:
+- intranasal
 other_names:
 - Ad5-nCoV COVID-19 INHALATION VACCINE
 - Ad5-nCoV-IH

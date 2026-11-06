@@ -1,17 +1,17 @@
 ---
 id: 929
+generic: true
 name: Seasonal influenza vaccine, quadrivalent, inactivated, obtained from egg culture, pediatric dose
 description: Seasonal influenza vaccine, quadrivalent, inactivated, obtained from egg culture, pediatric dose
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1651843309
 updated_at: 1791797777
-valence_ids:
-- 279
+injection_methods: []
 other_names:
 - Vaccin Grippe inactivé quadrivalent
+valence_ids:
+- 279
 codes:
 - nomenclature: SYADEM
   code: a879a6c5-468e-4fcc-bddb-f1c2ee3e8a3e

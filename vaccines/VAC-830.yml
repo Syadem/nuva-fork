@@ -1,17 +1,17 @@
 ---
 id: 830
+generic: true
 name: Shingles subunit vaccine, unspecified
 description: Subunit shingles vaccine (currently corresponds to glycoprotein E)
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1635263685
 updated_at: 1788946207
-valence_ids:
-- 159
+injection_methods: []
 other_names:
 - Vaccinzonasousunitaire
+valence_ids:
+- 159
 codes:
 - nomenclature: SYADEM
   code: d1098f99-00d0-488b-82cd-380fe4935a05

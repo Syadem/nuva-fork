@@ -1,14 +1,14 @@
 ---
 id: 1395
+generic: false
+generic_vaccine_id: 153
 name: MUMPS SINOVAC VACCINE
 description: Live attenuated mumps vaccine
 notes: https://www.sinovac.com/en-us/portfolio/mumps
-generic: false
-injection_methods:
-- subcutaneous
 created_at: 1744120501
 updated_at: 1744120501
-generic_vaccine_id: 153
+injection_methods:
+- subcutaneous
 other_names: []
 codes:
 - nomenclature: SYADEM

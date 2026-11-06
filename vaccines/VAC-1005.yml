@@ -1,13 +1,13 @@
 ---
 id: 1005
+generic: false
+generic_vaccine_id: 915
 name: REVAC-B PLUS ADULT VACCINE
 description: Recombinant hepatitis B vaccine, adult dose
 notes:
-generic: false
-injection_methods: []
 created_at: 1659106649
 updated_at: 1713171273
-generic_vaccine_id: 915
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

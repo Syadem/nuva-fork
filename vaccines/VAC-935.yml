@@ -1,13 +1,13 @@
 ---
 id: 935
+generic: false
+generic_vaccine_id: 1116
 name: VACCIN RABIQUE INACTIVE MERIEUX
 description: Whole virion inactivated rabies vaccine, WISTAR PM/WI 38-1503-3M strain, grown on Vero cells, inactivated with ß-propiolactone
 notes:
-generic: false
-injection_methods: []
 created_at: 1652695466
 updated_at: 1713360468
-generic_vaccine_id: 1116
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

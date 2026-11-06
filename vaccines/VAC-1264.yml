@@ -1,18 +1,18 @@
 ---
 id: 1264
+generic: true
 name: Avian influenza A(H5) vaccine, unspecified
 description: Avian influenza A(H5) vaccine, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intramuscular
+notes:
 created_at: 1734387523
 updated_at: 1788793425
-valence_ids:
-- 386
+injection_methods:
+- intramuscular
 other_names:
 - AH5
+valence_ids:
+- 386
 codes:
 - nomenclature: SYADEM
   code: 3d5ca283-48eb-4227-9a2e-0f88f976a617

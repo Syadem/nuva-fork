@@ -1,13 +1,13 @@
 ---
 id: 933
+generic: false
+generic_vaccine_id: 1038
 name: TICOVAC 2,7µg
 description: Tick-borne encephalitis vaccine, whole-virus inactivated, Neudörfl strain, adult dose
 notes:
-generic: false
-injection_methods: []
 created_at: 1652694159
 updated_at: 1713361333
-generic_vaccine_id: 1038
+injection_methods: []
 other_names:
 - vaccin TICOVAC 2
 - 7 MICROGRAMMES

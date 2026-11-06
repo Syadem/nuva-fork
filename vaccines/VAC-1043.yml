@@ -1,16 +1,16 @@
 ---
 id: 1043
+generic: true
 name: COVID-19 vaccine, protein subunit, unspecified
 description: COVID-19 vaccine, protein subunit
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1684223002
 updated_at: 1712828067
+injection_methods: []
+other_names: []
 valence_ids:
 - 53
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: c8dccf5b-ef70-4c0f-b422-6feaac0afa44

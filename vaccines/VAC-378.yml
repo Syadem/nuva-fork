@@ -1,14 +1,14 @@
 ---
 id: 378
+generic: false
+generic_vaccine_id: 1222
 name: SYNAGIS 100 mg (PALIZIVUMAB)
 description: hRSV monoclonal antibody
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689128
 updated_at: 1763391713
-generic_vaccine_id: 1222
+injection_methods:
+- intramuscular
 other_names:
 - SYNAGIS(PALIZIVUMAB)
 codes:

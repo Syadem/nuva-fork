@@ -1,13 +1,13 @@
 ---
 id: 1061
+generic: false
+generic_vaccine_id: 1245
 name: PENBRAYA
 description: Meningococcal polysaccharide (groups A, C, Y, W) tetanus toxoid conjugate, meningococcal B recombinant vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1710717430
 updated_at: 1739832852
-generic_vaccine_id: 1245
+injection_methods: []
 other_names:
 - pembraya
 codes:

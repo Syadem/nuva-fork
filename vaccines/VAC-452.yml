@@ -1,13 +1,13 @@
 ---
 id: 452
+generic: false
+generic_vaccine_id: 601
 name: VT (VACINA TRIPLICE)
 description: Diphtheria toxoid (standard dose), tetanus toxoid and pertussis (whole-cell inactivated or acellular, unspecified dose) pediatric vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689125
 updated_at: 1698914379
-generic_vaccine_id: 601
+injection_methods: []
 other_names:
 - VT(VACINATRIPLICE)
 codes:

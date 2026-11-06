@@ -1,13 +1,13 @@
 ---
 id: 1494
+generic: false
+generic_vaccine_id: 920
 name: DITEBOOSTER
 description: Diphtheria toxoid (low dose) and tetanus toxoid vaccine
 notes: https://www.hpra.ie/find-a-medicine/for-human-use/withdrawn-medicines/details/30398
-generic: false
-injection_methods: []
 created_at: 1767868110
 updated_at: 1767868426
-generic_vaccine_id: 920
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

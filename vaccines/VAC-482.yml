@@ -1,13 +1,13 @@
 ---
 id: 482
+generic: false
+generic_vaccine_id: 84
 name: VEPACEL
 description: Influenza A(H5N1) vaccine (whole virion, Vero cell cultured, inactivated)
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689128
 updated_at: 1692135877
-generic_vaccine_id: 84
+injection_methods: []
 other_names:
 - VEPACEL
 codes:

@@ -1,13 +1,13 @@
 ---
 id: 42
+generic: false
+generic_vaccine_id: 134
 name: VACCIN BCG SSI
 description: Tuberculosis vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689130
 updated_at: 1758795381
-generic_vaccine_id: 134
+injection_methods: []
 other_names:
 - bcgSsi
 - tuberculeuse

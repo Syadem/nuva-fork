@@ -1,19 +1,19 @@
 ---
 id: 1225
+generic: true
 name: Diphtheria (standard dose), tetanus, typhoid (whole inactivated) and paratypoid A and B (whole inactivated) vaccines, unspecified
 description: Diphtheria (standard dose), tetanus, typhoid (whole inactivated) and paratypoid A and B (whole inactivated) vaccines, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717600399
 updated_at: 1788882600
+injection_methods: []
+other_names: []
 valence_ids:
 - 45
 - 67
 - 71
 - 97
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 867c71f4-3e61-48cf-a841-5c26d00648fc

@@ -1,19 +1,19 @@
 ---
 id: 1164
+generic: true
 name: Diphtheria (toxoid, standard dose), tetanus (toxoid), pertussis (acellular multicomponent, standard dose) and Haemophilus influenzae type b (tetanus toxoid conjugate) quadrivalent vaccine DTPaHib, pediatric
 description: Diphtheria (toxoid, standard dose), tetanus (toxoid), pertussis (acellular multicomponent, standard dose) and Haemophilus influenzae type b (tetanus toxoid conjugate) vaccine, pediatric
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717594466
 updated_at: 1788941703
+injection_methods: []
+other_names: []
 valence_ids:
 - 8
 - 67
 - 97
 - 156
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: a1150af8-6380-4b52-9121-5aec013d7e23

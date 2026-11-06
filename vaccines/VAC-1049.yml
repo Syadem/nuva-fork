@@ -1,14 +1,14 @@
 ---
 id: 1049
+generic: false
+generic_vaccine_id: 920
 name: TDVAX
 description: Diphtheria toxoid (low dose) and tetanus toxoid vaccine
 notes: https://www.tdvax.com/documents/3022863/0/prescription-information.pdf/9a77379e-07ee-45ba-80c1-949acdff177d
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1692305597
 updated_at: 1742079245
-generic_vaccine_id: 920
+injection_methods:
+- intramuscular
 other_names:
 - dT
 - Td

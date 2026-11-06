@@ -1,13 +1,13 @@
 ---
 id: 627
+generic: false
+generic_vaccine_id: 114
 name: MORUMAN
 description: Live attenuated measles vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689130
 updated_at: 1742079494
-generic_vaccine_id: 114
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

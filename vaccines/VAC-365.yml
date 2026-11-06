@@ -1,15 +1,15 @@
 ---
 id: 365
+generic: false
+generic_vaccine_id: 113
 name: RUBELLA VACCINE MICROGEN
 description: Live attenuated rubella vaccine
 notes:
-generic: false
+created_at: 1626689123
+updated_at: 1666959921
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689123
-updated_at: 1666959921
-generic_vaccine_id: 113
 other_names:
 - mcrogenrubellavaccine
 - vaccin rubéolemicrogen

@@ -1,14 +1,14 @@
 ---
 id: 660
+generic: false
+generic_vaccine_id: 1124
 name: Chinese-IMB-Inactivated-Covid
 description: COVID-19 vaccine, whole virion inactivated
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689125
 updated_at: 1717511523
-generic_vaccine_id: 1124
+injection_methods:
+- intramuscular
 other_names:
 - covid19
 - Chinese-IMB-Inactivated-Covid

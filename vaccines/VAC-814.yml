@@ -1,18 +1,18 @@
 ---
 id: 814
+generic: true
 name: Pneumococcal conjugate vaccine, serotypes unspecified
 description: Pneumococcal polysaccharide conjugate vaccine, number of serotypes unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intramuscular
+notes:
 created_at: 1635263684
 updated_at: 1744723144
-valence_ids:
-- 184
+injection_methods:
+- intramuscular
 other_names:
 - Pneumopolyosidiqueconjugué
+valence_ids:
+- 184
 codes:
 - nomenclature: SYADEM
   code: b355de36-5ef8-4b89-8b22-0b5304f91df4

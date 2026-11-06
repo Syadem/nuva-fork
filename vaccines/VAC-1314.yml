@@ -1,14 +1,14 @@
 ---
 id: 1314
+generic: false
+generic_vaccine_id: 114
 name: MEASLES SII
 description: Live attenuated measles vaccine
 notes: https://www.seruminstitute.com/product_viral_measles.php
-generic: false
-injection_methods:
-- subcutaneous
 created_at: 1741798733
 updated_at: 1741949332
-generic_vaccine_id: 114
+injection_methods:
+- subcutaneous
 other_names:
 - Vaccinrougeole
 codes:

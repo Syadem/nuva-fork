@@ -1,5 +1,7 @@
 ---
 id: 1051
+generic: false
+generic_vaccine_id: 1244
 name: COMIRNATY OMICRON XBB.1.5 30 µg
 description: COVID-19 mRNA vaccine, subvariant Omicron XBB.1.5, 30 micrograms, adult dose (+ 12 years)
 notes: "COMIRNATY OMICRON XBB.1.5 30 µg\r
@@ -15,12 +17,10 @@ notes: "COMIRNATY OMICRON XBB.1.5 30 µg\r
   Omicron XBB.1.5 subvariant covid 19 mRNA vaccin, 30 microgram\r
 
   PFIZER COMIRNATY-30 XBB.1.5 ADULTE (+ 12 ANS)"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1694901946
 updated_at: 1745575795
-generic_vaccine_id: 1244
+injection_methods:
+- intramuscular
 other_names:
 - COMIRNATY OMICRON XBB.1.5 30 µg
 codes:

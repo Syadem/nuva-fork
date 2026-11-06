@@ -1,14 +1,14 @@
 ---
 id: 1282
+generic: false
+generic_vaccine_id: 925
 name: FLUBIO INFLUENZA HA
 description: Inactivated trivalent seasonal influenza vaccine with surface antigen
 notes: https://www.biofarma.co.id/id/our-product/detail/flubio-vaksin-influenza-ha
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1741084973
 updated_at: 1741094992
-generic_vaccine_id: 925
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

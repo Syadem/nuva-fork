@@ -1,20 +1,20 @@
 ---
 id: 1476
+generic: true
 name: Meningococcal vaccine against A, C, W, Y (conjugated polysaccharide) and B
 description: Meningococcal vaccine against A, C, W, Y (conjugated polysaccharide) and B
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1760025411
 updated_at: 1760025426
+injection_methods: []
+other_names: []
 valence_ids:
 - 41
 - 57
 - 78
 - 118
 - 136
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 4720e79a-730a-4013-af98-f50fdb2fbf07

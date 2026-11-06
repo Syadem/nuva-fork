@@ -1,14 +1,14 @@
 ---
 id: 1510
+generic: false
+generic_vaccine_id: 859
 name: BUTANTAN HPV
 description: Human Papillomavirus vaccine, quadrivalent (types 6, 11, 16, and 18), recombinant
 notes: https://en.butantan.gov.br/portfolio.php
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1773831137
 updated_at: 1773831137
-generic_vaccine_id: 859
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

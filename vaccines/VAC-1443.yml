@@ -1,16 +1,16 @@
 ---
 id: 1443
+generic: true
 name: Influenza vaccine, trivalent, virosomal, unspecified
 description: Influenza vaccine, trivalent, virosomal, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1747909272
 updated_at: 1747909272
+injection_methods: []
+other_names: []
 valence_ids:
 - 351
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 05800673-6faa-4d45-bb70-51f5b5ce826a

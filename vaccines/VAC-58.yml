@@ -1,15 +1,15 @@
 ---
 id: 58
+generic: false
+generic_vaccine_id: 653
 name: TWINRIX 10 µg
 description: Combined hepatitis A and B vaccine, pediatric dose
 notes:
-generic: false
+created_at: 1626689123
+updated_at: 1744205621
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689123
-updated_at: 1744205621
-generic_vaccine_id: 653
 other_names:
 - TWINRIXENFANTS
 - hepatitea

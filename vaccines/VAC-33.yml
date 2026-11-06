@@ -1,13 +1,13 @@
 ---
 id: 33
+generic: false
+generic_vaccine_id: 113
 name: RUDIVAX
 description: Live attenuated rubella vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689125
 updated_at: 1758792533
-generic_vaccine_id: 113
+injection_methods: []
 other_names:
 - RUDIVAX
 - rubeole

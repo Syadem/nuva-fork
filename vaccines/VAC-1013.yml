@@ -1,13 +1,13 @@
 ---
 id: 1013
+generic: false
+generic_vaccine_id: 1159
 name: FLUBLOK TRIVALENT
 description: Trivalent recombinant seasonal influenza vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1660120708
 updated_at: 1712937454
-generic_vaccine_id: 1159
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

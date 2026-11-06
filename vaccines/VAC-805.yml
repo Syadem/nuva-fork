@@ -1,17 +1,17 @@
 ---
 id: 805
+generic: true
 name: Cholera whole-cell inactivated vaccine, unspecified
 description: Inactivated whole-cell cholera vaccine for injection
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1635263684
 updated_at: 1788946662
-valence_ids:
-- 4
+injection_methods: []
 other_names:
 - Vaccincholériqueentierinactivé
+valence_ids:
+- 4
 codes:
 - nomenclature: SYADEM
   code: fce73bb6-983e-483e-91ff-f83015de6ec4

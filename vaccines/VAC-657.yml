@@ -1,13 +1,13 @@
 ---
 id: 657
+generic: false
+generic_vaccine_id: 1124
 name: Chinese-WIBP-Vero-Inactivated-Covid
 description: COVID-19 vaccine, whole virion inactivated (Vero cell culture)
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689120
 updated_at: 1717495383
-generic_vaccine_id: 1124
+injection_methods: []
 other_names:
 - SinopharmVeroInactivated
 - covid19

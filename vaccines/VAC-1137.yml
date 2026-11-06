@@ -1,16 +1,16 @@
 ---
 id: 1137
+generic: true
 name: Tick-borne encephalitis whole inactivated vaccine, strain K23, unspecified
 description: Whole inactivated tick-borne encephalitis vaccine, strain K23, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717591913
 updated_at: 1788943105
+injection_methods: []
+other_names: []
 valence_ids:
 - 312
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 0c2756a9-5644-4e50-8ffe-a2dea968b5ed

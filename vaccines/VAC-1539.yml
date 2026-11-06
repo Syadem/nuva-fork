@@ -1,20 +1,20 @@
 ---
 id: 1539
+generic: true
 name: Meningococcal broad-spectrum vaccine against serogroups A, B, C, W and Y
 description: Meningococcal broad-spectrum vaccine against serogroups A, B, C, W and Y
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1789032382
 updated_at: 1789032382
+injection_methods: []
+other_names: []
 valence_ids:
 - 98
 - 268
 - 269
 - 274
 - 275
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 0416f4f7-c424-4562-b9ab-08cb8096ff30

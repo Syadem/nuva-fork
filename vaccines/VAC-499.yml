@@ -1,13 +1,13 @@
 ---
 id: 499
+generic: false
+generic_vaccine_id: 358
 name: BERIRAB
 description: Rabies immunoglobulin, human origin
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689125
 updated_at: 1777306105
-generic_vaccine_id: 358
+injection_methods: []
 other_names:
 - BENIRAB(immunoglobulines)
 codes:

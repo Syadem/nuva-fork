@@ -1,14 +1,14 @@
 ---
 id: 444
+generic: false
+generic_vaccine_id: 919
 name: VAXEM-HIB
 description: Haemophilus influenzae type b (conjugated to diphtheria toxoid) vaccine
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689126
 updated_at: 1698679079
-generic_vaccine_id: 919
+injection_methods:
+- intramuscular
 other_names:
 - VAXEMHIB
 codes:

@@ -1,13 +1,13 @@
 ---
 id: 492
+generic: false
+generic_vaccine_id: 925
 name: AFLURIA
 description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, split virion
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689125
 updated_at: 1791974609
-generic_vaccine_id: 925
+injection_methods: []
 other_names:
 - afluria
 - affluria

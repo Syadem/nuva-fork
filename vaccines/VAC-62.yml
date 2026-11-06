@@ -1,15 +1,15 @@
 ---
 id: 62
+generic: false
+generic_vaccine_id: 925
 name: VAXIGRIP
 description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, split virion
 notes:
-generic: false
+created_at: 1626689126
+updated_at: 1791912388
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689126
-updated_at: 1791912388
-generic_vaccine_id: 925
 other_names:
 - VAXIGRIP
 - grippe

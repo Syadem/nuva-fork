@@ -1,13 +1,13 @@
 ---
 id: 360
+generic: false
+generic_vaccine_id: 623
 name: RIMPARIX
 description: Live attenuated measles and mumps vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689124
 updated_at: 1666959921
-generic_vaccine_id: 623
+injection_methods: []
 other_names:
 - rimparix
 codes:

@@ -1,16 +1,16 @@
 ---
 id: 1368
+generic: false
+generic_vaccine_id: 1170
 name: INCOVACC
 description: COVID-19 vaccine, non-replicating chimpanzee adenoviral vector ChAdOx1 encoding the SARS-CoV-2 spike protein
 notes: "https://www.bharatbiotech.com/images/incovacc/incovacc-factsheet.pdf\r
 
   https://www.bharatbiotech.com/intranasal-vaccine.html"
-generic: false
-injection_methods:
-- intranasal
 created_at: 1743762547
 updated_at: 1743762547
-generic_vaccine_id: 1170
+injection_methods:
+- intranasal
 other_names: []
 codes:
 - nomenclature: SYADEM

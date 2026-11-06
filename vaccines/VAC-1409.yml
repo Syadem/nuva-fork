@@ -1,16 +1,16 @@
 ---
 id: 1409
+generic: true
 name: COVID-19 mRNA vaccine, Omicron JN.1 subvariant, 50 micrograms per dose, multidose vial
 description: COVID-19 mRNA vaccine, Omicron JN.1 subvariant, 50 micrograms per dose, multidose vial
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1744621133
 updated_at: 1745593070
+injection_methods: []
+other_names: []
 valence_ids:
 - 388
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 870e844a-ce65-413f-8657-ba8371ce6374

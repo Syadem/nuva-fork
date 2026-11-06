@@ -1,14 +1,14 @@
 ---
 id: 1352
+generic: false
+generic_vaccine_id: 938
 name: TERATECT
 description: Quadrivalent inactivated seasonal influenza vaccine, split virion
 notes: https://www.mfds.go.kr/eng/brd/m_30/view.do?seq=69799&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=3
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1743609386
 updated_at: 1743609386
-generic_vaccine_id: 938
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

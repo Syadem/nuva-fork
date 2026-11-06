@@ -1,14 +1,14 @@
 ---
 id: 759
+generic: false
+generic_vaccine_id: 1113
 name: EuCorVac-19
 description: COVID-19 vaccine, protein subunit, recombinant spike protein, with adjuvant unspecified
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689127
 updated_at: 1717508372
-generic_vaccine_id: 1113
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

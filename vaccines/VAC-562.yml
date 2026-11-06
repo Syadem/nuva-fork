@@ -1,15 +1,15 @@
 ---
 id: 562
+generic: false
+generic_vaccine_id: 938
 name: INFLUVAC TETRA
 description: Quadrivalent inactivated seasonal influenza vaccine with surface antigens
 notes:
-generic: false
+created_at: 1626689123
+updated_at: 1759929573
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689123
-updated_at: 1759929573
-generic_vaccine_id: 938
 other_names: []
 codes:
 - nomenclature: SYADEM

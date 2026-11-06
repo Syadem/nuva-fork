@@ -1,13 +1,13 @@
 ---
 id: 228
+generic: false
+generic_vaccine_id: 113
 name: ERVEVAX RA 27/3
 description: Live attenuated rubella vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689124
 updated_at: 1666959919
-generic_vaccine_id: 113
+injection_methods: []
 other_names:
 - ERVEVAXRA27/3
 - ERVEVAXRA273

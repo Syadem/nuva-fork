@@ -1,5 +1,7 @@
 ---
 id: 1504
+generic: false
+generic_vaccine_id: 920
 name: TD-PUR
 description: Diphtheria toxoid (low dose) and tetanus toxoid vaccine
 notes: "https://www.pei.de/EN/newsroom/hp-news/2025/250917-td-vaccine-td-immun-available-primary-booster-vaccination.html?utm_source=chatgpt.com\r
@@ -7,12 +9,10 @@ notes: "https://www.pei.de/EN/newsroom/hp-news/2025/250917-td-vaccine-td-immun-a
   \r
 
   https://www.phel.ch/jcms/phel_275864/td-pur-imp-d-vaccin-est-definitivement-retire-du-marche-et-est-remplace-par-boostrix-vaccin-antitetanique-antidiphterique-et-anticoqueluche-ou-revaxis-vaccin-antitetanique-antidiphterique-et-antipoliomyelite?utm_source=chatgpt.com"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1769684560
 updated_at: 1769684560
-generic_vaccine_id: 920
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

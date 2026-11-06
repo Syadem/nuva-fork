@@ -1,13 +1,14 @@
 ---
 id: 1121
+generic: true
 name: Diphtheria (standard dose), tetanus, pertussis (acellular multicomponent, standard dose, Haemophilus influenzae type b (conjugated with tetanus toxoid), poliomyelitis (whole inactivated, trivalent) and hepatitis B (recombinant) hexavalent DTPaHibPHepB vaccine, pediatric
 description: Diphtheria (toxoid, standard dose), tetanus (toxoid), pertussis (acellular multicomponent, standard dose, 3 components), anti-Haemophilus influenzae type b (conjugated with tetanus toxoid), poliomyelitis (whole inactivated, trivalent) and hepatitis B (recombinant), pediatric
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717590413
 updated_at: 1788943707
+injection_methods: []
+other_names: []
 valence_ids:
 - 8
 - 56
@@ -15,7 +16,6 @@ valence_ids:
 - 97
 - 114
 - 156
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 7c727dc6-33cf-41c9-98e7-4e02e5d71227

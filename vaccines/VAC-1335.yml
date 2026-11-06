@@ -1,14 +1,14 @@
 ---
 id: 1335
+generic: false
+generic_vaccine_id: 84
 name: INCELLIPAN
 description: Influenza A(H5N1) vaccine (split virion)
 notes: https://www.ema.europa.eu/en/medicines/human/EPAR/incellipan
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1742919373
 updated_at: 1742919533
-generic_vaccine_id: 84
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

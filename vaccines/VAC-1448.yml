@@ -1,15 +1,15 @@
 ---
 id: 1448
+generic: false
+generic_vaccine_id: 134
 name: BCG VACCINE MERCK
 description: Live attenuated tuberculosis vaccine
 notes: "https://www.merck.com/product/usa/pi_circulars/b/bcg_vaccine/bcg_pi.pdf\r
 
   \r\n"
-generic: false
-injection_methods: []
 created_at: 1752659734
 updated_at: 1752659734
-generic_vaccine_id: 134
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

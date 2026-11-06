@@ -1,14 +1,14 @@
 ---
 id: 1047
+generic: false
+generic_vaccine_id: 1224
 name: ABRYSVO
 description: Respiratory Syncytial Virus (RSV) vaccine, recombinant prefusion F glycoproteins of RSV, bivalent (subtypes A and B), non-adjuvanted
 notes: The vaccine is supplied as a vial of lyophilized recombinant RSV F glycoproteins from RSV subtypes A and B stabilized in the prefusion conformation (RSVpreF A and preF B).
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1690144988
 updated_at: 1732805673
-generic_vaccine_id: 1224
+injection_methods:
+- intramuscular
 other_names:
 - vrs
 - syncytial

@@ -1,14 +1,14 @@
 ---
 id: 900
+generic: false
+generic_vaccine_id: 1163
 name: PREVENAR 20 (previously APEXXNAR)
 description: "Pneumococcal polysaccharide conjugate vaccine, 20-valent, adsorbed, serotypes 1, 3, 4, 5, 6A, 6B, 7F, 8, 9V, 10A, 11A, 12F, 14, 15B, 18C, 19A, 19F, 22F, 23F and 33F - Other name : Prevnar 20 in the USA"
 notes: "Le 13 mars 2024 : le vaccin APEXXNAR change de nom pour devenir PREVENAR 20 et est autorisé par la Commission européenne dès l'âge 6 semaines. Le 7 mars 2024 : vaccin agréé à l'usage des collectivités et remboursable pour la prévention des maladies invasives et des pneumonies causées par Streptococcus pneumoniae chez les personnes âgées de 18 ans et plus (selon les recommandations en vigueur de la HAS datant du 27 juillet 2023). Prix : 49,82 € HT et 58,24 € TTC. Autorisé dans l'Union européenne le 14 février 2022. Ce vaccin n'est pas disponible en France actuellement. La Haute Autorité de santé a publié le 4 août 2023 de nouvelles recommandations concernant la place de ce vaccin dans la stratégie de lutte contre les infections à pneumocoque."
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1649823103
 updated_at: 1729520072
-generic_vaccine_id: 1163
+injection_methods:
+- intramuscular
 other_names:
 - Apexnar
 - prevnar20

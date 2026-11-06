@@ -1,14 +1,14 @@
 ---
 id: 1340
+generic: false
+generic_vaccine_id: 1536
 name: SPIKEVAX BA.1 0,1 mg/mL dose 50 µg
 description: COVID-19 Bivalent mRNA vaccine, original virus + Omicron BA.1 variant, 50 micrograms per dose, multidose vial
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1743085333
 updated_at: 1743762790
-generic_vaccine_id: 1536
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

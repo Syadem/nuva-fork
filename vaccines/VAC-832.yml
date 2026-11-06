@@ -1,17 +1,17 @@
 ---
 id: 832
+generic: true
 name: Herpes Simplex vaccine, unspecified
 description: Inactivated herpes simplex vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1635263684
 updated_at: 1666959929
-valence_ids:
-- 129
+injection_methods: []
 other_names:
 - Vaccinherpesinactivé
+valence_ids:
+- 129
 codes:
 - nomenclature: SYADEM
   code: e4c36e87-bef8-42b8-b667-af9524bc61e6

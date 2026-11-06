@@ -1,20 +1,14 @@
 ---
 id: 598
+generic: true
 name: DTwPHibHepB pentavalent vaccine, unspecified
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (whole-cell inactivated), Haemophilus influenzae type b (conjugated, unspecified) and hepatitis B (recombinant) pediatric vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intramuscular
+notes:
 created_at: 1626689130
 updated_at: 1698916900
-valence_ids:
-- 10
-- 67
-- 97
-- 103
-- 114
+injection_methods:
+- intramuscular
 other_names:
 - DTCeHibHepB
 - dtcehibhb
@@ -32,6 +26,12 @@ other_names:
 - DTWpHibHepB
 - D.T.Wp.Hib.HepB
 - D/T/Wp/Hib/HepB
+valence_ids:
+- 10
+- 67
+- 97
+- 103
+- 114
 codes:
 - nomenclature: SYADEM
   code: b3296602-28cc-4ddd-af21-ceb379858cd8

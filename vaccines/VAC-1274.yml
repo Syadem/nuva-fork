@@ -1,14 +1,14 @@
 ---
 id: 1274
+generic: false
+generic_vaccine_id: 1172
 name: d BIOMED
 description: Diphtheria toxoid vaccine (reduced dose)
 notes: https://biomed.pl/wp-content/uploads/2024/07/Ulotka_d.pdf
-generic: false
-injection_methods:
-- subcutaneous
 created_at: 1739962456
 updated_at: 1739963121
-generic_vaccine_id: 1172
+injection_methods:
+- subcutaneous
 other_names: []
 codes:
 - nomenclature: SYADEM

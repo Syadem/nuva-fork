@@ -1,14 +1,14 @@
 ---
 id: 1458
+generic: false
+generic_vaccine_id: 136
 name: TRIDIPIGEN
 description: Paediatric diphtheria vaccine (toxoid, standard dose), tetanus vaccine (toxoid) and pertussis vaccine (whole inactivated)
 notes: https://jeffreydachmd.com/wp-content/uploads/2017/01/discontinued_vaccines-1.pdf
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1753802744
 updated_at: 1753802744
-generic_vaccine_id: 136
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

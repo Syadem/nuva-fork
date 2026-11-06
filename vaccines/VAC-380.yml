@@ -1,17 +1,14 @@
 ---
 id: 380
+generic: true
 name: T.Polio, unspecified
 description: Tetanus toxoid and inactivated polio (trivalent) vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intramuscular
+notes:
 created_at: 1626689128
 updated_at: 1747737487
-valence_ids:
-- 56
-- 67
+injection_methods:
+- intramuscular
 other_names:
 - TPOLIO
 - TP
@@ -23,6 +20,9 @@ other_names:
 - tetanos-poliomyelite
 - Tétanos
 - Polio
+valence_ids:
+- 56
+- 67
 codes:
 - nomenclature: SYADEM
   code: 3051a224-5829-4fd8-a59c-c3913b663d68

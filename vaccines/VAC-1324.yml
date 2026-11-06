@@ -1,14 +1,14 @@
 ---
 id: 1324
+generic: false
+generic_vaccine_id: 1423
 name: NASOVAC-S
 description: Influenza A(H1N1)pdm09 pandemic vaccine, live attenuated, obtained from egg culture
 notes: https://www.seruminstitute.com/product_influenza_vaccines.php
-generic: false
-injection_methods:
-- intranasal
 created_at: 1741885648
 updated_at: 1791796049
-generic_vaccine_id: 1423
+injection_methods:
+- intranasal
 other_names: []
 codes:
 - nomenclature: SYADEM

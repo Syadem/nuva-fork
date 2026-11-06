@@ -1,14 +1,14 @@
 ---
 id: 563
+generic: false
+generic_vaccine_id: 938
 name: ALPHA-RIX-TETRA
 description: Quadrivalent inactivated seasonal influenza vaccine, split virion
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689120
 updated_at: 1791272612
-generic_vaccine_id: 938
+injection_methods:
+- intramuscular
 other_names:
 - AlphaRIXTetra
 - α-RIX-Tetra

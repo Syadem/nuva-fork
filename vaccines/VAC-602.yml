@@ -1,23 +1,23 @@
 ---
 id: 602
+generic: true
 name: DTaP - Diphtheria-Tetanus-Pertussis vaccine, standard dose, unspecified
 description: Diphtheria toxoid (standard dose), tetanus toxoid and pertussis (multicomponent acellular, standard dose) pediatric vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intramuscular
+notes:
 created_at: 1626689126
 updated_at: 1747837752
-valence_ids:
-- 8
-- 67
-- 97
+injection_methods:
+- intramuscular
 other_names:
 - DTCa
 - D.T.Ca
 - D/T/Ca
 - DTaP
+valence_ids:
+- 8
+- 67
+- 97
 codes:
 - nomenclature: SYADEM
   code: d540e6ec-792d-4235-8324-20a936a9755a

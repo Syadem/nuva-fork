@@ -1,14 +1,14 @@
 ---
 id: 760
+generic: false
+generic_vaccine_id: 1535
 name: ReCOV
 description: COVID-19 vaccine, protein subunit, recombinant spike protein, with adjuvant unspecified
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689129
 updated_at: 1717516131
-generic_vaccine_id: 1535
+injection_methods:
+- intramuscular
 other_names:
 - recov
 codes:

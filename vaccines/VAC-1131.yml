@@ -1,13 +1,14 @@
 ---
 id: 1131
+generic: true
 name: Pneumococcal 17-valent unconjugated vaccine, unspecified
 description: Unconjugated pneumococcal polysaccharide vaccine, 17-valent, serotypes 1, 2, 3, 4, 6A, 7F, 8, 9N, 11A, 12F, 14, 15F, 17F, 18C, 19F, 23F and 25
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717591432
 updated_at: 1788943215
+injection_methods: []
+other_names: []
 valence_ids:
 - 206
 - 207
@@ -26,7 +27,6 @@ valence_ids:
 - 228
 - 232
 - 233
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: b75565d0-5908-4dff-ac1b-560f4044aea2

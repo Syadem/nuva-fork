@@ -1,5 +1,7 @@
 ---
 id: 1078
+generic: false
+generic_vaccine_id: 1118
 name: ENVACGEN
 description: Whole inactivated enterovirus A71 vaccine
 notes: "Indiqué pour l'immunisation active pour la prévention des maladies causées par l'entérovirus 71 chez les enfants âgés de 2 mois à moins de 6 ans.\r
@@ -7,12 +9,10 @@ notes: "Indiqué pour l'immunisation active pour la prévention des maladies cau
   \r
 
   https://trpma.org.tw/eng/members/34"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1714121908
 updated_at: 1717679606
-generic_vaccine_id: 1118
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,14 +1,14 @@
 ---
 id: 1336
+generic: false
+generic_vaccine_id: 1421
 name: KOSTAIVE
 description: COVID-19 vaccine, mRNA encoding the SARS-CoV-2 spike protein, original virus
 notes: https://www.ema.europa.eu/en/medicines/human/EPAR/kostaive
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1742920478
 updated_at: 1743762915
-generic_vaccine_id: 1421
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

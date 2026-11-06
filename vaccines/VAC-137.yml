@@ -1,16 +1,13 @@
 ---
 id: 137
+generic: true
 name: DT vaccine, unspecified
 description: Diphtheria toxoid (standard dose) and tetanus toxoid pediatric vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689130
 updated_at: 1720095976
-valence_ids:
-- 67
-- 97
+injection_methods: []
 other_names:
 - DT
 - diphterie
@@ -18,6 +15,9 @@ other_names:
 - diphterietetanos
 - D.T.
 - vaccindt
+valence_ids:
+- 67
+- 97
 codes:
 - nomenclature: SYADEM
   code: bcf0703d-42c4-4ef3-be04-c87bac726ddb

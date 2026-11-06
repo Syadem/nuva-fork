@@ -1,13 +1,13 @@
 ---
 id: 698
+generic: false
+generic_vaccine_id: 1176
 name: hAd5-COVID-19
 description: COVID-19 vaccine, non-replicating adenovirus 5 vector encoding the SARS-CoV-2 S and N protein
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689128
 updated_at: 1684151144
-generic_vaccine_id: 1176
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

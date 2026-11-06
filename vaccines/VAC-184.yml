@@ -1,13 +1,13 @@
 ---
 id: 184
+generic: false
+generic_vaccine_id: 1165
 name: ALDIANA
 description: Diphtheria toxoid (standard dose) pediatric vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689129
 updated_at: 1666959919
-generic_vaccine_id: 1165
+injection_methods: []
 other_names:
 - ALDIANA
 codes:

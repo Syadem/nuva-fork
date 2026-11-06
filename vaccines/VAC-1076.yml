@@ -1,5 +1,7 @@
 ---
 id: 1076
+generic: false
+generic_vaccine_id: 1191
 name: UROMUNE (MV 140)
 description: Vaccine to prevent urinary tract infections in women
 notes: "essai clinique\r
@@ -7,12 +9,10 @@ notes: "essai clinique\r
   https://redleafmedical.com/fr/uromune-mv-140-in-recurrent-urinary-tract-infections/#:~:text=UROMUNE%20(MV140)%20est%20un%20vaccin,sous%20forme%20de%20cystite%20r%C3%A9cidivante.\r
 
   Publication : https://redleafmedical.com/wp-content/uploads/Systematic-Review-UROMUNE_CUAJ.pdf\r\n"
-generic: false
-injection_methods:
-- oral
 created_at: 1713530244
 updated_at: 1740758194
-generic_vaccine_id: 1191
+injection_methods:
+- oral
 other_names: []
 codes:
 - nomenclature: SYADEM

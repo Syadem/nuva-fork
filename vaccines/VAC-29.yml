@@ -1,14 +1,14 @@
 ---
 id: 29
+generic: false
+generic_vaccine_id: 585
 name: REPEVAX
 description: Diphtheria toxoid (low dose), tetanus toxoid, pertussis (multicomponent acellular, 5 components, low dose) and inactivated polio (trivalent) vaccine, adsorbed
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689120
 updated_at: 1761142853
-generic_vaccine_id: 585
+injection_methods:
+- intramuscular
 other_names:
 - REPEVAX
 - repevacs

@@ -1,14 +1,14 @@
 ---
 id: 5
+generic: false
+generic_vaccine_id: 1213
 name: DUKORAL
 description: Oral cholera vaccine containing recombinant cholera toxin subunit B (rTCB) and inactivated bacteria with an adjuvant role
 notes:
-generic: false
-injection_methods:
-- oral
 created_at: 1626689121
 updated_at: 1764003230
-generic_vaccine_id: 1213
+injection_methods:
+- oral
 other_names:
 - DUKORAL
 - cholera

@@ -1,14 +1,14 @@
 ---
 id: 1390
+generic: false
+generic_vaccine_id: 102
 name: HEALIVE
 description: Inactivated hepatitis A vaccine
 notes: https://www.sinovac.com/en-us/portfolio/healive
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1744108469
 updated_at: 1744114110
-generic_vaccine_id: 102
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

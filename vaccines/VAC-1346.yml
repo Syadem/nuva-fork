@@ -1,14 +1,14 @@
 ---
 id: 1346
+generic: false
+generic_vaccine_id: 938
 name: FLU QUADRIVALENT MCV
 description: Quadrivalent inactivated seasonal influenza vaccine, split virion
 notes: https://www.medigenvac.com/en/research_vaccine_view.php?id=4
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1743580694
 updated_at: 1743580694
-generic_vaccine_id: 938
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

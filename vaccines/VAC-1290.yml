@@ -1,14 +1,14 @@
 ---
 id: 1290
+generic: false
+generic_vaccine_id: 853
 name: MOPV1 BIO FARMA
 description: Polio vaccine (live attenuated, monovalent) against poliovirus 1, orally
 notes: https://www.biofarma.co.id/id/our-product/detail/vaksin-poliomyelitis-oral-monovalen-tipe-1
-generic: false
-injection_methods:
-- oral
 created_at: 1741101909
 updated_at: 1741101909
-generic_vaccine_id: 853
+injection_methods:
+- oral
 other_names: []
 codes:
 - nomenclature: SYADEM

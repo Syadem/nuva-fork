@@ -1,13 +1,13 @@
 ---
 id: 1099
+generic: false
+generic_vaccine_id: 1156
 name: BABYBIG
 description: Intravenous human immunoglobulin against infant botulism types A and B
 notes:
-generic: false
-injection_methods: []
 created_at: 1715868576
 updated_at: 1715931139
-generic_vaccine_id: 1156
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

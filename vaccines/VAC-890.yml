@@ -1,13 +1,13 @@
 ---
 id: 890
+generic: false
+generic_vaccine_id: 424
 name: NEOTYF
 description: Live attenuated typhoid vaccine, Salmonella Typhi Strain Ty21A, oral
 notes:
-generic: false
-injection_methods: []
 created_at: 1649080918
 updated_at: 1713788797
-generic_vaccine_id: 424
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

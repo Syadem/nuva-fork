@@ -1,13 +1,13 @@
 ---
 id: 496
+generic: false
+generic_vaccine_id: 497
 name: GAMMATETANOS (immunoglobulines)
 description: Anti-tetanus immunoglobulin
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689126
 updated_at: 1757495508
-generic_vaccine_id: 497
+injection_methods: []
 other_names:
 - GAMMATETANOS
 - Immunoglobulines

@@ -1,5 +1,7 @@
 ---
 id: 1056
+generic: false
+generic_vaccine_id: 1237
 name: R21/MATRIX-M
 description: R21/Matrix-M pre-erythrocytic malaria vaccine
 notes: "https://www.who.int/fr/news/item/02-10-2023-who-recommends-r21-matrix-m-vaccine-for-malaria-prevention-in-updated-advice-on-immunization#:~:text=Le%20vaccin%20R21%20est%20le,Organisation%20avait%20recommand%C3%A9%20en%202021.\r
@@ -11,11 +13,9 @@ notes: "https://www.who.int/fr/news/item/02-10-2023-who-recommends-r21-matrix-m-
   https://www.thelancet.com/cms/10.1016/S1473-3099(22)00442-X/attachment/0d3c896e-a22b-4b4d-9494-66875432c5b9/mmc2.pdf\r
 
   \r\n"
-generic: false
-injection_methods: []
 created_at: 1702917530
 updated_at: 1712651050
-generic_vaccine_id: 1237
+injection_methods: []
 other_names:
 - R21
 codes:

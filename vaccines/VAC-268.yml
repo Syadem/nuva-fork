@@ -1,13 +1,13 @@
 ---
 id: 268
+generic: false
+generic_vaccine_id: 270
 name: IPOL
 description: Inactivated polio (trivalent) vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689123
 updated_at: 1666959920
-generic_vaccine_id: 270
+injection_methods: []
 other_names:
 - IPOL
 codes:

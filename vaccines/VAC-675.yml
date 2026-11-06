@@ -1,13 +1,13 @@
 ---
 id: 675
+generic: false
+generic_vaccine_id: 1166
 name: Imperial-College-RNA-Covid
 description: COVID-19 vaccine, mRNA encoding the SARS-CoV-2 spike protein, ongoing clinical trial
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689128
 updated_at: 1717514821
-generic_vaccine_id: 1166
+injection_methods: []
 other_names:
 - ImperialCollegeRNACovid
 - covid19

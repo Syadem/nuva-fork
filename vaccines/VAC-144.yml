@@ -1,21 +1,21 @@
 ---
 id: 144
+generic: true
 name: Cholera vaccine, unspecified
 description: Cholera vaccine, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689124
 updated_at: 1739264972
-valence_ids:
-- 81
+injection_methods: []
 other_names:
 - cholera
 - colera
 - collera
 - cholerique
 - colerique
+valence_ids:
+- 81
 codes:
 - nomenclature: SYADEM
   code: a2b5348e-26f0-4672-834c-4777168ab2cf

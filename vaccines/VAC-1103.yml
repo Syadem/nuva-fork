@@ -1,13 +1,13 @@
 ---
 id: 1103
+generic: false
+generic_vaccine_id: 1148
 name: HIB-VAX
 description: Haemophilus influenzae type b non-conjugated polysaccharide vaccine
 notes: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4745871/
-generic: false
-injection_methods: []
 created_at: 1716194219
 updated_at: 1716195363
-generic_vaccine_id: 1148
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

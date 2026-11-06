@@ -1,14 +1,14 @@
 ---
 id: 785
+generic: false
+generic_vaccine_id: 610
 name: BOOSTAGEN
 description: Diphtheria toxoid (low dose), tetanus toxoid and pertussis (multicomponent acellular, low dose) vaccine
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1635263683
 updated_at: 1698917112
-generic_vaccine_id: 610
+injection_methods:
+- intramuscular
 other_names:
 - BOOSTAGEN
 codes:

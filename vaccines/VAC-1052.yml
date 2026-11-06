@@ -1,13 +1,13 @@
 ---
 id: 1052
+generic: false
+generic_vaccine_id: 1214
 name: COMIRNATY OMICRON XBB.1.5 10 µg
 description: COVID-19 mRNA vaccine, subvariant Omicron XBB.1.5, 30 micrograms, adult dose (+ 12 years)
 notes: COMIRNATY OMICRON XBB.1.5 10 µg
-generic: false
-injection_methods: []
 created_at: 1694905859
 updated_at: 1745575782
-generic_vaccine_id: 1214
+injection_methods: []
 other_names:
 - XBB.1.5 10 µg
 - COMIRNATY OMICRON XBB.1.5 10 µg

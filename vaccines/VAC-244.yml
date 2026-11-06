@@ -1,14 +1,14 @@
 ---
 id: 244
+generic: false
+generic_vaccine_id: 914
 name: HEPRECOMB
 description: Recombinant hepatitis B vaccine with 10 micrograms of HBs antigen for use from the age of 11 years
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689129
 updated_at: 1666959919
-generic_vaccine_id: 914
+injection_methods:
+- intramuscular
 other_names:
 - HEPRECOMB
 codes:

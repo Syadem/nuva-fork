@@ -1,17 +1,17 @@
 ---
 id: 1263
+generic: true
 name: COVID-19 mRNA vaccine encoding the SARS-COV-2 spike protein, authorized
 description: COVID-19 mRNA vaccine encoding the SARS-COV-2 spike protein, authorized
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intramuscular
+notes:
 created_at: 1732871175
 updated_at: 1745593112
+injection_methods:
+- intramuscular
+other_names: []
 valence_ids:
 - 43
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: ceb11761-f255-4719-b152-bc4ede8bd5c6

@@ -1,13 +1,13 @@
 ---
 id: 292
+generic: false
+generic_vaccine_id: 114
 name: MEASLES VACCINE DK3
 description: Live attenuated measles vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689124
 updated_at: 1692133696
-generic_vaccine_id: 114
+injection_methods: []
 other_names:
 - MEASLESVACCINEDK3
 codes:

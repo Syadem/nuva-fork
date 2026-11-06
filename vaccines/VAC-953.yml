@@ -1,13 +1,13 @@
 ---
 id: 953
+generic: false
+generic_vaccine_id: 1217
 name: PROCOMVAX
 description: Hepatitis B and Haemophilus influenzae type b vaccine (OMP conjugate)
 notes:
-generic: false
-injection_methods: []
 created_at: 1653492533
 updated_at: 1724084492
-generic_vaccine_id: 1217
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

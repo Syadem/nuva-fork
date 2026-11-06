@@ -1,14 +1,14 @@
 ---
 id: 260
+generic: false
+generic_vaccine_id: 943
 name: IMOVAX Rabies I.D.
 description: Whole virion inactivated rabies vaccine, prepared in human diploid cell culture (HDCV), intradermal
 notes:
-generic: false
-injection_methods:
-- intradermal
 created_at: 1626689130
 updated_at: 1698920699
-generic_vaccine_id: 943
+injection_methods:
+- intradermal
 other_names:
 - IMOVAXRABIESID
 codes:

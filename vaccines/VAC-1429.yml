@@ -1,14 +1,14 @@
 ---
 id: 1429
+generic: false
+generic_vaccine_id: 497
 name: TETANEA
 description: Anti-tetanus immunoglobulin
 notes: https://www.pharmanity.com/medicaments/tetanea-1500-ui-ml-solution-injectable-fragments-f-ab-2-d-immunoglobuline-tetanique-equine-n894n10
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1745504732
 updated_at: 1745504957
-generic_vaccine_id: 497
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

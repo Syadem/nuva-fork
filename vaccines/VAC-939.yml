@@ -1,5 +1,7 @@
 ---
 id: 939
+generic: false
+generic_vaccine_id: 1145
 name: PREHEVBRIO
 description: Recombinant hepatitis B vaccine, three antigens (HbS, pre-S1 and pre-S2)
 notes: "PreHevbrio\r
@@ -13,11 +15,9 @@ notes: "PreHevbrio\r
   HepB-r-3Ag, Vaccin recombinant contre l'hépatite B, trois antigènes (HbS, pré-S1 et pré-S2)\r
 
   HepB-r-3Ag, Hepatitis B recombinant vaccine, three antigens (HbS, pre-S1 et pre-S2)"
-generic: false
-injection_methods: []
 created_at: 1652799765
 updated_at: 1713357555
-generic_vaccine_id: 1145
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

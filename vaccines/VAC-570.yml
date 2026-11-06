@@ -1,14 +1,14 @@
 ---
 id: 570
+generic: false
+generic_vaccine_id: 345
 name: HIBERIX
 description: Haemophilus influenzae type b conjugate vaccine (tetanus protein conjugate)
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689127
 updated_at: 1749026811
-generic_vaccine_id: 345
+injection_methods:
+- intramuscular
 other_names:
 - HIBERIX
 codes:

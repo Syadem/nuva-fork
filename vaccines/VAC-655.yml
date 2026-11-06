@@ -1,19 +1,19 @@
 ---
 id: 655
+generic: true
 name: Diphtheria vaccine, unspecified
 description: Diphtheria toxoid (unspecified dose)
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intramuscular
+notes:
 created_at: 1626689125
 updated_at: 1785318287
-valence_ids:
-- 83
+injection_methods:
+- intramuscular
 other_names:
 - Vaccindiphtérie
 - vaccindiphtérique
+valence_ids:
+- 83
 codes:
 - nomenclature: SYADEM
   code: ff8ae6c6-f48e-43ad-84c0-6fc95506d424

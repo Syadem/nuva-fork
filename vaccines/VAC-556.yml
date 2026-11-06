@@ -1,14 +1,14 @@
 ---
 id: 556
+generic: false
+generic_vaccine_id: 1230
 name: MENITORIX
 description: Haemophilus influenzae type b and meningococcal conjugate vaccine, serogroup C (conjugated to tetanus toxoid)
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689122
 updated_at: 1698771406
-generic_vaccine_id: 1230
+injection_methods:
+- intramuscular
 other_names:
 - Menitorix
 - menintorix

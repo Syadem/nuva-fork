@@ -1,17 +1,17 @@
 ---
 id: 158
+generic: true
 name: Rotavirus vaccine, unspecified
 description: Rotavirus vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689123
 updated_at: 1744795429
-valence_ids:
-- 106
+injection_methods: []
 other_names:
 - rotavirus
+valence_ids:
+- 106
 codes:
 - nomenclature: SYADEM
   code: acdbcd4a-93d5-4458-9d71-ab9060a418f0

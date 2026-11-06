@@ -1,14 +1,14 @@
 ---
 id: 773
+generic: false
+generic_vaccine_id: 1106
 name: ABNCoV2
 description: COVID-19 vaccine, VLP, recombinant spike protein, with or without adjuvant MF56 (squalene)
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689129
 updated_at: 1689856695
-generic_vaccine_id: 1106
+injection_methods:
+- intramuscular
 other_names:
 - ABN covid
 codes:

@@ -1,14 +1,14 @@
 ---
 id: 107
+generic: false
+generic_vaccine_id: 147
 name: CELVAPAN
 description: Influenza A(H1N1)pdm09 pandemic vaccine, whole-virion inactivated, obtained from egg culture
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689122
 updated_at: 1791810884
-generic_vaccine_id: 147
+injection_methods:
+- intramuscular
 other_names:
 - vaccin celvapan
 - vaccin grippe pandémique

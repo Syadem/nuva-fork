@@ -1,17 +1,17 @@
 ---
 id: 813
+generic: true
 name: Pneumococcal unconjugated polysaccharide vaccine, unspecified
 description: Unconjugated pneumococcal polysaccharide vaccine, serotypes unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1635263684
 updated_at: 1744723174
-valence_ids:
-- 185
+injection_methods: []
 other_names:
 - Pneumopolyosidiquenonconjugué
+valence_ids:
+- 185
 codes:
 - nomenclature: SYADEM
   code: 9fb55700-ded8-45fe-bd4d-cf3270fc9890

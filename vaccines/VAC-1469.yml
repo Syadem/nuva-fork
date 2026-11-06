@@ -1,5 +1,7 @@
 ---
 id: 1469
+generic: false
+generic_vaccine_id: 1473
 name: mNEXSPIKE
 description: COVID-19 mRNA vaccine, encoding fragments (NTD and RBD) of the SARS-CoV-2 spike protein, Omicron LP.8.1 subvariant
 notes: "https://www.vidal.fr/actualites/31406-le-vaccin-mnexspike-de-moderna-contre-la-covid-19-obtient-l-approbation-de-la-fda.html\r
@@ -7,12 +9,10 @@ notes: "https://www.vidal.fr/actualites/31406-le-vaccin-mnexspike-de-moderna-con
   https://static.modernatx.com/pm/6cef78f8-8dad-4fc9-83d5-d2fbb7cff867/9f00fca4-1dca-4c9e-9bdd-d21a1c0bf5c6/9f00fca4-1dca-4c9e-9bdd-d21a1c0bf5c6_viewable_rendition__v.pdf\r
 
   https://www.modernatx.com/en-US/products/mnexspike"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1757517580
 updated_at: 1757668229
-generic_vaccine_id: 1473
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,13 +1,13 @@
 ---
 id: 236
+generic: false
+generic_vaccine_id: 1171
 name: FLUZONE HIGH-DOSE
 description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, high dose
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689124
 updated_at: 1791815924
-generic_vaccine_id: 1171
+injection_methods: []
 other_names:
 - FLUZONE
 - flusone

@@ -1,24 +1,24 @@
 ---
 id: 800
+generic: true
 name: Diphtheria-tetanus-pertussis-Hib vaccine, unspecified
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (acellular standard dose or whole-inactivated) and Haemophilus influenzae type b (conjugated, unspecified) pediatric vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intramuscular
+notes:
 created_at: 1635263684
 updated_at: 1767894471
-valence_ids:
-- 3
-- 67
-- 97
-- 103
+injection_methods:
+- intramuscular
 other_names:
 - DTCoqHib
 - DTCHib
 - DTaPHib
 - DTwPHib
+valence_ids:
+- 3
+- 67
+- 97
+- 103
 codes:
 - nomenclature: SYADEM
   code: c318fc0f-bcee-4622-87b9-ac1ca6cb1ebf

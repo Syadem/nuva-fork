@@ -1,16 +1,16 @@
 ---
 id: 1112
+generic: true
 name: Influenza live attenuated quadrivalent vaccine, unspecified
 description: Live attenuated quadrivalent seasonal influenza vaccine, nasal
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717589602
 updated_at: 1788943928
+injection_methods: []
+other_names: []
 valence_ids:
 - 59
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 460bda55-0953-4c3e-a12c-180c98098eb9

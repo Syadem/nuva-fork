@@ -1,15 +1,15 @@
 ---
 id: 53
+generic: false
+generic_vaccine_id: 130
 name: PRIORIX
 description: Live attenuated measles, mumps and rubella vaccine
 notes:
-generic: false
+created_at: 1626689125
+updated_at: 1749224319
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689125
-updated_at: 1749224319
-generic_vaccine_id: 130
 other_names:
 - PRIORIX
 - ror

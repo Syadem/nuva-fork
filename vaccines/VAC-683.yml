@@ -1,14 +1,14 @@
 ---
 id: 683
+generic: false
+generic_vaccine_id: 1043
 name: EPIVACCORONA
 description: COVID-19 vaccine, protein subunit, recombinant spike protein
 notes: "https://tass.com/coronavirus-outbreak-in-china/1310653\r\n"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689122
 updated_at: 1769252683
-generic_vaccine_id: 1043
+injection_methods:
+- intramuscular
 other_names:
 - EpiVacCorona
 - auroracov

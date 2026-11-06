@@ -1,14 +1,14 @@
 ---
 id: 123
+generic: false
+generic_vaccine_id: 997
 name: PREVENAR 13
 description: Pneumococcal polysaccharide conjugate vaccine, 13-valent, adsorbed, serotypes 1, 3, 4 , 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689121
 updated_at: 1758637757
-generic_vaccine_id: 997
+injection_methods:
+- intramuscular
 other_names:
 - PREVENAR13
 - pneumocoques

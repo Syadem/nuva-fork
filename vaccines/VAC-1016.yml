@@ -1,13 +1,13 @@
 ---
 id: 1016
+generic: false
+generic_vaccine_id: 925
 name: IDFLU
 description: Trivalent inactivated seasonal influenza vaccine, surface antigen
 notes:
-generic: false
-injection_methods: []
 created_at: 1660125059
 updated_at: 1712935125
-generic_vaccine_id: 925
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

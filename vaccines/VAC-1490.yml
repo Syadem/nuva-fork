@@ -1,5 +1,7 @@
 ---
 id: 1490
+generic: false
+generic_vaccine_id: 113
 name: ALMEVAX
 description: Live attenuated rubella vaccine
 notes: "Souche vaccinale RA27/3 utilisé historiquement dans certains pays (notamment en Australie) dans les années 1970. Vaccin historique, plus commercialisé.\r
@@ -7,12 +9,10 @@ notes: "Souche vaccinale RA27/3 utilisé historiquement dans certains pays (nota
   https://wellcomecollection.org/works/y66p2n7x\r
 
   https://msss.gouv.qc.ca/professionnels/vaccination/piq-programmes-et-noms-commerciaux-des-vaccins/noms-commerciaux-des-vaccins-contre-la-rougeole-la-rubeole-et-les-oreillons/"
-generic: false
-injection_methods:
-- subcutaneous
 created_at: 1767801318
 updated_at: 1767864477
-generic_vaccine_id: 113
+injection_methods:
+- subcutaneous
 other_names: []
 codes:
 - nomenclature: SYADEM

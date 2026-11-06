@@ -1,14 +1,14 @@
 ---
 id: 1266
+generic: false
+generic_vaccine_id: 1539
 name: PENMENVY
 description: Meningococcal broad-spectrum vaccine against serogroups A, B, C, W and Y
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1739810835
 updated_at: 1789032156
-generic_vaccine_id: 1539
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

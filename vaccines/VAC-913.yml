@@ -1,5 +1,7 @@
 ---
 id: 913
+generic: false
+generic_vaccine_id: 1138
 name: BIMERVAX
 description: COVID-19 vaccine, protein subunit, recombinant spike protein, RBD fusion heterodimer, adjuvanted
 notes: "Autres noms : PHH-1V, Versamune-CoV-2FC vaccine\r
@@ -7,12 +9,10 @@ notes: "Autres noms : PHH-1V, Versamune-CoV-2FC vaccine\r
   COVID-19 VACCINE HIPRA\r
 
   Nouveau nom (EMA) : BIMERVAX"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1651494842
 updated_at: 1713518791
-generic_vaccine_id: 1138
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

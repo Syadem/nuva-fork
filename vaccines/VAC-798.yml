@@ -1,18 +1,18 @@
 ---
 id: 798
+generic: true
 name: Hib-MeningoC vaccine, unspecified
 description: Haemophilus influenzae type b and meningococcal conjugate vaccine, serogroup C
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1635263684
 updated_at: 1744707732
+injection_methods: []
+other_names:
+- HibMeningoC
 valence_ids:
 - 57
 - 103
-other_names:
-- HibMeningoC
 codes:
 - nomenclature: SYADEM
   code: 999bfab6-df08-4437-980f-c35051df5bec

@@ -1,14 +1,14 @@
 ---
 id: 1081
+generic: false
+generic_vaccine_id: 1127
 name: BAYGAM
 description: Human immunoglobulin against certain viruses (hepatitis A, measles, chickenpox and rubella)
 notes: https://www.rxlist.com/baygam-drug.htm#description
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1715698520
 updated_at: 1715698749
-generic_vaccine_id: 1127
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

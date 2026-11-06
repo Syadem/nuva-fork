@@ -1,19 +1,19 @@
 ---
 id: 162
+generic: true
 name: Brucellosis vaccine, unspecified
 description: Brucellosis vaccine, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689127
 updated_at: 1768828653
-valence_ids:
-- 6
+injection_methods: []
 other_names:
 - Brucellose
 - Brucellique
 - Brucella
+valence_ids:
+- 6
 codes:
 - nomenclature: SYADEM
   code: 6d0de508-d377-402b-9250-699d49c4c7ad

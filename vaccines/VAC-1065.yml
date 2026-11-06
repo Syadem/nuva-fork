@@ -1,19 +1,19 @@
 ---
 id: 1065
+generic: true
 name: Leprosy vaccine
 description: Leprosy vaccine, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intradermal
+notes:
 created_at: 1710758970
 updated_at: 1734367587
-valence_ids:
-- 384
+injection_methods:
+- intradermal
 other_names:
 - Lèpre
 - Lepra
+valence_ids:
+- 384
 codes:
 - nomenclature: SYADEM
   code: 7a18bfab-cd8e-44f6-90dd-8a9802d07a5c

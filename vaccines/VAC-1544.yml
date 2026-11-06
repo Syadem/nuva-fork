@@ -1,19 +1,19 @@
 ---
 id: 1544
+generic: true
 name: Dengue vaccine, live-attenuated, recombinant chimeric, quadrivalent against the four serotypes (DEN-1, DEN-2, DEN-3 and DEN-4)
 description: Dengue vaccine, live-attenuated, recombinant chimeric, quadrivalent against the four serotypes (DEN-1, DEN-2, DEN-3 and DEN-4)
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1790067939
 updated_at: 1790067939
+injection_methods: []
+other_names: []
 valence_ids:
 - 435
 - 436
 - 437
 - 438
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: ef7b6271-6e3a-45ea-acc9-1bf3cbdd8df5

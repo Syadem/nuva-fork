@@ -1,13 +1,13 @@
 ---
 id: 956
+generic: false
+generic_vaccine_id: 805
 name: VACCINO COLERICO BERNA
 description: Inactivated whole-cell cholera vaccine for injection
 notes:
-generic: false
-injection_methods: []
 created_at: 1653663451
 updated_at: 1749570255
-generic_vaccine_id: 805
+injection_methods: []
 other_names:
 - vacinacolericaberna
 - colericaberna

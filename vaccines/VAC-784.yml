@@ -1,14 +1,14 @@
 ---
 id: 784
+generic: false
+generic_vaccine_id: 1232
 name: PERTAGEN
 description: Pertussis (multicomponent acellular, low dose) vaccine
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1635263684
 updated_at: 1698917165
-generic_vaccine_id: 1232
+injection_methods:
+- intramuscular
 other_names:
 - PERTAGEN
 - pertagène

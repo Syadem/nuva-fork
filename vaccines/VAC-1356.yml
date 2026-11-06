@@ -1,14 +1,14 @@
 ---
 id: 1356
+generic: false
+generic_vaccine_id: 914
 name: EUVAX B 10 µg
 description: Recombinant hepatitis B vaccine, paediatric dose
 notes: https://www.lgchem.com/product-detail/euvaxb-inj
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1743671074
 updated_at: 1743671074
-generic_vaccine_id: 914
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

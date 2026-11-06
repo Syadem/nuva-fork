@@ -1,14 +1,14 @@
 ---
 id: 1032
+generic: false
+generic_vaccine_id: 1538
 name: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (25 µg/25 µg) MODERNA
 description: COVID-19 bivalent mRNA vaccine, original virus + Omicron BA.1 variant, 25 micrograms each
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1667252092
 updated_at: 1745576275
-generic_vaccine_id: 1538
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

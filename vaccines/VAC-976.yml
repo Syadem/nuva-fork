@@ -1,13 +1,13 @@
 ---
 id: 976
+generic: false
+generic_vaccine_id: 144
 name: VACCINO ANTICOLERICO ISI
 description: Cholera vaccine, unspecified
 notes:
-generic: false
-injection_methods: []
 created_at: 1655472399
 updated_at: 1713254649
-generic_vaccine_id: 144
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

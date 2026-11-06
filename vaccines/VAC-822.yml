@@ -1,20 +1,20 @@
 ---
 id: 822
+generic: true
 name: Influenza vaccine, live attenuated, unspecified
 description: Seasonal influenza vaccine, live attenuated
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intranasal
+notes:
 created_at: 1635263684
 updated_at: 1747304932
-valence_ids:
-- 140
+injection_methods:
+- intranasal
 other_names:
 - Vaccingrippalvivantatténué
 - vaccinatténuévoienasale
 - liveattenuatedinfluenzavaccinenasalspray
+valence_ids:
+- 140
 codes:
 - nomenclature: SYADEM
   code: 5d58b940-bdad-4246-8df8-0add95104ab2

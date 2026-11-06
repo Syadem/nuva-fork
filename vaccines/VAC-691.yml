@@ -1,13 +1,13 @@
 ---
 id: 691
+generic: false
+generic_vaccine_id: 1043
 name: FINLAY-FR-1
 description: COVID-19 vaccine, protein subunit, recombinant spike protein
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689130
 updated_at: 1684151069
-generic_vaccine_id: 1043
+injection_methods: []
 other_names:
 - FINLAYFR1
 - covid19

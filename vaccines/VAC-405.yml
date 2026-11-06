@@ -1,13 +1,13 @@
 ---
 id: 405
+generic: false
+generic_vaccine_id: 602
 name: TRIPEDIA
 description: Diphtheria toxoid (standard dose), tetanus toxoid and pertussis (multicomponent acellular, standard dose) pediatric vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689122
 updated_at: 1698915127
-generic_vaccine_id: 602
+injection_methods: []
 other_names:
 - TRIPEDIA
 codes:

@@ -1,16 +1,16 @@
 ---
 id: 1079
+generic: false
+generic_vaccine_id: 1120
 name: VAX-SPIRAL
 description: Trivalent vaccine against leptospirosis caused by Canicola serovar canicola, Icterohaemorrhagiae serovar copenhageni and Pomona serovar mozdok
 notes: "https://www.atoute.org/n/IMG/pdf/Constituants_des_vaccins_version-actualisee.pdf\r
 
   https://www.finlay.edu.cu/en/vaccine/vax-spiral-trivalent-antileptospirosis/"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1714137112
 updated_at: 1740757699
-generic_vaccine_id: 1120
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

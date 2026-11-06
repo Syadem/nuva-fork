@@ -1,17 +1,17 @@
 ---
 id: 811
+generic: true
 name: Meningococcal B vaccine, unspecified
 description: Meningococcal vaccine, serogroup B, type of vaccine unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1635263684
 updated_at: 1739265736
-valence_ids:
-- 118
+injection_methods: []
 other_names:
 - MenBsansprécision
+valence_ids:
+- 118
 codes:
 - nomenclature: SYADEM
   code: 5ddb01e1-e0c6-4e1c-9a8e-2fb9182ff7f1

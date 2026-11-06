@@ -1,14 +1,14 @@
 ---
 id: 696
+generic: false
+generic_vaccine_id: 1124
 name: KCONVAC MINHAI COVID-19 VACCINE
 description: COVID-19 vaccine, whole virion inactivated (Vero cell culture)
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689125
 updated_at: 1767886476
-generic_vaccine_id: 1124
+injection_methods:
+- intramuscular
 other_names:
 - Chinese-Inactivated-Vero-Covid
 codes:

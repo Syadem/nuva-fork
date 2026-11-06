@@ -1,16 +1,16 @@
 ---
 id: 1106
+generic: true
 name: COVID-19 VLP vaccine, unspecified
 description: Covid 19 VLP vaccine, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1716824856
 updated_at: 1747841148
+injection_methods: []
+other_names: []
 valence_ids:
 - 39
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 53a70287-2161-4afe-9517-f7471b621522

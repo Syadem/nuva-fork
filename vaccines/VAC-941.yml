@@ -1,16 +1,16 @@
 ---
 id: 941
+generic: true
 name: Anthrax immunoglobulin, unspecified
 description: Anthrax immunoglobuline
-notes:
-generic: true
 immunoglobulin: true
-injection_methods: []
+notes:
 created_at: 1652865604
 updated_at: 1788944539
+injection_methods: []
+other_names: []
 valence_ids:
 - 293
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 46905260-effa-4a61-8699-35ae37301f92

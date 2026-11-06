@@ -1,16 +1,16 @@
 ---
 id: 154
+generic: true
 name: Malaria vaccine, unspecified
 description: Malaria vaccine (used in clinical trials)
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689130
 updated_at: 1785206130
+injection_methods: []
+other_names: []
 valence_ids:
 - 25
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 938a14b1-0350-4e71-8753-0a217c5799b4

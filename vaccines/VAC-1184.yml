@@ -1,16 +1,16 @@
 ---
 id: 1184
+generic: true
 name: Meningococcal C polysaccharide vaccine conjugated to tetanus toxoid, unspecified
 description: Meningococcal C polysaccharide vaccine conjugated to tetanus toxoid, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717597433
 updated_at: 1720080982
+injection_methods: []
+other_names: []
 valence_ids:
 - 266
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 4f95a6ae-7da0-4982-aabf-c871f4f65b34

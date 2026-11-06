@@ -1,15 +1,15 @@
 ---
 id: 161
+generic: false
+generic_vaccine_id: 160
 name: ZOSTAVAX
 description: Live attenuated shingles vaccine
 notes:
-generic: false
+created_at: 1626689121
+updated_at: 1758813144
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689121
-updated_at: 1758813144
-generic_vaccine_id: 160
 other_names:
 - zona
 - zostavax

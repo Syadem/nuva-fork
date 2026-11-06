@@ -1,13 +1,13 @@
 ---
 id: 463
+generic: false
+generic_vaccine_id: 114
 name: ZAMOVAX
 description: Live attenuated measles vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689124
 updated_at: 1666959923
-generic_vaccine_id: 114
+injection_methods: []
 other_names:
 - ZAMOVAX
 codes:

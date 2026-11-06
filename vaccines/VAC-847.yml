@@ -1,15 +1,15 @@
 ---
 id: 847
+generic: false
+generic_vaccine_id: 1234
 name: VACCIN PNEUMOCOCCIQUE SARBACH
 description: Unconjugated pneumococcal polysaccharide vaccine, 15-valent, serotypes 1, 2, 3, 4, 6B, 7F, 8, 9N, 11A, 12F, 14, 15F, 18C, 19F, and 23F
 notes:
-generic: false
+created_at: 1645857417
+updated_at: 1713974428
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1645857417
-updated_at: 1713974428
-generic_vaccine_id: 1234
 other_names:
 - vaccin pneumocoque
 - sarbach vaccin

@@ -1,16 +1,16 @@
 ---
 id: 1531
+generic: true
 name: COVID-19 mRNA vaccine, subvariant Omicron XFG, 50 micrograms
 description: COVID-19 mRNA vaccine, subvariant Omicron XFG, 50 micrograms
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1787931522
 updated_at: 1787931522
+injection_methods: []
+other_names: []
 valence_ids:
 - 119
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: c4d7b362-845c-47e7-92bb-8a0011802e9a

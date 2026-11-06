@@ -1,13 +1,13 @@
 ---
 id: 962
+generic: false
+generic_vaccine_id: 920
 name: ANATOXAL DI TE N ADULT
 description: Diphtheria toxoid (low dose) and tetanus toxoid vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1653899976
 updated_at: 1713276625
-generic_vaccine_id: 920
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,13 +1,13 @@
 ---
 id: 515
+generic: false
+generic_vaccine_id: 551
 name: INFANRIX POLIO
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (multicomponent acellular, standard dose) and inactivated polio (trivalent) pediatric vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689121
 updated_at: 1744204656
-generic_vaccine_id: 551
+injection_methods: []
 other_names:
 - INFANRIXPOLIO
 codes:

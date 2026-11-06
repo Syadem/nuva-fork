@@ -1,13 +1,13 @@
 ---
 id: 991
+generic: false
+generic_vaccine_id: 938
 name: FLULAVAL QUADRIVALENT
 description: Quadrivalent inactivated seasonal influenza vaccine with surface antigens
 notes:
-generic: false
-injection_methods: []
 created_at: 1655731559
 updated_at: 1713186430
-generic_vaccine_id: 938
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

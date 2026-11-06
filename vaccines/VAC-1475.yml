@@ -1,16 +1,16 @@
 ---
 id: 1475
+generic: true
 name: Human monoclonal antibody against respiratory syncytial virus (RSV), clesrovimab, unspecified
 description: Human monoclonal antibody against respiratory syncytial virus (RSV), clesrovimab, unspecified
-notes:
-generic: true
 immunoglobulin: true
-injection_methods: []
+notes:
 created_at: 1759929157
 updated_at: 1759929157
+injection_methods: []
+other_names: []
 valence_ids:
 - 429
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 79ce0cb7-17fa-4cc3-a133-447b0d68c872

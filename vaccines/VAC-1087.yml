@@ -1,5 +1,7 @@
 ---
 id: 1087
+generic: false
+generic_vaccine_id: 497
 name: HYPERTET
 description: Human tetanus immunoglobulin, post-exposure treatment
 notes: "https://www.hypertet.com/en/hcp\r
@@ -7,12 +9,10 @@ notes: "https://www.hypertet.com/en/hcp\r
   https://www.rxlist.com/hypertet-drug.htm\r
 
   https://pdf.hres.ca/dpd_pm/00062965.PDF"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1715777049
 updated_at: 1717679226
-generic_vaccine_id: 497
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

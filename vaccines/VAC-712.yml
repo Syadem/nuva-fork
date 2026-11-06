@@ -1,18 +1,18 @@
 ---
 id: 712
+generic: true
 name: Typhoid-hepatitis A vaccine, unspecified
 description: Combined typhoid and hepatitis A vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689122
 updated_at: 1744810009
+injection_methods: []
+other_names:
+- VACCINTYPHOIDEHEPATITEA
 valence_ids:
 - 14
 - 125
-other_names:
-- VACCINTYPHOIDEHEPATITEA
 codes:
 - nomenclature: SYADEM
   code: 6389eaa7-e03e-4211-8183-4966f00bd082

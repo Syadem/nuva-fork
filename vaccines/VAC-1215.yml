@@ -1,13 +1,14 @@
 ---
 id: 1215
+generic: true
 name: Diphtheria (standard dose), tetanus, pertussis (multicomponent acellular, standard dose), anti-Haemophilus influenzae type b (conjugated to the outer membrane protein of Neisseria meningitidis serogroup B), poliomyelitis (whole inactivated, trivalent) and hepatitis B (recombinant) vaccine, adsorbed, pediatric
 description: Diphtheria (standard dose), tetanus, pertussis (multicomponent acellular, standard dose), anti-Haemophilus influenzae type b (conjugated to the outer membrane protein of Neisseria meningitidis serogroup B), poliomyelitis (whole inactivated, trivalent) and hepatitis B (recombinant) vaccine, adsorbed, pediatric
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717599533
 updated_at: 1788937913
+injection_methods: []
+other_names: []
 valence_ids:
 - 8
 - 56
@@ -15,7 +16,6 @@ valence_ids:
 - 97
 - 114
 - 155
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 078fd26f-3553-4214-945a-7ba28742e4c8

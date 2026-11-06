@@ -1,16 +1,16 @@
 ---
 id: 1111
+generic: true
 name: Japanese Encephalitis Vaccine, whole inactivated, prepared on Vero cells, unspecified
 description: Whole inactivated Japanese encephalitis vaccine, prepared in Vero cells
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717589520
 updated_at: 1717678212
+injection_methods: []
+other_names: []
 valence_ids:
 - 251
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: e7dd3905-4b7c-43ba-acf1-991ac1f4654e

@@ -1,18 +1,14 @@
 ---
 id: 136
+generic: true
 name: DTwP - Diphtheria-Tetanus-Pertussis, unspecified
 description: Diphtheria toxoid (standard dose), tetanus toxoid and pertussis (whole-cell inactivated) pediatric vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intramuscular
+notes:
 created_at: 1626689124
 updated_at: 1747727849
-valence_ids:
-- 10
-- 67
-- 97
+injection_methods:
+- intramuscular
 other_names:
 - DTC
 - dtcoq
@@ -22,6 +18,10 @@ other_names:
 - diphterietetanoscoqueluche
 - D.T.C.
 - vaccindtcoq
+valence_ids:
+- 10
+- 67
+- 97
 codes:
 - nomenclature: SYADEM
   code: c7ca3d38-a89e-4257-b545-7ccaa23cdd20

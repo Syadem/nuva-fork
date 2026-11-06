@@ -1,16 +1,16 @@
 ---
 id: 1414
+generic: true
 name: COVID-19 vaccine, protein subunit, recombinant spike protein nanoparticles, with adjuvant (Matrix M), Omicron JN.1 subvariant
 description: COVID-19 vaccine, protein subunit, recombinant spike protein nanoparticles, with adjuvant (Matrix M), Omicron JN.1 subvariant
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1744624257
 updated_at: 1744624257
+injection_methods: []
+other_names: []
 valence_ids:
 - 382
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 14172d20-6726-425c-b4bf-9245be1ac078

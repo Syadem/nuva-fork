@@ -1,16 +1,16 @@
 ---
 id: 1367
+generic: false
+generic_vaccine_id: 147
 name: HNVAC
 description: Influenza A(H1N1)pdm09 pandemic vaccine, inactivated, obtained from egg culture
 notes: "https://www.bharatbiotech.com/hnvac.html\r
 
   https://www.bharatbiotech.com/images/hnvac/hnvac_ppi.pdf"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1743761429
 updated_at: 1791812694
-generic_vaccine_id: 147
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

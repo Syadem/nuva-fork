@@ -1,15 +1,15 @@
 ---
 id: 494
+generic: false
+generic_vaccine_id: 1208
 name: TRITANRIX HepB
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (whole-cell inactivated) and hepatitis B (recombinant) pediatric vaccine
 notes:
-generic: false
+created_at: 1626689128
+updated_at: 1698916734
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689128
-updated_at: 1698916734
-generic_vaccine_id: 1208
 other_names:
 - tritanrixhepb
 - tritranix

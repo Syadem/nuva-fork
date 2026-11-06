@@ -1,21 +1,21 @@
 ---
 id: 818
+generic: true
 name: Typhoid-Paratyphoid vaccine, unspecified
 description: Typhoid and paratyphoid A and B vaccine, whole-cell inactivated
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intramuscular
+notes:
 created_at: 1635263684
 updated_at: 1767885084
-valence_ids:
-- 45
-- 71
+injection_methods:
+- intramuscular
 other_names:
 - Typhoparatyphoïdique
 - typhoparatyphoid
 - TAB
+valence_ids:
+- 45
+- 71
 codes:
 - nomenclature: SYADEM
   code: ad81f651-ddf6-4454-87b6-bdd45d0071ab

@@ -1,13 +1,13 @@
 ---
 id: 721
+generic: false
+generic_vaccine_id: 1138
 name: AdimrSC-2f
 description: COVID-19 vaccine, protein subunit, aluminium-adjuvanted and non-aluminium-adjuvanted
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689121
 updated_at: 1717512414
-generic_vaccine_id: 1138
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

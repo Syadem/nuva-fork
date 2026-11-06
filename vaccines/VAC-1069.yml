@@ -1,16 +1,16 @@
 ---
 id: 1069
+generic: true
 name: Vaccinia immune globulin
 description: Vaccinia immune globulin
-notes:
-generic: true
 immunoglobulin: true
-injection_methods: []
+notes:
 created_at: 1710795750
 updated_at: 1720084251
+injection_methods: []
+other_names: []
 valence_ids:
 - 337
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: d246db53-3e87-44d0-97f6-9ab7476d222c

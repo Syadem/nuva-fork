@@ -1,14 +1,14 @@
 ---
 id: 783
+generic: false
+generic_vaccine_id: 1170
 name: R-COVI
 description: COVID-19 vaccine, non-replicating chimpanzee adenoviral vector ChAdOx1 encoding the SARS-CoV-2 spike protein
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1635263684
 updated_at: 1669198581
-generic_vaccine_id: 1170
+injection_methods:
+- intramuscular
 other_names:
 - RCOVI
 codes:

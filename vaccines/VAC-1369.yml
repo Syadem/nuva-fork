@@ -1,16 +1,16 @@
 ---
 id: 1369
+generic: false
+generic_vaccine_id: 1116
 name: INDIRAB
 description: Whole virion inactivated rabies vaccine, cultured on Vero cells
 notes: "https://www.bharatbiotech.com/indirab.html\r
 
   https://www.bharatbiotech.com/images/indirab/INDIRABPackageInsert.pdf"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1743776738
 updated_at: 1743777166
-generic_vaccine_id: 1116
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

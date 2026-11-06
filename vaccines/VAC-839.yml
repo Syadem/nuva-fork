@@ -1,18 +1,18 @@
 ---
 id: 839
+generic: true
 name: Brucella inactivated whole-cell vaccine, unspecified
 description: Whole-cell inactivated brucellosis vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1645471763
 updated_at: 1788946141
-valence_ids:
-- 146
+injection_methods: []
 other_names:
 - vaccin brucellose
 - vaccin anti-brucellose
+valence_ids:
+- 146
 codes:
 - nomenclature: SYADEM
   code: a3c93160-9136-4dce-b180-6cc1cfbb3e27

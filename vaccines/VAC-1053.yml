@@ -1,5 +1,7 @@
 ---
 id: 1053
+generic: false
+generic_vaccine_id: 1158
 name: COMIRNATY OMICRON XBB.1.5 3 µg
 description: COVID-19 mRNA vaccine, subvariant Omicron XBB.1.5, 3 micrograms, paediatric dose (6 months-4 years)
 notes: "COMIRNATY OMICRON XBB.1.5 3 µg\r
@@ -17,12 +19,10 @@ notes: "COMIRNATY OMICRON XBB.1.5 3 µg\r
   \r
 
   PFIZER COMIRNATY-3 XBB.1.5 ENFANT (6 MOIS-4 ANS)"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1694906119
 updated_at: 1745575722
-generic_vaccine_id: 1158
+injection_methods:
+- intramuscular
 other_names:
 - XBB.1.5 3 µg
 - COMIRNATY OMICRON XBB.1.5 3 µg

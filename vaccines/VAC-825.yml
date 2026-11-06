@@ -1,18 +1,18 @@
 ---
 id: 825
+generic: true
 name: Hepatitis A and hepatitis B combined vaccine, unspecified
 description: Combined hepatitis A and B vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1635263684
 updated_at: 1788946277
+injection_methods: []
+other_names:
+- VaccincombinéhépatitesAetB
 valence_ids:
 - 68
 - 125
-other_names:
-- VaccincombinéhépatitesAetB
 codes:
 - nomenclature: SYADEM
   code: 41be3b97-8764-4b51-b6d8-d22b51db5ee6

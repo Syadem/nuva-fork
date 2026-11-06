@@ -1,13 +1,13 @@
 ---
 id: 984
+generic: false
+generic_vaccine_id: 1122
 name: VACCINO ANTIVAIOLOSO ISI
 description: Smallpox vaccine, first-generation, live vaccinia virus
 notes:
-generic: false
-injection_methods: []
 created_at: 1655481092
 updated_at: 1713192393
-generic_vaccine_id: 1122
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

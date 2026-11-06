@@ -1,16 +1,16 @@
 ---
 id: 1446
+generic: true
 name: Japanese encephalitis vaccine, inactivated, whole-virus, derived from Vero cells, 3 micrograms
 description: Japanese encephalitis vaccine, inactivated, whole-virus, derived from Vero cells, 3 micrograms
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1747909904
 updated_at: 1747909904
+injection_methods: []
+other_names: []
 valence_ids:
 - 401
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 4c1e4161-e07b-40bd-bccc-59eb7c3727c7

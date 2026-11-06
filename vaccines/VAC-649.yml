@@ -1,15 +1,15 @@
 ---
 id: 649
+generic: false
+generic_vaccine_id: 1146
 name: EFLUELDA TETRA
 description: Seasonal influenza vaccine, quadrivalent inactivated, obtained from egg culture, split-virion, high dose
 notes: https://www.has-sante.fr/upload/docs/application/pdf/2025-02/vaccin_efluelda_transition_du_vaccin_antigrippal_eflueda_a_une_forme_trivalente_dans_la_strategie_de_vaccination_contre_la_g.pdf
-generic: false
+created_at: 1626689120
+updated_at: 1791814583
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689120
-updated_at: 1791814583
-generic_vaccine_id: 1146
 other_names:
 - Efluelda
 - effluelda

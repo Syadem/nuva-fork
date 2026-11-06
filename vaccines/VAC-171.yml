@@ -1,13 +1,13 @@
 ---
 id: 171
+generic: false
+generic_vaccine_id: 84
 name: PREPANDEMIC INFLUENZA VACCINE (H5N1) NOVARTIS
 description: Influenza A(H5N1) vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689130
 updated_at: 1744365018
-generic_vaccine_id: 84
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

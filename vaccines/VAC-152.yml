@@ -1,18 +1,13 @@
 ---
 id: 152
+generic: true
 name: Meningococcal ACWY unconjugated vaccine, unspecified
 description: Unconjugated meningococcal polysaccharide vaccine, serogroups A, C, W and Y
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689120
 updated_at: 1788988777
-valence_ids:
-- 37
-- 137
-- 138
-- 139
+injection_methods: []
 other_names:
 - Meningocoquesacw135y
 - Meningocoquesacyw135
@@ -32,6 +27,11 @@ other_names:
 - menacwy
 - menacyw
 - Vaccins meninogococques A + C + Y + W135
+valence_ids:
+- 37
+- 137
+- 138
+- 139
 codes:
 - nomenclature: SYADEM
   code: 5f8e3a5d-fc9d-4fa5-b388-7378324b6035

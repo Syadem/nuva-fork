@@ -1,5 +1,7 @@
 ---
 id: 1283
+generic: false
+generic_vaccine_id: 1138
 name: INDOVAC
 description: COVID-19 protein subunit vaccine, recombinant spike protein, intramuscular route
 notes: "https://www.biofarma.co.id/id/our-product/detail/indovac\r
@@ -7,12 +9,10 @@ notes: "https://www.biofarma.co.id/id/our-product/detail/indovac\r
   \r
 
   Anciennement connu sous le nom de \"Vaksin COVID-19 Bio Farma\"."
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1741086110
 updated_at: 1743762965
-generic_vaccine_id: 1138
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

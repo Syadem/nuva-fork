@@ -1,16 +1,16 @@
 ---
 id: 911
+generic: true
 name: Hepatitis A whole inactivated vaccine, monovalent, pediatric dose, unspecified
 description: Whole virion inactivated hepatitis A vaccine, monovalent, pediatric dose
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1651480334
 updated_at: 1713521010
+injection_methods: []
+other_names: []
 valence_ids:
 - 142
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: e3e37df4-4318-438e-b9d0-a6b57b4cea66

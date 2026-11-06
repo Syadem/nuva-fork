@@ -1,14 +1,14 @@
 ---
 id: 1374
+generic: false
+generic_vaccine_id: 711
 name: TYPBAR-TCV
 description: Typhoid conjugate vaccine, Vi polysaccharide linked to tetanus toxoid protein
 notes: https://www.bharatbiotech.com/typbartcv.html
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1744015663
 updated_at: 1744320354
-generic_vaccine_id: 711
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

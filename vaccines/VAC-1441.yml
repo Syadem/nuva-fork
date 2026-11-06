@@ -1,16 +1,16 @@
 ---
 id: 1441
+generic: true
 name: Influenza vaccine, quadrivalent, inactivated, obtained from egg culture, split or subunit, intradermal route, unspecified
 description: Influenza vaccine, quadrivalent, inactivated, obtained from egg culture, split or subunit, intradermal route, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1747908268
 updated_at: 1791810330
+injection_methods: []
+other_names: []
 valence_ids:
 - 134
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: c4bef79a-918e-4222-89a6-348722329057

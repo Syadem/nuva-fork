@@ -1,15 +1,15 @@
 ---
 id: 336
+generic: false
+generic_vaccine_id: 339
 name: PNEUMOVAX
 description: Unconjugated pneumococcal polysaccharide vaccine, 23-valent, serotypes 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F and 33F
 notes:
-generic: false
+created_at: 1626689123
+updated_at: 1793025607
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689123
-updated_at: 1793025607
-generic_vaccine_id: 339
 other_names:
 - pneumovax
 - PNEUMOVAX POLYVALENT

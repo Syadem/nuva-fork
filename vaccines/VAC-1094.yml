@@ -1,16 +1,16 @@
 ---
 id: 1094
+generic: false
+generic_vaccine_id: 1149
 name: OROCHOL
 description: live oral cholera vaccine
 notes: "https://www.cdc.gov/mmwr/volumes/71/rr/pdfs/rr7102a1-h.pdf\r
 
   https://www.cdc.gov/mmwr/volumes/71/rr/pdfs/rr7102a1-h.pdf"
-generic: false
-injection_methods:
-- oral
 created_at: 1715847840
 updated_at: 1715847912
-generic_vaccine_id: 1149
+injection_methods:
+- oral
 other_names:
 - MUTACHOL
 codes:

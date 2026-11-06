@@ -1,13 +1,13 @@
 ---
 id: 369
+generic: false
+generic_vaccine_id: 114
 name: RUBEOVAX
 description: Live attenuated measles vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689128
 updated_at: 1666959921
-generic_vaccine_id: 114
+injection_methods: []
 other_names:
 - RUBEOVAX
 codes:

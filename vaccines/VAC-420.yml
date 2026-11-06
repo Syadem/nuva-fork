@@ -1,14 +1,14 @@
 ---
 id: 420
+generic: false
+generic_vaccine_id: 132
 name: BIO-TT Vaccine
 description: Tetanus toxoid vaccine
 notes: https://www.biofarma.co.id/id/our-product/detail/vaksin-biott
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689122
 updated_at: 1741173505
-generic_vaccine_id: 132
+injection_methods:
+- intramuscular
 other_names:
 - TTVACCINE
 codes:

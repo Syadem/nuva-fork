@@ -1,13 +1,13 @@
 ---
 id: 213
+generic: false
+generic_vaccine_id: 88
 name: DI-TE-POL
 description: Diphtheria toxoid (standard dose), tetanus toxoid and inactivated polio (trivalent) pediatric vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689121
 updated_at: 1666959919
-generic_vaccine_id: 88
+injection_methods: []
 other_names:
 - DITEPOL
 codes:

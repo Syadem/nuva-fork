@@ -1,5 +1,7 @@
 ---
 id: 538
+generic: false
+generic_vaccine_id: 134
 name: VACCIN BCG BIOMED-LUBLIN
 description: Tuberculosis vaccine
 notes: "Le nom de VACCIN BCG BIOMED-LUBLIN a été remplacé par VACCIN BCG SYNTHAVERSE : en effet nouveau labo, mais il faudra garder les deux noms.\r
@@ -7,11 +9,9 @@ notes: "Le nom de VACCIN BCG BIOMED-LUBLIN a été remplacé par VACCIN BCG SYNT
   J'ai corrigé.\r
 
   Nom du labo également incorrect : Sanofi Pasteur au lieu de BIOMED."
-generic: false
-injection_methods: []
 created_at: 1626689129
 updated_at: 1751041461
-generic_vaccine_id: 134
+injection_methods: []
 other_names:
 - tuberculeuse
 - tuberculose

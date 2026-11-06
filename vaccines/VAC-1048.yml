@@ -1,16 +1,16 @@
 ---
 id: 1048
+generic: false
+generic_vaccine_id: 920
 name: DECAVAC
 description: Diphtheria toxoid (low dose) and tetanus toxoid vaccine
 notes: "Idem Tenivac du même labo\r
 
   https://www.fda.gov/media/76610/download\r\n"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1692304950
 updated_at: 1712753105
-generic_vaccine_id: 920
+injection_methods:
+- intramuscular
 other_names:
 - dT
 - Td

@@ -1,13 +1,13 @@
 ---
 id: 69
+generic: false
+generic_vaccine_id: 152
 name: MENOMUNE
 description: Unconjugated meningococcal polysaccharide vaccine, serogroups A, C, W and Y
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689128
 updated_at: 1758806776
-generic_vaccine_id: 152
+injection_methods: []
 other_names:
 - MENOMUNE
 - Ménomune

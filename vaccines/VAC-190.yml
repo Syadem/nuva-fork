@@ -1,13 +1,13 @@
 ---
 id: 190
+generic: false
+generic_vaccine_id: 132
 name: ANATETALL
 description: Tetanus toxoid vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689123
 updated_at: 1666959919
-generic_vaccine_id: 132
+injection_methods: []
 other_names:
 - ANATETALL
 codes:

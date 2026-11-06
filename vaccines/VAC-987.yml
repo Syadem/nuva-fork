@@ -1,13 +1,13 @@
 ---
 id: 987
+generic: false
+generic_vaccine_id: 132
 name: TANRIX
 description: Tetanus toxoid vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1655715872
 updated_at: 1713188369
-generic_vaccine_id: 132
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,14 +1,14 @@
 ---
 id: 1362
+generic: false
+generic_vaccine_id: 920
 name: SK TD
 description: Diphtheria vaccine (toxoid, reduced dose) and tetanus vaccine (toxoid)
 notes: https://www.mfds.go.kr/eng/brd/m_30/view.do?seq=70648&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=2
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1743683158
 updated_at: 1743683158
-generic_vaccine_id: 920
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

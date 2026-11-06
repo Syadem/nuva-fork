@@ -1,16 +1,16 @@
 ---
 id: 918
+generic: true
 name: PRP-D Hib vaccine, unspecified
 description: Hemophilus influenzae type b conjugate vaccine composed of PRP (polyribosylribitol phosphate) conjugated to diphtheria toxoid
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1651568132
 updated_at: 1720087520
+injection_methods: []
+other_names: []
 valence_ids:
 - 153
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: dbc92613-475e-43f6-a47b-37cd3425c448

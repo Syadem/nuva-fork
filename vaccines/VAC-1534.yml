@@ -1,16 +1,16 @@
 ---
 id: 1534
+generic: true
 name: Seasonal influenza vaccine, trivalent inactivated, obtained from egg culture, split virion, pediatric form
 description: Seasonal influenza vaccine, trivalent inactivated, obtained from egg culture, split virion, pediatric form
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1789027860
 updated_at: 1791812986
+injection_methods: []
+other_names: []
 valence_ids:
 - 166
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: be954dcf-4bc2-4226-8b7a-28ca46164007

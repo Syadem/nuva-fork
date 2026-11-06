@@ -1,13 +1,13 @@
 ---
 id: 27
+generic: false
+generic_vaccine_id: 130
 name: R.O.R. VAX
 description: Live attenuated measles, mumps and rubella vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689127
 updated_at: 1666959916
-generic_vaccine_id: 130
+injection_methods: []
 other_names:
 - RORVAX
 - ImmuRor

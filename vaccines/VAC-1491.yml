@@ -1,5 +1,7 @@
 ---
 id: 1491
+generic: false
+generic_vaccine_id: 113
 name: RUBEVAC
 description: Live attenuated rubella vaccine
 notes: "Souche de virus atténué de la rubéole Tiantan-Hi-Warble\r
@@ -15,12 +17,10 @@ notes: "Souche de virus atténué de la rubéole Tiantan-Hi-Warble\r
   https://dawaai.pk/medicine/rubevac-36466.html\r
 
   https://healthwire.pk/pharmacy/medicine/rubevac-inj"
-generic: false
-injection_methods:
-- subcutaneous
 created_at: 1767804881
 updated_at: 1767865032
-generic_vaccine_id: 113
+injection_methods:
+- subcutaneous
 other_names: []
 codes:
 - nomenclature: SYADEM

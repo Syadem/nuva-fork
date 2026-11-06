@@ -1,18 +1,14 @@
 ---
 id: 320
+generic: true
 name: Poliomyelitis trivalent vaccine, live attenuated
 description: Polio vaccine (live attenuated, trivalent) against polioviruses 1, 2 and 3, oral
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- oral
+notes:
 created_at: 1626689128
 updated_at: 1788960564
-valence_ids:
-- 33
-- 85
-- 132
+injection_methods:
+- oral
 other_names:
 - OPV
 - OPVI
@@ -31,6 +27,10 @@ other_names:
 - "2"
 - "3"
 - opvtrivalent
+valence_ids:
+- 33
+- 85
+- 132
 codes:
 - nomenclature: SYADEM
   code: bd288aa3-a7c0-45f4-a5a9-060282cb20fd

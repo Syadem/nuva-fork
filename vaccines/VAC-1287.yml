@@ -1,14 +1,14 @@
 ---
 id: 1287
+generic: false
+generic_vaccine_id: 101
 name: VAKSIN HEPATITIS B BIO FARMA
 description: Hepatitis B vaccine, recombinant hepatitis B surface antigen (HBsAg), unspecified
 notes: https://www.biofarma.co.id/id/our-product/detail/vaksin-hepatitis-b-rekombinan
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1741097681
 updated_at: 1741097681
-generic_vaccine_id: 101
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

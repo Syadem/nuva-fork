@@ -1,17 +1,17 @@
 ---
 id: 1535
+generic: true
 name: COVID-19 vaccine, protein subunit, recombinant spike protein, with adjuvant unspecified
 description: COVID-19 vaccine, protein subunit, recombinant spike protein, with adjuvant unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1789030868
 updated_at: 1789030882
+injection_methods: []
+other_names: []
 valence_ids:
 - 11
 - 104
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 430a4727-41e1-462a-a4b0-ed4279faf6fe

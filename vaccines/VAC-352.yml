@@ -1,13 +1,13 @@
 ---
 id: 352
+generic: false
+generic_vaccine_id: 915
 name: R-HB VACCINE
 description: Recombinant hepatitis B vaccine, adult dose
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689123
 updated_at: 1666959921
-generic_vaccine_id: 915
+injection_methods: []
 other_names:
 - RHBVACCINE
 codes:

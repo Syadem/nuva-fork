@@ -1,13 +1,13 @@
 ---
 id: 458
+generic: false
+generic_vaccine_id: 867
 name: ZAANTIDE antitoxin
 description: Diphtheria antitoxin immunoglobulin
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689128
 updated_at: 1666959923
-generic_vaccine_id: 867
+injection_methods: []
 other_names:
 - ZAANTIDE
 codes:

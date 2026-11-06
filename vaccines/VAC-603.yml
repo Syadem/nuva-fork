@@ -1,14 +1,14 @@
 ---
 id: 603
+generic: false
+generic_vaccine_id: 136
 name: ComVac3
 description: Diphtheria toxoid (standard dose), tetanus toxoid and pertussis (whole-cell inactivated) pediatric vaccine
 notes: https://www.bharatbiotech.com/comvac3.html
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689124
 updated_at: 1743758236
-generic_vaccine_id: 136
+injection_methods:
+- intramuscular
 other_names:
 - DTCe
 - D.T.Ce

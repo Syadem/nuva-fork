@@ -1,13 +1,13 @@
 ---
 id: 416
+generic: false
+generic_vaccine_id: 130
 name: Triviraten
 description: Live attenuated measles, mumps and rubella vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689123
 updated_at: 1692135082
-generic_vaccine_id: 130
+injection_methods: []
 other_names:
 - TRIVIRATEN
 - triviraten

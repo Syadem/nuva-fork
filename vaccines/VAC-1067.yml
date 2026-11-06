@@ -1,16 +1,16 @@
 ---
 id: 1067
+generic: true
 name: Streptococcus pyogenes vaccine, unspecified
 description: Streptococcus pyogenes vaccine, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1710769726
 updated_at: 1720084277
+injection_methods: []
+other_names: []
 valence_ids:
 - 335
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 11f1a578-732e-4e82-a212-3ffadb79264c

@@ -1,16 +1,16 @@
 ---
 id: 1196
+generic: true
 name: Japanese encephalitis vaccine, whole inactivated prepared from murine brain tissue, unspecified
 description: Whole inactivated vaccine against Japanese encephalitis, prepared from murine brain tissue, Nakayama strain, injectable route
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717598180
 updated_at: 1720080106
+injection_methods: []
+other_names: []
 valence_ids:
 - 250
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 58d92767-db37-47de-ab56-e22f8d9f3114

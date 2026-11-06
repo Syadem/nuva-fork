@@ -1,13 +1,13 @@
 ---
 id: 298
+generic: false
+generic_vaccine_id: 113
 name: MERUVAX
 description: Live attenuated rubella vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689120
 updated_at: 1692133759
-generic_vaccine_id: 113
+injection_methods: []
 other_names:
 - MERUVAX
 codes:

@@ -1,14 +1,14 @@
 ---
 id: 1385
+generic: false
+generic_vaccine_id: 1541
 name: GC FLU QUADRIVALENT
 description: Influenza quadrivalent inactivated vaccine, obtained from egg culture, split or subunit, unspecified
 notes: https://www.gcbiopharma.com/eng/product_view.do?idx=22&currentPage=1&searchColumn2List=1002
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1744040461
 updated_at: 1791799272
-generic_vaccine_id: 1541
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

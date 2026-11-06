@@ -1,15 +1,15 @@
 ---
 id: 57
+generic: false
+generic_vaccine_id: 654
 name: TWINRIX 20 µg
 description: Combined hepatitis A and B vaccine, adult dose
 notes: Le code 04150089264292 correspond à un produit commercialisé en Allemagne.
-generic: false
+created_at: 1626689128
+updated_at: 1744205518
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689128
-updated_at: 1744205518
-generic_vaccine_id: 654
 other_names:
 - TWINRIXADULTES
 - hepatitea

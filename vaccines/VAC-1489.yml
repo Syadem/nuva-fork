@@ -1,5 +1,7 @@
 ---
 id: 1489
+generic: false
+generic_vaccine_id: 147
 name: CELTURA
 description: Influenza A(H1N1)pdm09 pandemic vaccine, inactivated, obtained from egg culture
 notes: "https://extranet.who.int/prequal/vaccines/p/celtura\r
@@ -9,12 +11,10 @@ notes: "https://extranet.who.int/prequal/vaccines/p/celtura\r
   \r
 
   Labo également Novartis."
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1767800852
 updated_at: 1791812952
-generic_vaccine_id: 147
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,13 +1,13 @@
 ---
 id: 990
+generic: false
+generic_vaccine_id: 925
 name: ALPHARIX
 description: Trivalent inactivated seasonal influenza vaccine with purified antigens
 notes: "05050459005618"
-generic: false
-injection_methods: []
 created_at: 1655730228
 updated_at: 1762120314
-generic_vaccine_id: 925
+injection_methods: []
 other_names:
 - α-rix
 codes:

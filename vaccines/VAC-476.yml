@@ -1,13 +1,13 @@
 ---
 id: 476
+generic: false
+generic_vaccine_id: 84
 name: Pandemic Influenza Vaccine H5N1 Baxter
 description: Influenza A(H5N1) vaccine (whole virion, Vero cell cultured, inactivated) multidose
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689123
 updated_at: 1692135670
-generic_vaccine_id: 84
+injection_methods: []
 other_names:
 - Pandemic Influenza Vaccine H5N1 Baxter
 codes:

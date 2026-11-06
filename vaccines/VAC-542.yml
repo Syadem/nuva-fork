@@ -1,15 +1,15 @@
 ---
 id: 542
+generic: false
+generic_vaccine_id: 88
 name: Vaccin D.T.P. Pasteur
 description: Diphtheria toxoid (standard dose), tetanus toxoid and inactivated polio (trivalent) pediatric vaccine
 notes:
-generic: false
+created_at: 1626689127
+updated_at: 1791984824
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689127
-updated_at: 1791984824
-generic_vaccine_id: 88
 other_names:
 - dtpoliopasteur
 - dtpoliomerieux

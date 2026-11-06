@@ -1,17 +1,13 @@
 ---
 id: 601
+generic: true
 name: DPT Diphtheria-Pertussis-Tetanus vaccine, unspecified
 description: Diphtheria toxoid (standard dose), tetanus toxoid and pertussis (whole-cell inactivated or acellular, unspecified dose) pediatric vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689130
 updated_at: 1744710432
-valence_ids:
-- 3
-- 67
-- 97
+injection_methods: []
 other_names:
 - DTC
 - diphtérie-tétanos-coqueluche
@@ -22,6 +18,10 @@ other_names:
 - DPT
 - D.P.T.
 - D.T.C.
+valence_ids:
+- 3
+- 67
+- 97
 codes:
 - nomenclature: SYADEM
   code: d3cab342-f3de-49d5-90c1-bd513701a9a6

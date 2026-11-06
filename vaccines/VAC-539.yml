@@ -1,14 +1,14 @@
 ---
 id: 539
+generic: false
+generic_vaccine_id: 1201
 name: DENGVAXIA
 description: Live attenuated, chimeric recombinant, quadrivalent vaccine against the four serotypes (1, 2, 3 and 4) of dengue virus (based on yellow fever vaccine 17D)
 notes:
-generic: false
-injection_methods:
-- subcutaneous
 created_at: 1626689127
 updated_at: 1758815776
-generic_vaccine_id: 1201
+injection_methods:
+- subcutaneous
 other_names:
 - DENGVAXIA
 - DENGXAVIA

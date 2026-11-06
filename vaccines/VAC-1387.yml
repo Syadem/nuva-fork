@@ -1,15 +1,15 @@
 ---
 id: 1387
+generic: false
+generic_vaccine_id: 111
 name: SINSAVAC
 description: Live attenuated yellow fever vaccine
 notes: https://extranet.who.int/prequal/vaccines/p/sinsavactm
-generic: false
+created_at: 1744106127
+updated_at: 1744106127
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1744106127
-updated_at: 1744106127
-generic_vaccine_id: 111
 other_names: []
 codes:
 - nomenclature: SYADEM

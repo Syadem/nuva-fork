@@ -1,14 +1,14 @@
 ---
 id: 710
+generic: false
+generic_vaccine_id: 1150
 name: COVID-19 mRNA Vaccine BNT162b2
 description: COVID-19 mRNA vaccine, initial trade name, adult dosage 30 micrograms
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689125
 updated_at: 1717495926
-generic_vaccine_id: 1150
+injection_methods:
+- intramuscular
 other_names:
 - COVID19mRNAVaccineBNT162b2
 codes:

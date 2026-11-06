@@ -1,16 +1,16 @@
 ---
 id: 1237
+generic: true
 name: Malaria vaccine pre-erythrocytic R21/Matrix-M
 description: Malaria vaccine pre-erythrocytic R21/Matrix-M
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717601569
 updated_at: 1788795673
+injection_methods: []
+other_names: []
 valence_ids:
 - 311
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 27e561ec-2dc4-4bc2-8002-653e26b8263f

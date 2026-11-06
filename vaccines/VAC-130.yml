@@ -1,17 +1,13 @@
 ---
 id: 130
+generic: true
 name: MMR Measles-Mumps-Rubella Vaccine, live attenuated, unspecified
 description: Live attenuated measles, mumps and rubella vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689122
 updated_at: 1785317116
-valence_ids:
-- 5
-- 77
-- 79
+injection_methods: []
 other_names:
 - ourlien
 - rro
@@ -19,6 +15,10 @@ other_names:
 - rougeole
 - oreillons
 - rubeole
+valence_ids:
+- 5
+- 77
+- 79
 codes:
 - nomenclature: SYADEM
   code: d50a6151-d732-4232-953d-09d95e0c6c3b

@@ -1,15 +1,15 @@
 ---
 id: 441
+generic: false
+generic_vaccine_id: 159
 name: SKY Varicella Inj
 description: Live attenuated chickenpox vaccine (SK Bioscience laboratory)
 notes:
-generic: false
+created_at: 1626689122
+updated_at: 1744036577
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689122
-updated_at: 1744036577
-generic_vaccine_id: 159
 other_names:
 - VARIL
 - varicellavaccinesky

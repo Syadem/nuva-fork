@@ -1,15 +1,15 @@
 ---
 id: 567
+generic: false
+generic_vaccine_id: 1241
 name: SHINGRIX
 description: Shingles vaccine (recombinant, with adjuvant)
 notes:
-generic: false
+created_at: 1626689124
+updated_at: 1774271165
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689124
-updated_at: 1774271165
-generic_vaccine_id: 1241
 other_names:
 - chingrix
 - schingrix

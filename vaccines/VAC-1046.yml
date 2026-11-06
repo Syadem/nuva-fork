@@ -1,14 +1,14 @@
 ---
 id: 1046
+generic: false
+generic_vaccine_id: 1147
 name: BEYFORTUS 50 mg (nirsevimab)
 description: Human RSV monoclonal antibody
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1690057660
 updated_at: 1763392325
-generic_vaccine_id: 1147
+injection_methods:
+- intramuscular
 other_names:
 - vrs
 - Syncytial

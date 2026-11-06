@@ -1,16 +1,16 @@
 ---
 id: 923
+generic: true
 name: Respiratory Syncytial Virus monoclonal antibody, unspecified
 description: Monoclonal antibody against RSV
-notes:
-generic: true
 immunoglobulin: true
-injection_methods: []
+notes:
 created_at: 1651582815
 updated_at: 1720085148
+injection_methods: []
+other_names: []
 valence_ids:
 - 320
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: b8791e27-a4c5-437b-a9a7-68131f575fe8

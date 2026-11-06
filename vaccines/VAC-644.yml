@@ -1,15 +1,15 @@
 ---
 id: 644
+generic: false
+generic_vaccine_id: 1178
 name: QDENGA
 description: "Live attenuated, chimeric recombinant, quadrivalent vaccine against the four serotypes (1, 2, 3 and 4) of dengue virus\r
 
   Other names: TAK-003; DENVAX"
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689123
 updated_at: 1791988398
-generic_vaccine_id: 1178
+injection_methods: []
 other_names:
 - tak-003
 - denvax

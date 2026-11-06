@@ -1,13 +1,13 @@
 ---
 id: 225
+generic: false
+generic_vaccine_id: 270
 name: EIPV
 description: Inactivated polio (trivalent) vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689125
 updated_at: 1666959919
-generic_vaccine_id: 270
+injection_methods: []
 other_names:
 - EIPV
 codes:

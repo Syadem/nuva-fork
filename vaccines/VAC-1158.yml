@@ -1,16 +1,16 @@
 ---
 id: 1158
+generic: true
 name: COVID-19 mRNA vaccine against the Omicron XBB.1.5 variant, 3 micrograms, unspecified
 description: COVID-19 mRNA vaccine encoding the SARS-CoV-2 spike protein, Omicron XBB.1.5 variant, 3 micrograms
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717594011
 updated_at: 1743118806
+injection_methods: []
+other_names: []
 valence_ids:
 - 325
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: d98d1054-6a35-4f12-9adb-f643a48a823a

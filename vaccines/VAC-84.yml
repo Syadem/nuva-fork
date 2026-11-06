@@ -1,17 +1,17 @@
 ---
 id: 84
+generic: true
 name: Influenza H5N1 pre-pandemic vaccine, unspecified
 description: Influenza A(H5N1) vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689127
 updated_at: 1788988406
-valence_ids:
-- 51
+injection_methods: []
 other_names:
 - grippeprepandemique
+valence_ids:
+- 51
 codes:
 - nomenclature: SYADEM
   code: 65e6c6a6-fd93-49b5-83fa-f8d930337fc8

@@ -1,16 +1,16 @@
 ---
 id: 1093
+generic: false
+generic_vaccine_id: 863
 name: HEPAGAM
 description: Hepatitis B Immune Globulin Intravenous (Human)
 notes: "https://hepagamb.ca/_uploads/documents/hepagam/hepagam-pm-french.pdf\r
 
   https://www.kamada.com/product/hepagam-b/"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1715786967
 updated_at: 1715786967
-generic_vaccine_id: 863
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

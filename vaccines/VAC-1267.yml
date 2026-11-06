@@ -1,14 +1,14 @@
 ---
 id: 1267
+generic: false
+generic_vaccine_id: 1419
 name: VIMKUNYA
 description: Chikungunya VLP vaccine (recombinant, adsorbed)
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1739871147
 updated_at: 1790933267
-generic_vaccine_id: 1419
+injection_methods:
+- intramuscular
 other_names:
 - vinkunya
 codes:

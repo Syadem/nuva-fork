@@ -1,14 +1,14 @@
 ---
 id: 518
+generic: false
+generic_vaccine_id: 111
 name: STAMARIL (multidose)
 description: Live attenuated yellow fever vaccine
 notes:
-generic: false
-injection_methods:
-- subcutaneous
 created_at: 1626689127
 updated_at: 1758815581
-generic_vaccine_id: 111
+injection_methods:
+- subcutaneous
 other_names:
 - STAMARIL
 - ANTIAMARILE

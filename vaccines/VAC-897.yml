@@ -1,16 +1,16 @@
 ---
 id: 897
+generic: true
 name: Hantavirus vaccine, unspecified
 description: Hantavirus vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1649240002
 updated_at: 1713776656
+injection_methods: []
+other_names: []
 valence_ids:
 - 174
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 45e6b022-2914-48a5-ac18-4a8de6187281

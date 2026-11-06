@@ -1,14 +1,14 @@
 ---
 id: 1398
+generic: false
+generic_vaccine_id: 147
 name: PANFLU.1
 description: Influenza A(H1N1)pdm09 pandemic vaccine, inactivated, obtained from egg culture
 notes: https://www.sinovac.com/en-us/portfolio/influenza
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1744123700
 updated_at: 1791812824
-generic_vaccine_id: 147
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,18 +1,18 @@
 ---
 id: 153
+generic: true
 name: Mumps vaccine, unspecified
 description: Live attenuated mumps vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689123
 updated_at: 1739280541
-valence_ids:
-- 77
+injection_methods: []
 other_names:
 - oreillons
 - ourlien
+valence_ids:
+- 77
 codes:
 - nomenclature: SYADEM
   code: 84e2691c-9fba-44ab-9e40-147c717616fb

@@ -1,14 +1,14 @@
 ---
 id: 1384
+generic: false
+generic_vaccine_id: 159
 name: BARYCELA
 description: Live attenuated chickenpox vaccine
 notes: "https://www.gcbiopharma.com/eng/product_view.do?idx=32&currentPage=1&searchColumn2List=1002\r\n"
-generic: false
-injection_methods:
-- subcutaneous
 created_at: 1744039777
 updated_at: 1744039882
-generic_vaccine_id: 159
+injection_methods:
+- subcutaneous
 other_names: []
 codes:
 - nomenclature: SYADEM

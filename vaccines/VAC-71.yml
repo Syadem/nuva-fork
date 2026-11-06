@@ -1,13 +1,13 @@
 ---
 id: 71
+generic: false
+generic_vaccine_id: 1221
 name: D.T. BIS - RUDIVAX
 description: Diphtheria toxoid (standard dose), tetanus toxoid and Rubella (live attenuated) pediatric vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689126
 updated_at: 1758806862
-generic_vaccine_id: 1221
+injection_methods: []
 other_names:
 - D.T. BIS - RUDIVAX
 - DTBIS RUDIVAX

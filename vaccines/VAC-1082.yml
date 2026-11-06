@@ -1,14 +1,14 @@
 ---
 id: 1082
+generic: false
+generic_vaccine_id: 863
 name: BAYHEP B
 description: Hepatitis b immune globulin (human)
 notes: https://www.rxlist.com/bayhep-b-drug.htm
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1715698961
 updated_at: 1715698961
-generic_vaccine_id: 863
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,16 +1,16 @@
 ---
 id: 1351
+generic: false
+generic_vaccine_id: 132
 name: TETANA PRO
 description: Tetanus toxoid vaccine
 notes: "https://nzozkrokowa.pl/szczepionki/tetana-pro/\r
 
   https://leki.pl/produkty/tetana-pro/"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1743605868
 updated_at: 1743605868
-generic_vaccine_id: 132
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

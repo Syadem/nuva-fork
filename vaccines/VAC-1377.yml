@@ -1,14 +1,14 @@
 ---
 id: 1377
+generic: false
+generic_vaccine_id: 1541
 name: VAXIFLU-4
 description: Influenza quadrivalent inactivated vaccine, obtained from egg culture, split or subunit, unspecified
 notes: https://www.zyduslife.com/public/pdf/2_PI%20&SmPC_Inactivated%20Influenza%20Vaccine%20((Split%20Virion)%20I.P.(Tetravalent)_Vaxiflu-4.pdf
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1744021619
 updated_at: 1791799263
-generic_vaccine_id: 1541
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

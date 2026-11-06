@@ -1,16 +1,16 @@
 ---
 id: 1421
+generic: true
 name: COVID-19 vaccine, mRNA encoding the SARS-CoV-2 spike protein, original virus
 description: COVID-19 vaccine, mRNA encoding the SARS-CoV-2 spike protein, original virus
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1744632259
 updated_at: 1747841227
+injection_methods: []
+other_names: []
 valence_ids:
 - 303
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 6a4cad8a-2cc4-4288-b4bf-fb3871f9b10e

@@ -1,16 +1,14 @@
 ---
 id: 101
+generic: true
 name: Hepatitis B vaccine, recombinant, unspecified
 description: Recombinant Hepatitis B vaccine, unspecified dose
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intramuscular
+notes:
 created_at: 1626689127
 updated_at: 1767967553
-valence_ids:
-- 90
+injection_methods:
+- intramuscular
 other_names:
 - HepB
 - hepatiteB
@@ -20,6 +18,8 @@ other_names:
 - HVB3
 - HBV
 - HB
+valence_ids:
+- 90
 codes:
 - nomenclature: SYADEM
   code: 7a970fbd-b574-4635-b2b1-f1d6a3e251d1

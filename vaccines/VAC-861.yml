@@ -1,19 +1,19 @@
 ---
 id: 861
+generic: true
 name: Meningococcal B multicomponent vaccine, unspecified
 description: Meningococcal vaccine, serogroup B (multicomponent - multiple proteins)
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- intramuscular
+notes:
 created_at: 1647019182
 updated_at: 1788945734
-valence_ids:
-- 161
+injection_methods:
+- intramuscular
 other_names:
 - méningoBmulticomposégénérique
 - meningococcusbmulticomponent
+valence_ids:
+- 161
 codes:
 - nomenclature: SYADEM
   code: 6386215f-dac2-4049-ba23-1f7896ce0fe5

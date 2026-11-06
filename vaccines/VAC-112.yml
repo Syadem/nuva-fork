@@ -1,18 +1,18 @@
 ---
 id: 112
+generic: true
 name: Typhoid vaccine, unspecified
 description: Typhoid vaccine, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689124
 updated_at: 1712049246
-valence_ids:
-- 14
+injection_methods: []
 other_names:
 - typhoide
 - typhoidique
+valence_ids:
+- 14
 codes:
 - nomenclature: SYADEM
   code: 398a302e-b5f6-4316-a215-e1f46deb094e

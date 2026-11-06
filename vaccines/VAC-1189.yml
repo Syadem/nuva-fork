@@ -1,16 +1,16 @@
 ---
 id: 1189
+generic: true
 name: COVID-19 non-replicating vector vaccine, modified Ankara vaccine encoding the SARS-CoV-2 spike protein, unspecified
 description: COVID-19 non-replicating vector vaccine, modified Ankara vaccine encoding the SARS-CoV-2 spike protein, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717597717
 updated_at: 1788938738
+injection_methods: []
+other_names: []
 valence_ids:
 - 54
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: ff4204ec-1940-45b7-a169-ae9b3ef765ba

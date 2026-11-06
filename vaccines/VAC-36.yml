@@ -1,14 +1,14 @@
 ---
 id: 36
+generic: false
+generic_vaccine_id: 1130
 name: TETAGRIP
 description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture, split virion and tetanus toxoid vaccine
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689122
 updated_at: 1791905800
-generic_vaccine_id: 1130
+injection_methods:
+- intramuscular
 other_names:
 - TETAGRIP
 - grippe

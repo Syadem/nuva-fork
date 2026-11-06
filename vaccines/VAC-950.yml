@@ -1,13 +1,13 @@
 ---
 id: 950
+generic: false
+generic_vaccine_id: 88
 name: IMOVAX DTP
 description: Diphtheria toxoid (standard dose), tetanus toxoid and inactivated polio (trivalent) pediatric vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1653489832
 updated_at: 1713344266
-generic_vaccine_id: 88
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

@@ -1,17 +1,17 @@
 ---
 id: 908
+generic: true
 name: Adenovirus type 7 vaccine, unspecified
 description: Adenovirus type 7 vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods:
-- oral
+notes:
 created_at: 1651476929
 updated_at: 1788945424
+injection_methods:
+- oral
+other_names: []
 valence_ids:
 - 281
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 5bce5f12-cf51-4586-b95b-8f1cf62eb33b

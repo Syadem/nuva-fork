@@ -1,18 +1,18 @@
 ---
 id: 807
+generic: true
 name: Cholera-Typhoid inactivated vaccine, unspecified
 description: Inactivated whole-cell cholera vaccine for injection combined with inactivated whole-cell typhoid vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1635263683
 updated_at: 1759994826
+injection_methods: []
+other_names:
+- CholTyphinactivé
 valence_ids:
 - 4
 - 71
-other_names:
-- CholTyphinactivé
 codes:
 - nomenclature: SYADEM
   code: 1b351584-f357-40d2-857d-cf769b0986c3

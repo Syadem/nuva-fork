@@ -1,18 +1,18 @@
 ---
 id: 155
+generic: true
 name: Dengue vaccine, unspecified
 description: Dengue vaccine, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1626689123
 updated_at: 1668074083
-valence_ids:
-- 150
+injection_methods: []
 other_names:
 - vaccin dengue
 - denguevaccine
+valence_ids:
+- 150
 codes:
 - nomenclature: SYADEM
   code: 415aec0e-4455-4142-86e2-e8e7572cb870

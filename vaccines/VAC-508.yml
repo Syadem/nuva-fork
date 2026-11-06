@@ -1,13 +1,13 @@
 ---
 id: 508
+generic: false
+generic_vaccine_id: 1111
 name: JEEV 3 µg
 description: Whole inactivated Japanese encephalitis vaccine, prepared in Vero cells, 3 micrograms
 notes: https://www.biologicale.com/pdf/Product_VB_Domestic_Marketing.pdf
-generic: false
-injection_methods: []
 created_at: 1626689130
 updated_at: 1741787614
-generic_vaccine_id: 1111
+injection_methods: []
 other_names:
 - JEEV
 codes:

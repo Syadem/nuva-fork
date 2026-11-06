@@ -1,16 +1,16 @@
 ---
 id: 1524
+generic: true
 name: Melanoma vaccine, messenger RNA, individualized neoantigens
 description: Melanoma vaccine, messenger RNA, individualized neoantigens
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1787662165
 updated_at: 1787668041
+injection_methods: []
+other_names: []
 valence_ids:
 - 442
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: b7c032f4-85c9-4a0a-aa8a-0bed8c7e842e

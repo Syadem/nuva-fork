@@ -1,16 +1,16 @@
 ---
 id: 1402
+generic: false
+generic_vaccine_id: 1547
 name: EASYSIX
 description: Diphtheria toxoid (standard dose), tetanus toxoid, pertussis (whole cell), Haemophilus influenzae type b (conjugated to tetanus toxoid), inactivated polio (trivalent) and hepatitis B (recombinant) pediatric vaccine, adsorbed
 notes: "https://www.panaceabiotec.com/en/products/product-list\r
 
   https://www.panaceabiotec.com/assets/documents/SmPc_EasySix_2024%20_Rev.01.pdf"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1744212065
 updated_at: 1744212065
-generic_vaccine_id: 1547
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

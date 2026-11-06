@@ -1,16 +1,16 @@
 ---
 id: 1066
+generic: true
 name: Melanoma vaccine, unspecified
 description: Melanoma vaccine, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1710768987
 updated_at: 1720084287
+injection_methods: []
+other_names: []
 valence_ids:
 - 334
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 5e08a5d8-7679-436e-a325-c403c63408dc

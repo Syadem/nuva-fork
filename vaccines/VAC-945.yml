@@ -1,16 +1,16 @@
 ---
 id: 945
+generic: true
 name: Meningococcal vaccine serogroup unknown, unspecified
 description: Meningococcal vaccine, unspecified serogroup
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1652867546
 updated_at: 1785206662
+injection_methods: []
+other_names: []
 valence_ids:
 - 234
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: eb07731e-9676-4184-98d0-7d1f8bcfbf4c

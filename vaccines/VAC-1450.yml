@@ -1,5 +1,7 @@
 ---
 id: 1450
+generic: false
+generic_vaccine_id: 915
 name: HEPACARE
 description: Recombinant hepatitis B vaccine, adult dose
 notes: "https://www.ema.europa.eu/en/medicines/human/EPAR/hepacare\r
@@ -7,11 +9,9 @@ notes: "https://www.ema.europa.eu/en/medicines/human/EPAR/hepacare\r
   \r
 
   Autorisé en 2000 par l'Union européenne et autorisation retirée volontairement en octobre 2002.\r\n"
-generic: false
-injection_methods: []
 created_at: 1753716719
 updated_at: 1753716719
-generic_vaccine_id: 915
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

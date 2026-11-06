@@ -1,16 +1,16 @@
 ---
 id: 1543
+generic: true
 name: Malaria vaccine sporozoite surface protein, unspecified
 description: Malaria vaccine sporozoite surface protein, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1789067776
 updated_at: 1790844875
+injection_methods: []
+other_names: []
 valence_ids:
 - 9
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 39e65390-8795-410d-a1da-43419beef22e

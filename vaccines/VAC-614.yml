@@ -1,14 +1,14 @@
 ---
 id: 614
+generic: false
+generic_vaccine_id: 610
 name: TDAPBOOSTER AJ VACCINES
 description: Diphtheria toxoid (low dose), tetanus toxoid and pertussis (multicomponent acellular, low dose) vaccine
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689127
 updated_at: 1743600753
-generic_vaccine_id: 610
+injection_methods:
+- intramuscular
 other_names:
 - Tdap(àdoseréduitecoquelucheuxacellulaire)
 - T.d.ap

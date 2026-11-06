@@ -1,19 +1,19 @@
 ---
 id: 1208
+generic: true
 name: Diphtheria (standard dose), tetanus, pertussis (whole inactivated) and hepatitis B (recombinant) vaccine, adsorbed, pediatric
 description: Diphtheria (toxoid, standard dose), tetanus (toxoid), pertussis (whole inactivated) and hepatitis B (recombinant) vaccine, adsorbed, pediatric
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717598963
 updated_at: 1788938045
+injection_methods: []
+other_names: []
 valence_ids:
 - 10
 - 67
 - 97
 - 114
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: ae27accd-ef57-4cee-9fb4-e84bb8fa735c

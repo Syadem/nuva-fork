@@ -1,14 +1,14 @@
 ---
 id: 1399
+generic: false
+generic_vaccine_id: 938
 name: TERTRANFLU
 description: Quadrivalent inactivated seasonal influenza vaccine, split virion
 notes: https://www.sinovac.com/en-us/portfolio/influenza
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1744124324
 updated_at: 1744124324
-generic_vaccine_id: 938
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

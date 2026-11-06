@@ -1,14 +1,14 @@
 ---
 id: 527
+generic: false
+generic_vaccine_id: 137
 name: VACCIN DIPHTERIQUE ET TETANIQUE ADSORBE
 description: Diphtheria toxoid (standard dose) and tetanus toxoid pediatric vaccine
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689127
 updated_at: 1758815668
-generic_vaccine_id: 137
+injection_methods:
+- intramuscular
 other_names:
 - Vaccin Diphtérique et Tétanique adsorbé
 - DT

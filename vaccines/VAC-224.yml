@@ -1,13 +1,13 @@
 ---
 id: 224
+generic: false
+generic_vaccine_id: 550
 name: ECOLARIX
 description: Live attenuated measles and rubella vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689130
 updated_at: 1666959919
-generic_vaccine_id: 550
+injection_methods: []
 other_names:
 - ECOLARIX
 codes:

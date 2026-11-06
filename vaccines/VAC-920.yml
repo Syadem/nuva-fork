@@ -1,17 +1,17 @@
 ---
 id: 920
+generic: true
 name: Diphtheria-tetanus Td vaccine, unspecified
 description: Diphtheria toxoid (reduced dose) and tetanus toxoid vaccine
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1651572214
 updated_at: 1713445065
+injection_methods: []
+other_names: []
 valence_ids:
 - 34
 - 67
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: ced695f9-dcb9-4c39-897e-e2a3f5e3ae5e

@@ -1,14 +1,14 @@
 ---
 id: 676
+generic: false
+generic_vaccine_id: 1166
 name: Curevac-RNA-Covid
 description: COVID-19 vaccine, mRNA encoding the SARS-CoV-2 spike protein, ongoing clinical trial
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689126
 updated_at: 1717507487
-generic_vaccine_id: 1166
+injection_methods:
+- intramuscular
 other_names:
 - covid19
 - curevacarncovid

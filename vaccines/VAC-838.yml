@@ -1,14 +1,14 @@
 ---
 id: 838
+generic: false
+generic_vaccine_id: 1129
 name: COVOVAX NOVAVAX
 description: "COVID-19 vaccine, protein subunit, recombinant spike protein nanoparticles, with adjuvant (Matrix M) - Other name: NOVAVAX NVX-CoV2373 COVID-19 Vaccine"
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1643095128
 updated_at: 1740581822
-generic_vaccine_id: 1129
+injection_methods:
+- intramuscular
 other_names:
 - NOVAVAX NVX-CoV2373 COVID-19 Vaccine
 codes:

@@ -1,13 +1,13 @@
 ---
 id: 318
+generic: false
+generic_vaccine_id: 102
 name: NOTHAV
 description: Inactivated hepatitis A vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689126
 updated_at: 1666959921
-generic_vaccine_id: 102
+injection_methods: []
 other_names:
 - NOTHAV
 codes:

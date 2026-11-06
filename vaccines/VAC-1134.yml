@@ -1,16 +1,16 @@
 ---
 id: 1134
+generic: true
 name: Argentine hemorrhagic fever live attenuated vaccine against, Junin virus, unspecified
 description: Live attenuated vaccine against Argentine hemorrhagic fever, Junin virus, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717591661
 updated_at: 1788943189
+injection_methods: []
+other_names: []
 valence_ids:
 - 173
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 662c59fe-d88d-4d88-89a0-24759f4ffab6

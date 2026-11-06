@@ -1,17 +1,17 @@
 ---
 id: 1130
+generic: true
 name: Influenza trivalent inactivated and tetanus toxoid vaccine, unspecified
 description: Trivalent inactivated seasonal influenza vaccine, split virion and tetanus (toxoid)
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717591295
 updated_at: 1788943362
+injection_methods: []
+other_names: []
 valence_ids:
 - 15
 - 67
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: eef94e6c-830f-4356-9d07-3adb1d4b02b9

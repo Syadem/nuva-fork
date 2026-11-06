@@ -1,16 +1,16 @@
 ---
 id: 1139
+generic: true
 name: COVID-19 vaccine, non-replicating vector, Newcastle disease virus encoding the SARS-CoV-2 spike protein, unspecified
 description: COVID-19 vaccine, non-replicating vector, Newcastle disease virus encoding the SARS-CoV-2 spike protein, unspecified
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717592487
 updated_at: 1745593821
+injection_methods: []
+other_names: []
 valence_ids:
 - 101
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 9decbd47-e114-4fa2-a9d1-963759715f92

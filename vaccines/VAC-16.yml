@@ -1,15 +1,15 @@
 ---
 id: 16
+generic: false
+generic_vaccine_id: 925
 name: INFLUVAC 0,5 mL
 description: Seasonal influenza trivalent inactivated vaccine, obtained from egg culture surface antigen, adult dose
 notes: 'En Autriche on peut trouver ce vaccin sous un autre nom : "FLUVACCINOL".'
-generic: false
+created_at: 1626689124
+updated_at: 1791962730
 injection_methods:
 - intramuscular
 - subcutaneous
-created_at: 1626689124
-updated_at: 1791962730
-generic_vaccine_id: 925
 other_names:
 - INFLUVAC
 - infuvac

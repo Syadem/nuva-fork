@@ -1,14 +1,14 @@
 ---
 id: 719
+generic: false
+generic_vaccine_id: 1113
 name: NANOCOVAX
 description: COVID-19 vaccine, protein subunit, recombinant spike protein
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689123
 updated_at: 1684150937
-generic_vaccine_id: 1113
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

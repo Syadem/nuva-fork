@@ -1,13 +1,13 @@
 ---
 id: 1447
+generic: false
+generic_vaccine_id: 134
 name: VACCIN BCG SYNTHAVERSE
 description: Tuberculosis vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1752229802
 updated_at: 1752229802
-generic_vaccine_id: 134
+injection_methods: []
 other_names:
 - tuberculose
 - bcg

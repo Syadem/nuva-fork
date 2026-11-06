@@ -1,14 +1,14 @@
 ---
 id: 545
+generic: false
+generic_vaccine_id: 915
 name: EUVAX B 20 µg
 description: Recombinant hepatitis B vaccine, adult dose
 notes: https://www.lgchem.com/product-detail/euvaxb-inj
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689122
 updated_at: 1743669752
-generic_vaccine_id: 915
+injection_methods:
+- intramuscular
 other_names:
 - EUVAXB
 codes:

@@ -1,13 +1,13 @@
 ---
 id: 273
+generic: false
+generic_vaccine_id: 163
 name: KIKHOSTE-VAKSINE
 description: Pertussis (whole-cell inactivated) vaccine
 notes:
-generic: false
-injection_methods: []
 created_at: 1626689123
 updated_at: 1698916547
-generic_vaccine_id: 163
+injection_methods: []
 other_names:
 - KIKHOSTEVAKSINE
 codes:

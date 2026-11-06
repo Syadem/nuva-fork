@@ -1,13 +1,13 @@
 ---
 id: 1004
+generic: false
+generic_vaccine_id: 137
 name: TEDIVAX
 description: Paediatric diphtheria vaccine (toxoid, standard dose) and tetanus vaccine (toxoid), paediatric dose
 notes:
-generic: false
-injection_methods: []
 created_at: 1659105933
 updated_at: 1744204005
-generic_vaccine_id: 137
+injection_methods: []
 other_names: []
 codes:
 - nomenclature: SYADEM

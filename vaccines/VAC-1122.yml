@@ -1,16 +1,16 @@
 ---
 id: 1122
+generic: true
 name: Smallpox 1st generation live vaccine, unspecified
 description: First generation smallpox vaccine, live vaccinia virus
-notes:
-generic: true
 immunoglobulin: false
-injection_methods: []
+notes:
 created_at: 1717590494
 updated_at: 1788943548
+injection_methods: []
+other_names: []
 valence_ids:
 - 294
-other_names: []
 codes:
 - nomenclature: SYADEM
   code: 6882db00-26de-4656-9f13-202e96db1cce

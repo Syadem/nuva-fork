@@ -1,16 +1,16 @@
 ---
 id: 1080
+generic: false
+generic_vaccine_id: 1124
 name: COVAXIN
 description: COVID-19 vaccine, whole virion inactivated
 notes: "https://www.bharatbiotech.com/images/covaxin/covaxin-smpc1.pdf\r
 
   https://www.bharatbiotech.com/covaxin.html"
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1715692721
 updated_at: 1745575507
-generic_vaccine_id: 1124
+injection_methods:
+- intramuscular
 other_names: []
 codes:
 - nomenclature: SYADEM

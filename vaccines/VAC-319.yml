@@ -1,14 +1,14 @@
 ---
 id: 319
+generic: false
+generic_vaccine_id: 345
 name: OMNIHIB
 description: Haemophilus influenzae type b vaccine, capsular polysaccharide (polyribosylribitol phosphate, PRP) conjugated to tetanus toxoid
 notes:
-generic: false
-injection_methods:
-- intramuscular
 created_at: 1626689124
 updated_at: 1666959921
-generic_vaccine_id: 345
+injection_methods:
+- intramuscular
 other_names:
 - OMNIHIB
 codes:
