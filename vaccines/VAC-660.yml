@@ -12,10 +12,3 @@ injection_methods:
 other_names:
 - covid19
 - Chinese-IMB-Inactivated-Covid
-codes:
-- nomenclature: SYADEM
-  code: 9d2c72e5-738a-4647-a69e-260c19b25458
-- nomenclature: ATC
-  code: J07BN03
-- nomenclature: SCT_NUVA
-  code: "7901002000105"

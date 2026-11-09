@@ -10,12 +10,3 @@ updated_at: 1666959919
 injection_methods: []
 other_names:
 - BIAVAXII
-codes:
-- nomenclature: SYADEM
-  code: 0e5da15e-d9d5-4e27-a952-07aae6330ed1
-- nomenclature: ATC
-  code: J07BJ51
-- nomenclature: AIC
-  code: "026900"
-- nomenclature: SCT_NUVA
-  code: "3121002000105"

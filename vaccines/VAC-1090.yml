@@ -6,14 +6,7 @@ name: MENZB
 description: Meningococcal vaccine with outer membrane vesicle proteins
 notes: https://www.atoute.org/n/IMG/pdf/Constituants_des_vaccins_version-actualisee.pdf
 created_at: 1715781442
-updated_at: 1717679264
+updated_at: 1794216676
 injection_methods:
 - intramuscular
 other_names: []
-codes:
-- nomenclature: SYADEM
-  code: 8da371e8-8962-470f-a8e0-93376f85a1b1
-- nomenclature: ATC
-  code: J07AH06
-- nomenclature: SCT_NUVA
-  code: "13431002000103"

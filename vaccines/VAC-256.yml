@@ -10,10 +10,3 @@ updated_at: 1744273832
 injection_methods: []
 other_names:
 - IMOVAXMUMPS
-codes:
-- nomenclature: SYADEM
-  code: 441f4f44-2551-4d75-a0a1-597632736366
-- nomenclature: ATC
-  code: J07BE01
-- nomenclature: SCT_NUVA
-  code: "3751002000104"

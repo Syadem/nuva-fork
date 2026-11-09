@@ -10,10 +10,3 @@ updated_at: 1666959922
 injection_methods: []
 other_names:
 - VARICELLON
-codes:
-- nomenclature: SYADEM
-  code: a3f9af95-86fa-4b20-bd29-d0109c59c5be
-- nomenclature: ATC
-  code: J06BB03
-- nomenclature: SCT_NUVA
-  code: "5661002000105"

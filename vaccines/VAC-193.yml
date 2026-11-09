@@ -10,10 +10,3 @@ updated_at: 1744382447
 injection_methods: []
 other_names:
 - Biothrax
-codes:
-- nomenclature: SYADEM
-  code: 4eec9e16-7510-4bcf-bd90-ea3bddd81e67
-- nomenclature: ATC
-  code: J07AC01
-- nomenclature: SCT_NUVA
-  code: "3071002000105"

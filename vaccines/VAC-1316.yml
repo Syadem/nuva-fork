@@ -11,8 +11,3 @@ injection_methods:
 - subcutaneous
 other_names:
 - Vaccinrubéole
-codes:
-- nomenclature: SYADEM
-  code: 0f44fa13-e309-4747-a8e3-b87311b2c074
-- nomenclature: SCT_NUVA
-  code: "16021002000102"

@@ -9,12 +9,3 @@ created_at: 1660037841
 updated_at: 1713168761
 injection_methods: []
 other_names: []
-codes:
-- nomenclature: SYADEM
-  code: 2a7a06f9-c717-48fd-a458-533c0dd2425c
-- nomenclature: CNK
-  code: "305961"
-- nomenclature: ATC
-  code: J07AJ51
-- nomenclature: SCT_NUVA
-  code: "12111002000106"

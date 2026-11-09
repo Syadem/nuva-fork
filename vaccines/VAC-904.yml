@@ -12,8 +12,3 @@ other_names:
 - Rabies duck embryo vaccine
 valence_ids:
 - 263
-codes:
-- nomenclature: SYADEM
-  code: fa4528a3-81f5-42fa-b22b-03218f3a3731
-- nomenclature: SCT_NUVA
-  code: "10841002000103"

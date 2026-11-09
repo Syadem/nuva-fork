@@ -10,12 +10,3 @@ updated_at: 1791811268
 injection_methods: []
 other_names:
 - HUMENZA
-codes:
-- nomenclature: SYADEM
-  code: 1f5575c9-d29c-4934-bcc0-a5441ebd6b95
-- nomenclature: ATC
-  code: J07BB02
-- nomenclature: EU-NUMBER
-  code: EU-1-10-629-001
-- nomenclature: SCT_NUVA
-  code: "1981002000106"

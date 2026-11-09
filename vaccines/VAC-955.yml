@@ -10,10 +10,3 @@ updated_at: 1713283350
 injection_methods: []
 other_names:
 - pulmovaks
-codes:
-- nomenclature: SYADEM
-  code: 07926d7c-b9d0-4c80-acd4-c7822b37f4ad
-- nomenclature: ATC
-  code: J07AL01
-- nomenclature: SCT_NUVA
-  code: "11541002000106"

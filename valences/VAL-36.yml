@@ -6,6 +6,3 @@ name: Human Papillomavirus valence, VLP nonavalent, types 6, 11, 16, 18, 31, 33,
 abbreviation: VPH-09-valent
 created_at: 1626689130
 updated_at: 1745934100
-codes:
-- nomenclature: SYADEM
-  code: 94f7a314-f75d-444c-af89-14db64aca65a

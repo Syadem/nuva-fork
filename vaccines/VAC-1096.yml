@@ -12,10 +12,3 @@ updated_at: 1715850249
 injection_methods:
 - oral
 other_names: []
-codes:
-- nomenclature: SYADEM
-  code: ca29705d-b1b5-4ca4-8a3d-89302e5014fb
-- nomenclature: ATC
-  code: J07AE01
-- nomenclature: SCT_NUVA
-  code: "13501002000105"

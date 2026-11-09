@@ -6,6 +6,3 @@ name: COVID-19 valence, inactivated, whole-virion, authorized
 abbreviation: Covid-VI-Aut
 created_at: 1648938500
 updated_at: 1745928652
-codes:
-- nomenclature: SYADEM
-  code: 2634d644-9487-43b5-9948-99c2740c4e03

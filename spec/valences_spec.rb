@@ -18,7 +18,7 @@ RSpec.describe 'The valences folder' do
 
       it 'matches the expected schema' do
         expect(data).to be_a(Hash)
-        expect(data.keys).to contain_exactly('id', 'parent_id', 'antigen_type_id', 'name', 'abbreviation', 'created_at', 'updated_at', 'codes')
+        expect(data.keys).to contain_exactly('id', 'parent_id', 'antigen_type_id', 'name', 'abbreviation', 'created_at', 'updated_at')
 
         expect(data['id']).to be_a(Integer)
         expect(data['id']).to be_positive
@@ -58,35 +58,10 @@ RSpec.describe 'The valences folder' do
         if data['antigen_type_id']
           expect(data['antigen_type_id']).to be_positive
 
-          antigen_type_file = NUVA_ROOT.join('antigen-types', "AGT-#{data['antigen_type_id']}.yml")
+          antigen_type_file = NUVA_ROOT.join('antigen_types', "AGT-#{data['antigen_type_id']}.yml")
 
           expect(antigen_type_file).to be_file
           expect(YAML.safe_load_file(antigen_type_file)['id']).to eq(data['antigen_type_id'])
-        end
-      end
-
-      it 'contains exactly one SYADEM code with a UUID value' do
-        expect(data['codes']).to be_a(Array)
-
-        syadem_codes = data['codes'].filter { |c| c['nomenclature'] == 'SYADEM' }
-
-        expect(syadem_codes.count).to eq(1)
-
-        syadem_code = syadem_codes.first
-        uuid_regex  = /\A[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}\z/i
-
-        expect(syadem_code).to be_a(Hash)
-        expect(syadem_code.keys).to contain_exactly('nomenclature', 'code')
-        expect(syadem_code['code']).to be_a(String)
-        expect(syadem_code['code']).to match(uuid_regex)
-      end
-
-      it 'contains valid codes' do
-        data['codes'].each do |code|
-          expect(code).to be_a(Hash)
-          expect(code.keys).to contain_exactly('nomenclature', 'code')
-          expect(code['nomenclature']).to be_a(String)
-          expect(code['code']).to be_a(String)
         end
       end
 
@@ -116,12 +91,6 @@ RSpec.describe 'The valences folder' do
     ids = files.map { |file| YAML.safe_load_file(file)['id'] }
 
     expect(ids).to eq(ids.uniq)
-  end
-
-  it 'contains unique SYADEM UUID codes' do
-    codes = files.map { |file| YAML.safe_load_file(file)['codes'].find { |code| code['nomenclature'] == 'SYADEM' }['code'] }
-
-    expect(codes).to eq(codes.uniq)
   end
 
   it 'contains no parent cycles' do

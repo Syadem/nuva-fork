@@ -10,8 +10,3 @@ updated_at: 1741791705
 injection_methods:
 - subcutaneous
 other_names: []
-codes:
-- nomenclature: SYADEM
-  code: 298d8c8e-75cf-4dc8-9452-d77a6f3de0bc
-- nomenclature: SCT_NUVA
-  code: "15881002000101"

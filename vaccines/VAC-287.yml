@@ -10,10 +10,3 @@ updated_at: 1692133588
 injection_methods: []
 other_names:
 - MRVAX
-codes:
-- nomenclature: SYADEM
-  code: aa39c14e-cf4b-452e-ac22-204aee4f5327
-- nomenclature: ATC
-  code: J07BD53
-- nomenclature: SCT_NUVA
-  code: "4061002000102"

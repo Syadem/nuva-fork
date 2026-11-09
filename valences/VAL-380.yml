@@ -6,6 +6,3 @@ name: COVID-19 valence, Omicron variant JN.1, mRNA encoding the SARS-CoV-2 spike
 abbreviation: Covid-ARNm-S-OMI-JN.1-10
 created_at: 1724434714
 updated_at: 1745920776
-codes:
-- nomenclature: SYADEM
-  code: e4db875c-877c-4123-8889-891689c5957c

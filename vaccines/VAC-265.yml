@@ -10,10 +10,3 @@ updated_at: 1791962665
 injection_methods: []
 other_names:
 - INFLUKOVAX
-codes:
-- nomenclature: SYADEM
-  code: 9219fb60-bc77-4a5b-840a-772ef2c93f01
-- nomenclature: ATC
-  code: J07BB02
-- nomenclature: SCT_NUVA
-  code: "3851002000108"

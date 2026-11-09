@@ -10,8 +10,3 @@ updated_at: 1741189664
 injection_methods:
 - intramuscular
 other_names: []
-codes:
-- nomenclature: SYADEM
-  code: e111dd00-81fd-4abf-8882-f8c0c5c36362
-- nomenclature: SCT_NUVA
-  code: "15801002000108"

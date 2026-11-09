@@ -10,8 +10,3 @@ updated_at: 1787642677
 injection_methods:
 - intramuscular
 other_names: []
-codes:
-- nomenclature: SYADEM
-  code: e442a631-d51c-445d-868f-944650dd0aa5
-- nomenclature: GTIN
-  code: "04260703261405"

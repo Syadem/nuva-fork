@@ -10,12 +10,3 @@ updated_at: 1791917217
 injection_methods: []
 other_names:
 - SANDOVAC
-codes:
-- nomenclature: SYADEM
-  code: a9d5cf20-a9b4-41e9-90e7-c839210509c4
-- nomenclature: ELGA
-  code: "1079021"
-- nomenclature: ATC
-  code: J07BB02
-- nomenclature: SCT_NUVA
-  code: "4971002000106"

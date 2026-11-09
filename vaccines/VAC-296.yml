@@ -10,10 +10,3 @@ updated_at: 1666959920
 injection_methods: []
 other_names:
 - MENPOVAX4
-codes:
-- nomenclature: SYADEM
-  code: 8db6b33d-ff98-48ff-971f-42af58529a0b
-- nomenclature: ATC
-  code: J07AH04
-- nomenclature: SCT_NUVA
-  code: "4161002000103"

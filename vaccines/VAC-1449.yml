@@ -10,8 +10,3 @@ updated_at: 1764242511
 injection_methods:
 - intramuscular
 other_names: []
-codes:
-- nomenclature: SYADEM
-  code: 8775d523-6a41-4432-a1eb-253ff6f43a4a
-- nomenclature: SWISSLEGACY
-  code: "126"

@@ -10,10 +10,3 @@ updated_at: 1666959920
 injection_methods: []
 other_names:
 - LYOVACMERUVAX
-codes:
-- nomenclature: SYADEM
-  code: 4fc2903d-272c-4c6c-9e8f-871db23f2664
-- nomenclature: ATC
-  code: J07BJ01
-- nomenclature: SCT_NUVA
-  code: "4041002000101"

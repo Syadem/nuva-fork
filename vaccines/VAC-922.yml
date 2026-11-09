@@ -11,12 +11,3 @@ other_names: []
 valence_ids:
 - 281
 - 282
-codes:
-- nomenclature: SYADEM
-  code: 062fc230-bb43-4d31-a303-69fd360af8d5
-- nomenclature: NDC
-  code: 51285-138
-- nomenclature: CVX
-  code: "143"
-- nomenclature: SCT_NUVA
-  code: "11081002000105"

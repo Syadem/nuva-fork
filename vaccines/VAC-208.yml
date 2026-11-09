@@ -10,10 +10,3 @@ updated_at: 1698915147
 injection_methods: []
 other_names:
 - CERTIVA
-codes:
-- nomenclature: SYADEM
-  code: dc475a00-d96f-49bb-986b-d37daef13a6c
-- nomenclature: ATC
-  code: J07AJ52
-- nomenclature: SCT_NUVA
-  code: "3241002000107"

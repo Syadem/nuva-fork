@@ -18,7 +18,7 @@ RSpec.describe 'The diseases folder' do
 
       it 'matches the expected schema' do
         expect(data).to be_a(Hash)
-        expect(data.keys).to contain_exactly('id', 'name', 'created_at', 'updated_at', 'valence_ids', 'codes')
+        expect(data.keys).to contain_exactly('id', 'name', 'created_at', 'updated_at', 'valence_ids')
 
         expect(data['id']).to be_a(Integer)
         expect(data['id']).to be_positive
@@ -50,31 +50,6 @@ RSpec.describe 'The diseases folder' do
         end
       end
 
-      it 'contains exactly one SYADEM code with a UUID value' do
-        expect(data['codes']).to be_a(Array)
-
-        syadem_codes = data['codes'].filter { |c| c['nomenclature'] == 'SYADEM' }
-
-        expect(syadem_codes.count).to eq(1)
-
-        syadem_code = syadem_codes.first
-        uuid_regex  = /\A[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}\z/i
-
-        expect(syadem_code).to be_a(Hash)
-        expect(syadem_code.keys).to contain_exactly('nomenclature', 'code')
-        expect(syadem_code['code']).to be_a(String)
-        expect(syadem_code['code']).to match(uuid_regex)
-      end
-
-      it 'contains valid codes' do
-        data['codes'].each do |code|
-          expect(code).to be_a(Hash)
-          expect(code.keys).to contain_exactly('nomenclature', 'code')
-          expect(code['nomenclature']).to be_a(String)
-          expect(code['code']).to be_a(String)
-        end
-      end
-
       TRANSLATION_LANGUAGES.each do |language|
         it "has a valid #{language} translation" do
           translation_file = NUVA_ROOT.join('translations', language, 'diseases', File.basename(file))
@@ -97,12 +72,6 @@ RSpec.describe 'The diseases folder' do
     ids = files.map { |file| YAML.safe_load_file(file)['id'] }
     
     expect(ids).to eq(ids.uniq)
-  end
-
-  it 'contains unique SYADEM UUID codes' do
-    codes = files.map { |file| YAML.safe_load_file(file)['codes'].find { |code| code['nomenclature'] == 'SYADEM' }['code'] }
-
-    expect(codes).to eq(codes.uniq)
   end
 end
 

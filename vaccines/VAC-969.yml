@@ -9,12 +9,3 @@ created_at: 1655127435
 updated_at: 1713271945
 injection_methods: []
 other_names: []
-codes:
-- nomenclature: SYADEM
-  code: d35bef8f-5522-4779-8373-9d68e0222548
-- nomenclature: ATC
-  code: J07BG01
-- nomenclature: SCT_NUVA
-  code: "11681002000103"
-- nomenclature: SWISSLEGACY
-  code: "94"

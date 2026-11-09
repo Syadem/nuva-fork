@@ -10,10 +10,3 @@ updated_at: 1764605390
 injection_methods:
 - intramuscular
 other_names: []
-codes:
-- nomenclature: SYADEM
-  code: 744e3321-1aaf-426b-8587-7aabf4fd214e
-- nomenclature: CIP
-  code: "3400958157646"
-- nomenclature: CIP
-  code: "3400958157707"

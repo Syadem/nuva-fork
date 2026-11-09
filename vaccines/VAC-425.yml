@@ -10,10 +10,3 @@ updated_at: 1666959922
 injection_methods: []
 other_names:
 - TYNE
-codes:
-- nomenclature: SYADEM
-  code: 280b2ec1-52a7-4178-a287-8d91dc921101
-- nomenclature: ATC
-  code: J07AN01
-- nomenclature: SCT_NUVA
-  code: "5491002000102"

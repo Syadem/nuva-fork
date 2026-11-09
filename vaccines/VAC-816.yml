@@ -11,8 +11,3 @@ injection_methods: []
 other_names:
 - typhoide conjugué
 - typhoid conjugate vaccine
-codes:
-- nomenclature: SYADEM
-  code: 92bab3c1-e3cd-435f-836e-90e9387aae0e
-- nomenclature: SCT_NUVA
-  code: "9741002000104"

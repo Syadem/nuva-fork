@@ -13,10 +13,3 @@ other_names:
 - mOPV2
 valence_ids:
 - 33
-codes:
-- nomenclature: SYADEM
-  code: 0dd35660-d4e6-4afd-a4c0-2b35781dc9df
-- nomenclature: ICD11
-  code: XM0VX8
-- nomenclature: SCT_NUVA
-  code: "10201002000104"

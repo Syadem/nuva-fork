@@ -10,10 +10,3 @@ updated_at: 1666959921
 injection_methods: []
 other_names:
 - RUBELLOVAC
-codes:
-- nomenclature: SYADEM
-  code: da072c80-194a-4ec2-959f-093e7f064afd
-- nomenclature: ATC
-  code: J07BJ01
-- nomenclature: SCT_NUVA
-  code: "4901002000102"

@@ -6,6 +6,3 @@ name: COVID-19 valence, Omicron variant, mRNA encoding the SARS-CoV-2 spike prot
 abbreviation: Covid-ARNm-S-OMI
 created_at: 1645659074
 updated_at: 1745920457
-codes:
-- nomenclature: SYADEM
-  code: 44931868-8b1c-402d-bf7a-c72a1468dbe4

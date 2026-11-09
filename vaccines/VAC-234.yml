@@ -10,10 +10,3 @@ updated_at: 1791809133
 injection_methods: []
 other_names:
 - FLUOGEN
-codes:
-- nomenclature: SYADEM
-  code: 43e3ba4d-b99d-435c-93f1-a881b701d7df
-- nomenclature: ATC
-  code: J07BB02
-- nomenclature: SCT_NUVA
-  code: "3521002000104"

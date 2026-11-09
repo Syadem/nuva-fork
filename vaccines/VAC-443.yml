@@ -13,10 +13,3 @@ updated_at: 1666959922
 injection_methods: []
 other_names:
 - VARIE
-codes:
-- nomenclature: SYADEM
-  code: cb06b24c-1e40-4533-b339-73b0d1778070
-- nomenclature: ATC
-  code: J07BX01
-- nomenclature: SCT_NUVA
-  code: "5671002000100"

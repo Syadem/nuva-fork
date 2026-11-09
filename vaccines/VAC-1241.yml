@@ -10,10 +10,3 @@ updated_at: 1767968035
 other_names: []
 valence_ids:
 - 13
-codes:
-- nomenclature: SYADEM
-  code: 20ed6d94-3be2-4219-a475-94212d571cc4
-- nomenclature: SCT_NUVA
-  code: "15011002000102"
-- nomenclature: SNOMED-CT
-  code: "1156183006"

@@ -10,8 +10,3 @@ updated_at: 1698771149
 injection_methods: []
 other_names:
 - VAMENGOCBC
-codes:
-- nomenclature: SYADEM
-  code: b0237d28-91e2-4bea-9197-2fd9b8c7092b
-- nomenclature: SCT_NUVA
-  code: "5521002000100"

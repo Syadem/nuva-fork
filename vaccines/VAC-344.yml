@@ -12,12 +12,3 @@ other_names:
 - haemophilus influenzae type b prp-omp vaccine generic
 valence_ids:
 - 155
-codes:
-- nomenclature: SYADEM
-  code: 3c3f74bb-ef54-4bd6-a01d-dcc6f07b73a1
-- nomenclature: CPT
-  code: "90647"
-- nomenclature: CVX
-  code: "49"
-- nomenclature: SCT_NUVA
-  code: "4651002000109"

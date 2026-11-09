@@ -6,6 +6,3 @@ name: COVID-19 valence, Omicron variant KP.2, mRNA encoding the SARS-CoV-2 spike
 abbreviation: Covid-ARNm-S-OMI-KP.2
 created_at: 1742910499
 updated_at: 1745920936
-codes:
-- nomenclature: SYADEM
-  code: 0cdc4454-e72d-4719-a4f2-21598652affd

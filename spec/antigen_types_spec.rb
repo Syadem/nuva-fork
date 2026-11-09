@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 RSpec.describe 'The antigen types folder' do
-  files = Dir.glob(NUVA_ROOT.join('antigen-types', '*')).sort
+  files = Dir.glob(NUVA_ROOT.join('antigen_types', '*')).sort
 
   it 'contains antigen types' do
     expect(files).not_to be_empty
@@ -43,7 +43,7 @@ RSpec.describe 'The antigen types folder' do
           expect(data['parent_id']).to be_positive
           expect(data['parent_id']).not_to eq(data['id'])
 
-          parent_file = NUVA_ROOT.join('antigen-types', "AGT-#{data['parent_id']}.yml")
+          parent_file = NUVA_ROOT.join('antigen_types', "AGT-#{data['parent_id']}.yml")
 
           expect(parent_file).to be_file
           expect(YAML.safe_load_file(parent_file)['id']).to eq(data['parent_id'])
@@ -52,7 +52,7 @@ RSpec.describe 'The antigen types folder' do
 
       TRANSLATION_LANGUAGES.each do |language|
         it "has a valid #{language} translation, including when the name is null" do
-          translation_file = NUVA_ROOT.join('translations', language, 'antigen-types', File.basename(file))
+          translation_file = NUVA_ROOT.join('translations', language, 'antigen_types', File.basename(file))
 
           expect(translation_file).to be_file
 
@@ -102,11 +102,11 @@ RSpec.describe 'The antigen type translations' do
 
   TRANSLATION_LANGUAGES.each do |language|
     it "contains exactly one #{language} file per antigen type, with no orphan files" do
-      directory = NUVA_ROOT.join('translations', language, 'antigen-types')
+      directory = NUVA_ROOT.join('translations', language, 'antigen_types')
 
       expect(directory).to be_directory
 
-      base_files = Dir.children(NUVA_ROOT.join('antigen-types')).sort
+      base_files = Dir.children(NUVA_ROOT.join('antigen_types')).sort
       
       expect(Dir.children(directory).sort).to eq(base_files)
     end

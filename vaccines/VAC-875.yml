@@ -9,14 +9,3 @@ created_at: 1648262371
 updated_at: 1713865802
 injection_methods: []
 other_names: []
-codes:
-- nomenclature: SYADEM
-  code: 06aeea0e-f72f-4d68-aeb4-c94128fc3a80
-- nomenclature: AIC
-  code: "044890"
-- nomenclature: ATC
-  code: J07BB02
-- nomenclature: CODE_NATIONAL_SPAIN
-  code: "718751"
-- nomenclature: SCT_NUVA
-  code: "10441002000101"

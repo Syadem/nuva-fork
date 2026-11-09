@@ -10,12 +10,3 @@ updated_at: 1747841373
 other_names: []
 valence_ids:
 - 35
-codes:
-- nomenclature: SYADEM
-  code: c84fe99f-ee06-4b27-9c57-ab16eb201b7b
-- nomenclature: SNOMED-CT
-  code: "1187593009"
-- nomenclature: SCT_NUVA
-  code: "13861002000108"
-- nomenclature: ICD11
-  code: XM6AT1

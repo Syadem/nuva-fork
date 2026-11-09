@@ -13,8 +13,3 @@ other_names:
 - rabies vaccine fuenzalida
 valence_ids:
 - 255
-codes:
-- nomenclature: SYADEM
-  code: a2b2a177-6a1d-4699-bed9-b988a064c7dd
-- nomenclature: SCT_NUVA
-  code: "10821002000108"

@@ -10,12 +10,3 @@ updated_at: 1698915557
 injection_methods: []
 other_names:
 - ACELIMUNE
-codes:
-- nomenclature: SYADEM
-  code: 77959dbb-fae5-4c5b-98b1-85740fb46989
-- nomenclature: ATC
-  code: J07AJ52
-- nomenclature: SCT_NUVA
-  code: "2921002000104"
-- nomenclature: SWISSLEGACY
-  code: "76"

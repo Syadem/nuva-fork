@@ -10,12 +10,3 @@ updated_at: 1788793323
 other_names: []
 valence_ids:
 - 415
-codes:
-- nomenclature: SYADEM
-  code: 9b151f8e-c5ec-47a1-b529-7e98393fade9
-- nomenclature: CVX
-  code: "318"
-- nomenclature: CVX
-  code: "24"
-- nomenclature: SCT_NUVA
-  code: "15621002000104"

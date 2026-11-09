@@ -10,16 +10,3 @@ updated_at: 1720087819
 other_names: []
 valence_ids:
 - 47
-codes:
-- nomenclature: SYADEM
-  code: efe10cea-f56f-4fec-a05b-3de217797cdf
-- nomenclature: ATC
-  code: J06BB04
-- nomenclature: CPT
-  code: "90371"
-- nomenclature: CVX
-  code: "30"
-- nomenclature: CVC
-  code: "9542007"
-- nomenclature: SCT_NUVA
-  code: "10321002000102"

@@ -10,10 +10,3 @@ updated_at: 1666959922
 injection_methods: []
 other_names:
 - TRESIVACLYOPHOLIZED
-codes:
-- nomenclature: SYADEM
-  code: 216096bb-72b3-4dfc-abb7-ef88e65e6460
-- nomenclature: ATC
-  code: J07BD52
-- nomenclature: SCT_NUVA
-  code: "5231002000100"

@@ -10,10 +10,3 @@ updated_at: 1666959922
 injection_methods: []
 other_names:
 - VAKSINCACAR
-codes:
-- nomenclature: SYADEM
-  code: af600780-0641-4d7c-9170-e2648a51325f
-- nomenclature: ATC
-  code: J07BX01
-- nomenclature: SCT_NUVA
-  code: "5591002000103"

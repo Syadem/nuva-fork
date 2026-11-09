@@ -6,6 +6,3 @@ name: COVID-19 valence, live, unspecified
 abbreviation: Covid-vivant
 created_at: 1647213255
 updated_at: 1745928678
-codes:
-- nomenclature: SYADEM
-  code: 770b8ce8-0cb9-4944-b59c-1ee2763512d1

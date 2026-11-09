@@ -10,8 +10,3 @@ updated_at: 1765557601
 injection_methods:
 - intramuscular
 other_names: []
-codes:
-- nomenclature: SYADEM
-  code: 6783560d-a36c-4afc-bf7e-78533f95ef2a
-- nomenclature: SWISSMEDIC
-  code: "642"

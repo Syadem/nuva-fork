@@ -10,10 +10,3 @@ updated_at: 1744724271
 other_names: []
 valence_ids:
 - 108
-codes:
-- nomenclature: SYADEM
-  code: 780a2ef3-acd4-4e1f-8e9f-8669992cc7d3
-- nomenclature: ICD11
-  code: XM4TZ2
-- nomenclature: SCT_NUVA
-  code: "14651002000107"

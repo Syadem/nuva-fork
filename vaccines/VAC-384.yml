@@ -10,10 +10,3 @@ updated_at: 1666959922
 injection_methods: []
 other_names:
 - TE/VAC/PTAP
-codes:
-- nomenclature: SYADEM
-  code: 4399ca5d-5d7f-4fd0-aa50-45c42d359f7e
-- nomenclature: ATC
-  code: J07AM01
-- nomenclature: SCT_NUVA
-  code: "5091002000107"

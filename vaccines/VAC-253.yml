@@ -11,10 +11,3 @@ injection_methods: []
 other_names:
 - imovax rage
 - RABIVAX-S
-codes:
-- nomenclature: SYADEM
-  code: 4ffa62ba-d643-42fe-9f7e-49d72bfd9341
-- nomenclature: SCT_NUVA
-  code: "3721002000106"
-- nomenclature: ATC
-  code: J07BG01

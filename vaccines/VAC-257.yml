@@ -10,10 +10,3 @@ updated_at: 1744273272
 injection_methods: []
 other_names:
 - IMOVAXPAROTIDITIS
-codes:
-- nomenclature: SYADEM
-  code: 12c39eb9-24e7-4afb-9cd4-768505e090b7
-- nomenclature: ATC
-  code: J07BE01
-- nomenclature: SCT_NUVA
-  code: "3761002000102"

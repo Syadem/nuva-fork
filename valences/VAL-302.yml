@@ -6,6 +6,3 @@ name: COVID-19 valence, original virus, mRNA encoding the SARS-CoV-2 spike prote
 abbreviation: Covid-ARNm-S-ORI-50
 created_at: 1661562220
 updated_at: 1745921602
-codes:
-- nomenclature: SYADEM
-  code: 56d68c4d-8ce8-4bb3-95e0-22f8f396286f

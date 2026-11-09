@@ -10,10 +10,3 @@ updated_at: 1791918296
 injection_methods: []
 other_names:
 - INFLUENZAHAVACCINEKOVAX
-codes:
-- nomenclature: SYADEM
-  code: 7ea96df8-2006-4696-9c82-7ad1c9576335
-- nomenclature: ATC
-  code: J07BB02
-- nomenclature: SCT_NUVA
-  code: "3861002000105"

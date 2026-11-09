@@ -10,10 +10,3 @@ updated_at: 1666959926
 injection_methods: []
 other_names:
 - FLUQUADRI
-codes:
-- nomenclature: SYADEM
-  code: 3c8c8463-2a90-4e2a-928b-9df8ac503ec9
-- nomenclature: ATC
-  code: J07BB02
-- nomenclature: SCT_NUVA
-  code: "8211002000101"

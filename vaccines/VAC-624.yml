@@ -11,12 +11,3 @@ injection_methods: []
 other_names:
 - mmvax
 - mm-vax
-codes:
-- nomenclature: SYADEM
-  code: 4417b90c-3eea-4b8f-9f1e-1be335d98e52
-- nomenclature: ATC
-  code: J07BD51
-- nomenclature: SCT_NUVA
-  code: "7411002000101"
-- nomenclature: SWISSLEGACY
-  code: "96"

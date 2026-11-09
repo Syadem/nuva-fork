@@ -10,20 +10,3 @@ updated_at: 1713360922
 injection_methods: []
 other_names:
 - VACCIN OREILLONS AVENTIS PASTEUR MSD
-codes:
-- nomenclature: SYADEM
-  code: cf3c53c9-0a2e-47a3-bc4b-db76a661089c
-- nomenclature: CIP
-  code: "3400935496898"
-- nomenclature: CIP
-  code: "3400935496959"
-- nomenclature: CIP
-  code: "3400935964991"
-- nomenclature: CIP
-  code: "3400935965073"
-- nomenclature: CIS
-  code: "66630665"
-- nomenclature: ATC
-  code: J07BE01
-- nomenclature: SCT_NUVA
-  code: "11271002000103"

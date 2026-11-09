@@ -11,10 +11,3 @@ injection_methods:
 - oral
 other_names:
 - Rotasiil
-codes:
-- nomenclature: SYADEM
-  code: 3ea76e86-bf3d-4ffb-9df9-97985e6cfb55
-- nomenclature: ATC
-  code: J07BH02
-- nomenclature: SCT_NUVA
-  code: "7691002000107"

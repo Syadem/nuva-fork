@@ -12,12 +12,3 @@ other_names:
 - coquelucheuse
 valence_ids:
 - 10
-codes:
-- nomenclature: SYADEM
-  code: 56e2937d-03dd-4ede-a884-0bd9114faa2a
-- nomenclature: SCT_NUVA
-  code: "2771002000100"
-- nomenclature: ATC
-  code: J07AJ01
-- nomenclature: ICD11
-  code: XM45L8

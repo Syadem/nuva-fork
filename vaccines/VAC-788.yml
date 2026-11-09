@@ -12,10 +12,3 @@ other_names:
 valence_ids:
 - 56
 - 103
-codes:
-- nomenclature: SYADEM
-  code: 163405cd-ed45-4458-8aa6-62dc4088be06
-- nomenclature: ICD11
-  code: XM01H1
-- nomenclature: SCT_NUVA
-  code: "9371002000106"

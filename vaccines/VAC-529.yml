@@ -10,16 +10,3 @@ updated_at: 1666959924
 injection_methods: []
 other_names:
 - IMOVAXTETANO
-codes:
-- nomenclature: SYADEM
-  code: 5ff0ae3e-81c9-4bb8-b645-b73eecf84393
-- nomenclature: ATC
-  code: J07AM01
-- nomenclature: AIC
-  code: "026171"
-- nomenclature: GTIN
-  code: "03664798011449"
-- nomenclature: GTIN
-  code: "03664798011432"
-- nomenclature: SCT_NUVA
-  code: "6681002000107"

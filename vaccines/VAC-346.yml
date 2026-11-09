@@ -10,10 +10,3 @@ updated_at: 1692134294
 injection_methods: []
 other_names:
 - PURIVAX
-codes:
-- nomenclature: SYADEM
-  code: 1b5b2790-6a15-46dd-8d00-4bf5ce160847
-- nomenclature: ATC
-  code: J07BF03
-- nomenclature: SCT_NUVA
-  code: "4671002000101"

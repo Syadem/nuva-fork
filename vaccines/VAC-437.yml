@@ -10,10 +10,3 @@ updated_at: 1698747672
 injection_methods: []
 other_names:
 - VAKSINKOTIPA
-codes:
-- nomenclature: SYADEM
-  code: e68e0665-4105-4730-b375-e4b217112e4c
-- nomenclature: ATC
-  code: J07AE51
-- nomenclature: SCT_NUVA
-  code: "5611002000107"

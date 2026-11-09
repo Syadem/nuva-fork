@@ -6,6 +6,3 @@ name: COVID-19 valence, plasmid DNA encoding the SARS-CoV-2 spike protein
 abbreviation: Covid-ADN-S
 created_at: 1626689130
 updated_at: 1745920387
-codes:
-- nomenclature: SYADEM
-  code: 13fc7b79-8429-4d73-9631-3e566e993126

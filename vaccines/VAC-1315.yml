@@ -11,10 +11,3 @@ injection_methods:
 - intramuscular
 other_names:
 - Vaccinoreillons
-codes:
-- nomenclature: SYADEM
-  code: 6cfaf1b4-715f-4118-bf7e-1f2a39ce0213
-- nomenclature: ATC
-  code: J07BE01
-- nomenclature: SCT_NUVA
-  code: "16011002000108"

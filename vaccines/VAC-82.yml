@@ -2,19 +2,12 @@
 id: 82
 generic: false
 generic_vaccine_id: 149
-name: MenBvac
+name: MENBVAC
 description: Meningococcal vaccine, serogroup B (outer membrane vesicle protein B:14:P1.7,16)
 notes:
 created_at: 1626689126
-updated_at: 1761147617
+updated_at: 1794216949
 injection_methods: []
 other_names:
 - MemBvac
 - menbvac
-codes:
-- nomenclature: SYADEM
-  code: acd990ae-a58c-4546-9278-a8067be21b65
-- nomenclature: ATC
-  code: J07AH06
-- nomenclature: SCT_NUVA
-  code: "1601002000107"

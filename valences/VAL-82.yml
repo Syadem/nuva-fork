@@ -6,6 +6,3 @@ name: Human Papillomavirus valence, types unspecified
 abbreviation: VPH
 created_at: 1626689130
 updated_at: 1790092527
-codes:
-- nomenclature: SYADEM
-  code: d23d52c1-9609-46da-a5b9-006e9576ff29

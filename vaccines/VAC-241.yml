@@ -11,10 +11,3 @@ injection_methods:
 - intramuscular
 other_names:
 - HAEMOPHILUS INFLUENZAE TYPE B CONJUGATE VACCINE - SERUM INSTITUTE OF INDIA
-codes:
-- nomenclature: SYADEM
-  code: 5ec0c1c5-752e-4c12-8de8-b69f42615d9c
-- nomenclature: ATC
-  code: J07AG01
-- nomenclature: SCT_NUVA
-  code: "3581002000100"

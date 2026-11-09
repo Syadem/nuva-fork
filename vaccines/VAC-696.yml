@@ -11,16 +11,3 @@ injection_methods:
 - intramuscular
 other_names:
 - Chinese-Inactivated-Vero-Covid
-codes:
-- nomenclature: SYADEM
-  code: df85e64c-3a07-4446-a75a-c9d28ae11951
-- nomenclature: CVC
-  code: "33431000087104"
-- nomenclature: CVX
-  code: "516"
-- nomenclature: ATC
-  code: J07BN03
-- nomenclature: SCT_NUVA
-  code: "8381002000103"
-- nomenclature: ICD11
-  code: XM9TQ1

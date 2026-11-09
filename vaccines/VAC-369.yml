@@ -10,10 +10,3 @@ updated_at: 1666959921
 injection_methods: []
 other_names:
 - RUBEOVAX
-codes:
-- nomenclature: SYADEM
-  code: 6fa2c971-6805-45dd-94c1-17a14aed8e9e
-- nomenclature: ATC
-  code: J07BD01
-- nomenclature: SCT_NUVA
-  code: "4921002000105"

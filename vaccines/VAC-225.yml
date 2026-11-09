@@ -10,10 +10,3 @@ updated_at: 1666959919
 injection_methods: []
 other_names:
 - EIPV
-codes:
-- nomenclature: SYADEM
-  code: 986838fc-69df-473d-9061-07f0d896de8c
-- nomenclature: ATC
-  code: J07BF03
-- nomenclature: SCT_NUVA
-  code: "3411002000109"

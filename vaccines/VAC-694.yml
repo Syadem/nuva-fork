@@ -10,10 +10,3 @@ updated_at: 1717512220
 injection_methods: []
 other_names:
 - LMU-MVA-SARS-2-S-Covid
-codes:
-- nomenclature: SYADEM
-  code: 54f82c8e-35c3-433e-a5d4-22f1d6d9e96c
-- nomenclature: ATC
-  code: J07BN02
-- nomenclature: SCT_NUVA
-  code: "8361002000106"

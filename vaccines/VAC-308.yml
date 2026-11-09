@@ -10,12 +10,3 @@ updated_at: 1745930397
 injection_methods: []
 other_names:
 - MORUMANBERNAPRODUCTSNA
-codes:
-- nomenclature: SYADEM
-  code: fa548a42-b410-4d63-93d0-c0fe1c12cdf6
-- nomenclature: AIC
-  code: "022811"
-- nomenclature: ATC
-  code: J06BB14
-- nomenclature: SCT_NUVA
-  code: "4311002000103"

@@ -6,14 +6,7 @@ description: Meningococcal B vaccine, 4-component, unspecified
 immunoglobulin: false
 notes:
 created_at: 1717601770
-updated_at: 1788794963
+updated_at: 1794215648
 other_names: []
 valence_ids:
 - 98
-codes:
-- nomenclature: SYADEM
-  code: 2ed42ad7-87a8-46f8-a573-bfa595419237
-- nomenclature: CVX
-  code: "163"
-- nomenclature: SCT_NUVA
-  code: "15001002000100"

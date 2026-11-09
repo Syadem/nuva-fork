@@ -11,8 +11,3 @@ other_names: []
 valence_ids:
 - 4
 - 32
-codes:
-- nomenclature: SYADEM
-  code: a5f57653-903a-4569-88c6-5d477f1c969b
-- nomenclature: SCT_NUVA
-  code: "14381002000106"

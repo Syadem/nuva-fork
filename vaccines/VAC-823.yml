@@ -11,12 +11,3 @@ other_names:
 - VaccingrippalVLP
 valence_ids:
 - 29
-codes:
-- nomenclature: SYADEM
-  code: 34d3aefd-27d9-4fa6-884c-837fa8e21dc9
-- nomenclature: ATC
-  code: J07BB04
-- nomenclature: SCT_NUVA
-  code: "9851002000106"
-- nomenclature: ICD11
-  code: XM9E16

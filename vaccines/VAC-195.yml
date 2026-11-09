@@ -13,14 +13,3 @@ injection_methods:
 other_names:
 - BEGRIVAC
 - begrivak
-codes:
-- nomenclature: SYADEM
-  code: 25fd34fd-963e-4052-9133-0222a1d935f6
-- nomenclature: ATC
-  code: J07BB02
-- nomenclature: AIC
-  code: "022143"
-- nomenclature: THL
-  code: "53"
-- nomenclature: SCT_NUVA
-  code: "3101002000102"

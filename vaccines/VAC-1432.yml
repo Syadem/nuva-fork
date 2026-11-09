@@ -10,8 +10,3 @@ updated_at: 1747735653
 other_names: []
 valence_ids:
 - 421
-codes:
-- nomenclature: SYADEM
-  code: 07c28802-1e07-4f37-8850-0b5fccde088b
-- nomenclature: SNOMED-CT
-  code: "860722004"

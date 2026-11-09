@@ -10,10 +10,3 @@ updated_at: 1666959922
 injection_methods: []
 other_names:
 - TRIPLEVIRAL
-codes:
-- nomenclature: SYADEM
-  code: 699442eb-92e3-43af-a511-b8fa7029ad4d
-- nomenclature: ATC
-  code: J07BD52
-- nomenclature: SCT_NUVA
-  code: "5341002000103"

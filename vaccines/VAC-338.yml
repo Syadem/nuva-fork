@@ -11,10 +11,3 @@ injection_methods:
 - intramuscular
 other_names:
 - POLIACEL
-codes:
-- nomenclature: SYADEM
-  code: 4b6b64a8-0918-4e94-88be-4bb3812ff78c
-- nomenclature: ATC
-  code: J07CA06
-- nomenclature: SCT_NUVA
-  code: "4601002000105"

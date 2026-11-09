@@ -10,10 +10,3 @@ updated_at: 1666959920
 injection_methods: []
 other_names:
 - LM3RIT
-codes:
-- nomenclature: SYADEM
-  code: b8e52ac6-8c0a-4a54-9a16-6ac947f758f8
-- nomenclature: ATC
-  code: J07BD52
-- nomenclature: SCT_NUVA
-  code: "3991002000105"

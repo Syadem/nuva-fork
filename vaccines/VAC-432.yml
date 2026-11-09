@@ -10,10 +10,3 @@ updated_at: 1666959922
 injection_methods: []
 other_names:
 - VACINADUPLA
-codes:
-- nomenclature: SYADEM
-  code: fbed3e09-8ed3-4dc4-bf9a-985b16faf02a
-- nomenclature: ATC
-  code: J07AM51
-- nomenclature: SCT_NUVA
-  code: "5561002000109"

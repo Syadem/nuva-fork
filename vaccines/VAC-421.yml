@@ -10,10 +10,3 @@ updated_at: 1698916751
 injection_methods: []
 other_names:
 - TUSSITRUPINFORTE
-codes:
-- nomenclature: SYADEM
-  code: 76e60e2e-dfbc-4997-a03f-f05366730225
-- nomenclature: ATC
-  code: J07AJ01
-- nomenclature: SCT_NUVA
-  code: "5451002000106"

@@ -11,10 +11,3 @@ other_names: []
 valence_ids:
 - 304
 - 307
-codes:
-- nomenclature: SYADEM
-  code: 6cc1f041-b22d-4fa2-8093-ab5e436cafd3
-- nomenclature: CVX
-  code: "300"
-- nomenclature: SCT_NUVA
-  code: "14281002000103"

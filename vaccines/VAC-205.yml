@@ -12,12 +12,3 @@ updated_at: 1744903839
 injection_methods: []
 other_names:
 - CDJEVAX
-codes:
-- nomenclature: SYADEM
-  code: 68b88b24-b908-4400-9aa3-bf7eaf100d6e
-- nomenclature: ATC
-  code: J07BA02
-- nomenclature: CIP
-  code: "3400959014986"
-- nomenclature: SCT_NUVA
-  code: "3211002000108"

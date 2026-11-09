@@ -6,6 +6,3 @@ name: COVID-19 valence, protein subunit, unspecified
 abbreviation: Covid-SP
 created_at: 1626689130
 updated_at: 1745921629
-codes:
-- nomenclature: SYADEM
-  code: 6753d692-b6b9-46cd-8574-e13235ac516d

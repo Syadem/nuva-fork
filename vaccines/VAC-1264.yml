@@ -11,10 +11,3 @@ other_names:
 - AH5
 valence_ids:
 - 386
-codes:
-- nomenclature: SYADEM
-  code: 3d5ca283-48eb-4227-9a2e-0f88f976a617
-- nomenclature: CVX
-  code: "323"
-- nomenclature: SCT_NUVA
-  code: "15421002000102"

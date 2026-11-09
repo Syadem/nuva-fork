@@ -6,6 +6,3 @@ name: COVID-19 valence, non-replicating modified Ankara vaccine vector encoding 
 abbreviation: Covid-VVnr-S-MVA
 created_at: 1626689130
 updated_at: 1745922749
-codes:
-- nomenclature: SYADEM
-  code: 36b3be2a-d33a-4fcc-9e74-8e7966534db9

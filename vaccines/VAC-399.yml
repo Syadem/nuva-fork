@@ -10,10 +10,3 @@ updated_at: 1666959922
 injection_methods: []
 other_names:
 - TRIACEL
-codes:
-- nomenclature: SYADEM
-  code: ae5d30bd-d404-46f8-905a-590622354a66
-- nomenclature: ATC
-  code: J07CA01
-- nomenclature: SCT_NUVA
-  code: "5251002000105"

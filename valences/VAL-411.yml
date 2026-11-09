@@ -6,6 +6,3 @@ name: COVID-19 valence, Omicron variant BA.4/5, mRNA encoding the SARS-CoV-2 spi
 abbreviation: Covid-ARNm-S-OMI-BA.4/5-50
 created_at: 1742994884
 updated_at: 1745920724
-codes:
-- nomenclature: SYADEM
-  code: 56b0ee19-fc7e-482a-8c77-1b3146ed168a

@@ -12,10 +12,3 @@ injection_methods:
 other_names:
 - PENTA
 - DTCAPHib
-codes:
-- nomenclature: SYADEM
-  code: b344d944-caa7-4e1d-b0ad-9d959513c1f2
-- nomenclature: ATC
-  code: J07CA06
-- nomenclature: SCT_NUVA
-  code: "4501002000109"

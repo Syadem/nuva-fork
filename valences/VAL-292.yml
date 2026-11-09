@@ -6,6 +6,3 @@ name: COVID-19 valence, non-replicating adenovirus 26 vector encoding the SARS-C
 abbreviation: Covid-VVnr-S-Ad26-CT
 created_at: 1652860913
 updated_at: 1745922898
-codes:
-- nomenclature: SYADEM
-  code: 6f589f41-2a46-40e3-ae41-73d66b06b91a

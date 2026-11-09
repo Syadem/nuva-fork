@@ -6,6 +6,3 @@ name: "COVID-19 valence, mRNA encoding the SARS-CoV-2 spike protein, in clinical
 abbreviation: Covid-ARNm-S-CT
 created_at: 1641068573
 updated_at: 1745920436
-codes:
-- nomenclature: SYADEM
-  code: 495387b9-0961-4650-b87a-c2e2cf4fba0c

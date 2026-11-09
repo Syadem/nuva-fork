@@ -12,8 +12,3 @@ injection_methods:
 - subcutaneous
 other_names:
 - Hib
-codes:
-- nomenclature: SYADEM
-  code: aed69d0a-d238-4140-a64f-273cc166fb36
-- nomenclature: SCT_NUVA
-  code: "16071002000101"

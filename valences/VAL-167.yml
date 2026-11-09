@@ -6,6 +6,3 @@ name: COVID-19 valence, non-replicating viral vector, antigen presenting cells
 abbreviation: Covid-VVnr+APC
 created_at: 1647214959
 updated_at: 1745928752
-codes:
-- nomenclature: SYADEM
-  code: 0b603f34-c8e1-43b6-a3ae-724cbed3c6ad

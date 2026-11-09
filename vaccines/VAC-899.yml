@@ -10,10 +10,3 @@ updated_at: 1713774748
 other_names: []
 valence_ids:
 - 176
-codes:
-- nomenclature: SYADEM
-  code: af86c6b0-0dbc-4e33-99c7-ec3f20cfb5db
-- nomenclature: CVX
-  code: "69"
-- nomenclature: SCT_NUVA
-  code: "10761002000107"

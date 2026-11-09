@@ -10,10 +10,3 @@ updated_at: 1666959919
 injection_methods: []
 other_names:
 - CDT
-codes:
-- nomenclature: SYADEM
-  code: f7fe2839-460a-4751-b28c-5308ccbe9bd5
-- nomenclature: ATC
-  code: J07AM51
-- nomenclature: SCT_NUVA
-  code: "3191002000107"

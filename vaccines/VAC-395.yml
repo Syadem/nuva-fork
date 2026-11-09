@@ -11,10 +11,3 @@ injection_methods:
 - intramuscular
 other_names:
 - TITIFICA
-codes:
-- nomenclature: SYADEM
-  code: f682ca10-f06c-4972-99e6-a7f9015cfcc5
-- nomenclature: ATC
-  code: J07AP10
-- nomenclature: SCT_NUVA
-  code: "5211002000109"

@@ -9,12 +9,3 @@ created_at: 1649077458
 updated_at: 1713792054
 injection_methods: []
 other_names: []
-codes:
-- nomenclature: SYADEM
-  code: bf3a1949-60a6-4827-82a4-76722ee517db
-- nomenclature: AIC
-  code: "008646"
-- nomenclature: ATC
-  code: J07AP02
-- nomenclature: SCT_NUVA
-  code: "10561002000101"

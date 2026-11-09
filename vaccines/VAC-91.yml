@@ -10,10 +10,3 @@ updated_at: 1758808389
 injection_methods: []
 other_names:
 - VACCIN CCB PASTEUR
-codes:
-- nomenclature: SYADEM
-  code: 49887044-4980-4e97-84c9-880491802335
-- nomenclature: CIP
-  code: "3400930798584"
-- nomenclature: SCT_NUVA
-  code: "1741002000100"
