@@ -1,9 +1,9 @@
 ---
 id: 56
-name: Chikungunya updated
+name: Chikungunya
 created_at: 1626689120
-updated_at: 1794579160
+updated_at: 1777985511
 valence_ids:
 - 60
+- 390
 - 391
-- 308
