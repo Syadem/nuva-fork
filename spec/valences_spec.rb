@@ -67,7 +67,7 @@ RSpec.describe 'The valences folder' do
       end
 
       it 'references an existing valence type' do
-        expect(data['valence_type_id']).to be_a(Integer), "VAL-#{data['id']} (#{data['abbreviation']}) has no valence type"
+        expect(data['valence_type_id']).to be_a(Integer)
         expect(data['valence_type_id']).to be_positive
 
         valence_type_file = NUVA_ROOT.join('valence_types', "VTY-#{data['valence_type_id']}.yml")
@@ -77,17 +77,14 @@ RSpec.describe 'The valences folder' do
       end
 
       it "has the same valence type as its parent or one of its subtypes" do
-        if data['parent_id'] && data['valence_type_id']
+        if data['parent_id']
           parent      = YAML.safe_load_file(NUVA_ROOT.join('valences', "VAL-#{data['parent_id']}.yml"))
           parent_type = parent['valence_type_id']
+          allowed     = valence_type_ancestors.call(data['valence_type_id'])
 
-          if parent_type
-            allowed = valence_type_ancestors.call(data['valence_type_id'])
-
-            expect(allowed).to include(parent_type),
-              "VAL-#{data['id']} (#{data['abbreviation']}) has VTY-#{data['valence_type_id']}, " \
-              "which is not VTY-#{parent_type} of its parent VAL-#{parent['id']} (#{parent['abbreviation']}) nor one of its subtypes"
-          end
+          expect(allowed).to include(parent_type),
+            "VAL-#{data['id']} (#{data['abbreviation']}) has VTY-#{data['valence_type_id']}, " \
+            "which is not VTY-#{parent_type} of its parent VAL-#{parent['id']} (#{parent['abbreviation']}) nor one of its subtypes"
         end
       end
 
