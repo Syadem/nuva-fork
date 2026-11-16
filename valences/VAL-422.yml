@@ -1,7 +1,7 @@
 ---
 id: 422
 parent_id:
-antigen_type_id:
+valence_type_id: 1
 name: Plague valence, unspecified
 abbreviation: Yp
 created_at: 1747831893

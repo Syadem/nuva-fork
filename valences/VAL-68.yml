@@ -1,7 +1,7 @@
 ---
 id: 68
 parent_id:
-antigen_type_id: 10
+valence_type_id: 20
 name: Hepatitis B valence, unspecified
 abbreviation: HepB
 created_at: 1626689130

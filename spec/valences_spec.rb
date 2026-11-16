@@ -3,6 +3,19 @@
 RSpec.describe 'The valences folder' do
   files = Dir.glob(NUVA_ROOT.join('valences', '*')).sort
 
+  let(:valence_type_ancestors) do
+    parents = Dir.glob(NUVA_ROOT.join('valence_types', '*.yml')).to_h do |file|
+      type = YAML.safe_load_file(file)
+      [type['id'], type['parent_id']]
+    end
+
+    lambda do |id|
+      chain = [id]
+      chain << id while (id = parents[id]) && !chain.include?(id)
+      chain
+    end
+  end
+
   it 'contains valences' do
     expect(files).not_to be_empty
   end
@@ -18,7 +31,7 @@ RSpec.describe 'The valences folder' do
 
       it 'matches the expected schema' do
         expect(data).to be_a(Hash)
-        expect(data.keys).to contain_exactly('id', 'parent_id', 'antigen_type_id', 'name', 'abbreviation', 'created_at', 'updated_at')
+        expect(data.keys).to contain_exactly('id', 'parent_id', 'valence_type_id', 'name', 'abbreviation', 'created_at', 'updated_at')
 
         expect(data['id']).to be_a(Integer)
         expect(data['id']).to be_positive
@@ -26,7 +39,6 @@ RSpec.describe 'The valences folder' do
         expect(File.basename(file)).to eq("VAL-#{data['id']}.yml")
 
         expect(data['parent_id']).to(be_a(Integer).or be_nil)
-        expect(data['antigen_type_id']).to(be_a(Integer).or be_nil)
 
         expect(data['abbreviation']).to be_a(String)
         expect(data['abbreviation'].strip).not_to be_empty
@@ -54,14 +66,28 @@ RSpec.describe 'The valences folder' do
         end
       end
 
-      it 'references an existing antigen type when one is specified' do
-        if data['antigen_type_id']
-          expect(data['antigen_type_id']).to be_positive
+      it 'references an existing valence type' do
+        expect(data['valence_type_id']).to be_a(Integer), "VAL-#{data['id']} (#{data['abbreviation']}) has no valence type"
+        expect(data['valence_type_id']).to be_positive
 
-          antigen_type_file = NUVA_ROOT.join('antigen_types', "AGT-#{data['antigen_type_id']}.yml")
+        valence_type_file = NUVA_ROOT.join('valence_types', "VTY-#{data['valence_type_id']}.yml")
 
-          expect(antigen_type_file).to be_file
-          expect(YAML.safe_load_file(antigen_type_file)['id']).to eq(data['antigen_type_id'])
+        expect(valence_type_file).to be_file
+        expect(YAML.safe_load_file(valence_type_file)['id']).to eq(data['valence_type_id'])
+      end
+
+      it "has the same valence type as its parent or one of its subtypes" do
+        if data['parent_id'] && data['valence_type_id']
+          parent      = YAML.safe_load_file(NUVA_ROOT.join('valences', "VAL-#{data['parent_id']}.yml"))
+          parent_type = parent['valence_type_id']
+
+          if parent_type
+            allowed = valence_type_ancestors.call(data['valence_type_id'])
+
+            expect(allowed).to include(parent_type),
+              "VAL-#{data['id']} (#{data['abbreviation']}) has VTY-#{data['valence_type_id']}, " \
+              "which is not VTY-#{parent_type} of its parent VAL-#{parent['id']} (#{parent['abbreviation']}) nor one of its subtypes"
+          end
         end
       end
 

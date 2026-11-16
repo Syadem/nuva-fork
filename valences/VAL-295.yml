@@ -1,7 +1,7 @@
 ---
 id: 295
 parent_id: 22
-antigen_type_id: 1
+valence_type_id: 5
 name: Smallpox valence, second-generation, live attenuated
 abbreviation: POX-2G
 created_at: 1658408440

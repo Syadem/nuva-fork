@@ -1,7 +1,7 @@
 ---
 id: 120
 parent_id: 234
-antigen_type_id: 11
+valence_type_id: 18
 name: Meningococcal valence, polyvalent, unconjugated polysaccharide
 abbreviation: MPV-poly
 created_at: 1635263684

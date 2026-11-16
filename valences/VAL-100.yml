@@ -1,7 +1,7 @@
 ---
 id: 100
 parent_id: 248
-antigen_type_id: 1
+valence_type_id: 5
 name: Japanese encephalitis valence, live attenuated virus, strain 14-14-2
 abbreviation: EJ-VVA-14-14-2
 created_at: 1626689131

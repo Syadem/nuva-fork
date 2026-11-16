@@ -1,7 +1,7 @@
 ---
 id: 332
 parent_id:
-antigen_type_id:
+valence_type_id: 1
 name: Hepatitis C valence, unspecified
 abbreviation: HepC
 created_at: 1710757936

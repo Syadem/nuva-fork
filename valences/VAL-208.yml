@@ -1,7 +1,7 @@
 ---
 id: 208
 parent_id: 185
-antigen_type_id: 13
+valence_type_id: 18
 name: Pneumococcal valence, polysaccharide unconjugated, serotype 3
 abbreviation: VPP-03
 created_at: 1648441689

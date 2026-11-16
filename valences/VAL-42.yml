@@ -1,7 +1,7 @@
 ---
 id: 42
 parent_id:
-antigen_type_id: 18
+valence_type_id: 1
 name: Polio valence, unspecified
 abbreviation: POLIO
 created_at: 1626689130

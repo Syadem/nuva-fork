@@ -1,7 +1,7 @@
 ---
 id: 96
 parent_id:
-antigen_type_id: 1
+valence_type_id: 4
 name: BCG valence
 abbreviation: BCG
 created_at: 1626689131

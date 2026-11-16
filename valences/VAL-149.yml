@@ -1,7 +1,7 @@
 ---
 id: 149
 parent_id: 43
-antigen_type_id: 15
+valence_type_id: 29
 name: COVID-19 valence, Omicron variant, mRNA encoding the SARS-CoV-2 spike protein
 abbreviation: Covid-ARNm-S-OMI
 created_at: 1645659074

@@ -1,7 +1,7 @@
 ---
 id: 337
 parent_id: 418
-antigen_type_id:
+valence_type_id: 32
 name: Smallpox valence, immunoglobulin
 abbreviation: POX-Ig
 created_at: 1710795610

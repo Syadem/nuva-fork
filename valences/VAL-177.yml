@@ -1,7 +1,7 @@
 ---
 id: 177
 parent_id:
-antigen_type_id: 18
+valence_type_id: 1
 name: Haemophilus influenzae type b valence, unspecified
 abbreviation: Hib
 created_at: 1647991633

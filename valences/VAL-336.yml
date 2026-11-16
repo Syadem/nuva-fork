@@ -1,7 +1,7 @@
 ---
 id: 336
 parent_id:
-antigen_type_id:
+valence_type_id: 1
 name: Rift Valley Fever valence, unspecified
 abbreviation: FVR
 created_at: 1710769937

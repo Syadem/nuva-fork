@@ -1,7 +1,7 @@
 ---
 id: 370
 parent_id: 184
-antigen_type_id:
+valence_type_id: 19
 name: Pneumococcal valence, polysaccharide conjugate, serotype 15C
 abbreviation: VPC-15C
 created_at: 1722501455

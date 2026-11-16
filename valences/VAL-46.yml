@@ -1,7 +1,7 @@
 ---
 id: 46
 parent_id:
-antigen_type_id: 5
+valence_type_id: 11
 name: Typhus valence
 abbreviation: Typhus
 created_at: 1626689130

@@ -1,7 +1,7 @@
 ---
 id: 168
 parent_id: 164
-antigen_type_id: 15
+valence_type_id: 29
 name: COVID-19 valence, mRNA, unspecified
 abbreviation: Covid-ARN
 created_at: 1647730553

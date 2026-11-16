@@ -1,7 +1,7 @@
 ---
 id: 109
 parent_id: 126
-antigen_type_id: 4
+valence_type_id: 8
 name: "Ebola valence, non-replicating viral vector, Modified Ankara vaccine "
 abbreviation: Ebola-MVA-BN-Filo
 created_at: 1626689131

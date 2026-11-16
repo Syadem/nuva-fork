@@ -1,7 +1,7 @@
 ---
 id: 156
 parent_id: 103
-antigen_type_id: 12
+valence_type_id: 19
 name: Haemophilus influenzae type b valence, PRP conjugated to tetanus toxoid
 abbreviation: PRP-T
 created_at: 1646402088

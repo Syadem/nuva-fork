@@ -1,7 +1,7 @@
 ---
 id: 347
 parent_id: 448
-antigen_type_id:
+valence_type_id: 11
 name: Leptospira canicola valence, inactivated, whole-cell
 abbreviation: Lepto-ca
 created_at: 1714136780

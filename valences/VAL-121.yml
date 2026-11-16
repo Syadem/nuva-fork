@@ -1,7 +1,7 @@
 ---
 id: 121
 parent_id: 42
-antigen_type_id: 5
+valence_type_id: 12
 name: Polio valence, trivalent, inactivated, whole-virus, oral
 abbreviation: VPI-0
 created_at: 1635263684

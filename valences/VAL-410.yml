@@ -1,7 +1,7 @@
 ---
 id: 410
 parent_id: 53
-antigen_type_id:
+valence_type_id: 23
 name: COVID-19 valence, protein subunit, recombinant N protein
 abbreviation: Covid-SP-rN
 created_at: 1742921880

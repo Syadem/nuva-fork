@@ -1,7 +1,7 @@
 ---
 id: 31
 parent_id:
-antigen_type_id: 5
+valence_type_id: 12
 name: Tick-borne encephalitis valence, unspecified
 abbreviation: TBE
 created_at: 1626689130

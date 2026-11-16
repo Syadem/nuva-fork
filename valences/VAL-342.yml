@@ -1,7 +1,7 @@
 ---
 id: 342
 parent_id: 345
-antigen_type_id:
+valence_type_id: 1
 name: Klebsiella pneumoniæ valence, unspecified
 abbreviation: Kpn
 created_at: 1713530691

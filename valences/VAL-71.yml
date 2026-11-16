@@ -1,7 +1,7 @@
 ---
 id: 71
 parent_id: 14
-antigen_type_id: 5
+valence_type_id: 11
 name: Typhoid valence, inactivated, whole-cell
 abbreviation: Ty-I
 created_at: 1626689130

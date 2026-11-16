@@ -1,7 +1,7 @@
 ---
 id: 88
 parent_id:
-antigen_type_id: 18
+valence_type_id: 32
 name: Varicella valence, immunoglobulin
 abbreviation: VZV-Ig
 created_at: 1626689130

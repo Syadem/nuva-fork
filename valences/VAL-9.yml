@@ -1,7 +1,7 @@
 ---
 id: 9
 parent_id: 25
-antigen_type_id: 10
+valence_type_id: 20
 name: Malaria valence, sporozoite surface protein
 abbreviation: Palu-SPO
 created_at: 1626689130

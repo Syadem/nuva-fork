@@ -1,7 +1,7 @@
 ---
 id: 346
 parent_id:
-antigen_type_id:
+valence_type_id: 1
 name: Enterovirus A71 valence
 abbreviation: EV71
 created_at: 1714119928

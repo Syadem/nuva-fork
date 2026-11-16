@@ -1,7 +1,7 @@
 ---
 id: 415
 parent_id: 111
-antigen_type_id:
+valence_type_id: 20
 name: Anthrax valence, acellular, adjuvanted
 abbreviation: BantAdj
 created_at: 1744365879

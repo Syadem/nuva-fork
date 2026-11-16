@@ -1,7 +1,7 @@
 ---
 id: 239
 parent_id: 236
-antigen_type_id: 9
+valence_type_id: 24
 name: Human Papillomavirus valence, VLP , type 11
 abbreviation: VPH-11
 created_at: 1648554157

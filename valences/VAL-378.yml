@@ -1,7 +1,7 @@
 ---
 id: 378
 parent_id: 90
-antigen_type_id:
+valence_type_id: 23
 name: Hepatitis B valence, recombinant Hepatitis B virus surface antigen (HBsAg), 15 micrograms
 abbreviation: rAgHBs-15
 created_at: 1722843722

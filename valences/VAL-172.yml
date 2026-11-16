@@ -1,7 +1,7 @@
 ---
 id: 172
 parent_id:
-antigen_type_id: 18
+valence_type_id: 1
 name: Q fever (Coxiella burnetii) valence, unspecified
 abbreviation: Cbur
 created_at: 1647902892

@@ -1,7 +1,7 @@
 ---
 id: 335
 parent_id:
-antigen_type_id:
+valence_type_id: 1
 name: Streptococcus pyogenes valence, unspecified
 abbreviation: SPYO
 created_at: 1710769586

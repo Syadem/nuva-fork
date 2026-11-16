@@ -1,7 +1,7 @@
 ---
 id: 386
 parent_id:
-antigen_type_id:
+valence_type_id: 1
 name: Avian influenza A(H5) valence, unspecified
 abbreviation: AH5
 created_at: 1734387201

@@ -1,7 +1,7 @@
 ---
 id: 2
 parent_id: 14
-antigen_type_id: 18
+valence_type_id: 19
 name: Typhoid valence, conjugated, Vi polysaccharide antigen linked to a carrier protein
 abbreviation: Ty-ViC
 created_at: 1626689130

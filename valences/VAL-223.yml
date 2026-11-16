@@ -1,7 +1,7 @@
 ---
 id: 223
 parent_id: 185
-antigen_type_id: 13
+valence_type_id: 18
 name: Pneumococcal valence, polysaccharide unconjugated, serotype 18C
 abbreviation: VPP-18C
 created_at: 1648444831

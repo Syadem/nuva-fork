@@ -1,7 +1,7 @@
 ---
 id: 157
 parent_id:
-antigen_type_id: 18
+valence_type_id: 1
 name: COVID-19 valence, unspecified
 abbreviation: Covid
 created_at: 1646604669

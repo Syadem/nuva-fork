@@ -1,7 +1,7 @@
 ---
 id: 176
 parent_id:
-antigen_type_id: 18
+valence_type_id: 1
 name: Human parainfluenza viruses valence, unspecified
 abbreviation: VPIH
 created_at: 1647903332

@@ -1,7 +1,7 @@
 ---
 id: 15
 parent_id: 122
-antigen_type_id: 10
+valence_type_id: 9
 name: Influenza valence, trivalent, non-live, obtained from egg culture, split or subunit, intramuscular or subcutaneous route, non-adjuvanted, normal dose
 abbreviation: Inf-ESUnd3
 created_at: 1626689130

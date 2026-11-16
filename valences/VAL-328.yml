@@ -1,7 +1,7 @@
 ---
 id: 328
 parent_id: 107
-antigen_type_id:
+valence_type_id: 23
 name: COVID-19 valence, protein subunit, recombinant spike protein nanoparticles, Omicron XBB.1.5 subvariant
 abbreviation: Covid-SP-rSnp-XBB
 created_at: 1701814785

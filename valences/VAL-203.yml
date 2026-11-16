@@ -1,7 +1,7 @@
 ---
 id: 203
 parent_id: 184
-antigen_type_id: 12
+valence_type_id: 19
 name: Pneumococcal valence, polysaccharide conjugate, serotype 22F
 abbreviation: VPC-22F
 created_at: 1648440903

@@ -1,7 +1,7 @@
 ---
 id: 106
 parent_id:
-antigen_type_id: 1
+valence_type_id: 5
 name: Rotavirus valence, live attenuated, unspecified
 abbreviation: Rota
 created_at: 1626689131

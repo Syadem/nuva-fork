@@ -1,7 +1,7 @@
 ---
 id: 167
 parent_id: 163
-antigen_type_id: 4
+valence_type_id: 8
 name: COVID-19 valence, non-replicating viral vector, antigen presenting cells
 abbreviation: Covid-VVnr+APC
 created_at: 1647214959

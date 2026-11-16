@@ -1,7 +1,7 @@
 ---
 id: 384
 parent_id:
-antigen_type_id:
+valence_type_id: 1
 name: Leprosy valence, unspecified
 abbreviation: Lep
 created_at: 1734367477

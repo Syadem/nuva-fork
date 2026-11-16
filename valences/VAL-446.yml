@@ -1,7 +1,7 @@
 ---
 id: 446
 parent_id: 345
-antigen_type_id:
+valence_type_id: 1
 name: Morganella morganii valence, unspecified
 abbreviation: Mmo
 created_at: 1789461356

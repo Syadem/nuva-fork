@@ -1,7 +1,7 @@
 ---
 id: 160
 parent_id:
-antigen_type_id: 18
+valence_type_id: 1
 name: Shingles valence, unspecified
 abbreviation: Zona
 created_at: 1646930778

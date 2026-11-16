@@ -1,7 +1,7 @@
 ---
 id: 364
 parent_id: 128
-antigen_type_id:
+valence_type_id: 9
 name: Influenza valence, non-live, unspecified
 abbreviation: Inf-NL
 created_at: 1719838416

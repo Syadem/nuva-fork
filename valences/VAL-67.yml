@@ -1,7 +1,7 @@
 ---
 id: 67
 parent_id:
-antigen_type_id: 6
+valence_type_id: 21
 name: Tetanus valence, toxoid
 abbreviation: T
 created_at: 1626689130

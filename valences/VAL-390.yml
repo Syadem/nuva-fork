@@ -1,7 +1,7 @@
 ---
 id: 390
 parent_id:
-antigen_type_id:
+valence_type_id: 1
 name: Chikungunya virus valence, unspecified
 abbreviation: CHIK
 created_at: 1740064813

@@ -1,7 +1,7 @@
 ---
 id: 317
 parent_id: 148
-antigen_type_id: 18
+valence_type_id: 32
 name: RSV valence, antibody, unspecified
 abbreviation: VRS-Ab
 created_at: 1684099751

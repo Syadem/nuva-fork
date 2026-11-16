@@ -1,7 +1,7 @@
 ---
 id: 107
 parent_id: 104
-antigen_type_id: 7
+valence_type_id: 23
 name: COVID-19 valence, protein subunit, recombinant spike protein nanoparticles
 abbreviation: Covid-SP-rSnp
 created_at: 1626689131

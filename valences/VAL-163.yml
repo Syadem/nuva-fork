@@ -1,7 +1,7 @@
 ---
 id: 163
 parent_id: 165
-antigen_type_id: 4
+valence_type_id: 8
 name: COVID-19 valence, non-replicating viral vector, unspecified
 abbreviation: Covid-VVnr
 created_at: 1647212740

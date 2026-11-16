@@ -1,7 +1,7 @@
 ---
 id: 351
 parent_id: 362
-antigen_type_id:
+valence_type_id: 16
 name: Influenza valence, trivalent, virosomal, unspecified
 abbreviation: Inf-V3
 created_at: 1715675928

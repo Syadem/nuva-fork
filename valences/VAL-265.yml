@@ -1,7 +1,7 @@
 ---
 id: 265
 parent_id: 76
-antigen_type_id: 18
+valence_type_id: 12
 name: COVID-19 valence, inactivated, whole-virion, clinical trial
 abbreviation: Covid-VI-CT
 created_at: 1648938682

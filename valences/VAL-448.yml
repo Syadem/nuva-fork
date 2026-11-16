@@ -1,7 +1,7 @@
 ---
 id: 448
 parent_id:
-antigen_type_id:
+valence_type_id: 1
 name: Leptospira valence, unspecified
 abbreviation: Lepto
 created_at: 1789570517

@@ -1,7 +1,7 @@
 ---
 id: 1
 parent_id: 140
-antigen_type_id: 1
+valence_type_id: 5
 name: Influenza valence, trivalent, live attenuated, standard dose
 abbreviation: Inf-L3
 created_at: 1626689130

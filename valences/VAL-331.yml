@@ -1,7 +1,7 @@
 ---
 id: 331
 parent_id:
-antigen_type_id:
+valence_type_id: 32
 name: CMV valence, immunoglobulin
 abbreviation: CMV-Ig
 created_at: 1710755433

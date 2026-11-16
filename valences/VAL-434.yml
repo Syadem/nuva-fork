@@ -1,7 +1,7 @@
 ---
 id: 434
 parent_id: 11
-antigen_type_id:
+valence_type_id: 23
 name: COVID-19 valence, protein subunit, recombinant spike protein (RBD), Omicron LP.8.1 subvariant
 abbreviation: Covid-SP-rRBD-LP.8.1
 created_at: 1769598145

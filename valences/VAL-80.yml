@@ -1,7 +1,7 @@
 ---
 id: 80
 parent_id:
-antigen_type_id: 5
+valence_type_id: 12
 name: Rabies valence, inactivated, whole virion, unspecified
 abbreviation: Rab-I
 created_at: 1626689130

@@ -1,7 +1,7 @@
 ---
 id: 102
 parent_id:
-antigen_type_id: 7
+valence_type_id: 23
 name: Hepatitis E valence, recombinant peptide
 abbreviation: HepE
 created_at: 1626689131

@@ -1,7 +1,7 @@
 ---
 id: 449
 parent_id: 366
-antigen_type_id:
+valence_type_id: 29
 name: Influenza valence, RNA-based, trivalent, unspecified
 abbreviation: Inf-ARN3
 created_at: 1790071357

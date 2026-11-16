@@ -1,7 +1,7 @@
 ---
 id: 237
 parent_id: 82
-antigen_type_id: 9
+valence_type_id: 24
 name: Human Papillomavirus valence, VLP polyvalent
 abbreviation: VPH-poly
 created_at: 1648549658

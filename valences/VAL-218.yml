@@ -1,7 +1,7 @@
 ---
 id: 218
 parent_id: 185
-antigen_type_id: 13
+valence_type_id: 18
 name: Pneumococcal valence, polysaccharide unconjugated, serotype 12F
 abbreviation: VPP-12F
 created_at: 1648444255

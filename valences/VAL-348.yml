@@ -1,7 +1,7 @@
 ---
 id: 348
 parent_id: 448
-antigen_type_id:
+valence_type_id: 11
 name: Leptospira pomona valence, inactivated whole-cell
 abbreviation: Lepto-po
 created_at: 1714136953

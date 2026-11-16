@@ -1,7 +1,7 @@
 ---
 id: 393
 parent_id: 149
-antigen_type_id:
+valence_type_id: 29
 name: COVID-19 valence, Omicron BA.1 variant, mRNA encoding the SARS-CoV-2 spike protein
 abbreviation: Covid-ARNm-S-OMI-BA.1
 created_at: 1740750307

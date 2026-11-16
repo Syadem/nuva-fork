@@ -1,7 +1,7 @@
 ---
 id: 165
 parent_id: 157
-antigen_type_id: 18
+valence_type_id: 2
 name: COVID-19 valence, live, unspecified
 abbreviation: Covid-vivant
 created_at: 1647213255

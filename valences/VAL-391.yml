@@ -1,7 +1,7 @@
 ---
 id: 391
 parent_id: 390
-antigen_type_id:
+valence_type_id: 24
 name: Chikungunya virus valence, VLP
 abbreviation: Chik-VLP
 created_at: 1740065003

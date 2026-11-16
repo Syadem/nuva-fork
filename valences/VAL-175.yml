@@ -1,7 +1,7 @@
 ---
 id: 175
 parent_id:
-antigen_type_id: 18
+valence_type_id: 1
 name: Leishmaniasis valence, unspecified
 abbreviation: Leish
 created_at: 1647903123

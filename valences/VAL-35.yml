@@ -1,7 +1,7 @@
 ---
 id: 35
 parent_id: 164
-antigen_type_id: 16
+valence_type_id: 28
 name: COVID-19 valence, plasmid DNA encoding the SARS-CoV-2 spike protein
 abbreviation: Covid-ADN-S
 created_at: 1626689130

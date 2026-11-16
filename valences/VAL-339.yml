@@ -1,7 +1,7 @@
 ---
 id: 339
 parent_id:
-antigen_type_id:
+valence_type_id: 1
 name: Borrelia burgdorferi valence, unspecified
 abbreviation: Lyme
 created_at: 1710933577

@@ -1,7 +1,7 @@
 ---
 id: 113
 parent_id: 237
-antigen_type_id: 9
+valence_type_id: 24
 name: Human Papillomavirus valence, VLP bivalent, types 16 and 18
 abbreviation: VPH-02-valent
 created_at: 1626689131

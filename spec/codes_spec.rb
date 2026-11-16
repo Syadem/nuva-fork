@@ -5,10 +5,10 @@ require 'set'
 
 RSpec.describe 'The code mappings' do
   codes_directory  = NUVA_ROOT.join('codes')
-  concept_prefixes = { 'antigen_types' => 'AGT', 'diseases' => 'DIS', 'vaccines' => 'VAC', 'valences' => 'VAL' }
+  concept_prefixes = { 'diseases' => 'DIS', 'vaccines' => 'VAC', 'valences' => 'VAL' }
   uuid_pattern     = /\A[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}\z/i
 
-  it 'contains exactly the four concept directories' do
+  it 'contains exactly the three concept directories' do
     expect(codes_directory).to be_directory
     expect(codes_directory.children.map { |entry| entry.basename.to_s }).to match_array(concept_prefixes.keys)
   end

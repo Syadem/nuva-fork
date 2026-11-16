@@ -1,7 +1,7 @@
 ---
 id: 345
 parent_id:
-antigen_type_id:
+valence_type_id: 1
 name: Urinary tract infections valence, unspecified
 abbreviation: UTI
 created_at: 1713978058

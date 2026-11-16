@@ -1,7 +1,7 @@
 ---
 id: 43
 parent_id: 168
-antigen_type_id: 15
+valence_type_id: 29
 name: COVID-19 valence, mRNA encoding the SARS-CoV-2 spike protein, authorized
 abbreviation: Covid-ARNm-S
 created_at: 1626689130

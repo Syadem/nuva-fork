@@ -1,7 +1,7 @@
 ---
 id: 60
 parent_id: 390
-antigen_type_id: 1
+valence_type_id: 5
 name: Chikungunya virus valence, live attenuated
 abbreviation: CHIK-LA
 created_at: 1626689130

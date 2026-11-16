@@ -1,7 +1,7 @@
 ---
 id: 275
 parent_id: 78
-antigen_type_id: 14
+valence_type_id: 19
 name: Meningococcal Y valence, polysaccharide conjugated to CRM197 protein
 abbreviation: MCV-Y-CRM
 created_at: 1649169118

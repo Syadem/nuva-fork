@@ -1,7 +1,7 @@
 ---
 id: 389
 parent_id:
-antigen_type_id:
+valence_type_id: 1
 name: Pseudomonas aeruginosa valence, 7 immunotypes
 abbreviation: PAER7
 created_at: 1740045293

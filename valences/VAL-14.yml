@@ -1,7 +1,7 @@
 ---
 id: 14
 parent_id:
-antigen_type_id: 18
+valence_type_id: 1
 name: Typhoid valence, unspecified
 abbreviation: Ty
 created_at: 1626689130
