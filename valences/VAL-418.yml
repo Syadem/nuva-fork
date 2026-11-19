@@ -1,7 +1,7 @@
 ---
 id: 418
 parent_id:
-valence_type_id: 1
+valence_type_id:
 name: Smallpox valence, unspecified
 abbreviation: POX
 created_at: 1745916874

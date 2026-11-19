@@ -1,7 +1,7 @@
 ---
 id: 338
 parent_id:
-valence_type_id: 32
+valence_type_id:
 name: RSV valence, unspecified
 abbreviation: VRS
 created_at: 1710796684
