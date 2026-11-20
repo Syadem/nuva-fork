@@ -4,5 +4,6 @@ parent_id: 58
 valence_type_id: 9
 name: "Influenza valence, non-live, obtained from egg culture, pandemic influenza H1N1 2009 "
 abbreviation: Inf-Epdm09
+notes:
 created_at: 1626689131
 updated_at: 1790866761

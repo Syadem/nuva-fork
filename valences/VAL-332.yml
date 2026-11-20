@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 1
 name: Hepatitis C valence, unspecified
 abbreviation: HepC
+notes:
 created_at: 1710757936
 updated_at: 1790089706

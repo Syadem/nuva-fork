@@ -4,5 +4,6 @@ parent_id: 417
 valence_type_id: 29
 name: COVID-19 valence, Omicron variant LP.8.1, mRNA encoding the SARS-CoV-2 spike protein
 abbreviation: Covid-ARNm-S-OMI-LP.8.1
+notes:
 created_at: 1756365856
 updated_at: 1756365856

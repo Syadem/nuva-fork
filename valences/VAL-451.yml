@@ -4,5 +4,6 @@ parent_id: 42
 valence_type_id: 5
 name: Polio valence, live attenuated, new generation, oral, monovalent, no further details given
 abbreviation: nVPO
+notes:
 created_at: 1794923056
 updated_at: 1794924922

@@ -4,5 +4,6 @@ parent_id: 184
 valence_type_id: 19
 name: Pneumococcal valence, polysaccharide conjugate, serotype 19A
 abbreviation: VPC-19A
+notes:
 created_at: 1648440769
 updated_at: 1745934650

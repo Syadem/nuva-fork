@@ -4,5 +4,6 @@ parent_id: 299
 valence_type_id: 18
 name: Meningococcal Y valence, unconjugated polysaccharide
 abbreviation: MPV-Y
+notes:
 created_at: 1644779061
 updated_at: 1745933805

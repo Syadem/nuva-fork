@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 5
 name: Yellow fever valence, live attenuated
 abbreviation: YF
+notes:
 created_at: 1626689131
 updated_at: 1790089545

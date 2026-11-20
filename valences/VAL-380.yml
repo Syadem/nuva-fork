@@ -4,5 +4,6 @@ parent_id: 395
 valence_type_id: 29
 name: COVID-19 valence, Omicron variant JN.1, mRNA encoding the SARS-CoV-2 spike protein, 10 micrograms
 abbreviation: Covid-ARNm-S-OMI-JN.1-10
+notes:
 created_at: 1724434714
 updated_at: 1745920776

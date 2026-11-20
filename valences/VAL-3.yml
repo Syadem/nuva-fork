@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 1
 name: Pertussis valence, unspecified
 abbreviation: Coq
+notes:
 created_at: 1626689130
 updated_at: 1790089316

@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 23
 name: Hepatitis E valence, recombinant peptide
 abbreviation: HepE
+notes:
 created_at: 1626689131
 updated_at: 1790089726

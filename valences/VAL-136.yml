@@ -4,5 +4,6 @@ parent_id: 300
 valence_type_id: 19
 name: Meningococcal W valence, polysaccharide conjugate
 abbreviation: MCV-W
+notes:
 created_at: 1644776453
 updated_at: 1745933724

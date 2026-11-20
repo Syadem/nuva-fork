@@ -4,5 +4,6 @@ parent_id: 361
 valence_type_id: 23
 name: Influenza valence, trivalent, recombinant
 abbreviation: Inf-R3
+notes:
 created_at: 1660060203
 updated_at: 1745930353

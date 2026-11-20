@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 1
 name: COVID-19 valence, unspecified
 abbreviation: Covid
+notes:
 created_at: 1646604669
 updated_at: 1790089333

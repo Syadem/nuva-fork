@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 1
 name: Leprosy valence, unspecified
 abbreviation: Lep
+notes:
 created_at: 1734367477
 updated_at: 1790089789

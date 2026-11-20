@@ -4,5 +4,6 @@ parent_id: 318
 valence_type_id: 29
 name: RSV valence, Single-stranded 5' capped mRNA encoding the RSV glycoprotein F stabilized in the prefusion conformation
 abbreviation: mVRS
+notes:
 created_at: 1730146290
 updated_at: 1745939283

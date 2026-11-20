@@ -4,5 +4,6 @@ parent_id: 362
 valence_type_id: 16
 name: Influenza valence, quadrivalent, virosomal, unspecified
 abbreviation: Inf-V4
+notes:
 created_at: 1715676059
 updated_at: 1745932242

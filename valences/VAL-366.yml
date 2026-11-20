@@ -4,5 +4,6 @@ parent_id: 128
 valence_type_id: 29
 name: Influenza valence, RNA-based, unspecified
 abbreviation: INF-ARN
+notes:
 created_at: 1720429554
 updated_at: 1745929801

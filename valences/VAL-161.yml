@@ -4,5 +4,6 @@ parent_id: 118
 valence_type_id: 16
 name: Meningococcus B valence, multicomponent, unspecified
 abbreviation: MenB-mc
+notes:
 created_at: 1647018723
 updated_at: 1745933459

@@ -4,5 +4,6 @@ parent_id: 338
 valence_type_id: 9
 name: RSV valence, vaccine, unspecified
 abbreviation: VRS-V
+notes:
 created_at: 1684100185
 updated_at: 1745844162

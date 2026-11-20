@@ -4,5 +4,6 @@ parent_id: 184
 valence_type_id: 19
 name: Pneumococcal valence, polysaccharide conjugate, serotype 5
 abbreviation: VPC-05
+notes:
 created_at: 1648439974
 updated_at: 1745934424

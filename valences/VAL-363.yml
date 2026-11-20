@@ -4,5 +4,6 @@ parent_id: 29
 valence_type_id: 24
 name: Influenza valence, trivalent, VLP, unspecified
 abbreviation: Inf-VLP3
+notes:
 created_at: 1719838252
 updated_at: 1745932288

@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 21
 name: Tetanus valence, toxoid
 abbreviation: T
+notes:
 created_at: 1626689130
 updated_at: 1790092452

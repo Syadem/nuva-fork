@@ -4,5 +4,6 @@ parent_id: 419
 valence_type_id: 21
 name: Botulism valence, toxoid
 abbreviation: BT
+notes:
 created_at: 1651071449
 updated_at: 1745940873

@@ -4,5 +4,6 @@ parent_id: 318
 valence_type_id: 23
 name: RSV valence, protein subunit, recombinant, RSVPreF3 antigen derived from F protein
 abbreviation: VRS-PreF3
+notes:
 created_at: 1684086776
 updated_at: 1745939392

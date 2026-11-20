@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 20
 name: Hepatitis B valence, unspecified
 abbreviation: HepB
+notes:
 created_at: 1626689130
 updated_at: 1790089679

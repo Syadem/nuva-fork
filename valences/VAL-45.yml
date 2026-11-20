@@ -4,5 +4,6 @@ parent_id: 14
 valence_type_id: 11
 name: Paratyphoid fever valence, inactivated, whole-cell
 abbreviation: pTy-I
+notes:
 created_at: 1626689130
 updated_at: 1745938824

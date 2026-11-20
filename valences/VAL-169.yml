@@ -4,5 +4,6 @@ parent_id: 303
 valence_type_id: 31
 name: COVID-19 valence, self-amplifying mRNA (SAM)
 abbreviation: Covid-ARNm-AAA
+notes:
 created_at: 1647731561
 updated_at: 1745920410

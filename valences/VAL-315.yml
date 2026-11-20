@@ -4,5 +4,6 @@ parent_id: 313
 valence_type_id: 12
 name: Tick-borne encephalitis valence, inactivated, whole-virus, Neudörfl strain, paediatric dose
 abbreviation: TBE-Neudorfl-PED
+notes:
 created_at: 1679049766
 updated_at: 1745929427

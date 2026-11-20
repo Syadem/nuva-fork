@@ -4,5 +4,6 @@ parent_id: 165
 valence_type_id: 5
 name: COVID-19 valence, live attenuated, unspecified
 abbreviation: Covid-VA
+notes:
 created_at: 1626689130
 updated_at: 1745928599

@@ -4,5 +4,6 @@ parent_id: 231
 valence_type_id: 9
 name: Influenza valence, trivalent, inactivated, obtained from egg culture, fractionated or subunit, adjuvanted
 abbreviation: Inf-ESUAnd3
+notes:
 created_at: 1715675033
 updated_at: 1791795701

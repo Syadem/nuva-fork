@@ -4,5 +4,6 @@ parent_id: 317
 valence_type_id: 32
 name: RSV valence, monoclonal antibody, unspecified
 abbreviation: VRS-mAb
+notes:
 created_at: 1690056860
 updated_at: 1745939332

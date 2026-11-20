@@ -4,5 +4,6 @@ parent_id: 3
 valence_type_id: 11
 name: Pertussis valence, inactivated, whole-cell
 abbreviation: Ce
+notes:
 created_at: 1626689130
 updated_at: 1745920301

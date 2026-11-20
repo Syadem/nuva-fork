@@ -4,5 +4,6 @@ parent_id: 360
 valence_type_id: 9
 name: Influenza valence, quadrivalent, inactivated, obtained from cell culture, split or subunit, standard dose
 abbreviation: Inf-CC4
+notes:
 created_at: 1626689131
 updated_at: 1745930093

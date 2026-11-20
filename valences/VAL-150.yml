@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 1
 name: Dengue valence, unspecified
 abbreviation: Den
+notes:
 created_at: 1645718804
 updated_at: 1790089383

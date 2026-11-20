@@ -4,5 +4,6 @@ parent_id: 16
 valence_type_id: 32
 name: Rabies immunoglobulin, human origin
 abbreviation: hRIG
+notes:
 created_at: 1648645313
 updated_at: 1745935424

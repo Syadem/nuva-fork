@@ -4,5 +4,6 @@ parent_id: 76
 valence_type_id: 12
 name: COVID-19 valence, inactivated, whole-virion, authorized
 abbreviation: Covid-VI-Aut
+notes:
 created_at: 1648938500
 updated_at: 1745928652

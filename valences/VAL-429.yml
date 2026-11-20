@@ -4,5 +4,6 @@ parent_id: 320
 valence_type_id: 32
 name: RSV valence, monoclonal antibody, clesrovimab
 abbreviation: VRS-mAb-cle
+notes:
 created_at: 1759928056
 updated_at: 1759928056

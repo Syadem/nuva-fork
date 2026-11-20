@@ -4,5 +4,6 @@ parent_id: 184
 valence_type_id: 19
 name: Pneumococcal valence, polysaccharide conjugate, serotype 11A
 abbreviation: VPC-11A
+notes:
 created_at: 1648440461
 updated_at: 1745934585

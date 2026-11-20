@@ -4,5 +4,6 @@ parent_id: 184
 valence_type_id: 19
 name: Pneumococcal valence, polysaccharide conjugate, serotype 17F
 abbreviation: VPC-17F
+notes:
 created_at: 1715765640
 updated_at: 1745934640

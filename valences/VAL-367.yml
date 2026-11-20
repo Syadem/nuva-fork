@@ -4,5 +4,6 @@ parent_id: 21
 valence_type_id: 11
 name: Cholera valence, V. cholerae O1, inactivated, whole-cell, oral
 abbreviation: O-Chol-O1-I
+notes:
 created_at: 1722258139
 updated_at: 1745920181

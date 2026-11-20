@@ -4,5 +4,6 @@ parent_id: 184
 valence_type_id: 19
 name: Pneumococcal valence, polysaccharide conjugate, serotype 12F
 abbreviation: VPC-12F
+notes:
 created_at: 1648440548
 updated_at: 1745934606

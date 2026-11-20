@@ -4,5 +4,6 @@ parent_id: 185
 valence_type_id: 18
 name: Pneumococcal valence, polysaccharide unconjugated, serotype 5
 abbreviation: VPP-05
+notes:
 created_at: 1648441829
 updated_at: 1745934835

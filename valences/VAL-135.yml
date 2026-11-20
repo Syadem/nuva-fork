@@ -4,5 +4,6 @@ parent_id: 303
 valence_type_id: 29
 name: "COVID-19 valence, mRNA encoding the SARS-CoV-2 spike protein, in clinical trials "
 abbreviation: Covid-ARNm-S-CT
+notes:
 created_at: 1641068573
 updated_at: 1745920436

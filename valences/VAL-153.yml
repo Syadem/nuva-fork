@@ -4,5 +4,6 @@ parent_id: 103
 valence_type_id: 19
 name: Haemophilus influenzae type b valence, PRP conjugated to diphtheria toxoid
 abbreviation: PRP-D
+notes:
 created_at: 1646401154
 updated_at: 1745932354

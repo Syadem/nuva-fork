@@ -4,5 +4,6 @@ parent_id: 185
 valence_type_id: 18
 name: Pneumococcal valence, polysaccharide unconjugated, serotype 1
 abbreviation: VPP-01
+notes:
 created_at: 1648441168
 updated_at: 1745934806

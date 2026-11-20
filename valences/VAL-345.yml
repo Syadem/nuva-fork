@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 1
 name: Urinary tract infections valence, unspecified
 abbreviation: UTI
+notes:
 created_at: 1713978058
 updated_at: 1790089763

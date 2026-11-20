@@ -4,5 +4,6 @@ parent_id: 361
 valence_type_id: 23
 name: Influenza valence, quadrivalent, recombinant
 abbreviation: Inf-R4
+notes:
 created_at: 1651848753
 updated_at: 1745930375

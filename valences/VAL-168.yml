@@ -4,5 +4,6 @@ parent_id: 164
 valence_type_id: 29
 name: COVID-19 valence, mRNA, unspecified
 abbreviation: Covid-ARN
+notes:
 created_at: 1647730553
 updated_at: 1746620494

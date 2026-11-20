@@ -4,5 +4,6 @@ parent_id: 364
 valence_type_id: 24
 name: Influenza valence, VLP, unspecified
 abbreviation: Inf-VLP
+notes:
 created_at: 1626689130
 updated_at: 1745932265

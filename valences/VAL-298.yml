@@ -4,5 +4,6 @@ parent_id: 234
 valence_type_id: 17
 name: Meningococcal C valence, unspecified
 abbreviation: MenC
+notes:
 created_at: 1658751091
 updated_at: 1787927060

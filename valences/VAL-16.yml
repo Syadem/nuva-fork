@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 32
 name: Rabies valence, immunoglobulin, unspecified
 abbreviation: RIG
+notes:
 created_at: 1626689130
 updated_at: 1790092310

@@ -4,5 +4,6 @@ parent_id: 2
 valence_type_id: 19
 name: Typhoid valence, Vi antigen conjugated to CRM197 protein
 abbreviation: Ty-ViC-CRM
+notes:
 created_at: 1741785118
 updated_at: 1745938875

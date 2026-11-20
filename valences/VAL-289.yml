@@ -4,5 +4,6 @@ parent_id: 303
 valence_type_id: 29
 name: COVID-19 valence, original virus, mRNA encoding the SARS-CoV-2 spike protein, 10 micrograms
 abbreviation: Covid-ARNm-S-ORI-10
+notes:
 created_at: 1652722801
 updated_at: 1745921277

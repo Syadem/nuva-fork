@@ -4,5 +4,6 @@ parent_id: 386
 valence_type_id: 1
 name: Avian influenza A(H5N1) valence
 abbreviation: AH5N1
+notes:
 created_at: 1626689130
 updated_at: 1745929679

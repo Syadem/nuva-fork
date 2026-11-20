@@ -4,5 +4,6 @@ parent_id: 28
 valence_type_id: 5
 name: Smallpox valence, third generation, minimally replicating live vaccinia virus
 abbreviation: POX-3G-LC16
+notes:
 created_at: 1626689130
 updated_at: 1745939146

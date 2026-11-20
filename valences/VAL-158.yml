@@ -4,5 +4,6 @@ parent_id: 68
 valence_type_id: 20
 name: Hepatitis B valence, plasma derived
 abbreviation: pAgHBs
+notes:
 created_at: 1646776249
 updated_at: 1745932961

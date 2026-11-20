@@ -4,5 +4,6 @@ parent_id: 107
 valence_type_id: 23
 name: COVID-19 valence, protein subunit, recombinant spike protein in nanoparticles, sub-variant Omicron XFG
 abbreviation: Covid-SP-rSnp-XFG
+notes:
 created_at: 1787672309
 updated_at: 1787672309

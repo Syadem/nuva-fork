@@ -4,5 +4,6 @@ parent_id: 21
 valence_type_id: 23
 name: Cholera valence, protein subunit, recombinant cholera toxin subunit B (rCTB)
 abbreviation: O-Chol-rTCB-I
+notes:
 created_at: 1626689130
 updated_at: 1745920233

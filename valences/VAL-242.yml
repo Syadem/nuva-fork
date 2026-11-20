@@ -4,5 +4,6 @@ parent_id: 236
 valence_type_id: 24
 name: Human Papillomavirus valence, VLP, type 31
 abbreviation: VPH-31
+notes:
 created_at: 1648554367
 updated_at: 1745934156

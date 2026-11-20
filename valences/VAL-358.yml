@@ -4,5 +4,6 @@ parent_id: 420
 valence_type_id: 32
 name: Botulism valence, immunoglobulin
 abbreviation: BIG
+notes:
 created_at: 1715868436
 updated_at: 1745940898

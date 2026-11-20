@@ -4,5 +4,6 @@ parent_id: 231
 valence_type_id: 9
 name: Influenza valence, trivalent, inactivated, obtained from egg culture, split or subunit, intramuscular or subcutaneous route, non-adjuvanted
 abbreviation: Inf-ESUNA3
+notes:
 created_at: 1635263684
 updated_at: 1791794134

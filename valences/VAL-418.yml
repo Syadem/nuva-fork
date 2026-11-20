@@ -4,5 +4,6 @@ parent_id:
 valence_type_id:
 name: Smallpox valence, unspecified
 abbreviation: POX
+notes:
 created_at: 1745916874
 updated_at: 1790148253

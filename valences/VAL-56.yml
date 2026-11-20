@@ -4,5 +4,6 @@ parent_id: 42
 valence_type_id: 12
 name: Polio valence, trivalent, inactivated, whole-virus, injectable
 abbreviation: VPI
+notes:
 created_at: 1626689130
 updated_at: 1746389273

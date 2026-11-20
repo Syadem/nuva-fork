@@ -4,5 +4,6 @@ parent_id: 236
 valence_type_id: 24
 name: Human Papillomavirus valence, VLP, type 18
 abbreviation: VPH-18
+notes:
 created_at: 1648554292
 updated_at: 1745934141

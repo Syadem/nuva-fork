@@ -4,5 +4,6 @@ parent_id: 185
 valence_type_id: 18
 name: Pneumococcal valence, polysaccharide unconjugated, serotype 17F
 abbreviation: VPP-17F
+notes:
 created_at: 1648444780
 updated_at: 1745934968

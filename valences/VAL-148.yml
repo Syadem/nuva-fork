@@ -4,5 +4,6 @@ parent_id: 338
 valence_type_id: 32
 name: RSV valence, immunoglobulin
 abbreviation: VRS-Ig
+notes:
 created_at: 1645616519
 updated_at: 1790148326

@@ -4,5 +4,6 @@ parent_id: 2
 valence_type_id: 19
 name: Typhoid valence, Vi antigen conjugated to tetanus toxoid
 abbreviation: Ty-ViC-T
+notes:
 created_at: 1741779021
 updated_at: 1745938879

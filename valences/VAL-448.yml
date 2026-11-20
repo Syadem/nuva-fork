@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 1
 name: Leptospira valence, unspecified
 abbreviation: Lepto
+notes:
 created_at: 1789570517
 updated_at: 1790089799

@@ -4,5 +4,6 @@ parent_id: 184
 valence_type_id: 19
 name: Pneumococcal valence, polysaccharide conjugate, serotype 6B
 abbreviation: VPC-06B
+notes:
 created_at: 1648440143
 updated_at: 1745934431

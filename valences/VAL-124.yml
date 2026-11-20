@@ -4,5 +4,6 @@ parent_id: 81
 valence_type_id: 4
 name: Cholera valence, live attenuated, unspecified
 abbreviation: Chol-V
+notes:
 created_at: 1635263684
 updated_at: 1745919339

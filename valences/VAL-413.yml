@@ -4,5 +4,6 @@ parent_id: 11
 valence_type_id: 23
 name: COVID-19 valence, protein subunit, recombinant spike protein (RBD), Omicron XBB.1.16 subvariant
 abbreviation: Covid-SP-rRBD-XBB.1.16
+notes:
 created_at: 1743073608
 updated_at: 1745921870

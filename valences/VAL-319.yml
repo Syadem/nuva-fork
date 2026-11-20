@@ -4,5 +4,6 @@ parent_id: 397
 valence_type_id: 8
 name: COVID-19 valence, non-replicating adenoviral vector encoding the SARS-CoV-2 spike protein, inhalation vaccine, unspecified
 abbreviation: Covid-VVnr-S-INH
+notes:
 created_at: 1684140000
 updated_at: 1745922767

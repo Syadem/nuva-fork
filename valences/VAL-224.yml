@@ -4,5 +4,6 @@ parent_id: 185
 valence_type_id: 18
 name: Pneumococcal valence, polysaccharide unconjugated, serotype 19A
 abbreviation: VPP-19A
+notes:
 created_at: 1648444879
 updated_at: 1745934988

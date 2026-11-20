@@ -4,5 +4,6 @@ parent_id: 185
 valence_type_id: 18
 name: Pneumococcal valence, polysaccharide unconjugated, serotype 15B
 abbreviation: VPP-15B
+notes:
 created_at: 1648444464
 updated_at: 1745934934

@@ -4,5 +4,6 @@ parent_id: 283
 valence_type_id: 12
 name: Hepatitis A valence, monovalent, inactivated, whole-virus, paediatric dose
 abbreviation: HepA-mv-PED
+notes:
 created_at: 1645114088
 updated_at: 1745932803

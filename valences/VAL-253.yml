@@ -4,5 +4,6 @@ parent_id: 16
 valence_type_id: 32
 name: Rabies immunoglobulin valence, equine origin
 abbreviation: eRIG
+notes:
 created_at: 1648645526
 updated_at: 1745935420

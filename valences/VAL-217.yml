@@ -4,5 +4,6 @@ parent_id: 185
 valence_type_id: 18
 name: Pneumococcal valence, polysaccharide unconjugated, serotype 11A
 abbreviation: VPP-11A
+notes:
 created_at: 1648444200
 updated_at: 1745934947

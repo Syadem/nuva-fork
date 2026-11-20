@@ -4,5 +4,6 @@ parent_id: 184
 valence_type_id: 19
 name: Pneumococcal valence, polysaccharide conjugate, serotype 1
 abbreviation: VPC-01
+notes:
 created_at: 1648439271
 updated_at: 1745934392

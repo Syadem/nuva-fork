@@ -4,5 +4,6 @@ parent_id: 284
 valence_type_id: 12
 name: Hepatitis A valence, monovalent, inactivated, whole-virus, adult dose
 abbreviation: HepA-mv-ADU
+notes:
 created_at: 1645114249
 updated_at: 1745932775

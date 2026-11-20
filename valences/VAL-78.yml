@@ -4,5 +4,6 @@ parent_id: 299
 valence_type_id: 19
 name: Meningococcal Y valence, polysaccharide conjugate
 abbreviation: MCV-Y
+notes:
 created_at: 1626689130
 updated_at: 1745933771

@@ -4,5 +4,6 @@ parent_id: 320
 valence_type_id: 32
 name: RSV valence, monoclonal antibody, nirsevimab
 abbreviation: VRS-mAb-nir
+notes:
 created_at: 1690057195
 updated_at: 1745939353

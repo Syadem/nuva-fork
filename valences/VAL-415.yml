@@ -4,5 +4,6 @@ parent_id: 111
 valence_type_id: 20
 name: Anthrax valence, acellular, adjuvanted
 abbreviation: BantAdj
+notes:
 created_at: 1744365879
 updated_at: 1745919173

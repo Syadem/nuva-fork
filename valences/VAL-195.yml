@@ -4,5 +4,6 @@ parent_id: 184
 valence_type_id: 19
 name: Pneumococcal valence, polysaccharide conjugate, serotype 10A
 abbreviation: VPC-10A
+notes:
 created_at: 1648440408
 updated_at: 1745934577

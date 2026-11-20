@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 32
 name: Hepatitis B valence, immunoglobulin
 abbreviation: IgHepB
+notes:
 created_at: 1626689130
 updated_at: 1790089697

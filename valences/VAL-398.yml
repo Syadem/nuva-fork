@@ -4,5 +4,6 @@ parent_id: 162
 valence_type_id: 7
 name: COVID-19 valence, replicating viral vector, virus encoding the spike protein of SARS-CoV-2
 abbreviation: Covid-VVr-S
+notes:
 created_at: 1741346105
 updated_at: 1745921775

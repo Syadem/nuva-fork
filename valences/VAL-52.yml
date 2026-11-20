@@ -4,5 +4,6 @@ parent_id: 237
 valence_type_id: 24
 name: Human Papillomavirus valence, VLP quadrivalent, types 6, 11, 16 and 18
 abbreviation: VPH-04-valent
+notes:
 created_at: 1626689130
 updated_at: 1745934066

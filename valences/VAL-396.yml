@@ -4,5 +4,6 @@ parent_id: 417
 valence_type_id: 29
 name: COVID-19 valence, Omicron variant XBB.1.5, mRNA encoding the SARS-CoV-2 spike protein
 abbreviation: Covid-ARNm-S-OMI-XBB.1.5
+notes:
 created_at: 1740753058
 updated_at: 1745921087

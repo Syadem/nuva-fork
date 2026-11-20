@@ -4,5 +4,6 @@ parent_id: 364
 valence_type_id: 9
 name: Influenza valence, non-live, obtained from egg culture, unspecified
 abbreviation: Inf-E
+notes:
 created_at: 1719838653
 updated_at: 1790863658

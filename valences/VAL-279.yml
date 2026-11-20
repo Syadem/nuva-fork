@@ -4,5 +4,6 @@ parent_id: 64
 valence_type_id: 9
 name: Influenza valence, quadrivalent, inactivated, obtained from egg culture, split or subunit, intramuscular or subcutaneous route, pediatric dose
 abbreviation: Inf-ESUped4
+notes:
 created_at: 1650313306
 updated_at: 1791795511

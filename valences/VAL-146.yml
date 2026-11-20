@@ -4,5 +4,6 @@ parent_id: 6
 valence_type_id: 11
 name: Brucella valence, inactivated, whole-cell
 abbreviation: Bruc-I
+notes:
 created_at: 1645470325
 updated_at: 1745919309

@@ -4,5 +4,6 @@ parent_id:
 valence_type_id:
 name: RSV valence, unspecified
 abbreviation: VRS
+notes:
 created_at: 1710796684
 updated_at: 1790148304

@@ -4,5 +4,6 @@ parent_id: 80
 valence_type_id: 12
 name: Rabies valence, inactivated, whole virion, cell culture-based, unspecified
 abbreviation: Rab-I-CC
+notes:
 created_at: 1648805815
 updated_at: 1745936661

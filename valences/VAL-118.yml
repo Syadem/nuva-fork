@@ -4,5 +4,6 @@ parent_id: 234
 valence_type_id: 16
 name: Meningococcal B valence, unspecified
 abbreviation: MenB
+notes:
 created_at: 1635263684
 updated_at: 1787921454

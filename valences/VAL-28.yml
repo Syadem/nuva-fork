@@ -4,5 +4,6 @@ parent_id: 22
 valence_type_id: 5
 name: Smallpox valence, third-generation, live attenuated
 abbreviation: POX-3G
+notes:
 created_at: 1626689130
 updated_at: 1745917459

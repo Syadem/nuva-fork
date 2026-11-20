@@ -4,5 +4,6 @@ parent_id: 251
 valence_type_id: 12
 name: Japanese encephalitis valence, inactivated, whole-virus, derived from Vero cells, 6 micrograms
 abbreviation: EJ-I-Vero-6
+notes:
 created_at: 1741786278
 updated_at: 1747123686

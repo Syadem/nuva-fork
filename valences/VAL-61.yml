@@ -4,5 +4,6 @@ parent_id: 104
 valence_type_id: 23
 name: COVID-19 valence, protein subunit, recombinant spike protein, S-2P and CpG1018
 abbreviation: Covid-SP-CpG1018
+notes:
 created_at: 1626689130
 updated_at: 1745921646

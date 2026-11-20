@@ -4,5 +4,6 @@ parent_id: 318
 valence_type_id: 23
 name: RSV valence, protein subunit, recombinant, glycoprotein F subtypes A and B
 abbreviation: VRS-PreFAB
+notes:
 created_at: 1690147404
 updated_at: 1745939404

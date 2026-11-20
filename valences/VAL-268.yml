@@ -4,5 +4,6 @@ parent_id: 57
 valence_type_id: 19
 name: Meningococcal C valence, polysaccharide conjugated to CRM197 protein
 abbreviation: MCV-C-CRM
+notes:
 created_at: 1649167982
 updated_at: 1745933505

@@ -4,5 +4,6 @@ parent_id: 68
 valence_type_id: 23
 name: Hepatitis B valence, Recombinant, three antigens (HbS Ag, pre-S1, and pre-S2)
 abbreviation: HBs-r-3Ag
+notes:
 created_at: 1652801153
 updated_at: 1792402000

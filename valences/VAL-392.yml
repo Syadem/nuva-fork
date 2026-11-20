@@ -4,5 +4,6 @@ parent_id: 51
 valence_type_id: 29
 name: Avian influenza valence, mRNA
 abbreviation: AH5N1-ARN
+notes:
 created_at: 1740651869
 updated_at: 1745929772

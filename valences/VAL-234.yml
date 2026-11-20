@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 1
 name: Meningococcal valence, unspecified
 abbreviation: Men
+notes:
 created_at: 1648549294
 updated_at: 1790089888

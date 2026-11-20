@@ -4,5 +4,6 @@ parent_id: 150
 valence_type_id: 5
 name: Dengue valence, native attenuated strain
 abbreviation: DENV2-VVA
+notes:
 created_at: 1773742105
 updated_at: 1773742105

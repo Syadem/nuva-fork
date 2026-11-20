@@ -4,5 +4,6 @@ parent_id: 28
 valence_type_id: 8
 name: Smallpox valence, non-replicating, third-generation, Modified Ankara vaccine
 abbreviation: POX-3G-MVA
+notes:
 created_at: 1658408744
 updated_at: 1745939139

@@ -4,5 +4,6 @@ parent_id: 184
 valence_type_id: 19
 name: Pneumococcal valence, polysaccharide conjugate, serotype 33F
 abbreviation: VPC-33F
+notes:
 created_at: 1648441015
 updated_at: 1745934780

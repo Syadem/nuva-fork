@@ -4,5 +4,6 @@ parent_id: 103
 valence_type_id: 19
 name: Haemophilus influenzae type b valence, PRP conjugated to outer membrane protein of Neisseria meningitidis serogroup B
 abbreviation: PRP-OMP
+notes:
 created_at: 1646401476
 updated_at: 1745932361

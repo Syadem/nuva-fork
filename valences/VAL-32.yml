@@ -4,5 +4,6 @@ parent_id: 14
 valence_type_id: 18
 name: Typhoid valence, unconjugated Vi polysaccharide antigen
 abbreviation: Ty-ViPS
+notes:
 created_at: 1626689130
 updated_at: 1745938889

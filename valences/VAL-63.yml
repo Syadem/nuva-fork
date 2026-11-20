@@ -4,5 +4,6 @@ parent_id: 420
 valence_type_id: 32
 name: Botulism valence, antitoxin
 abbreviation: BAT
+notes:
 created_at: 1626689130
 updated_at: 1745940885

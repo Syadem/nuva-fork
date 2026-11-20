@@ -4,5 +4,6 @@ parent_id: 185
 valence_type_id: 18
 name: Pneumococcal valence, polysaccharide unconjugated, serotype 8
 abbreviation: VPP-08
+notes:
 created_at: 1648443373
 updated_at: 1745934877

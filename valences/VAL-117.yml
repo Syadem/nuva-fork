@@ -4,5 +4,6 @@ parent_id: 3
 valence_type_id: 20
 name: Pertussis valence, acellular, dose unspecified
 abbreviation: Acel
+notes:
 created_at: 1635263684
 updated_at: 1745920260

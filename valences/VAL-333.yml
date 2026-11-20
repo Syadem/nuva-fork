@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 1
 name: HIV valence, unspecified
 abbreviation: VIH
+notes:
 created_at: 1710758608
 updated_at: 1790089748

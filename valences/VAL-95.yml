@@ -4,5 +4,6 @@ parent_id: 398
 valence_type_id: 7
 name: COVID-19 valence, replicating Newcastle disease virus vector encoding the SARS-CoV-2 spike protein
 abbreviation: Covid-VVr-S-Nv
+notes:
 created_at: 1626689131
 updated_at: 1745921731

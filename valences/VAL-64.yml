@@ -4,5 +4,6 @@ parent_id: 127
 valence_type_id: 9
 name: Influenza valence, quadrivalent, non-live, obtained from egg culture, split or subunit, intramuscular or subcutaneous route, non-adjuvanted
 abbreviation: Inf-ESUNA4
+notes:
 created_at: 1626689130
 updated_at: 1790865901

@@ -4,5 +4,6 @@ parent_id: 90
 valence_type_id: 23
 name: Hepatitis B valence, recombinant Hepatitis B virus surface antigen (HBsAg), 40 micrograms (dialysis patient dosage)
 abbreviation: rAgHBs-40
+notes:
 created_at: 1626689130
 updated_at: 1753803391

@@ -4,5 +4,6 @@ parent_id: 133
 valence_type_id: 5
 name: Polio type 1 valence, monovalent, live attenuated, oral
 abbreviation: mVPO1
+notes:
 created_at: 1635263685
 updated_at: 1745935146

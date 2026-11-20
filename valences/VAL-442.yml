@@ -4,5 +4,6 @@ parent_id: 334
 valence_type_id: 29
 name: Melanoma valence, messenger RNA, individualized neoantigens
 abbreviation: MEL-ARNI
+notes:
 created_at: 1787651773
 updated_at: 1787651773

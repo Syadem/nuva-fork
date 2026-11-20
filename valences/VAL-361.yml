@@ -4,5 +4,6 @@ parent_id: 364
 valence_type_id: 23
 name: Influenza valence, recombinant, unspecified
 abbreviation: Inf-R
+notes:
 created_at: 1719838095
 updated_at: 1745930330

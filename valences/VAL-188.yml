@@ -4,5 +4,6 @@ parent_id: 184
 valence_type_id: 19
 name: Pneumococcal valence, polysaccharide conjugate, serotype 4
 abbreviation: VPC-04
+notes:
 created_at: 1648439883
 updated_at: 1745934410

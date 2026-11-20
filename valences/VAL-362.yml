@@ -4,5 +4,6 @@ parent_id: 364
 valence_type_id: 16
 name: Influenza valence, virosomal, unspecified
 abbreviation: Inf-V
+notes:
 created_at: 1719838175
 updated_at: 1745932188

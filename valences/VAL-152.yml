@@ -4,5 +4,6 @@ parent_id: 365
 valence_type_id: 12
 name: Influenza valence, obtained from egg culture, inactivated, whole-virus, unspecified
 abbreviation: Inf-EI
+notes:
 created_at: 1646346738
 updated_at: 1790869029

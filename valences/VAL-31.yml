@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 12
 name: Tick-borne encephalitis valence, unspecified
 abbreviation: TBE
+notes:
 created_at: 1626689130
 updated_at: 1790089425

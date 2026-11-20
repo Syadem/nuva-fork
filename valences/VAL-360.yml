@@ -4,5 +4,6 @@ parent_id: 364
 valence_type_id: 9
 name: Influenza valence, inactivated, obtained from cell culture, split or subunit, standard dose, unspecified
 abbreviation: Inf-CC
+notes:
 created_at: 1719838028
 updated_at: 1745929825

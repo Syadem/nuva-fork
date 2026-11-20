@@ -4,5 +4,6 @@ parent_id: 81
 valence_type_id: 11
 name: Cholera valence, inactivated, whole-cell, unspecified
 abbreviation: Chol-I
+notes:
 created_at: 1716883742
 updated_at: 1745919332

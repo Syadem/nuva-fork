@@ -4,5 +4,6 @@ parent_id: 118
 valence_type_id: 26
 name: Meningococcal valence B:14:P1.7,16 outer membrane vesicle proteins
 abbreviation: MenB-OMP
+notes:
 created_at: 1626689130
 updated_at: 1745933470

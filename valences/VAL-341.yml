@@ -4,5 +4,6 @@ parent_id: 345
 valence_type_id: 1
 name: Escherichia coli valence, unspecified
 abbreviation: Eco
+notes:
 created_at: 1713530629
 updated_at: 1745933094

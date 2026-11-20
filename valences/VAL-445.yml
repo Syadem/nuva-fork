@@ -4,5 +4,6 @@ parent_id: 2
 valence_type_id: 19
 name: Typhoid valence, Vi antigen conjugated to diphtheria toxoid
 abbreviation: Ty-ViC-D
+notes:
 created_at: 1789067015
 updated_at: 1789067015

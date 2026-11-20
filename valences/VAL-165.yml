@@ -4,5 +4,6 @@ parent_id: 157
 valence_type_id: 2
 name: COVID-19 valence, live, unspecified
 abbreviation: Covid-vivant
+notes:
 created_at: 1647213255
 updated_at: 1745928678

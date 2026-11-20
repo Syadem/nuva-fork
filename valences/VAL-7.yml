@@ -4,5 +4,6 @@ parent_id: 126
 valence_type_id: 7
 name: Ebola valence, replicating vector, recombinant vesicular stomatitis virus (rVSV) - EBOV GP glycoprotein
 abbreviation: rVSVdG-ZEBOV-GP
+notes:
 created_at: 1626689130
 updated_at: 1745929260

@@ -4,5 +4,6 @@ parent_id: 365
 valence_type_id: 5
 name: Influenza valence, live attenuated, pandemic influenza H1N1 2009, obtained from egg culture
 abbreviation: Inf-Epdm09-V
+notes:
 created_at: 1741885513
 updated_at: 1791795913

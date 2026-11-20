@@ -4,5 +4,6 @@ parent_id: 362
 valence_type_id: 16
 name: Influenza valence, trivalent, virosomal, unspecified
 abbreviation: Inf-V3
+notes:
 created_at: 1715675928
 updated_at: 1745932213

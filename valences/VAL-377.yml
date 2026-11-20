@@ -4,5 +4,6 @@ parent_id: 184
 valence_type_id: 19
 name: Pneumococcal valence, polysaccharide conjugate, serotype 35B
 abbreviation: VPC-35B
+notes:
 created_at: 1722502821
 updated_at: 1745934787

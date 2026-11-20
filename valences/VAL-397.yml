@@ -4,5 +4,6 @@ parent_id: 163
 valence_type_id: 8
 name: COVID-19 valence, non-replicating viral vector encoding the peak protein of SARS-CoV-2, unspecified
 abbreviation: Covid-VVnr-S
+notes:
 created_at: 1741345685
 updated_at: 1745928638

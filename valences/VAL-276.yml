@@ -4,5 +4,6 @@ parent_id: 78
 valence_type_id: 19
 name: Meningococcal Y valence, polysaccharide tetanus toxoid conjugated
 abbreviation: MCV-Y-T
+notes:
 created_at: 1649169230
 updated_at: 1745933791

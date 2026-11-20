@@ -4,5 +4,6 @@ parent_id: 43
 valence_type_id: 29
 name: COVID-19 valence, mRNA encoding a fragment of the SARS-CoV-2 spike protein
 abbreviation: Covid-ARNm-S-frag
+notes:
 created_at: 1757517293
 updated_at: 1757604084

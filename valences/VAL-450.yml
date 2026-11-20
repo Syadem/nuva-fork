@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 1
 name: Non-HPV-related squamous cell carcinomas of the head and neck valence, unspecified
 abbreviation: HNSCC-VPHneg
+notes:
 created_at: 1790156628
 updated_at: 1790156628

@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 1
 name: Q fever (Coxiella burnetii) valence, unspecified
 abbreviation: Cbur
+notes:
 created_at: 1647902892
 updated_at: 1790089555

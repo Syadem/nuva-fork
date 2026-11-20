@@ -4,5 +4,6 @@ parent_id: 184
 valence_type_id: 19
 name: Pneumococcal valence, polysaccharide conjugate, serotype 15B
 abbreviation: VPC-15B
+notes:
 created_at: 1648440656
 updated_at: 1745934624

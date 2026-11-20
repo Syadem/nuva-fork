@@ -4,5 +4,6 @@ parent_id: 359
 valence_type_id: 11
 name: Cholera valence, inactivated, whole-cell, injectable
 abbreviation: I-Chol-I
+notes:
 created_at: 1626689130
 updated_at: 1745919359

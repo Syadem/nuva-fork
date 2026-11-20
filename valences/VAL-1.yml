@@ -4,5 +4,6 @@ parent_id: 140
 valence_type_id: 5
 name: Influenza valence, trivalent, live attenuated, standard dose
 abbreviation: Inf-L3
+notes:
 created_at: 1626689130
 updated_at: 1745930210

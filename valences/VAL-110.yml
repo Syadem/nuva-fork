@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 32
 name: Tetanus valence, immunoglobulin
 abbreviation: T-Ig
+notes:
 created_at: 1626689131
 updated_at: 1790092461

@@ -4,5 +4,6 @@ parent_id: 161
 valence_type_id: 20
 name: Meningococcal B valence, containing fHbp of subfamilies A and B
 abbreviation: MenB-fHbpAB
+notes:
 created_at: 1626689130
 updated_at: 1745933404

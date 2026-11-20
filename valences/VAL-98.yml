@@ -4,5 +4,6 @@ parent_id: 161
 valence_type_id: 16
 name: Meningococcal B valence, four-component
 abbreviation: 4CMenB
+notes:
 created_at: 1626689131
 updated_at: 1745933394

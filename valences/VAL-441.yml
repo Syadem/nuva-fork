@@ -4,5 +4,6 @@ parent_id: 439
 valence_type_id: 29
 name: COVID-19 valence, Omicron variant XFG, mRNA encoding the SARS-CoV-2 spike protein, 30 micrograms
 abbreviation: Covid-ARNm-S-OMI-XFG-30
+notes:
 created_at: 1787642217
 updated_at: 1787642217

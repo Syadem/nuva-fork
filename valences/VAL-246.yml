@@ -4,5 +4,6 @@ parent_id: 236
 valence_type_id: 24
 name: Human Papillomavirus valence, VLP, type 45
 abbreviation: VPH-45
+notes:
 created_at: 1648554821
 updated_at: 1745934214

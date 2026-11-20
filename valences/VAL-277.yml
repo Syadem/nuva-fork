@@ -4,5 +4,6 @@ parent_id: 78
 valence_type_id: 19
 name: Meningococcal Y valence, polysaccharide diphtheria toxoid conjugated
 abbreviation: MCV-Y-D
+notes:
 created_at: 1649169405
 updated_at: 1745933788

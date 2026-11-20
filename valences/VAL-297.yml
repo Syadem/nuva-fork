@@ -4,5 +4,6 @@ parent_id: 234
 valence_type_id: 17
 name: Meningococcal A valence, unspecified
 abbreviation: MenA
+notes:
 created_at: 1658743657
 updated_at: 1790092048

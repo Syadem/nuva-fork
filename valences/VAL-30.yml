@@ -4,5 +4,6 @@ parent_id: 339
 valence_type_id: 23
 name: Borrelia burgdorferi valence, recombinant, outer surface protein A (OspA)
 abbreviation: Lyme-OspA
+notes:
 created_at: 1626689130
 updated_at: 1745933305

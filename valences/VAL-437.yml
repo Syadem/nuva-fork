@@ -4,5 +4,6 @@ parent_id: 150
 valence_type_id: 2
 name: Dengue valence, live, recombinant, DENV-2 chimera with prM/E from DENV-3
 abbreviation: DENV3rCH
+notes:
 created_at: 1773754531
 updated_at: 1773755017

@@ -4,5 +4,6 @@ parent_id: 427
 valence_type_id: 29
 name: Valence COVID-19, mRNA encoding the NTD and RBD fragments of the spike protein, Omicron LP.8.1 variant
 abbreviation: Covid-ARNm-S-frag-OMI-LP.8.1
+notes:
 created_at: 1757667406
 updated_at: 1757667406

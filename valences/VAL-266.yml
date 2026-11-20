@@ -4,5 +4,6 @@ parent_id: 57
 valence_type_id: 19
 name: Meningococcal C valence, polysaccharide tetanus toxoid conjugated
 abbreviation: MCV-C-T
+notes:
 created_at: 1649167702
 updated_at: 1745933509

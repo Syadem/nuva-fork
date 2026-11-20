@@ -4,5 +4,6 @@ parent_id: 448
 valence_type_id: 11
 name: Leptospira icterohaemorrhagiae valence, inactivated, whole-cell
 abbreviation: Lepto-eI
+notes:
 created_at: 1626689130
 updated_at: 1789570560

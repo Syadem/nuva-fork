@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 1
 name: Streptococcus pyogenes valence, unspecified
 abbreviation: SPYO
+notes:
 created_at: 1710769586
 updated_at: 1790092435

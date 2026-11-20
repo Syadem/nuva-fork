@@ -4,5 +4,6 @@ parent_id: 184
 valence_type_id: 19
 name: Pneumococcal valence, polysaccharide conjugate, serotype 23F
 abbreviation: VPC-23F
+notes:
 created_at: 1648440958
 updated_at: 1745934755

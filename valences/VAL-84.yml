@@ -4,5 +4,6 @@ parent_id: 398
 valence_type_id: 7
 name: COVID-19 valence, replicating vesicular stomatitis virus vector encoding the SARS-CoV-2 spike protein
 abbreviation: Covid-VVr-S-VSV
+notes:
 created_at: 1626689130
 updated_at: 1745921701

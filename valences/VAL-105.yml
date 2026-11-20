@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 1
 name: Pneumococcal valence, unspecified
 abbreviation: Pneumo
+notes:
 created_at: 1626689131
 updated_at: 1790092394

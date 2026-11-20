@@ -4,5 +4,6 @@ parent_id: 83
 valence_type_id: 21
 name: Diphtheria valence, toxoid, standard dose
 abbreviation: D
+notes:
 created_at: 1626689131
 updated_at: 1745929184

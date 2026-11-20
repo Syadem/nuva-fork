@@ -4,5 +4,6 @@ parent_id: 25
 valence_type_id: 24
 name: Malaria valence, R21/Matrix-M pre-erythrocytic
 abbreviation: R21/Matrix-M
+notes:
 created_at: 1669417302
 updated_at: 1745933960

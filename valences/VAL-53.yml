@@ -4,5 +4,6 @@ parent_id: 164
 valence_type_id: 23
 name: COVID-19 valence, protein subunit, unspecified
 abbreviation: Covid-SP
+notes:
 created_at: 1626689130
 updated_at: 1745921629

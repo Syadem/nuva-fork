@@ -4,5 +4,6 @@ parent_id: 127
 valence_type_id: 9
 name: Influenza valence, quadrivalent, inactivated, obtained from egg culture, fractionated or subunit, adjuvanted, normal dose
 abbreviation: Inf-ESUAnd4
+notes:
 created_at: 1715675255
 updated_at: 1791795760

@@ -4,5 +4,6 @@ parent_id: 185
 valence_type_id: 18
 name: Pneumococcal valence, polysaccharide unconjugated, serotype 10A
 abbreviation: VPP-10A
+notes:
 created_at: 1648443554
 updated_at: 1745934906

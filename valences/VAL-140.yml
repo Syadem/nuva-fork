@@ -4,5 +4,6 @@ parent_id: 128
 valence_type_id: 5
 name: Influenza valence, live attenuated, unspecified
 abbreviation: Inf-L
+notes:
 created_at: 1644876460
 updated_at: 1745930172

@@ -4,5 +4,6 @@ parent_id: 58
 valence_type_id: 9
 name: Influenza valence, trivalent, non-live, obtained from egg culture, split or subunit, unspecified
 abbreviation: Inf-ESU3
+notes:
 created_at: 1626689130
 updated_at: 1790870105

@@ -4,5 +4,6 @@ parent_id: 128
 valence_type_id: 9
 name: Influenza valence, non-live, unspecified
 abbreviation: Inf-NL
+notes:
 created_at: 1719838416
 updated_at: 1745930259

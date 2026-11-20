@@ -4,5 +4,6 @@ parent_id: 105
 valence_type_id: 19
 name: Pneumococcus valence, conjugated polysaccharide, monovalent
 abbreviation: VPC
+notes:
 created_at: 1648415005
 updated_at: 1745934380

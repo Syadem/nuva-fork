@@ -4,5 +4,6 @@ parent_id: 320
 valence_type_id: 32
 name: RSV valence, monoclonal antibody, palivizumab
 abbreviation: VRS-mAb-pal
+notes:
 created_at: 1634301088
 updated_at: 1745939375

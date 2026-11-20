@@ -4,5 +4,6 @@ parent_id: 70
 valence_type_id: 8
 name: COVID-19 valence, non-replicating adenovirus 26 vector encoding the SARS-CoV-2 spike protein, in clinical trials
 abbreviation: Covid-VVnr-S-Ad26-CT
+notes:
 created_at: 1652860913
 updated_at: 1745922898

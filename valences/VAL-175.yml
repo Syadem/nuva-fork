@@ -4,5 +4,6 @@ parent_id:
 valence_type_id: 1
 name: Leishmaniasis valence, unspecified
 abbreviation: Leish
+notes:
 created_at: 1647903123
 updated_at: 1790089778

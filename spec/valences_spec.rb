@@ -31,7 +31,7 @@ RSpec.describe 'The valences folder' do
 
       it 'matches the expected schema' do
         expect(data).to be_a(Hash)
-        expect(data.keys).to contain_exactly('id', 'parent_id', 'valence_type_id', 'name', 'abbreviation', 'created_at', 'updated_at')
+        expect(data.keys).to contain_exactly('id', 'parent_id', 'valence_type_id', 'name', 'abbreviation', 'notes', 'created_at', 'updated_at')
 
         expect(data['id']).to be_a(Integer)
         expect(data['id']).to be_positive
@@ -45,6 +45,8 @@ RSpec.describe 'The valences folder' do
 
         expect(data['name']).to be_a(String)
         expect(data['name'].strip).not_to be_empty
+
+        expect(data['notes']).to(be_a(String).or be_nil)
 
         %w[created_at updated_at].each do |field|
           expect(data[field]).to be_a(Integer)

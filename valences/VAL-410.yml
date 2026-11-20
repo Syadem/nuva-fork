@@ -4,5 +4,6 @@ parent_id: 53
 valence_type_id: 23
 name: COVID-19 valence, protein subunit, recombinant N protein
 abbreviation: Covid-SP-rN
+notes:
 created_at: 1742921880
 updated_at: 1745921666

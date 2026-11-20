@@ -4,5 +4,6 @@ parent_id: 6
 valence_type_id: 20
 name: Brucella valence, protein subunit, antigen P.I. (phenol-insoluble)
 abbreviation: Bruc-PI
+notes:
 created_at: 1645471900
 updated_at: 1745919113

@@ -4,5 +4,6 @@ parent_id: 126
 valence_type_id: 8
 name: Ebola valence, non-replicating viral vector, Ad26.ZEBOV
 abbreviation: ZebovVRnrAd26
+notes:
 created_at: 1626689131
 updated_at: 1745929276

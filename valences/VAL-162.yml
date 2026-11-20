@@ -4,5 +4,6 @@ parent_id: 165
 valence_type_id: 7
 name: COVID-19 valence, replicating virus vector, unspecified
 abbreviation: Covid-VVr
+notes:
 created_at: 1647212576
 updated_at: 1745921804
