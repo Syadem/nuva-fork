@@ -3,10 +3,10 @@ id: 907
 generic: true
 name: Adenovirus type 4 vaccine, unspecified
 description: Adenovirus type 4 vaccine
-immunoglobulin: true
+immunoglobulin: false
 notes:
 created_at: 1651244706
-updated_at: 1795452025
+updated_at: 1788945437
 other_names: []
 valence_ids:
 - 282

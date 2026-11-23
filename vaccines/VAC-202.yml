@@ -6,9 +6,7 @@ name: BVAC
 description: Antitoxin against botulism
 notes: usage militaire
 created_at: 1626689122
-updated_at: 1795451520
-injection_methods:
-- intramuscular
-- intradermal
+updated_at: 1666959919
+injection_methods: []
 other_names:
 - BVAC
