@@ -6,7 +6,8 @@ name: AVAC-1, AVA
 description: Adsorbed acellular anthrax vaccine with adjuvant
 notes:
 created_at: 1626689123
-updated_at: 1744382447
-injection_methods: []
+updated_at: 1795452272
+injection_methods:
+- subcutaneous
 other_names:
 - Biothrax
