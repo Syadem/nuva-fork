@@ -6,7 +6,8 @@ name: CYFENDUS
 description: Adsorbed acellular anthrax vaccine with adjuvant
 notes:
 created_at: 1711442197
-updated_at: 1744367530
+updated_at: 1795451798
 injection_methods:
 - intramuscular
+- intradermal
 other_names: []
