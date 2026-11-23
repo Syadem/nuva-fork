@@ -6,6 +6,7 @@ name: BABYBIG
 description: Intravenous human immunoglobulin against infant botulism types A and B
 notes:
 created_at: 1715868576
-updated_at: 1715931139
-injection_methods: []
+updated_at: 1795433492
+injection_methods:
+- subcutaneous
 other_names: []
