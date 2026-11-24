@@ -1,9 +1,9 @@
 ---
 id: 419
 parent_id:
-valence_type_id:
+valence_type_id: 32
 name: Botulism valence, unspecified
 abbreviation: BOT
 notes:
 created_at: 1745940520
-updated_at: 1790089168
+updated_at: 1795513400
