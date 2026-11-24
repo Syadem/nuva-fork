@@ -1,9 +1,9 @@
 ---
 id: 420
 parent_id: 419
-valence_type_id: 32
+valence_type_id: 5
 name: Botulism valence, passive immunization products
 abbreviation: BOT-passive
 notes:
 created_at: 1745940816
-updated_at: 1790089195
+updated_at: 1795513413
