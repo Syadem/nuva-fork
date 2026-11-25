@@ -35,19 +35,26 @@ RSpec.describe 'The code mappings' do
 
           header, *rows = CSV.read(file, encoding: 'UTF-8')
 
-          expect(header).to eq(%w[nuva_id code]), "#{relative_path} must have the header nuva_id,code"
+          expect(header).to eq(%w[nuva_id code code_label]), "#{relative_path} must have the header nuva_id,code,code_label"
           expect(rows).not_to be_empty, "#{relative_path} must contain at least one mapping"
+
+          labels_by_code = {}
 
           rows.each.with_index(2) do |row, number|
             location = "#{relative_path} row #{number}"
 
-            expect(row.size).to eq(2), "#{location} must contain exactly two fields"
+            expect(row.size).to eq(3), "#{location} must contain exactly three fields"
 
-            id, code = row
+            id, code, label = row
 
             expect(id).to match(/\A[1-9][0-9]*\z/), "#{location} has an invalid NUVA ID: #{id.inspect}"
             expect(concept_ids).to include(id), "#{location} references an unknown #{prefix}-#{id}"
             expect(code).to match(/\S/), "#{location} must contain a code"
+            expect(label.to_s).not_to match(/[\r\n]/), "#{location} has a multiline code label"
+
+            expected_label = labels_by_code.fetch(code) { labels_by_code[code] = label }
+
+            expect(label).to eq(expected_label), "#{location} has a different label than the other rows of code #{code}"
           end
         end
       end
