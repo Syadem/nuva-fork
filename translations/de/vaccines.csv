@@ -1,0 +1,1485 @@
+nuva_id,name,description
+1,ACT-HIB,Konjugatimpfstoff gegen Haemophilus influenzae Typ b
+2,AGRIPPAL,"Trivalenter inaktivierter saisonaler Grippeimpfstoff, auf Eibasis, Oberflächenantigen"
+3,AVAXIM 160 U,"Inaktivierter Hepatitis-A-Impfstoff, Dosis für Erwachsene"
+4,D.T. POLIO MERIEUX,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und inaktivierter Polioimpfstoff (trivalent) für Kinder"
+5,DUKORAL,"Schluckimpfstoff gegen Cholera, der rekombinantes Choleratoxin Untereinheit B (rTCB) und inaktivierte Bakterien mit einer Adjuvansfunktion enthält"
+6,FLUVIRINE,"Trivalenter inaktivierter Impfstoff gegen die saisonale Grippe, auf Eibasis, Oberflächenantigen"
+7,GARDASIL,"Humaner Papillomavirus-Impfstoff, basierend auf VLP (Virus Like Particles), nicht-avalent (Typen 6, 11, 16 und 18), rekombinant, adsorbiert"
+8,GRIPGUARD,"Trivalenter inaktivierter Impfstoff gegen die saisonale Grippe, auf Eibasis, Oberflächenantigen, adjuvantiert"
+9,HBVAXPRO 10 µg,"Rekombinanter Hepatitis-B-Impfstoff, Erwachsenendosis"
+10,HBVAXPRO 40 µg,"Rekombinanter Hepatitis-B-Impfstoff, Dosierung für Dialysepatienten"
+11,HBVAXPRO 5 µg,"Rekombinanter Hepatitis-B-Impfstoff, pädiatrische Dosis"
+12,IMMUGRIP,"Trivalenter inaktivierter Impfstoff gegen die saisonale Grippe, Spaltvirion"
+13,IMOVAX POLIO,Inaktivierter Polio-Impfstoff (trivalent)
+14,INFANRIX HEXA,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid, azellulärer Mehrkomponenten-Pertussis-Impfstoff (3 Komponenten, Standarddosis), Haemophilus influenzae Typ b (konjugiert mit Tetanus-Toxoid), inaktivierter Polio-Impfstoff (trivalent) und Hepatitis-B-Impfstoff (rekombinant) für Kinder, adsorbiert"
+15,INFANRIXQUINTA,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (3 Komponenten, Standarddosis), Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid) und inaktivierter Polioimpfstoff (trivalent) für Kinder, adsorbiert"
+16,"INFLUVAC 0,5 mL",
+17,M-M-RVAXPRO,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+18,MENCEVAX,"Nicht-konjugierter Meningokokken-Polysaccharid-Impfstoff, Serogruppen A, C, W und Y"
+19,MENINGITEC,Meningokokken-C-Konjugatimpfstoff
+20,MENJUGATEKIT 10 µg,Meningokokken-C-Konjugatimpfstoff
+21,MUTAGRIP,"Trivalenter inaktivierter saisonaler Grippeimpfstoff, gewonnen aus Eikultur, Split-Virion"
+22,NEISVAC,Meningokokken-C-Konjugat-Impfstoff
+23,PENTAVAC,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Multikomponenten-Pertussisimpfstoff (5 Komponenten, Standarddosis), Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid) und inaktivierter Polioimpfstoff (trivalent) für Kinder, adsorbiert"
+24,PNEUMO 23,"Pneumokokken-Polysaccharid-Impfstoff, 23-valent, Serotypen 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F und 33F"
+25,PREVENAR,"Pneumokokken-Konjugatimpfstoff, 7-valent, adsorbiert, Serotypen 4, 6B, 9V, 14, 18C, 19F und 23F"
+26,PREVIGRIP,"Trivalenter inaktivierter saisonaler Grippeimpfstoff, gewonnen aus Eikultur, Oberflächenantigen"
+27,R.O.R. VAX,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+28,RABIPUR,"Inaktivierter Tollwut-Vollvirusimpfstoff, Flury LEP-Stamm, gereinigter Kükenembryo-Zellimpfstoff (PCECV), Inaktivierung mit ß-Propiolacton"
+29,REPEVAX,"Diphtherietoxoid (niedrige Dosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (5 Komponenten, niedrige Dosis) und inaktivierter Polioimpfstoff (trivalent), adsorbiert"
+30,REVAXIS,"Diphtherietoxoid (niedrige Dosis), Tetanustoxoid und inaktivierter Polioimpfstoff (trivalent), adsorbiert"
+31,ROTATEQ,"Attenuierter pentavalenter Rotavirus-Lebendimpfstoff, oral"
+32,ROUVAX,Attenuierter Lebendimpfstoff gegen Masern
+33,RUDIVAX,Attenuierter Lebendimpfstoff gegen Röteln
+34,SPIROLEPT,Inaktivierter Ganzzellimpfstoff gegen Leptospirose
+35,STAMARIL,Attenuierter Lebendimpfstoff gegen Gelbfieber
+36,TETAGRIP,
+37,TETRAVAC-ACELLULAIRE,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Multikomponenten-Pertussisimpfstoff (Standarddosis) und inaktivierter Polioimpfstoff (trivalent) für Kinder"
+38,"TICOVAC 0,5 mL",Impfstoff gegen Frühsommer-Meningoenzephalitis (Vollvirus inaktiviert)
+39,"TICOVAC 0,25 mL",Impfstoff gegen Frühsommer-Meningoenzephalitis (inaktiviertes Vollvirus)
+40,TYAVAX,"Hepatitis-A-Impfstoff (inaktiviert, adsorbiert) und Typhus-Impfstoff (Polysaccharid)"
+41,TYPHIM VI,Polysaccharid-Typhusimpfstoff (Vi-Kapselantigen)
+42,VACCIN BCG SSI,Tuberkulose-Impfstoff
+43,BOOSTRIXTETRA,"Diphtherie-Toxoid (niedrige Dosis), Tetanus-Toxoid, azellulärer Mehrkomponenten-Pertussis-Impfstoff (5 Komponenten, niedrige Dosis) und inaktivierter Polio-Impfstoff (dreiwertig), adsorbiert"
+44,CERVARIX,"Humaner Papillomavirus-Impfstoff, basierend auf VLP (Virus Like Particles), bivalent (Typ 6 und 11), rekombinant, adsorbiert"
+45,ENGERIX B 10 µg,"Rekombinanter Hepatitis-B-Impfstoff, pädiatrische Dosis"
+46,ENGERIX B 20 µg,"Rekombinanter Hepatitis-B-Impfstoff, Erwachsenendosis"
+47,FLUARIX,"Trivalenter inaktivierter saisonaler Grippeimpfstoff, gewonnen aus Eikultur, Split-Virion"
+48,GENHEVAC B PASTEUR,"Rekombinanter Hepatitis-B-Impfstoff, HBsAg 20 µg, Kinder und Erwachsene"
+49,HAVRIX 1440 U/1mL,"Inaktivierter Hepatitis-A-Impfstoff, Erwachsenendosis"
+50,"HAVRIX 720 U/0,5 mL","Inaktivierter Hepatitis-A-Impfstoff, pädiatrische Dosis"
+51,INFANRIXTETRA,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis) und inaktivierter Polioimpfstoff (trivalent) für Kinder"
+52,VACCIN MENINGOCOCCIQUE A+C,"Unkonjugierter Meningokokken-Polysaccharid-Impfstoff, Serogruppen A und C"
+53,PRIORIX,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+54,VACCIN RABIQUE PASTEUR,"Inaktiviertes Ganzvirus, WISTAR Rabies PM/WI38 1503-3M Stamm, gezüchtet auf Vero-Zellen"
+56,VACCIN TETANIQUE PASTEUR,Tetanus-Toxoid-Impfstoff
+57,TWINRIX 20 µg,"Kombinierter Impfstoff gegen Hepatitis A und B, Dosis für Erwachsene"
+58,TWINRIX 10 µg,"Kombinierter Impfstoff gegen Hepatitis A und B, Kinderdosis"
+59,TYPHERIX,Polysaccharid-Typhus-Impfstoff (Vi-Kapselantigen)
+60,VARILRIX,Abgeschwächter Lebendimpfstoff gegen Windpocken
+61,VARIVAX,Attenuierter Lebendimpfstoff gegen Windpocken
+62,VAXIGRIP,
+63,TETRACOQ,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, inaktivierter Keuchhusten-Vollzellimpfstoff und inaktivierter Polio-Impfstoff (trivalent) für Kinder"
+64,PENTACOQ,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid, Keuchhusten-Vollimpfstoff, Haemophilus influenzae Typ b (konjugiert mit Tetanus-Toxoid) und inaktivierter Polio-Impfstoff (trivalent) für Kinder, adsorbiert"
+66,DTCP PASTEUR,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis) und inaktivierter Polioimpfstoff (trivalent) für Kinder"
+67,HAVRIX 360 U,"Inaktivierter Hepatitis-A-Impfstoff, pädiatrische Dosis"
+68,MONOVAX,Impfstoff gegen Tuberkulose
+69,MENOMUNE,"Nicht konjugierter Meningokokken-Polysaccharid-Impfstoff, Serogruppen A, C, W und Y"
+70,DT BIS,Diphtherie-Toxoid- (Standarddosis) und Tetanus-Toxoid-Impfstoff für Kinder
+71,D.T. BIS - RUDIVAX,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid und Röteln (abgeschwächter Lebendimpfstoff) für Kinder"
+72,JE-VAX,"Inaktivierter Vollvirus-Impfstoff gegen Japanische Enzephalitis, Maushirn, Nakayama-Stamm - Andere Namen: JEVAX, BIKEN"
+73,IXIARO,"Inaktivierter Vollvirus-Impfstoff gegen Japanische Enzephalitis, aus Vero-Zellen gewonnen, adsorbiert"
+74,D.T. COQ MERIEUX,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und inaktivierter Pertussis-Vollzellimpfstoff für Kinder"
+76,DTVax,Diphtherietoxoid (Standarddosis) und Tetanus-Toxoid-Impfstoff für Kinder
+77,IMOVAX Mumps,Attenuierter Lebendimpfstoff gegen Mumps
+78,RUDI-ROUVAX,Attenuierter Lebendimpfstoff gegen Masern und Röteln
+79,ENCEPUR,"Impfstoff gegen Frühsommer-Meningoenzephalitis (inaktiviertes, adsorbiertes Virus)"
+80,BCG PASTEUR,Tuberkulose-Impfstoff
+82,MENBVAC,"Meningokokken-B-Impfstoff (Vesikelprotein der äußeren Membran B:14:P1.7,16)"
+83,SYNFLORIX,"Pneumokokken-Konjugatimpfstoff, 10-valent, Seroptypen 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F und 23F"
+84,"H5N1 pre-pandemic influenza vaccine, unspecified",Impfstoff gegen Influenza A(H5N1)
+85,T POLIO MERIEUX,Tetanus-Toxoid und inaktivierter Polio-Impfstoff (trivalent)
+86,TETAVAX,Tetanus-Toxoid-Impfstoff
+87,VAXICOQ,Inaktivierter Pertussis-Vollzellimpfstoff
+88,"DTIPV vaccine, unspecified","Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid und inaktivierter Polio-Impfstoff (trivalent) für Kinder"
+90,VACCIN BRUCELLIQUE P.I. à usage humain,Protein (P.I.-Antigen) Brucellose-Impfstoff
+91,VACCIN CCB PASTEUR,Eine Kombination von inaktivierten Bakterien zur Stimulierung des Immunsystems. CCB = gegen bronchiale Komplikationen. Nicht wirklich ein Impfstoff...
+92,VACCIN CHOLERIQUE PASTEUR,Inaktivierter Cholera-Vollzellimpfstoff zur Injektion
+93,VACCIN DT TAB PASTEUR,"Impfstoff für Kinder gegen Diphtherie (Toxoid, Standarddosis), Tetanus (Toxoid), Typhus (inaktivierte Ganzzellen) und Paratyphus A und B (inaktivierte Ganzzellen)"
+94,VACCIN SABIN POLIO ORAL,"Polio-Impfstoff (abgeschwächter, trivalenter Lebendimpfstoff) gegen die Polioviren 1, 2 und 3, oral"
+95,VACCIN TAB PASTEUR,"Impfstoff gegen Typhus und Paratyphus A und B, inaktivierter Ganzzellimpfstoff"
+96,VACCIN GRIPPAL RONCHESE (VGR),
+97,VACCIN LEPTOSPIRES ICTEROHEMORRAGIAE PASTEUR,Inaktivierter Ganzzellimpfstoff gegen Leptospirose
+98,HEXAVAC,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis), Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid), inaktivierter Polio- (trivalent) und Hepatitis-B-Impfstoff (rekombinant) für Kinder, adsorbiert"
+99,MENINVACT,Meningokokken-C-Konjugatimpfstoff
+101,"Hepatitis-B-Impfstoff, rekombinant, ohne nähere Angaben","Rekombinanter Hepatitis-B-Impfstoff, Dosis nicht spezifiziert"
+102,"Inaktivierter Hepatitis-A-Impfstoff, nicht näher bezeichnet","Inaktivierter Hepatitis-A-Impfstoff, pädiatrische Dosis oder Erwachsenendosis"
+103,MENACTRA,"Vierwertiger Meningokokken-Konjugatimpfstoff gegen die Serogruppen A, C, W und Y"
+104,HUMENZA,
+105,PANENZA,
+106,Q-Pan H1N1,
+107,CELVAPAN,
+108,PANDEMRIX,
+109,FOCETRIA (unidose),"Impfstoff gegen pandemische Influenza A(H1N1)pdm09, inaktiviert, auf Eibasis, Oberflächenantigen, mit Adjuvans"
+110,"Influenza vaccine, unspecified",Impfstoff gegen saisonale Grippe
+111,"Yellow fever vaccine, unspecified",Attenuierter Lebendimpfstoff gegen Gelbfieber
+112,"Typhoid vaccine, unspecified",Impfstoff gegen Typhus
+113,"Rubella vaccine, unspecified",Attenuierter Röteln-Lebendimpfstoff
+114,"Live attenuated measles vaccine, unspecified",Attenuierter Lebendimpfstoff gegen Masern
+115,AVAXIM 80 U,"Inaktivierter Hepatitis-A-Impfstoff, pädiatrische Dosis"
+116,R.O.R SANOFI PASTEUR,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+120,VACCIN VARICELLE MERIEUX,Windpocken-Impfstoff
+121,PRIORIX-TETRA,"Attenuierter Lebendimpfstoff gegen Masern, Mumps, Röteln und Windpocken"
+123,PREVENAR 13,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, 13-valent, adsorbiert, Serotypen 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F und 23F"
+124,FOCETRIA (multidose),"Impfstoff gegen pandemische Influenza A(H1N1)pdm09, inaktiviert, auf Eibasis, Oberflächenantigen, mit Adjuvans"
+125,AREPANRIX,
+126,HEVAC B,Plasmaimpfstoff gegen Hepatitis B (erster französischer Impfstoff)
+127,HB VAX DNA 5 µg,"Rekombinanter Hepatitis-B-Impfstoff, pädiatrische Dosis"
+128,HB VAX DNA 10 µg,"Rekombinanter Hepatitis-B-Impfstoff mit 10 Mikrogramm HBs-Antigen (obwohl 10 µg, ist dieser Impfstoff ab dem Alter von 16 Jahren angezeigt)"
+129,HB VAX DNA 40 µg,"Rekombinanter Hepatitis-B-Impfstoff, Dosierung für Dialysepatienten"
+130,"MMR vaccine, unspecified","Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+131,"Rabies vaccine, unspecified",Inaktivierter Tollwut-Vollvirusimpfstoff
+132,"Tetanus vaccine, unspecified",Tetanus-Toxoid-Impfstoff
+133,"Smallpox vaccine, unspecified",Attenuierter Lebendimpfstoff gegen Pocken
+134,"BCG vaccine, unspecified",Tuberkulose-Impfstoff
+135,"Polio vaccine, unspecified","Polio vaccine, live or inactivated (unspecified)"
+136,"DTwP - Diphtheria-Tetanus-Pertussis, unspecified","Diphtherietoxoid (Standarddosis), Tetanustoxoid und inaktivierter Pertussis-Vollzellimpfstoff für Kinder"
+137,"DT vaccine, unspecified",Diphtherietoxoid (Standarddosis) und Tetanustoxoid-Impfstoff für Kinder
+138,"Diphtheria-Tetanus-Pertussis-Polio vaccine, unspecified","Diphtherietoxoid (Dosis nicht spezifiziert), Tetanustoxoid, azellulärer oder ganzzelliger inaktivierter Pertussis-Impfstoff (Dosis nicht spezifiziert) und inaktivierter Polio-Impfstoff (trivalent)"
+139,PENT-HIBEST,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid, Keuchhusten (Ganzzellimpfstoff), Haemophilus influenzae Typ b (konjugiert mit Tetanus-Toxoid) und inaktivierter Polio-Impfstoff (trivalent) für Kinder, adsorbiert"
+140,INTANZA,
+141,MENVEO,"Vierwertiger Meningokokken-Konjugatimpfstoff gegen die Serogruppen A, C, W und Y"
+143,"Haemophilus influenzae B (or Hib) vaccine, unspecified",Konjugatimpfstoff gegen Haemophilus influenzae Typ b
+144,"Cholera vaccine, unspecified",Impfstoff gegen Cholera
+145,"Tick-borne encephalitis vaccine, unspecified",Impfstoff gegen durch Zecken übertragene Enzephalitis
+146,"Live attenuated Japanese Encephalitis vaccine 14-14-2 strain, unspecified","Attenuierter Lebendimpfstoff gegen Japanische Enzephalitis, Stamm 14-14-2"
+147,"Influenza A(H1N1)2009 vaccine, unspecified",
+148,"Leptospirosis vaccine, unspecified",Inaktivierter Ganzzellimpfstoff gegen Leptospirose
+149,Meningokokken-Impfstoff mit Proteinen aus Außenmembranvesikeln,Meningokokken-Impfstoff mit Proteinen aus Außenmembranvesikeln
+150,"Meningococcal conjugate vaccine C, unspecified",Meningokokken-C-Konjugatimpfstoff
+151,"Meningococcal A + C vaccine, unspecified","Nicht konjugierter Meningokokken-Polysaccharid-Impfstoff, Serogruppen A und C"
+152,"Unconjugated meningococcal vaccine ACWY, unspecified","Nicht-konjugierter Meningokokken-Polysaccharid-Impfstoff, Serogruppen A, C, W und Y"
+153,"Mumps vaccine, unspecified",Attenuierter Lebendimpfstoff gegen Mumps
+154,"Malaria vaccine, unspecified",Malaria-Impfstoff (in klinischen Studien verwendet)
+155,"Dengue vaccine, unspecified","Dengue-Impfstoff, nicht näher bezeichnet"
+156,HPV Vaccine,"Humaner Papillomavirus-Impfstoff, nicht spezifiziert"
+157,"Pneumococcal vaccine, unspecified","Pneumokokken-Konjugat- oder Nicht-Konjugat-Polysaccharid-Impfstoff, Anzahl der Serotypen nicht spezifiziert"
+158,"Rotavirus vaccine, unspecified",Rotavirus-Impfstoff
+159,"Chickenpox vaccine, unspecified",Windpocken-Impfstoff
+160,"Live attenuated shingles vaccine, unspecified",Abgeschwächter Lebendimpfstoff gegen Gürtelrose
+161,ZOSTAVAX,"Gürtelrose-Lebendimpfstoff, abgeschwächt"
+162,"Brucellosis vaccine, unspecified",Impfstoff gegen Brucellose
+163,"Whole-cell inactivated pertussis vaccine, unspecified",Inaktivierter Keuchhusten-Vollzellimpfstoff
+164,INTANZA 9 µg,"Trivalenter inaktivierter Impfstoff gegen die saisonale Grippe, Split-Virion"
+165,"VAQTA 25 U/0,5 mL","Inaktivierter Hepatitis-A-Impfstoff, padiatrische Dosis"
+166,VAQTA 50 U,"Inaktivierter Hepatitis-A-Impfstoff, Dosis für Erwachsene"
+168,AMBIRIX,"Kombinierter Hepatitis-A- und -B-Impfstoff, pädiatrische Dosis"
+169,OPTAFLU,"Trivalenter inaktivierter saisonaler Grippeimpfstoff, Oberflächenantigen, Zellkulturen"
+170,AFLUNOV,"Influenza-A(H5N1)-Impfstoff (Oberflächenantigen, inaktiviert, adjuvantiert)"
+171,PREPANDEMIC INFLUENZA VACCINE (H5N1) NOVARTIS,Impfstoff gegen Influenza A(H5N1)
+172,DIFTAVAX,Diphtherietoxoid- (Standarddosis) und Tetanustoxoid-Impfstoff für Kinder
+173,FLUENZ,"Trivalenter, abgeschwächter Lebendimpfstoff gegen saisonale Grippe, nasal"
+174,PROQUAD,"Attenuierter Lebendimpfstoff gegen Masern, Mumps, Röteln und Windpocken"
+175,A.D.T. BOOSTER,Diphtherie-Toxoid- (niedrige Dosis) und Tetanus-Toxoid-Impfstoff (für Auffrischungsimpfungen verwendet)
+176,A.K.D.S.,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und inaktivierter Pertussis-Vollzellimpfstoff für Kinder"
+177,AC VAX,"Nicht konjugierter Meningokokken-Polysaccharid-Impfstoff, Serogruppen A und C"
+178,ACEL-IMUNE,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis) für Kinder"
+179,ACELLULAR D.P.T. KOVAX,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und inaktivierter Polioimpfstoff (trivalent) für Kinder"
+180,ACTACEL,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis, 5 Komponenten) und Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid) als Kinderimpfstoff"
+182,ADACEL,"Impfstoff gegen Diphtherie-Toxoid (niedrige Dosis), Tetanus-Toxoid und azelluläre Multikomponenten-Pertussis (niedrige Dosis)"
+183,AIMMUGEN,Inaktivierter Hepatitis-A-Impfstoff
+184,ALDIANA,Diphtherietoxoid (Standarddosis) Impfstoff für Kinder
+185,ALDITEANA,Diphtherietoxoid (Standarddosis) und Tetanus-Toxoid-Impfstoff für Kinder
+186,ALDITERPERA,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und inaktivierter Pertussis-Vollzellimpfstoff für Kinder"
+187,AMARIL,Attenuierter Lebendimpfstoff gegen Gelbfieber
+188,QUIMI-HIB,"Impfstoff gegen Haemophilus influenzae Typ b, Kapselpolysaccharid (Polyribosylribitolphosphat, PRP), konjugiert mit Tetanustoxoid"
+189,ANADIFTERALL,Diphtherie-Toxoid-Impfstoff (Standarddosis) für Kinder
+190,ANATETALL,Tetanus-Toxoid-Impfstoff
+191,ARILVAX,Attenuierter Lebendimpfstoff gegen Gelbfieber
+192,ATTENUVAX,Attenuierter Lebendimpfstoff gegen Masern
+193,"AVAC-1, AVA",Adsorbierter azellulärer Milzbrandimpfstoff mit Adjuvans
+194,B-CAPSA,Nicht-konjugierter Polysaccharid-Impfstoff gegen Haemophilus influenzae Typ b
+195,BEGRIVAC,
+196,BIAVAX,Attenuierter Lebendimpfstoff gegen Röteln und Mumps
+197,BIAVAX II,Attenuierter Lebendimpfstoff gegen Röteln und Mumps
+198,BIKEN-HB,Rekombinanter Hepatitis-B-Impfstoff
+199,BIMMUGEN,"Rekombinanter Hepatitis-B-Impfstoff mit 10 Mikrogramm HBsAg pro 0,5 ml (eine 0,25-ml-Formulierung ist erhältlich)"
+200,BIOTHRAX,Adsorbierter azellulärer Milzbrandimpfstoff mit Adjuvans
+201,BIVIRATEN BERNA,Attenuierter Lebendimpfstoff gegen Masern und Mumps
+202,BVAC,Antitoxin gegen Botulismus
+203,C.D.T.,Diphtherietoxoid- (Standarddosis) und Tetanus-Toxoid-Impfstoff für Kinder
+204,CAM-KOVAX,Attenuierter Lebendimpfstoff gegen Masern
+205,CD.JEVAX,"Attenuierter Lebendimpfstoff gegen Japanische Enzephalitis, hergestellt in primärer Hamsternierenzellkultur (PHK) aus dem Stamm SA 14-14-2"
+206,CELLUVAX,Mehrkomponenten-Impfstoff gegen azelluläre Pertussis (Standarddosis)
+207,CENDEVAX,Attenuierter Lebendimpfstoff gegen Röteln
+208,CERTIVA,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis) für Kinder"
+209,COMVAX,Impfstoff gegen Hämophilie B und Haemophilus influenzae Typ b (konjugiert mit dem OMP-Protein)
+210,D.S.D.P.T.,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und inaktivierter Pertussis-Vollzellimpfstoff für Kinder"
+211,DAPTACEL,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis) für Kinder"
+212,DI TE PER POL IMPFSTOFF,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid, inaktivierter Keuchhusten-Vollzellimpfstoff und inaktivierter Polio-Impfstoff (trivalent) für Kinder"
+213,DI-TE-POL,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und inaktivierter Polioimpfstoff (trivalent) für Kinder"
+214,DIF-TET-ALL,Diphtherietoxoid- (Standarddosis) und Tetanus-Toxoid-Impfstoff für Kinder
+216,ANATOXAL DI TE,Diphtherietoxoid (Standarddosis) und Tetanustoxoid-Impfstoff für Kinder
+217,DITOXIM,Diphtherietoxoid- (Standarddosis) und Tetanustoxoid-Pädiatrieimpfstoff
+218,DOUBLE ANIGEN B.,Diphtherie-Toxoid (Standarddosis) und Tetanus-Toxoid-Impfstoff für Kinder
+219,DRYVAX,"Pockenimpfstoff, erste Generation, Lebendimpfvirus"
+220,DT MERIEUX,Diphtherie-Toxoid (Standarddosis) und Tetanus-Toxoid-Impfstoff für Kinder
+222,"DTwP, unspecified","Diphtherietoxoid (Standarddosis), Tetanustoxoid und inaktivierter Pertussis-Vollzellimpfstoff für Kinder"
+223,DUAL ANTIGEN SII,Diphtherietoxoid- (Standarddosis) und Tetanustoxoid-Pädiatrieimpfstoff
+224,ECOLARIX,Attenuierter Lebendimpfstoff gegen Masern und Röteln
+225,EIPV,Inaktivierter Polio-Impfstoff (trivalent)
+226,"Diptheria, Tetanus and Acellular Pertussis Combined Walvax vaccine","Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid und azellulärer Mehrkomponenten-Keuchhustenimpfstoff (Standarddosis) für Kinder"
+227,EPAXAL,"Inaktivierter Hepatitis-A-Impfstoff, Virosom, für Kinder oder Erwachsene"
+228,ERVEVAX RA 27/3,Attenuierter Röteln-Lebendimpfstoff
+229,FLU SHIELD,
+230,FLUAD,"Adjuvantierter trivalenter inaktivierter Impfstoff gegen saisonale Grippe, Oberflächenantigen"
+231,FLUKOVAX,Trivalenter inaktivierter saisonaler Grippeimpfstoff
+232,FLULAVAL,
+233,FLUMIST,"Impfstoff gegen saisonale Grippe, vierwertig, abgeschwächter Lebendimpfstoff, nasal"
+234,FLUOGEN,
+235,FLUVIRIN,Trivalenter inaktivierter Impfstoff gegen die saisonale Grippe
+236,FLUZONE HIGH-DOSE,
+238,FUNED-CEME,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid und inaktivierter Keuchhusten-Vollzellimpfstoff für Kinder"
+240,GUNEVAX,Attenuierter Lebendimpfstoff gegen Röteln
+241,HAEMOPHILUS INFLUENZAE B CONJUGATE VACCINE - SERUM INSTITUTE OF INDIA,"Impfstoff gegen Haemophilus influenzae Typ b, Kapselpolysaccharid (Polyribosylribitolphosphat, PRP), konjugiert mit Tetanustoxoid"
+242,HBY,"Rekombinanter Hepatitis-B-Impfstoff, Erwachsenendosis"
+243,HEPA-B INJECTION ADULT,"Rekombinanter Impfstoff gegen Hepatitis B, Dosis für Erwachsene"
+244,HEPRECOMB,Rekombinanter Hepatitis-B-Impfstoff mit 10 Mikrogramm HBs-Antigen zur Verwendung ab dem Alter von 11 Jahren
+245,HEPTAVAX B,"Plasma-Hepatitis-B-Impfstoff, in den USA von 1981 bis 1990 verwendet"
+246,HIBERNA PRODUCTSIX,Impfstoff gegen Tetanustoxoid und saisonale Grippe (trivalent)
+247,HIBTITER,"Impfstoff gegen Haemophilus influenzae Typ b, Kapsel-Oligosaccharide (Polyribosylribitolphosphat, PRP), konjugiert mit mutiertem Diphtherietoxin CRM197"
+248,HINKUYS KAROKOE,Inaktivierter Pertussis-Vollzellimpfstoff
+249,RUBELLA VACCINE HPV-77,"Attenuierter Röteln-Lebendimpfstoff, gezüchtet auf embryonalen Entenzellen (HPV-77-Stamm)"
+251,HUMOTET-ANTI TETANUS,Tetanus-Toxoid-Impfstoff
+252,VAXIGRIP ENFANTS,
+253,VAXIRAB N,"Inaktivierter Tollwut-Vollvirusimpfstoff, Flury LEP-Stamm, gereinigter Impfstoff aus Kükenembryozellen (PCECV), Inaktivierung mit ß-Propiolacton"
+254,IMOVAX D.T.,Diphtherietoxoid- (Standarddosis) und Tetanustoxoid-Impfstoff für Kinder
+255,IMOVAX GRIPPE,Trivalenter inaktivierter saisonaler Grippeimpfstoff
+256,IMOVAX MUMPS,Attenuierter Lebendimpfstoff gegen Mumps
+257,IMOVAX PAROTIDITIS,Attenuierter Lebendimpfstoff gegen Mumps
+258,IMOVAX R.O.R.,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+259,IMOVAX Rabies,"Ganzer inaktivierter Tollwutimpfstoff, hergestellt in MRC5-Zellen"
+260,IMOVAX Rabies I.D.,"Inaktivierte Vollviren, Human Diploid Cell Vaccine (HDCV), intradermal"
+261,IMOVAX Rabies I.M.,Inaktivierter Tollwutimpfstoff mit ganzen Virionen (intramuskuläre Verabreichung)
+262,IMOVAX RUBEOLA,Attenuierter Lebendimpfstoff gegen Röteln
+263,IMOVAX SARAMPION,Attenuierter Lebendimpfstoff gegen Masern
+264,INFANRIX,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis) für Kinder"
+265,INFLU-KOVAX,
+266,INFLUENZA HA VACCINE KOVAX,
+267,IPAD TP,Tetanus-Toxoid und inaktivierter Polio-Impfstoff (trivalent)
+268,IPOL,Inaktivierter Polio-Impfstoff (trivalent)
+270,"Inactivated Polio vaccine, unspecified",Inaktivierter Polio-Impfstoff (trivalent)
+271,ISTIVAC,"Trivalenter inaktivierter saisonaler Grippeimpfstoff, gewonnen aus Eikultur"
+272,KAKSOISROKOTE DUBBELVACCIN,Diphtherietoxoid (Standarddosis) und Tetanustoxoid-Impfstoff für Kinder
+273,KIKHOSTE-VAKSINE,Inaktivierter Keuchhusten-Vollzellimpfstoff
+274,LANCY VAXINA,"Pockenimpfstoff, erste Generation, Lebendimpfvirus"
+275,LAVANTUU TIROKOTE,"Typhusimpfstoff, nicht spezifiziert"
+276,LIOVAX,"Pockenimpfstoff, erste Generation, Lebendimpfvirus"
+277,LIRUBEL,Attenuierter Lebendimpfstoff gegen Masern und Röteln
+278,LIRUGEN,Attenuierter Lebendimpfstoff gegen Masern
+280,MUMPS-MEASLES VACCINE MICROGEN,Attenuierter Lebendimpfstoff gegen Masern und Mumps
+281,LM - 3 RIT,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+282,LTEANAS IMUNA,Tetanus-Toxoid-Impfstoff
+283,LYMERIX,Rekombinanter Impfstoff gegen Borreliose
+284,LYOVAC ATTENUVAX,Attenuierter Lebendimpfstoff gegen Masern
+285,LYOVAC MERUVAX,Attenuierter Lebendimpfstoff gegen Röteln
+286,M-M-R II,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+287,M-R VAX,Attenuierter Lebendimpfstoff gegen Masern und Röteln
+288,M-R VAX II,Attenuierter Lebendimpfstoff gegen Masern und Röteln
+289,M-VAX,Attenuierter Lebendimpfstoff gegen Masern
+290,MASERN-IMPFSTOFF SSW,Attenuierter Lebendimpfstoff gegen Masern
+291,MEASLES VACCINE AIK-C STRAIN POLYVAC,Attenuierter Lebendimpfstoff gegen Masern
+292,MEASLES VACCINE DK3,Attenuierter Lebendimpfstoff gegen Masern
+293,MENAFRIVAC,Meningokokken-Serogruppe-A-Konjugatimpfstoff
+294,MENCEVAX A,"Unkonjugierter Meningokokken-Polysaccharid-Impfstoff, Serogruppe A"
+295,MENOMUNE-A/C/Y/W-135,"Nicht konjugierter Meningokokken-Polysaccharid-Impfstoff, Serogruppen A, C, W und Y"
+296,MENPOVAX 4 A+C+Y+W135,"Unkonjugierter Meningokokken-Polysaccharid-Impfstoff, Serogruppen A, C, W und Y"
+297,MENPOVAX A+C,"Unkonjugierter Meningokokken-Polysaccharid-Impfstoff, Serogruppen A und C"
+298,MERUVAX,Attenuierter Lebendimpfstoff gegen Röteln
+299,MERUVAX II,Attenuierter Lebendimpfstoff gegen Röteln
+300,MEVILIN-L,Attenuierter Lebendimpfstoff gegen Masern
+301,MMR,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+303,MONIARIX,"Pneumokokken-Polysaccharid-Nichtkonjugatimpfstoff, 17-valent, Serotypen 1, 2, 3, 4, 6A, 7F, 8, 9N, 11A, 12F, 14, 15F, 17F, 18C, 19F, 23F und 25"
+304,MOPAVAC SEVAC,Attenuierter Lebendimpfstoff gegen Masern und Mumps
+305,MOPV,"Polio-Impfstoff (abgeschwächter Lebendimpfstoff, trivalent) gegen die Polioviren 1, 2 und 3, zum Einnehmen"
+306,MORBILVAX,Attenuierter Lebendimpfstoff gegen Masern
+307,MORUBEL,Attenuierter Lebendimpfstoff gegen Masern und Röteln
+308,MORUMAN BERNA PRODUCTS,Masern-Immunglobulin
+309,MORUPAR,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+310,MOVIVAC,Attenuierter Lebendimpfstoff gegen Masern
+311,MUMATEN BERNA PRODUCTSNA,Attenuierter Lebendimpfstoff gegen Mumps
+312,MUMPS LIVE,Abgeschwächter Lebendimpfstoff gegen Mumps
+313,MUMPS inactivated,Ganzes Virion Inaktivierter Mumps-Impfstoff
+315,MUMPSVAX,Attenuierter Mumps-Lebendimpfstoff
+317,NABI-HB,Hepatitis-B-Immunglobulin
+318,NOTHAV,Inaktivierter Hepatitis-A-Impfstoff
+319,OMNIHIB,"Impfstoff gegen Haemophilus influenzae Typ b, Kapselpolysaccharid (Polyribosylribitolphosphat, PRP), konjugiert mit Tetanustoxoid"
+320,"OPV 1-2-3, unspecified","Polio-Impfstoff (abgeschwächter Lebendimpfstoff, trivalent) gegen die Polioviren 1, 2 und 3, oral"
+321,ORIMUNE,"Polio-Impfstoff (abgeschwächter Lebendimpfstoff, trivalent) gegen die Polioviren 1, 2 und 3, oral"
+322,PARIORIX,Attenuierter Lebendimpfstoff gegen Mumps
+323,PAVIVAC-SEVAC,Attenuierter Lebendimpfstoff gegen Masern
+324,"Pneumococcal conjugate vaccine, 7 valent, unspecified","Pneumokokken-Polysaccharid-Konjugatimpfstoff, 7-valent, Serotypen 4, 6B, 9V, 14, 18C, 19F und 23F"
+325,PEDIARIX,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis), inaktivierter Polioimpfstoff (trivalent) und Hepatitis-B-Impfstoff (rekombinant) für Kinder"
+326,PEDVAXHIB,"Impfstoff gegen Haemophilus influenzae Typ b, Kapselpolysaccharid (Polyribosylribitolphosphat, PRP), konjugiert mit dem äußeren Membranprotein von Neisseria meningitidis Serogruppe B"
+327,PENTA,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (5 Komponenten, Standarddosis), Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid) und inaktivierter Polioimpfstoff (trivalent) für Kinder, adsorbiert"
+328,PENTACEL,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Multikomponenten-Pertussisimpfstoff (5 Komponenten, Standarddosis), Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid) und inaktivierter Polioimpfstoff (trivalent) für Kinder, adsorbiert"
+330,PENTACT-HIB,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid, Keuchhusten, Haemophilus influenzae Typ b (konjugiert mit Tetanus-Toxoid) und inaktivierter Polio-Impfstoff (dreiwertig) für Kinder, adsorbiert"
+332,PENTAVALENTE,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, Keuchhusten (Ganzzellimpfstoff), Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid) und Hepatitis B (rekombinant), Impfstoff für Kinder"
+333,PFIZER VAX-MEASLES K,"Inaktivierter Masern-Vollimpfstoff, alt"
+334,PFIZER-VAX MEASLES-L,Attenuierter Lebendimpfstoff gegen Masern
+335,PLUSERIX,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+336,PNEUMOVAX,"Pneumokokken-Polysaccharid-Nichtkonjugatimpfstoff, 23-valent, Serotypen 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F und 33F"
+337,PNU-IMUNE 23,"Pneumokokken-Polysaccharid-Nichtkonjugatimpfstoff, 23-valent, Serotypen 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F und 33F"
+338,POLIACEL,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (5 Komponenten, Standarddosis), Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid) und inaktivierter Polioimpfstoff (trivalent) für Kinder, adsorbiert"
+339,"Pneumococcal polysaccharide vaccine 23-valent, unspecified","Pneumokokken-Polysaccharid-Nichtkonjugatimpfstoff, 23-valent"
+341,PREVNAR,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, 7-valent, adsorbiert, Serotypen 4, 6B, 9V, 14, 18C, 19F und 23F"
+343,PROHIBIT,Haemophilus influenzae Typ b Konjugatimpfstoff (PRP-D)
+344,"PRP-OMP Hib vaccine, unspecified","Konjugatimpfstoff gegen Haemophilus influenzae Typ b, bestehend aus PRP (Polyribosylribitolphosphat), konjugiert mit OMP (Außenmembranprotein von Neisseria meningitidis)"
+345,"Hib PRP-T conjugated vaccine, unspecified","Konjugatimpfstoff gegen Haemophilus influenzae Typ b, bestehend aus PRP (Polyribosylribitolphosphat), konjugiert mit Tetanustoxoid"
+346,PURIVAX,Inaktivierter Polio-Impfstoff (dreiwertig)
+347,QUADRACEL,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Multikomponenten-Pertussisimpfstoff (Standarddosis) und inaktivierter Polioimpfstoff (trivalent) für Kinder"
+348,QUADRACEL/HIBEST,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (5 Komponenten, Standarddosis), Haemophilus influenzae Typ b (konjugiert zu Tetanustoxoid) und inaktivierter Polioimpfstoff (trivalent) für Kinder, adsorbiert"
+349,QUADRIGEN,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, inaktivierter Keuchhusten-Vollzellimpfstoff und inaktivierter Polioimpfstoff (trivalent) für Kinder"
+350,QUATRO-VIRELON,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis) und inaktivierter Polioimpfstoff (dreiwertig) für Kinder"
+351,QUINTUPLE,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis), Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid) und Hepatitis-B-Impfstoff (rekombinant) für Kinder"
+352,R-HB VACCINE,"Rekombinanter Hepatitis-B-Impfstoff, Erwachsenendosis"
+353,R-VAC,Attenuierter Röteln-Lebendimpfstoff
+354,RA27/3,Attenuierter Röteln-Lebendimpfstoff
+355,RABAVERT,"Inaktivierter Tollwut-Vollvirusimpfstoff, Flury LEP-Stamm, gereinigter Impfstoff aus Kükenembryozellen (PCECV), Inaktivierung mit ß-Propiolacton"
+356,RECOMBIVAX HB PEDIATRIC,"Hepatitis-B-Impfstoff, Dosis für Kinder"
+357,"RESPIGAM, RSV-IVIG",Immunglobulin gegen RSV
+358,"Rabies immunoglobulin human origin, unspecified","Tollwut-Immunglobulin, menschlichen Ursprungs"
+359,RIMEVAX,Attenuierter Lebendimpfstoff gegen Masern
+360,RIMPARIX,Attenuierter Lebendimpfstoff gegen Masern und Mumps
+361,RIT - LM-2,Attenuierter Lebendimpfstoff gegen Masern und Mumps
+362,RIT - LM-3,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+363,ROTASHIELD,Rotavirus-Impfstoff (Erstimpfung)
+364,RUBEATEN BERNA PRODUCTS,Attenuierter Lebendimpfstoff gegen Röteln
+365,RUBELLA VACCINE MICROGEN,Attenuierter Röteln-Lebendimpfstoff
+366,RUBELLA-KOVAX,Attenuierter Röteln-Lebendimpfstoff
+367,RUBELLOVAC,Attenuierter Röteln-Lebendimpfstoff
+368,RUBELOGEN,Attenuierter Lebendimpfstoff gegen Röteln
+369,RUBEOVAX,Attenuierter Lebendimpfstoff gegen Masern
+370,RVA RABIES VACCINE ABSORBED BIOPORT,"inaktivierter Vollimpfstoff gegen Tollwut, adsorbiert auf Aluminiumphosphat aus dem BioPort-Labor"
+371,SABIN,"Polio-Impfstoff (abgeschwächter Lebendimpfstoff, trivalent) gegen die Polioviren 1, 2 und 3, oral"
+372,SAHIA,"Polio-Impfstoff (abgeschwächter Lebendimpfstoff, trivalent) gegen die Polioviren 1, 2 und 3, zum Einnehmen"
+373,SALK,Inaktivierter Polio-Impfstoff (trivalent)
+374,SANDOVAC,
+375,SEROBACTERIN,"Inaktivierter Cholera-Vollzellimpfstoff zur Injektion, kombiniert mit Polysaccharid-Typhusimpfstoff"
+376,SHANCOL TM,Schluckimpfstoff Inaktivierter Ganzzellimpfstoff gegen Cholera
+377,TRIPLE ANTIGEN SII,
+378,SYNAGIS 100 mg (PALIZIVUMAB),Monoklonaler hRSV-Antikörper
+379,T-IMMUN,Tetanus-Toxoid-Impfstoff
+380,"T.Polio, unspecified",Tetanustoxoid und inaktivierter Polioimpfstoff (trivalent)
+382,"Tetanus diphtheria vaccine, unspecified",Impfstoff gegen Diphtherie-Toxoid (Dosis nicht spezifiziert) und Tetanus-Toxoid
+383,ANATOXAL TE,Tetanus-Toxoid-Impfstoff
+384,TE/VAC/PTAP,Tetanus-Toxoid-Impfstoff (Jugoslawien)
+385,TELVACLPTAP,Tetanus-Toxoid-Impfstoff
+386,TETAMYN,Tetanus-Toxoid-Impfstoff
+387,TETANOL,Tetanus-Toxoid-Impfstoff
+388,TETASORBAT SSW,Tetanus-Toxoid-Impfstoff
+389,TETAMUN SSW,Tetanus-Toxoid-Impfstoff
+390,TETRACT-HIB,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid, inaktivierter Keuchhusten-Vollzellimpfstoff und Haemophilus influenzae Typ b (konjugiert mit Tetanus-Toxoid) Kinderimpfstoff"
+391,TETRAMUNE,"Impfstoff für Kinder gegen Diphtherietoxoid (Standarddosis), Tetanustoxoid, Keuchhusten und Haemophilus influenzae Typ b (konjugiert mit Diphtherietoxoid)"
+392,TETRAVAX,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid, inaktivierter Keuchhusten-Vollzellimpfstoff und inaktivierter Polio-Impfstoff (trivalent) für Kinder"
+393,TICE BCG,Tuberkulose-Impfstoff
+394,TIG,Anti-Tetanus-Immunglobulin
+395,TITIFICA,"Typhus- und Paratyphusimpfstoff, vollständig inaktiviert"
+396,BIOPOLIO,"Polio-Impfstoff (abgeschwächter, trivalenter Lebendimpfstoff) gegen die Polioviren 1, 2 und 3, zum Schlucken"
+397,TRESIVAC LYOPHOLIZED,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+398,TRI-IMMUNOL,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid und inaktivierter Pertussis-Vollzellimpfstoff für Kinder"
+399,TRIACEL,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und inaktivierter Polioimpfstoff (trivalent) für Kinder"
+400,TRIACELLUVAX,"Diphtherie-Toxoid-Impfstoff (Standarddosis), Tetanus-Toxoid-Impfstoff und azellulärer Multikomponenten-Pertussis-Impfstoff (Standarddosis) für Kinder"
+401,TRIHIBIT,"Impfstoff gegen Diphtherietoxoid (Standarddosis), Tetanustoxoid, azelluläre Mehrkomponenten-Pertussis (Standarddosis) und Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid)"
+403,TRINIVAC,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid und inaktivierter Keuchhusten-Vollzellimpfstoff für Kinder"
+404,TRIPACEL,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis) für Kinder"
+405,TRIPEDIA,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis) für Kinder"
+407,TRIPLE,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid und inaktivierter Pertussis-Vollzellimpfstoff für Kinder"
+408,TRIPLE ANTIGEN,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid und inaktivierter Pertussis-Vollzellimpfstoff für Kinder"
+409,TRIPLE SABIN,"Polio-Impfstoff (abgeschwächter Lebendimpfstoff, trivalent) gegen die Polioviren 1, 2 und 3, zum Schlucken"
+410,TRIPLE VIRAL,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+411,TRIVACUNA LETI,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid und inaktivierter Pertussis-Vollzellimpfstoff für Kinder"
+412,TRIVAX,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und azellulärer Multikomponenten-Pertussisimpfstoff (Standarddosis) für Kinder"
+413,TRIVAX-AD,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid und azellulärer Mehrkomponenten-Pertussis-Impfstoff (Standarddosis) für Kinder"
+414,TRIVAX-HIB,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Keuchhusten (Standarddosis) und Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid) Kinderimpfstoff"
+415,TRIVB,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und inaktivierter Polioimpfstoff (trivalent) für Kinder"
+416,Triviraten,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+417,TRIVIVAC SEVAC,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+418,TRIVIVAC Y,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+419,SHANTT,Tetanus-Toxoid-Impfstoff
+420,BIO-TT Vaccine,Tetanus-Toxoid-Impfstoff
+421,TUSSITRUPIN FORTE,Inaktivierter Pertussis-Vollzellimpfstoff
+423,TWINRIX JUNIOR,"Kombinierter Hepatitis-A- und -B-Impfstoff, pädiatrische Dosis"
+424,"Live attenuated oral typhoid vaccine, unspecified","Attenuierter Typhus-Lebendimpfstoff, Stamm Ty21a, zum Einnehmen"
+425,TYNE,Tuberkulose-Impfstoff
+426,TYPHOID VACCINE WYETH,Inaktivierter Typhus-Vollzellimpfstoff
+427,TYPHOID-KOVAX,Polysaccharid-Typhus-Impfstoff (Vi-Kapselantigen)
+428,VA-MENGOC-BC,Impfstoff gegen Meningokokken der Serogruppe B und C
+429,VACCIN COMBINAT DIFTERO-TETANIC,Impfstoff gegen Diphtherietoxoid (Standarddosis) und Tetanus-Toxoid für Kinder
+430,VACCIN DIFTERIC ADSORBIT,Diphtherie-Toxoid (nicht spezifizierte Dosis)
+431,VACCINUM MORBILLORUM VIVUM,Attenuierter Masern-Lebendimpfstoff
+432,VACINA DUPLA,Diphtherietoxoid (Standarddosis) und Tetanus-Toxoid-Impfstoff für Kinder
+433,VACINA TRIPLICE,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und inaktivierter Ganzzellimpfstoff oder Acellulaire-Pertussisimpfstoff (Dosis nicht spezifiziert) für Kinder"
+434,VACINA TRIPLICE VIRAL,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+435,VAKSIN CACAR,"Pockenimpfstoff, erste Generation, Lebendimpfvirus"
+436,VAKSIN CAMPAK KERING,Attenuierter Lebendimpfstoff gegen Masern
+437,VAKSIN KOTIPA,Inaktivierter Cholera-Vollzellimpfstoff zur Injektion kombiniert mit inaktiviertem Typhus-Vollzellimpfstoff
+438,VAKSIN SERAP,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid und inaktivierter Vollzellimpfstoff oder Acellulaire-Pertussis-Impfstoff (Dosis nicht spezifiziert) für Kinder"
+439,VAMOAVAX,Attenuierter Lebendimpfstoff gegen Masern und Mumps
+441,SKY Varicella Inj,Windpockenimpfstoff (SK Bioscience-Labor)
+442,VARICELLON,Immunglobulin gegen Windpockenvirus
+443,VARIE,"Pockenimpfstoff, erste Generation, Lebendimpfvirus"
+444,VAXEM-HIB,Impfstoff gegen Haemophilus influenzae Typ b (konjugiert mit Diphtherietoxoid)
+445,VAXIPAR,Lebendimpfstoff gegen Mumps
+446,VCDT,Diphtherie-Toxoid (Standarddosis) und Tetanus-Toxoid-Kinderimpfstoff
+447,VDA VACCIN DIFTERIC ADSORBIT,Diphtherie-Toxoid (Standarddosis) Impfstoff für Kinder
+448,VICPS (TYPHIM VI),Polysaccharid-Typhusimpfstoff (Vi-Kapselantigen)
+449,VIRELON T 20,"Polio-Impfstoff (abgeschwächter Lebendimpfstoff, trivalent) gegen Polioviren 1, 2 und 3, zum Schlucken"
+450,"VIROVAC MASSLING, PEROTID, RUBELLA","Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+451,VIVOTIF,"Attenuierter Typhus-Lebendimpfstoff, Stamm Ty21a, zum Einnehmen"
+452,VT (VACINA TRIPLICE),"Diphtherietoxoid (Standarddosis), Tetanustoxoid und inaktivierter Ganzzellimpfstoff oder azellulärer Pertussisimpfstoff (Dosis nicht spezifiziert) für Kinder"
+453,VTV (VACINA TRIPLICE VIRAL),"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+454,VVR,Attenuierter Lebendimpfstoff gegen Masern
+456,WELLTRIVAX TRIVALENTE,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und inaktivierter Ganzzellimpfstoff oder Acellulaire-Pertussisimpfstoff (Dosis nicht spezifiziert) für Kinder"
+457,YF-VAX,Attenuierter Lebendimpfstoff gegen Gelbfieber
+458,ZAANTIDE antitoxin,Diphtherie-Antitoxin-Immunglobulin
+459,ZAANTITE,Tetanus-Toxoid-Impfstoff
+460,ZADITEADVAX,Diphtherie-Toxoid (Standarddosis) und Tetanus-Toxoid-Impfstoff für Kinder
+461,ZADITEVAX,Diphtherie-Toxoid (Standarddosis) und Tetanus-Toxoid-Impfstoff für Kinder
+462,ZAMEVAX A+C,"Unkonjugierter Meningokokken-Polysaccharid-Impfstoff, Serogruppen A und C"
+463,ZAMOVAX,Attenuierter Lebendimpfstoff gegen Masern
+464,ZAMRUVAX,Attenuierter Lebendimpfstoff gegen Masern und Röteln
+465,ZARUVAX,Attenuierter Lebendimpfstoff gegen Röteln
+466,ZATETRAVAX,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid und inaktivierter Ganzzellimpfstoff oder Acellulaire-Pertussis-Impfstoff (Dosis nicht spezifiziert) für Kinder"
+467,ZATEVAX,Tetanus-Toxoid-Impfstoff
+468,ZATRIBAVAX,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und inaktivierter Vollzellimpfstoff gegen Pertussis für Kinder"
+469,ZATRIVAX,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+470,QUINVAXEM,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid, Keuchhusten (Ganzzellimpfstoff), Haemophilus influenzae Typ b (konjugiert mit Diphtherie-Toxoid) und Hepatitis B (rekombinant) Impfstoff für Kinder"
+471,HEPAVAX-GENE B 20 µg,"Rekombinanter Hepatitis-B-Impfstoff, Erwachsenendosis"
+472,PREPANDRIX,Impfstoff gegen Influenza A(H5N1)
+473,PRE-PANDEMIC INFLUENZA VACCINE H5N1,"Influenza-A(H5N1)-Impfstoff (geteilt, adjuvantiert)"
+474,DARONRIX,Impfstoff gegen Influenza A(H5N1)
+475,FOCLIVIA,Impfstoff gegen Influenza A(H5N1)
+476,Pandemic Influenza Vaccine H5N1 Baxter,"Influenza-A(H5N1)-Impfstoff (Vollvirus, Vero-Zellkultur, inaktiviert), Multidosis"
+477,PUMARIX,Impfstoff gegen Influenza A(H5N1)
+478,COVAXIS,"Impfstoff gegen Diphtherietoxoid (niedrige Dosis), Tetanustoxoid und azelluläre Multikomponenten-Pertussis (niedrige Dosis)"
+479,TRIAXIS,"Impfstoff gegen Diphtherie-Toxoid (niedrige Dosis), Tetanus-Toxoid und azelluläre Multikomponenten-Pertussis (niedrige Dosis)"
+480,FENDRIX,"Rekombinanter Hepatitis-B-Impfstoff, Dosierung für Dialysepatienten"
+481,TRIVIVAX,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+482,VEPACEL,"Influenza A(H5N1)-Impfstoff (ganzes Virion, Vero-Zellkultur, inaktiviert)"
+483,FLUAD PAEDIATRICS,Trivalenter inaktivierter Impfstoff gegen die saisonale Grippe
+484,RABIVAX-S,Inaktivierter Tollwutimpfstoff mit ganzen Virionen
+485,TETAGAM P (immunoglobuline),Anti-Tetanus-Immunglobulin
+486,NIMENRIX,"Vierwertiger Meningokokken-Konjugatimpfstoff gegen die Serogruppen A, C, W und Y"
+487,MENHIBRIX,Haemophilus influenzae Typ b und Meningokokken A und C Konjugatimpfstoff
+488,PENTAXIM,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Multikomponenten-Pertussisimpfstoff (5 Komponenten, Standarddosis), Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid) und inaktivierter Polioimpfstoff (trivalent) für Kinder, adsorbiert"
+489,TRIMOVAX,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+490,KINRIX,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponentenimpfstoff gegen Keuchhusten (Standarddosis) und inaktivierter Polioimpfstoff (dreiwertig) für Kinder"
+491,TENIVAC,Diphtherietoxoid- (niedrige Dosis) und Tetanustoxoid-Impfstoff
+492,AFLURIA,"Trivalenter inaktivierter saisonaler Grippeimpfstoff, gewonnen aus Eikultur, Split-Virion"
+494,TRITANRIX HepB,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid, inaktivierter Keuchhusten-Vollzellimpfstoff und Hepatitis-B-Impfstoff (rekombinant) für Kinder"
+495,BEXSERO,4-Komponenten-Impfstoff gegen Meningokokken B
+496,GAMMATETANOS (immunoglobulines),Anti-Tetanus-Immunglobulin
+497,"Tetanus immunoglobulin, unspecified",Anti-Tetanus-Immunglobulin
+498,IMOGAM RAGE,"Tollwut-Immunglobulin, humanen Ursprungs"
+499,BERIRAB,"Tollwut-Immunglobulin, humanen Ursprungs"
+500,FAVIRAB,"Tollwut-Immunglobulin, von Pferden"
+501,EQUIRAB (immunoglobuline),"Tollwut-Immunglobulin, von Pferden"
+502,"Rabies immunoglobulin, unspecified","Tollwut-Immunglobulin, humanen oder equinen Ursprungs"
+503,"Rabies immunoglobulin equine origin, unspecified","Anti-Tollwut-Immunglobulin, von Pferden"
+504,INFANRIX Polio HIB Nourrissons,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis), Haemophilus influenzae Typ b (konjugiert zu Tetanustoxoid) und inaktivierter Polioimpfstoff (trivalent) für Kinder, adsorbiert"
+505,HIBEST,"Impfstoff gegen Haemophilus influenzae Typ b, Kapselpolysaccharid (Polyribosylribitolphosphat, PRP), konjugiert mit Tetanustoxoid"
+506,"Pentavalent DTaPHibIPV vaccine, unspecified","Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis), Haemophilus influenzae Typ b (konjugiert unspezifisch) und inaktivierter Polioimpfstoff (trivalent) für Kinder"
+507,HEXACIMA,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis), Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid), inaktivierter Polioimpfstoff (trivalent) und Hepatitis-B-Impfstoff (rekombinant) für Kinder, adsorbiert"
+508,JEEV 3 µg,"Inaktivierter Ganzkeim-Impfstoff gegen Japanische Enzephalitis, hergestellt auf Vero-Zellen, 3 Mikrogramm"
+509,BIKEN,"Impfstoff gegen Japanische Enzephalitis, inaktiviert, aus Mäusehirn gewonnen, Nakayama-Stamm - Andere Bezeichnung: JEVAX"
+510,HEXYON,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Multikomponenten-Pertussisimpfstoff (2 Komponenten, Standarddosis), Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid), inaktivierter Polioimpfstoff (trivalent) und Hepatitis-B-Impfstoff (rekombinant) für Kinder, adsorbiert"
+511,SILGARD,"Humaner Papillomavirus-Impfstoff, basierend auf VLP (Virus Like Particles), nicht-avalent (Typen 6, 11, 16 und 18), rekombinant, adsorbiert"
+512,"Typhus vaccine, unspecified",Impfstoff gegen epidemischen Typhus (epidemischer Läusetyphus)
+513,HEPATYRIX,Kombinierter Impfstoff gegen Hepatitis A und Typhus
+514,ROTARIX,"Rotavirus-Impfstoff, oral"
+515,INFANRIX POLIO,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Multikomponenten-Pertussisimpfstoff (Standarddosis) und inaktivierter Polioimpfstoff (trivalent) für Kinder"
+516,ABHAYRAB,Inaktivierter Tollwut-Vollvirusimpfstoff
+517,FLUARIXTETRA,"Vierfacher inaktivierter saisonaler Grippeimpfstoff, Spaltvirus"
+518,STAMARIL (multidose),Attenuierter Lebendimpfstoff gegen Gelbfieber
+520,IMVANEX,"Pockenimpfstoff, dritte Generation, modifiziertes Vaccinia-Virus Ankara, nicht replikativ"
+521,FLUENZ TETRA,"Vierwertiger abgeschwächter Lebendimpfstoff gegen saisonale Grippe, nasal"
+523,GARDASIL 9,"Humaner Papillomavirus-Impfstoff, basierend auf VLP (Virus Like Particles), nicht-avalent (Typen 6, 11, 16, 18, 31, 33, 45, 52 und 58), rekombinant, adsorbiert"
+524,TEVAX,Tetanus-Toxoid-Impfstoff
+525,INFANRIX PENTA,"Diphtherie-Toxoid-Impfstoff (Standarddosis), Tetanus-Toxoid-Impfstoff, azellulärer Mehrkomponenten-Pertussis-Impfstoff (Standarddosis), inaktivierter Polio-Impfstoff (trivalent) und Hepatitis-B-Impfstoff (rekombinant) für Kinder, adsorbiert"
+526,HECOLIN,Rekombinanter Hepatitis-E-Peptid-Impfstoff
+527,VACCIN DIPHTERIQUE ET TETANIQUE ADSORBE,Diphtherie-Toxoid (Standarddosis) und Tetanus-Toxoid-Impfstoff für Kinder
+528,MOSQUIRIX,Impfstoffe gegen Hepatitis B und Malaria
+529,IMOVAX TETANO,Tetanus-Toxoid-Impfstoff
+530,TETANOL PUR,Tetanus-Toxoid-Impfstoff
+531,TETANOS ADSORBE MERIEUX,Tetanus-Toxoid-Impfstoff
+532,TETANUS VACCIN,"Tetanus-Toxoid-Impfstoff, vermarktet in Holland von Bilthoven Biologicals"
+534,MENJUGATE 10 µg,Meningokokken-C-Konjugatimpfstoff
+535,VAXELIS,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis), Haemophilus influenzae Typ b (konjugiert mit dem äußeren Membranprotein von Neisseria meningitidis Serogruppe B), inaktivierter Polioimpfstoff (trivalent) und Hepatitis-B-Impfstoff (rekombinant) für Kinder, adsorbiert"
+538,VACCIN BCG BIOMED-LUBLIN,Tuberkulose-Impfstoff
+539,DENGVAXIA,"Attenuierter, chimärer, rekombinanter, quadrivalenter [Serotypen 1, 2, 3 und 4] Dengue-Virus-Lebendimpfstoff (basierend auf Gelbfieberimpfstoff 17D)"
+540,IPAD T,Tetanus-Toxoid-Impfstoff
+541,BOOSTRIX,"Impfstoff gegen Diphtherie-Toxoid (niedrige Dosis), Tetanus-Toxoid und azelluläre Multikomponenten-Pertussis (niedrige Dosis)"
+542,Vaccin D.T.P. Pasteur,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid und inaktivierter Polio-Impfstoff (dreiwertig) für Kinder"
+543,HEXAXIM,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis), Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid), inaktivierter Polioimpfstoff (trivalent) und Hepatitis-B-Impfstoff (rekombinant) für Kinder, adsorbiert"
+544,TETRAXIM,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis) und inaktivierter Polioimpfstoff (trivalent) für Kinder"
+545,EUVAX B 20 µg,"Rekombinanter Hepatitis-B-Impfstoff, Erwachsenendosis"
+546,DULTAVAX,"Diphtherietoxoid (niedrige Dosis), Tetanustoxoid und inaktivierter Polioimpfstoff (trivalent), adsorbiert"
+549,"dTIPV - Diphtheria-Tetanus-Polio, low dose, unspecified","Diphtherie-Toxoid (niedrige Dosis), Tetanus-Toxoid und inaktivierter Polio-Impfstoff (trivalent)"
+550,"Measles-Rubella vaccine, unspecified",Attenuierter Lebendimpfstoff gegen Masern und Röteln
+551,"DTaPIPV vaccine, standard dose, unspecified","Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis) und inaktivierter Polioimpfstoff (dreiwertig) für Kinder"
+552,"DTPCaHibHepB hexavalenter Impfstoff - Diphtherie-Tetanus-Polio-zelluläre Keuchhusten-Hib-HepB, nicht spezifiziert","Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponentenimpfstoff gegen Keuchhusten (Standarddosis), Haemophilus influenzae Typ b (konjugiert, nicht spezifiziert), inaktivierter Polioimpfstoff (dreiwertig) und Hepatitis-B-Impfstoff (rekombinant) für Kinder"
+553,"Pentavalent DTwPHibIPV vaccine, unspecified","Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Keuchhusten, konjugierter Haemophilus influenzae Typ b (konjugiert unspezifisch) und inaktivierter Polioimpfstoff (dreiwertig) für Kinder"
+554,PEDIACEL,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (5 Komponenten, Standarddosis), Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid) und inaktivierter Polioimpfstoff (dreiwertig) für Kinder, adsorbiert"
+555,CombAct-HIB,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, Ganzzell-Pertussis, Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid) und inaktivierter Polioimpfstoff (dreiwertig) für Kinder, adsorbiert"
+556,MENITORIX,Haemophilus influenzae Typ b und Meningokokken-C-Konjugatimpfstoff
+560,VAXIGRIPTETRA,Vierwertiger inaktivierter saisonaler Grippeimpfstoff mit Oberflächenantigenen
+561,IMOJEV,"Attenuierter Lebendimpfstoff gegen Japanische Enzephalitis, rekombinanter chimärer Impfstoff"
+562,INFLUVAC TETRA,Vierwertiger inaktivierter saisonaler Grippeimpfstoff mit Oberflächenantigenen
+563,ALPHA-RIX-TETRA,"Vierwertiger inaktivierter saisonaler Grippeimpfstoff, Spaltvirion"
+566,PNEUMOCOCCAL POLYSACCHARIDE VACCINE MSD,"Pneumokokken-Polysaccharid-Nichtkonjugatimpfstoff, 23-valent, Serotypen 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F und 33F"
+567,SHINGRIX,"Gürtelrose-Impfstoff (rekombinant, mit Adjuvans)"
+568,BOOSTRIX-POLIO,"Diphtherietoxoid (niedrige Dosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (5 Komponenten, niedrige Dosis) und inaktivierter Polioimpfstoff (trivalent), adsorbiert"
+569,INFANRIX-IPV,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis) und inaktivierter Polioimpfstoff (trivalent) für Kinder"
+570,HIBERIX,Haemophilus influenzae Typ b (Hib) Konjugatimpfstoff (Tetanusprotein-Konjugat)
+573,AGRIFLU,"Trivalenter inaktivierter saisonaler Grippeimpfstoff, gewonnen aus Eikultur, Oberflächenantigen"
+574,Td POLIO ADSORBED,"Diphtherietoxoid (niedrige Dosis), Tetanustoxoid und inaktivierter Polioimpfstoff (dreiwertig), adsorbiert"
+575,FSME-IMMUN,Impfstoff gegen durch Zecken übertragene Enzephalitis (inaktiviert)
+576,FLUVIRAL,Dreiwertiger inaktivierter Impfstoff gegen die saisonale Grippe
+577,TRIPACEL HYBRID,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und azellulärer Multikomponenten-Pertussisimpfstoff (Standarddosis) für Kinder"
+578,INFANRIX-HIB,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis) und Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid) Kinderimpfstoff"
+579,CLAIRYG 50 mg/mL,"Masern-Immunglobulin, menschlichen Ursprungs"
+580,CLAIRYG,"Masern-Immunglobulin, menschlichen Ursprungs"
+582,TRUMENBA,"Meningokokken-B-Impfstoff (rekombinant, adsorbiert)"
+585,"TdapIPV - Diphtheria-Tetanus-Pertussis-Polio vaccine, low dose, unspecified","Diphtherie-Toxoid (niedrige Dosis), Tetanus-Toxoid, azellulärer Mehrkomponenten-Pertussis-Impfstoff (5 Komponenten, niedrige Dosis) und inaktivierter Polio-Impfstoff (trivalent), adsorbiert"
+586,Ervebo,"Ebola-Zaire-Impfstoff (rVSVΔG-ZEBOV-GP, lebend)"
+590,VACCIN BCG AJVACCINES,Tuberkulose-Impfstoff
+591,VIVAXIM,"Kombinierter Typhus- (gereinigtes Polysaccharid-Antigen Vi) und Hepatitis-A-Impfstoff (inaktivierte Vollviren), in einer Zweikomponentenspritze"
+592,SPEEDA,"Inaktivierter Tollwut-Vollvirusimpfstoff, gezüchtet auf Vero-Zellen"
+593,VERORAB,"Inaktivierter Tollwut-Vollvirusimpfstoff, Stamm WISTAR PM/WI 38-1503-3M, gezüchtet auf Vero-Zellen, Beta-Propiolacton Inaktiviert"
+594,MenQuadfi,"Vierwertiger Meningokokken-Konjugatimpfstoff gegen die Serogruppen A, C, W und Y"
+595,FLUCELVAX TETRA,"Vierwertiger inaktivierter Impfstoff gegen die saisonale Grippe, auf Zellbasis"
+596,"DTaPHibHepB pentavalent vaccine, unspecified","Diphtherietoxoid (Standarddosis), Tetanustoxoid und azellulärer Multikomponenten-Pertussisimpfstoff (Standarddosis), Haemophilus influenzae Typ b (konjugiert, nicht spezifiziert) und Hepatitis B (rekombinant), Impfstoff für Kinder"
+598,"DTwPHibHepB pentavalent vaccine, unspecified","Diphtherietoxoid (Standarddosis), Tetanustoxoid, inaktivierter Keuchhusten-Vollzellimpfstoff, Haemophilus influenzae Typ b (konjugiert, nicht spezifiziert) und Hepatitis B (rekombinant), Impfstoff für Kinder"
+599,"DTPerHibHepB pentavalent vaccine, unspecified","Diphtherietoxoid (Standarddosis), Tetanustoxoid und azellulärer Mehrkomponenten-Pertussisimpfstoff (nicht spezifiziert), Haemophilus influenzae Typ b (konjugiert, nicht spezifiziert) und Hepatitis-B-Impfstoff (rekombinant) für Kinder"
+600,"OPV bivalent 1-3, unspecified","Polio-Impfstoff (abgeschwächter Lebendimpfstoff, bivalent) gegen Poliovirus Typ 1 und 3, zum Schlucken"
+601,"DPT Diphtheria-Pertussis-Tetanus vaccine, unspecified","Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid und inaktivierter Ganzzellimpfstoff oder azellulärer Pertussisimpfstoff (Dosis nicht spezifiziert) für Kinder"
+602,"DTaP - Diphtheria-Tetanus-Pertussis vaccine, standard dose, unspecified","Diphtherietoxoid (Standarddosis), Tetanustoxoid und azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis) für Kinder"
+603,ComVac3,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und inaktivierter Pertussis-Vollzellimpfstoff für Kinder"
+610,"Tdap - Diphtheria-Tetanus-Pertussis vaccine, low dose, unspecified","Impfstoff gegen Diphtherie-Toxoid (niedrige Dosis), Tetanus-Toxoid und azelluläre Mehrkomponenten-Pertussis (niedrige Dosis)"
+611,SHAN-5,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, Keuchhusten (Ganzzellimpfstoff), Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid) und Hepatitis B (rekombinanter) Kinderimpfstoff - Andere Bezeichnung: DTwP-Hep B-Hib Liquid Vaccine"
+612,DTP-vax FINLAY,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid und inaktivierter Keuchhusten-Vollzellimpfstoff für Kinder"
+613,BORYUNG DTap VACCINE,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis) für Kinder"
+614,TDAPBOOSTER AJ VACCINES,"Impfstoff gegen Diphtherie-Toxoid (niedrige Dosis), Tetanus-Toxoid und azelluläre Multikomponenten-Pertussis (niedrige Dosis)"
+615,VACCIN T.P. PASTEUR,Tetanustoxoid und inaktivierter Polioimpfstoff (dreiwertig)
+620,IXCHIQ,Attenuierter Lebendimpfstoff gegen Chikungunya
+621,"MenC, unspecified",Meningokokken-C-Konjugatimpfstoff (hergestellt von der Ezequiel Dias Foundation)
+622,EOLARIX,Attenuierter Lebendimpfstoff gegen Masern und Röteln
+623,"Measles-mumps vaccine, unspecified",Attenuierter Lebendimpfstoff gegen Masern und Mumps
+624,M-M-Vax,Attenuierter Lebendimpfstoff gegen Masern und Mumps
+625,MORATEN,Attenuierter Lebendimpfstoff gegen Masern
+626,MoRu Viraten,Attenuierter Lebendimpfstoff gegen Masern und Röteln
+627,MORUMAN,Attenuierter Lebendimpfstoff gegen Masern
+628,Immravax,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+631,MENINVACTKIT,Meningokokken-C-Konjugatimpfstoff
+632,OPVERO,"Polio-Impfstoff (abgeschwächter Lebendimpfstoff, trivalent) gegen die Polioviren 1, 2 und 3, oral"
+633,ZABDENO,Ebola-Virus-Impfstoff mit lebendem nicht-replizierendem rekombinantem Virusvektor
+634,MVABEA,Ebola-Virus-Impfstoff mit nicht-replizierendem viralen Vektor
+635,PREFLUCEL,"Dreiwertiger inaktivierter saisonaler Grippeimpfstoff, gereinigte Antigene"
+636,FluMist Quadrivalent,Vierwertiger abgeschwächter Lebendimpfstoff gegen die saisonale Grippe
+637,IPAD DT,Diphtherie-Toxoid (Standarddosis) und Tetanus-Toxoid-Impfstoff für Kinder
+638,IPAD POLIO,Inaktivierter Polio-Impfstoff (trivalent)
+639,ADACEL POLIO,"Diphtherietoxoid (niedrige Dosis), Tetanustoxoid, azellulärer Multikomponenten-Pertussisimpfstoff (5 Komponenten, niedrige Dosis) und inaktivierter Polioimpfstoff (trivalent), adsorbiert"
+640,TRITANRIX HepB+Hib,"Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid, Keuchhusten (Ganzzellimpfstoff), Haemophilus influenzae Typ b (konjugiert mit Tetanus-Toxoid) und Hepatitis B (rekombinant) Impfstoff für Kinder"
+641,GLOBORIX,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, inaktivierter Keuchhusten-Vollzellimpfstoff, Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid) und Meningokokkenimpfstoff A+C für Kinder"
+642,FLUZONE HIGH-DOSE QUADRIVALENT,
+643,"Meningococcal ACWY conjugate vaccine, unspecified","Quadrivalenter Meningokokken-Konjugatimpfstoff gegen die Serogruppen A, C, W und Y"
+644,QDENGA,"Abgeschwächter, chimärer rekombinanter, quadrivalenter [Serotypen 1, 2, 3 und 4] Dengue-Virus-Lebendimpfstoff. Andere Bezeichnung: TAK-003;DENVAX"
+645,IMMU ORR,"Attenuierter Lebendimpfstoff gegen Masern, Mumps und Röteln"
+646,CECOLIN,"Humaner Papillomavirus-Impfstoff, basierend auf VLP (Virus Like Particles), bivalent (Typen 16 und 18), rekombinant (Escherichia coli-exprimiert)"
+647,ROTASIIL,Impfstoff gegen Rotaviren
+648,"COVID-19 vaccine, unspecified",COVID-19-Impfstoff
+649,EFLUELDA TETRA,
+650,VAXZEVRIA ASTRAZENECA,"COVID-19-Impfstoff, nicht replizierender Schimpansen-Adenovirusvektor ChAdOx1, der für das SARS-CoV-2-Spike-Protein kodiert"
+651,CORONAVAC SINOVAC COVID-19 VACCINE,"COVID-19-Impfstoff, ganzes Virion inaktiviert, adjuvantiert (Adjuvans: Aluminiumhydroxid)"
+652,CONVIDECIA,"COVID-19-Impfstoff, nicht-replizierender Adenovirus-5-Vektor, der für das SARS-CoV-2-Spike-Protein kodiert"
+653,"Hepatitis A + Hepatitis B vaccine Child, unspecified","Kombinierter Hepatitis-A- und -B-Impfstoff, pädiatrische Dosis"
+654,"Hepatitis A + Hepatitis B vaccine Adult, unspecified","Kombinierter Impfstoff gegen Hepatitis A und B, Erwachsenendosis"
+655,"Diphtheria vaccine, unspecified",Diphtherietoxoid (nicht spezifizierte Dosis)
+656,"SPIKEVAX 0,2 mg/mL MODERNA",COVID-19 mRNA-Impfstoff
+657,Chinese-WIBP-Vero-Inactivated-Covid,"COVID-19-Impfstoff, ganzes Virion inaktiviert (Vero-Zellkultur)"
+658,COMIRNATY 30 µg BIONTECH-PFIZER,"COVID-19 mRNA-Impfstoff, Erwachsene"
+659,ZIFIVAX ANHUI COVID-19 VACCINE,"COVID-19-Impfstoff, Protein-Untereinheit"
+660,Chinese-IMB-Inactivated-Covid,"COVID-19-Impfstoff, ganzes Virion inaktiviert"
+661,Inovio-DNA-Covid,COVID-19-Plasmid-DNA-Impfstoff
+662,Osaka-DNA-covid / AG0301-COVID19,COVID-19-Plasmid-DNA-Impfstoff
+663,Cadila-DNA-covid,COVID-19-Plasmid-DNA-Impfstoff
+664,GX-19-DNA-Covid,COVID-19-Plasmid-DNA-Impfstoff
+665,COVAXIN BHARAT BIOTECH COVID-19 VACCINE,"COVID-19-Impfstoff, inaktiviertes Vollvirus, adjuviert (Adjuvans: TLR 7- und 8-Agonist, Imidazochinolinmolekül, adsorbiert auf Aluminiumhydroxid). Andere Namen: BBV152, Bharat Inactivated Covid Vaccine"
+666,JCOVDEN (former name: JANSSEN COVID-19 VACCINE),Anti-Covid-19-Impfstoff mit nicht-replizierendem viralen Vektor (Adenovirus)
+667,NUVAXOVID,"COVID-19-Impfstoff, Protein-Untereinheit, rekombinante Spike-Protein-Nanopartikel, mit Adjuvans (Matrix M) - Andere Bezeichnung: NOVAVAX NVX-CoV2373 COVID-19 Vaccine"
+668,Kentucky-RBD-Covid,"COVID-19-Impfstoff, Protein-Untereinheit"
+669,Arcturus-RNA-Covid,"COVID-19-Impfstoff, mRNA, die für das SARS-CoV-2-Spike-Protein kodiert, laufende klinische Prüfung"
+670,SPOUTNIK V,"COVID-19-Impfstoff, nicht-replizierender adenoviraler Vektor, der für das SARS-CoV-2-Spike-Protein kodiert"
+671,Clover-Spike-SCB-2019-Covid,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein"
+672,Vaxine-Spike-Covid,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein, mit Adjuvans (Advax)"
+673,Queensland-Spike-MF59-Covid,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein, mit Adjuvans (MF59)"
+674,Pasteur-MSD Measles vector Covid,"COVID-19-Impfstoff, replizierender Masernvirus-Vektor, der für das SARS-CoV-2-Spike-Protein kodiert"
+675,Imperial-College-RNA-Covid,"COVID-19-Impfstoff, mRNA, die für das Spike-Protein von SARS-CoV-2 kodiert, laufende klinische Studie"
+676,Curevac-RNA-Covid,"COVID-19-Impfstoff, mRNA, die für das SARS-CoV-2-Spike-Protein kodiert, laufende klinische Prüfung"
+677,Chinese-PLA-ARN-Covid,"COVID-19-Impfstoff, mRNA, die für das SARS-CoV-2-Spike-Protein kodiert, laufende klinische Prüfung"
+678,,"COVID-19-Impfstoff, VLP, rekombinantes Spike-Protein, mit Adjuvans"
+679,MEDIGEN-S-2P-CpH1018-COVID,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein, S-2P und CpG1018"
+680,COVILO SINOPHARM COVID-19 VACCINE,"COVID-19 vaccine, whole virion inactivated, Vero cell-cultured - Andere Namen : SINOPHARM BBIBP-CorV COVID-19 ; COVID-19 Vaccine BIBP"
+681,GRAd-COV2 COVID-19 Vaccine ReiThera,"COVID-19-Impfstoff, nicht-replizierender adenoviraler Vektor, der für das SARS-CoV-2-Spike-Protein kodiert"
+682,FLUQUADRI,Vierwertiger inaktivierter saisonaler Grippeimpfstoff mit Oberflächenantigenen
+683,EPIVACCORONA,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein"
+684,QazVac,"COVID-19-Impfstoff, ganzes Virion, inaktiviert"
+685,VIDPREVTYN BETA,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein, mit oder ohne Adjuvans. Andere Bezeichnung: Sanofi-GSK Rekombinanter COVID-19-Impfstoff"
+686,MULTI-PEPTIDE-pVAC-COVID,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein, angepasst an menschliche Moleküle des Haupthistokompatibilitätskomplexes II"
+687,UB-612 COVID-19 Vaccine,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein (basierend auf den S1- und S2-Untereinheiten des Spike-Proteins und den M- und N-Proteinen von SARS-CoV-2)"
+688,Chinese-Influenza-intranasal-covid,"COVID-19-Impfstoff, replizierender Influenzavirus-Vektor, rekombinantes RBD-Protein, intranasales Spray"
+689,CHINESE-RECOMBINANT-Sf9-COVID,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein, exprimiert durch Baculovirus, kultiviert auf Sf9-Zellen"
+690,Chinese-Ad5-nCoV-covid,"COVID-19-Impfstoff, nicht-replizierender Adenovirus-5-Vektor, der für das SARS-CoV-2-Spike-Protein kodiert"
+691,FINLAY-FR-1,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein"
+692,COVAXX,"COVID-19-Impfstoff, Protein-Untereinheit"
+693,VXA-CoV2-1-Covid,"COVID-19-Impfstoff, nicht replizierender Adenovirus-5-Vektor, der für das SARS-CoV-2-Spike-Protein kodiert, adjuvantiert, zum Einnehmen in Tablettenform"
+694,LMU-MVA-SARS-2-S-Covid,"COVID-19-Impfstoff, nicht replizierender modifizierter Vaccinia-Virus-Ankara-Vektor, der für das SARS-CoV-2-Spike-Protein kodiert"
+695,RBD-HBsAg-VLPs-Covid,"COVID-19-Impfstoff, VLP, rekombinantes Spike-Protein. Das RBD-Antigen von SARS-Cov-2 ist mit dem HBs-Antigen des Hepatitis-B-Virus konjugiert"
+696,Chinese-Inactivated-Vero-Covid,"COVID-19-Impfstoff, ganzes Virion inaktiviert (Vero-Zellkultur)"
+697,V590 (COVID-19 Vaccine),"COVID-19-Impfstoff, replizierender Vesikuläre Stomatitis-Virus-Vektor, der für das SARS-CoV-2-Spike-Protein kodiert"
+698,hAd5-COVID-19,"COVID-19-Impfstoff, nicht-replizierender Adenovirus-5-Vektor, der für das SARS-CoV-2 S- und N-Protein kodiert"
+699,IIBR's RECOMBINANT VSV-DeltaG-spike VACCINE,"COVID-19-Impfstoff, replizierender Vesikuläre Stomatitis-Virus-Vektor, der für das SARS-CoV-2-Spike-Protein kodiert"
+701,bacTRL-Spike,"COVID-19 Plasmid-DNA-Impfstoff, der für das Spike-Protein von SARS-CoV-2 kodiert, das von Bifidobacterium longum übertragen wird, zum Einnehmen"
+702,rRBD produced in CHO-cell chemically conjugate to tetanus toxoid,"COVID-19-Impfstoff, Proteinuntereinheit, konjugiert mit Tetanustoxoid"
+703,Adjuvanted protein subunit (RBD),"COVID-19-Impfstoff, Proteinuntereinheit, adjuvantiert"
+705,INFLUSPLIT TETRA,Vierwertiger inaktivierter saisonaler Grippeimpfstoff mit Oberflächenantigenen
+706,FLUZONE QUADRIVALENT,Vierwertiger inaktivierter Impfstoff gegen die saisonale Grippe mit Oberflächenantigenen
+707,Coronavirus SARS-CoV-2 inactivé,"COVID-19-Impfstoff, ganzes Virion inaktiviert (Vero-Zellkultur)"
+708,CORVax12,"COVID-19-Plasmid-DNA-Impfstoff, S-Protein mit oder ohne IL-12p70-Plasmidkombination"
+709,COVI-VAC,"COVID-19-Impfstoff, abgeschwächter Lebendimpfstoff"
+710,COVID-19 mRNA Vaccine BNT162b2,"COVID-19 mRNA-Impfstoff, ursprünglicher Handelsname, Dosierung für Erwachsene 30 Mikrogramm"
+711,"Typhoid conjugate vaccine, unspecified",Polysaccharid-Typhus-Konjugatimpfstoff
+712,"Typhoid-hepatitis A vaccine, unspecified",Kombinierter Impfstoff gegen Typhus und Hepatitis A
+713,"Typhoid polysaccharide vaccine, unspecified",Polysaccharid-Typhus-Impfstoff (Vi-Kapselantigen)
+714,"COVID-19 VACCINE (INACTIVATED, ADJUVANTED) VALNEVA","COVID-19-Impfstoff, inaktiviertes Vollvirus, adjuvantiert mit CpG 10183 , (Cytosin-Phospho-Guanin) a) in Kombination mit Aluminiumhydroxid - Andere Bezeichnung: Valneva VLA2001"
+715,ERUCOV-VAC,"COVID-19-Impfstoff, ganzes Virion, inaktiviert"
+716,SARS-CoV-2-RBD-Fc fusion protein,"COVID-19-Impfstoff, Protein-Untereinheit"
+717,CIGB-669,"COVID-19-Impfstoff, Proteinuntereinheit (RBD-Protein + Hepatitis-B-Virus-Kernantigen)"
+718,CIGB-66,"COVID-19-Impfstoff, Protein-Untereinheit (RBD-Protein + Hepatitis-B-Virus-Kernantigen)"
+719,NANOCOVAX,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein"
+720,S-268019,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein, exprimiert durch Baculovirus"
+721,AdimrSC-2f,"COVID-19-Impfstoff, Proteinuntereinheit, aluminiumadjuviert und nicht aluminiumadjuviert"
+722,Covigenix VAX-001,"COVID-19 Plasmid-DNA-Impfstoff, kodierend für das Nukleokapsidprotein"
+723,GLS-5310,COVID-19-Plasmid-DNA-Impfstoff
+724,ChulaCov19,"COVID-19-Impfstoff, mRNA, die für das SARS-CoV-2-Spike-Protein kodiert, laufende klinische Prüfung (eingekapselt in ein Lipid-Nanopartikel)"
+725,COH04S1,"COVID-19-Impfstoff, nicht replizierender modifizierter Vaccinia-Virus-Ankara-Vektor, der für das SARS-CoV-2-Spike-Protein kodiert und DNA-Fragmente enthält, die für das Spike-Protein und das Nukleokapsid von SARS-CoV-2 kodieren"
+726,AdCOVID,"COVID-19-Impfstoff, nicht-replizierender adenoviraler Vektor, der für das SARS-CoV-2-Spike-Protein kodiert"
+727,AdCLD-CoV19,"COVID-19-Impfstoff, nicht replizierender Adenovirus-5/35-Vektor, der für das SARS-CoV-2-Spike-Protein kodiert"
+728,Covid-19/aAPC,"COVID-19-Impfstoff, hergestellt durch Modifikation von Lentiviren mit immunmodulatorischen Genen und viralen Minigenen auf künstlichen Antigen-präsentierenden Zellen (aAPCs)"
+729,LV-SMENP-DC vaccine,"COVID-19-Impfstoff, nicht-replizierender viraler Vektor, mit antigenpräsentierenden Zellen. Lentivirus-modifizierte dendritische Zellen, die ein synthetisches Minigen auf der Basis von SARS-CoV-2-Virusproteinextrakten exprimieren. Dieser Impfstoff wird auch mit rekombinanten T-Zellen verabreicht, die für SARS-CoV-2-Antigene spezifisch sind."
+730,Dendritic cell AV-COVID-19,"Autologe dendritische Zellen, beladen mit Antigenen von SARS-CoV-2, mit oder ohne GM-CSF"
+731,DITANRIX,"Diphtherie-Impfstoff (Toxoid, reduzierte Dosis) und Tetanus-Impfstoff (Toxoid), Erwachsenendosis"
+732,COVAC-1 - COVAC-2,"COVID-19-Impfstoff, Protein-Untereinheit, rekombinantes Spike-Protein, mit Adjuvans (Squalen)"
+733,HEPLISAV-B,"Rekombinanter Hepatitis-B-Impfstoff, Erwachsenendosis"
+734,POLIO BOOSTRIX,"Diphtherietoxoid (niedrige Dosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (5 Komponenten, niedrige Dosis) und inaktivierter Polioimpfstoff (trivalent), adsorbiert"
+735,POLIOINFANRIX,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Keuchhusten (Standarddosis) und inaktivierter Polioimpfstoff (dreiwertig) für Kinder"
+736,TRIAXIS POLIO,"Diphtherie-Toxoid (niedrige Dosis), Tetanus-Toxoid, azellulärer Multikomponenten-Pertussis-Impfstoff (5 Komponenten, niedrige Dosis) und inaktivierter Polio-Impfstoff (trivalent), adsorbiert"
+737,GBP510,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein, mit Adjuvans (AS03)"
+739,RAZI Cov Pars,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein, mit Adjuvans (nicht spezifiziert)"
+740,PTX-COVID19-B,"COVID-19-Impfstoff, mRNA, die für das Spike-Protein von SARS-CoV-2 kodiert, laufende klinische Prüfung"
+741,COVID-eVax,"COVID-19-Plasmid-DNA-Impfstoff, der für das Spike-Protein von SARS-CoV-2 kodiert"
+742,COVIGEN,COVID-19 Plasmid-DNA-Impfstoff
+743,BBV154,"COVID-19-Impfstoff, nicht-replizierender adenoviraler Vektor, der für das SARS-CoV-2-Spike-Protein kodiert"
+744,COVID-19 inactivated vaccine,"COVID-19-Impfstoff, inaktivierte Vollviren"
+745,MF59 adjuvanted SARS-CoV-2 Sclamp vaccine,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein, mit Adjuvans (Squalen)"
+752,COVISHIELD,"COVID-19-Impfstoff, nicht-replizierender Schimpansen-Adenovirusvektor ChAdOx1, der für das SARS-CoV-2-Spike-Protein kodiert"
+753,Inactivated SARS-CoV-2 vaccine FAKHRAVAC (MIVAC),"COVID-19-Impfstoff, Vollvirus inaktiviert"
+754,Inactivated Koçak-19 Inaktif Adjuvant COVID-19 Vaccine,"COVID-19-Impfstoff, Vollvirus inaktiviert, adjuvantiert (Adjuvans nicht spezifiziert)"
+755,Adjuvanted inactivated vaccine against SARS-CoV-2,"COVID-19-Impfstoff, ganzes Virion inaktiviert, adjuvantiert (Adjuvans: Aluminiumhydroxid + TLR9-Agonist (CpG ODN)"
+756,MV-014-212,"COVID-19-Impfstoff, abgeschwächter Lebendimpfstoff, der das SARS-CoV-2-Spike-Protein exprimiert"
+757,NBP 2001,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein, mit Adjuvans (Aluminiumhydroxid)"
+758,SpFN COVID 19 vaccine + AFLQ,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein, mit Adjuvans (AFKQ: liposomal mit Saponin QS21)"
+759,EuCorVac-19,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein, mit nicht spezifiziertem Adjuvans"
+760,ReCOV,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein, mit nicht spezifiziertem Adjuvans"
+761,V-01,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein, Fusionsprotein"
+762,CoV2 SAM (LNP) vaccine,"COVID-19-Impfstoff, selbst-amplifizierende mRNA (SAM) Lipid-Nanopartikel (LNP), die für das SARS-CoV-2-Spike-Protein kodieren, laufende klinische Studie"
+763,mRNA-1273.351,"COVID-19-Impfstoff, mRNA, die für das Spike-Protein der SARS-CoV-2-Variante B.1.351 kodiert, laufende klinische Prüfung (verkapselt in einem Lipid-Nanopartikel)"
+764,MRT5500,"COVID-19-Impfstoff, mRNA, die für das SARS-CoV-2-Spike-Protein kodiert, laufende klinische Prüfung"
+765,DS-5670a,"COVID-19-Impfstoff, mRNA, die für das Spike-Protein von SARS-CoV-2 kodiert, laufende klinische Prüfung"
+766,HDT-301,"COVID-19-Impfstoff, mRNA, die für das SARS-CoV-2-Spike-Protein kodiert, laufende klinische Prüfung (eingekapselt in einem Lipid-Nanopartikel)"
+767,ChAdV68 SAM-LNP rS-TCE GRITSTONE ONCOLOGY COVID-19 VACCINE,"Schimpansen-Adenovirus und selbst-amplifizierende mRNA-Prime-Boost-Prophylaxeimpfstoffe COVID-19:1. Nicht-replizierender Schimpansen-Adenovirus-Vektor, Serotyp 68 (ChAdV68), der für das SARS-CoV-2-Spike-Protein (ChAdV68-S) und/oder das Spike-Protein plus zusätzliche SARS-CoV-2-T-Zellepitope (ChAdV68-S-TCE) kodiert, und 2. Selbstvervielfältigende mRNA (SAM) in Lipid-Nanopartikeln (SAM-LNP), die für das SARS-CoV-2-Spike-Protein (SAM-S) und/oder das Spike-Protein plus zusätzliche SARS-CoV-2-T-Zellepitope (SAM-S-TCE) kodiert, SAM-Vektor auf der Basis des Venezolanischen Pferdeenzephalitis-Virus (VEEV)"
+768,COVIVAC,"COVID-19-Impfstoff, nicht replizierender Newcastle-Disease-Virus-Vektor, der für das SARS-CoV-2-Spike-Protein kodiert, mit oder ohne Adjuvans CpG 1018"
+769,SC-Ad6-1,"COVID-19-Impfstoff, nicht replizierender adenoviraler 6 Vektor, der für das SARS-CoV-2-Spike-Protein kodiert"
+770,NDV-HXP-S,"COVID-19-Impfstoff, replizierender Newcastle-Disease-Virus-Vektor, der für das SARS-CoV-2-Spike-Protein kodiert, mit oder ohne CpG 1018-Adjuvans"
+771,VBI-2902a,"COVID-19-Impfstoff, VLP, rekombinantes Spike-Protein, mit Adjuvans (Aluminiumphosphat)"
+772,SARS-CoV-2 VLP Vaccine,"COVID-19-Impfstoff, VLP, rekombinantes Spike-Protein, exprimiertes Protein von SARS-CoV-2 unspezifiziert, mit Adjuvantien (Aluminium unspezifizierter Art + CpGODN-K3, ein TLR9-Agonist)"
+773,ABNCoV2,"COVID-19-Impfstoff, VLP, rekombinantes Spike-Protein, mit oder ohne Adjuvans MF56 (Squalen)"
+774,"FSME-IMMUN 0,25 mL",Impfstoff gegen Frühsommer-Meningoenzephalitis (Vollvirus inaktiviert)
+775,"DTwPHib, unspecified","Diphtherietoxoid (Standarddosis), Tetanustoxoid, inaktivierter Keuchhusten-Vollzellimpfstoff und Hämophilus influenzae Typ b (konjugiert, nicht spezifiziert), Impfstoff für Kinder"
+776,TETRABIK,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis) und inaktivierter Polioimpfstoff (trivalent) für Kinder"
+777,ADJUPANRIX,"Influenza-A(H5N1)-Impfstoff (fragmentiertes Virion, inaktiviert, adjuvantiert)"
+778,VAXCHORA,"Attenuierter Cholera-Lebendimpfstoff (attenuierter V. cholerae-Stamm CVD 103-HgR, hergestellt durch rekombinante DNA-Technologie)"
+779,BATREVAC,"Trivalenter inaktivierter saisonaler Grippeimpfstoff, Oberflächenantigen"
+780,VAXNEUVANCE,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, 15-valent, adsorbiert, Serotypen 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, 22F, 23F und 33F"
+781,RABIVAC,"Inaktivierter Tollwut-Vollvirusimpfstoff, Flury LEP-Stamm, gereinigter Impfstoff aus Kükenembryozellen (PCECV), Inaktivierung mit ß-Propiolacton"
+782,RASILVAX,"Inaktivierter Tollwut-Vollvirusimpfstoff, Flury LEP-Stamm, gereinigter Impfstoff aus Kükenembryozellen (PCECV), Inaktivierung mit ß-Propiolacton"
+783,R-COVI,"COVID-19-Impfstoff, nicht replizierender Schimpansen-Adenovirusvektor ChAdOx1, der für das SARS-CoV-2-Spike-Protein kodiert"
+784,PERTAGEN,Multikomponenten-Impfstoff gegen azellulären Keuchhusten (niedrige Dosis)
+785,BOOSTAGEN,"Diphtherie-Toxoid-Impfstoff (niedrige Dosis), Tetanus-Toxoid-Impfstoff und azellulärer Multikomponenten-Pertussis-Impfstoff (niedrige Dosis)"
+786,PREVNAR 20,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, 20-valent, adsorbiert, Serotypen 1, 3, 4, 5, 6A, 6B, 7F, 8, 9V, 10A, 11A, 12F, 14, 15B, 18C, 19A, 19F, 22F, 23F und 33F"
+787,"Diphtheria (dose unspecified), tetanus and rubella vaccine, unspecified","Impfstoff gegen Diphtherietoxoid (nicht spezifizierte Dosis), Tetanus-Toxoid und Röteln (abgeschwächter Lebendimpfstoff)"
+788,"Hib-IPV, unspecified","Haemophilus influenzae Typ b (konjugiert, nicht spezifiziert) und inaktivierter Polio-Impfstoff (trivalent)"
+789,COMVAC4,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, inaktivierter Keuchhusten-Vollzellimpfstoff und Hepatitis-B-Impfstoff (rekombinant) für Kinder"
+790,"Diphtheria-Tetanus-Hepatitis B vaccine, unspecified","Diphtherietoxoid (nicht spezifizierte Dosis), Tetanus-Toxoid und Hepatitis-B-Impfstoff (rekombinant)"
+791,"Hexavalenter Diphtherie-Tetanus-Pertussis-Polio-Hib-Hepatitis B-Impfstoff, nicht spezifiziert","Kinderimpfstoff gegen Diphtherie (Toxoid, Standarddosis), Tetanus (Toxoid), Pertussis (ganz oder azellulär, Dosis nicht spezifiziert), Poliomyelitis (ganz, inaktiviert, trivalent), Anti-Haemophilus influenzae Typ b (konjugiert, nicht spezifiziert) und Hepatitis B (rekombinant)."
+792,"Diphtheria-Tetanus-Pertussis-Polio-Hepatitis B pentavalent vaccine, unspecified","Diphtherietoxoid (nicht spezifizierte Dosis), Tetanustoxoid, azellulärer oder ganzzelliger inaktivierter Keuchhustenimpfstoff (nicht spezifizierte Dosis), inaktivierter Polioimpfstoff (trivalent) und Hepatitis-B-Impfstoff (rekombinant)"
+793,"Diph-T, unspecified",Diphtherietoxoid- (niedrige Dosis) und Tetanustoxoid-Impfstoff
+794,"T-igT, unspecified",Tetanus-Toxoid-Impfstoff in Kombination mit Tetanus-Immunglobulin
+795,"Acellular pertussis vaccine, unspecified","Acellulärer Pertussis-Impfstoff, Dosis nicht spezifiziert"
+796,"Pertussis vaccine, unspecified",Pertussis-Impfstoff (azellulär oder ganzzellig inaktiviert)
+797,"Diph-T-aP/ap, unspecified","Impfstoff gegen Diphtherie-Toxoid (nicht spezifizierte Dosis), Tetanus-Toxoid und azelluläre Pertussis (nicht spezifizierte Dosis)"
+798,"Hib-MeningoC vaccine, unspecified",Hämophilus influenzae Typ b und Meningokokken-C-Konjugatimpfstoff
+799,"DT-Hib vaccine, unspecified","Diphtherietoxoid (Standarddosis), Tetanustoxoid und Haemophilus influenzae Typ b (konjugiert, nicht spezifiziert) Kinderimpfstoff"
+800,"Diphtheria-tetanus-pertussis-Hib vaccine, unspecified","Diphtherie (Standarddosis), Tetanustoxoid, Keuchhusten (azelluläre Standarddosis oder vollständig inaktiviert) und Haemophilus influenzae Typ b (konjugiert, nicht spezifiziert) Impfstoff für Kinder"
+801,"HepB-Hib, unspecified",Impfstoff gegen Haemophilus influenzae Typ b und Hepatitis B
+802,"Monovalent oral polio vaccine - type unknown, unspecified","Polio-Impfstoff (abgeschwächter Lebendimpfstoff, monovalent), oral"
+803,Polio Sabin One and Three GSK,"Polio-Impfstoff (abgeschwächter Lebendimpfstoff, bivalent) gegen Poliovirus Typ 1 und 3, zum Einnehmen"
+804,"Anthrax vaccine, unspecified",Anthrax-Impfstoff
+805,"Whole-cell inactivated cholera vaccine, unspecified",Inaktivierter Cholera-Vollzellimpfstoff zur Injektion
+806,"Live attenuated cholera vaccine, unspecified",Attenuierter Lebendimpfstoff gegen Cholera
+807,"Cholera-Typhoid inactivated vaccine, unspecified","Inaktivierter Cholera-Vollzellimpfstoff kombiniert mit inaktiviertem Typhus-Vollzellimpfstoff, injizierbar"
+808,"Hib-MenCY, unspecified",Haemophilus influenzae Typ b und Meningokokken C und Y Konjugatimpfstoff
+809,"Meningococcal monovalent polysaccharide vaccine, unspecified","Monovalenter Meningokokken-Impfstoff, Konjugat oder nicht konjugiertes Polysaccharid"
+810,"Meningococcal polyvalent polysaccharide vaccine, unspecified",Polyvalenter nicht konjugierter Polysaccharidimpfstoff gegen Meningokokken
+811,"Meningococcal B vaccine, unspecified","Meningokokken-B-Impfstoff, Art des Impfstoffs nicht spezifiziert"
+812,"Inactivated whole plague vaccine, unspecified",Pestimpfstoff - vollständig inaktiviert
+813,"Pneumococcal unconjugated polysaccharide vaccine, unspecified","Unkonjugierter Pneumokokken-Polysaccharid-Impfstoff, Serotypen nicht spezifiziert"
+814,"Pneumococcal conjugate vaccine, serotypes unspecified","Pneumokokken-Polysaccharid-Konjugatimpfstoff, Anzahl der Serotypen nicht spezifiziert"
+815,"Pneumo-Hib, unspecified","Haemophilus influenzae Typ b und Pneumokokken-Impfstoff - Konjugat, nicht spezifiziert"
+816,PEDATYPH,"Typhus-Konjugatimpfstoff, Vi-Polysaccharid in Verbindung mit Tetanus-Toxoid"
+817,"Inactivated Typhoid vaccine, unspecified",Inaktivierter Ganzzell-Typhusimpfstoff
+818,"Typhoid-Paratyphoid vaccine, unspecified","Typhus- und Paratyphusimpfstoff, vollständig inaktiviert"
+819,"Inactivated Japanese Encephalitis vaccine, unspecified",Inaktivierter Vollvirus-Impfstoff gegen Japanische Enzephalitis
+820,,
+821,"Inactivated influenza vaccine, split or subunit, unspecified",Inaktivierter saisonaler Grippeimpfstoff
+822,"Influenza vaccine, live attenuated, unspecified","Impfstoff gegen saisonale Grippe, attenuiert, lebend"
+823,"VLP influenza vaccine, unspecified",VLP-Impfstoff (Virus-Like Particle) gegen saisonale Grippe
+824,"Hepatitis A virosome vaccine, unspecified","Inaktivierter Hepatitis-A-Impfstoff, Virosom, für Kinder oder Erwachsene"
+825,"Combined hepatitis A and hepatitis B vaccine, unspecified",Kombinierter Impfstoff gegen Hepatitis A und B
+826,MEASLES AND RUBELLA VACCINE - SERUM INSTITUTE OF INDIA,Attenuierter Lebendimpfstoff gegen Masern und Röteln
+827,"MMRV - Measles-Mumps-Rubella-Varicella vaccine, unspecified","Attenuierter Lebendimpfstoff gegen Masern, Mumps, Röteln und Windpocken"
+828,"Rotavirus pentavalent vaccine, unspecified","Attenuierter pentavalenter Rotavirus-Lebendimpfstoff, oral"
+829,"Rubella-Mumps vaccine, unspecified",Attenuierter Lebendimpfstoff gegen Röteln und Mumps
+830,"Subunit shingles vaccine, unspecified",Subunit-Impfstoff gegen Gürtelrose (entspricht derzeit dem Glykoprotein E)
+831,"Ebola vaccine, unspecified",Ebola-Virus-Impfstoff
+832,"Herpes Simplex vaccine, unspecified",Inaktivierter Herpes-simplex-Impfstoff
+833,COMIRNATY 10 µg  BIONTECH-PFIZER,"mRNA-Impfstoff gegen Covid 19, 10 Mikrogramm, pädiatrische Dosis 5-11 Jahre"
+835,FIOCRUZ COVID-19 VACCINE,"COVID-19-Impfstoff, nicht replizierender Schimpansen-Adenovirusvektor ChAdOx1, der für das SARS-CoV-2-Spike-Protein kodiert"
+836,FLUAD TETRA,Vierwertiger inaktivierter saisonaler Grippeimpfstoff mit Oberflächenantigenen
+837,COVOVAX SII,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinante Spike-Protein-Nanopartikel, mit Adjuvans (Matrix M) - Andere Bezeichnung: NOVAVAX NVX-CoV2373 COVID-19 Vaccine"
+838,COVOVAX NOVAVAX,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinante Spike-Protein-Nanopartikel, mit Adjuvans (Matrix M) - Andere Bezeichnung: NOVAVAX NVX-CoV2373 COVID-19 Vaccine"
+839,"Inactivated whole-cell brucella vaccine, unspecified",Inaktivierter Brucellose-Vollzellimpfstoff
+840,ADDIGRIP,"Trivalenter inaktivierter saisonaler Grippeimpfstoff, Oberflächenantigen"
+841,"INFLUVAC 0,25 mL",
+842,NEORABIS,"Inaktivierter Tollwut-Vollvirusimpfstoff, Wistar-Virusstamm PM1503-3M, gezüchtet auf Vero-Zellen"
+843,NOVIRAB,"Inaktivierter Tollwut-Vollvirusimpfstoff, Stamm WISTAR PM/WI 38-1503-3M, gezüchtet auf Vero-Zellen, Beta-Propiolacton Inaktiviert"
+844,VERORABVAX,"Inaktivierter Tollwut-Vollvirusimpfstoff, Stamm WISTAR PM/WI 38-1503-3M, gezüchtet auf Vero-Zellen, Beta-Propiolacton Inaktiviert"
+845,"ORALER POLIOMYELITIS-IMPFSTOFF, HERGESTELLT AUF MERIEUX-VERO-ZELLEN",Oraler inaktivierter Polioimpfstoff (trivalent)
+846,VACCIN POLIOMYELITIQUE ORAL BIVALENT TYPES 1 et 3,"Polio-Impfstoff (abgeschwächter Lebendimpfstoff, bivalent) gegen Poliovirus Typ 1 und 3, zum Schlucken"
+847,VACCIN PNEUMOCOCCIQUE SARBACH,"Pneumokokken-Polysaccharid-Impfstoff, 15-valent, Serotypen 1, 2, 3, 4, 6B, 7F, 8, 9N, 11A, 12F, 14, 15F, 18C, 19F, und 23F"
+848,VACCIN BCG INSTITUT MERIEUX,Tuberkulose-Impfstoff
+849,"Tularämie-Impfstoff, nicht näher bezeichnet",Impfstoff gegen Tularämie
+850,NEISVAC-C,Meningokokken-Konjugat-C-Impfstoff
+851,POLIO SABIN MONO TWO (ORAL) GSK,"Polio-Impfstoff (abgeschwächter Lebendimpfstoff, monovalent) gegen Polioviren Typ 2, oral"
+852,"mOPV2 Sabin monovalenter oraler Polioimpfstoff Typ 2, nicht spezifiziert","Polio-Impfstoff (abgeschwächter Lebendimpfstoff, monovalent) gegen Polioviren Typ 2, oral"
+853,"mOPV1 Sabin monovalenter oraler Polioimpfstoff Typ 1, nicht spezifiziert","Polio-Impfstoff (abgeschwächter Lebendimpfstoff, monovalent) gegen Poliovirus Typ 1, oral"
+854,"mOPV3 Sabin monovalenter oraler Polioimpfstoff Typ 3, nicht spezifiziert","Polio-Impfstoff (abgeschwächter, monovalenter Lebendimpfstoff) gegen Polioviren Typ 3, zum Schlucken"
+855,"Diphtherie-Tetanus-Polio-Impfstoff, nicht näher bezeichnet","Diphtherietoxoid (nicht spezifizierte Dosis), Tetanustoxoid und inaktivierter Polioimpfstoff (trivalent), adsorbiert"
+856,"DTaPHib-Impfstoff, nicht spezifiziert","Diphtherietoxoid (Standarddosis), Tetanustoxoid und azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis) und Haemophilus influenzae Typ b (konjugiert, nicht spezifiziert) für Kinder"
+857,"Diphtherie-Tetanus-Pertussis-Hepatitis-B-Impfstoff, nicht näher bezeichnet","Diphtherietoxoid (Standarddosis), Tetanustoxoid, Keuchhusten (azelluläre Standarddosis oder vollständig inaktiviert) und Hepatitis B (rekombinanter) Impfstoff für Kinder"
+858,"Bivalenter HPV-Impfstoff, nicht spezifiziert","Bivalenter rekombinanter humaner Papillomavirus-Impfstoff, Typen 16 und 18"
+859,"Vierwertiger HPV-Impfstoff, nicht näher bezeichnet","Vierwertiger rekombinanter humaner Papillomavirus-Impfstoff, Typen 6, 11, 16 und 18"
+860,"Nonavalenter HPV-Impfstoff, nicht spezifiziert","Nicht-avalenter rekombinanter humaner Papillomavirus-Impfstoff, Typen 6, 11, 16, 18, 31, 33, 45, 52 und 58"
+861,"Mehrkomponenten-Meningokokken-B-Impfstoff, nicht näher bezeichnet",Impfstoff gegen Meningokokken der Serogruppe B (Mehrkomponentenimpfstoff - mehrere Proteine)
+862,"Masern-Immunglobulin, nicht näher bezeichnet",Masern-Immunglobulin
+863,"Hepatitis-B-Immunglobulin, nicht näher bezeichnet",Hepatitis-B-Immunglobulin
+864,"Varizella-Zoster-Immunglobulin, nicht näher bezeichnet",Varizella-Zoster-Immunglobulin
+865,"Polysaccharid-Meningokokken-A-Impfstoff, nicht spezifiziert","Nicht-konjugierter Meningokokken-Polysaccharid-Impfstoff, Serogruppe A"
+866,"Meningokokken-Konjugatimpfstoff A, nicht näher bezeichnet",Meningokokken-A-Polysaccharid-Konjugatimpfstoff
+867,"Diphtherie-Antitoxin, nicht näher bezeichnet",Diphtherie-Antitoxin
+868,MENPOVAX A,"Unkonjugierter Meningokokken-Polysaccharid-Impfstoff, Serogruppe A"
+869,MENPOVAX C,"Unkonjugierter Meningokokken-Polysaccharid-Impfstoff, Serogruppe C"
+870,TYPBAR,"Typhus-Konjugatimpfstoff, Vi-Polysaccharid verbunden mit Tetanus-Toxoid-Protein"
+871,SUPEMTEK TETRA,"Vierwertiger inaktivierter saisonaler Grippeimpfstoff, zellbasiert"
+872,INFLUPOZZI SUBUNITA,"Trivalenter inaktivierter Impfstoff gegen die saisonale Grippe, auf Eibasis, Oberflächenantigen"
+873,INFLUPOZZI ADIUVATO,"Trivalenter inaktivierter saisonaler Grippeimpfstoff auf Eibasis, Oberflächenantigen, adjuvantiert mit MF59C.1"
+874,INNOFLU,"Trivalenter inaktivierter saisonaler Grippeimpfstoff auf Eibasis, Oberflächenantigen, adjuvantiert mit MF59C.2"
+875,PANDEMIC INFLUENZA VACCINE H5N1 ASTRAZENECA,"Präpandemischer Influenza-A(H5N1)-Impfstoff, abgeschwächter Lebendimpfstoff, nasal"
+876,CINQUERIX,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Multikomponenten-Pertussisimpfstoff (Standarddosis), Haemophilus influenzae Typ b (konjugiert mit Tetanustoxoid) und inaktivierter Polioimpfstoff (trivalent) für Kinder, adsorbiert"
+877,INFANRIX HEPB,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Multikomponenten-Pertussisimpfstoff (Standarddosis) und Hepatitis-B-Impfstoff für Kinder, adsorbiert"
+878,TRITANRIX,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und inaktivierter Pertussis-Vollzellimpfstoff für Kinder"
+879,ACELLUVAX,"Mehrkomponentenimpfstoff gegen azelluläre Pertussis (3 Komponenten, Standarddosis)"
+880,"Pentavalenter Diphtherie-Tetanus-Pertussis-Hib-Polio-Impfstoff (DTPerHibIPV), nicht spezifiziert","Diphtherie-Toxoid (Standarddosis), Tetanus-Toxoid, Keuchhusten (nicht spezifiziert), konjugierter Haemophilus influenzae Typ b (konjugiert, nicht spezifiziert) und inaktivierter Polio-Impfstoff (trivalent) für Kinder, adsorbiert"
+881,"Abgeschwächter Lebendimpfstoff gegen Japanische Enzephalitis, nicht näher bezeichnet","Attenuierter Lebendimpfstoff gegen Japanische Enzephalitis, Stamm und Produktionsplattform nicht angegeben"
+882,CANDID 1,"Attenuierter Lebendimpfstoff gegen hämorrhagisches argentinisches Fieber, Junin-Virus"
+883,ENTEROVACCINO TIFICO SCLAVO,"Inaktivierter Typhus-Vollzellimpfstoff, oral"
+884,DIF-PER-TET-ALL CHIRON,"Diphtherie-Toxoid-Impfstoff (Standarddosis), Tetanus-Toxoid-Impfstoff und azellulärer Multikomponenten-Pertussis-Impfstoff (3 Komponenten, Standarddosis) für Kinder, adsorbiert"
+885,INFLUPOZZI ZONALE,"Trivalenter inaktivierter Impfstoff gegen die saisonale Grippe, auf Eibasis, Oberflächenantigen"
+886,MONO OPV1,"Polio-Impfstoff (abgeschwächter Lebendimpfstoff, monovalent) gegen Poliovirus Typ 1, oral"
+887,POLIORAL,"Polio-Impfstoff (abgeschwächter Lebendimpfstoff, trivalent) gegen die Polioviren 1, 2 und 3, oral"
+888,QUATTVAXEM,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Keuchhusten, Haemophilus influenzae Typ b (konjugiert mit Diphtherietoxoid) und Hepatitis B (rekombinanter) Kinderimpfstoff"
+889,MONO OPV3,"Polio-Impfstoff (abgeschwächter Lebendimpfstoff, monovalent) gegen Poliovirus Typ 3, oral"
+890,NEOTYF,"Attenuierter Typhus-Lebendimpfstoff, Salmonella Typhi Stamm Ty21A, zum Einnehmen"
+891,PNEUMOPUR,"Pneumokokkenimpfstoff, nicht konjugiert, 23-valent, Serotypen 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19F, 19A, 20, 22F, 23F und 33F"
+892,POLIOVAX-IN,Inaktivierter Polio-Impfstoff (trivalent)
+893,VACCINO ANTICOLERICO SCLAVO,"Cholera-Impfstoff, nicht spezifiziert"
+894,"Adenovirus vaccine, unspecified","Adenovirus-Impfstoff, nicht spezifizierter Typ"
+895,"Impfstoff gegen Venezolanische Pferdeenzephalitis, nicht spezifiziert",Impfstoff gegen venezolanische Pferdeenzephalitis
+896,"Q-Fieber-Impfstoff, nicht näher bezeichnet",Q-Fieber-Impfstoff
+897,"Hantavirus-Impfstoff, nicht näher bezeichnet",Impfstoff gegen das Hantavirus
+898,"Leishmaniose-Impfstoff, nicht näher bezeichnet",Impfstoff gegen Leishmaniose
+899,"Impfstoff gegen humanes Parainfluenzavirus, nicht spezifiziert",Humaner Parainfluenza-Virus-Impfstoff
+900,PREVENAR 20 (zuvor APEXXNAR),"Pneumokokken-Polysaccharid-Konjugatimpfstoff, 20-valent, adsorbiert, Serotypen 1, 3, 4, 5, 6A, 6B, 7F, 8, 9V, 10A, 11A, 12F, 14, 15B, 18C, 19A, 19F, 22F, 23F und 33F - Andere Bezeichnung: Prevnar 20 in den USA"
+901,MENCEVAX ACW,"Unkonjugierter Meningokokken-Polysaccharid-Impfstoff, Serogruppen A, C und W"
+902,"Tollwutimpfstoff Semple-Typ, nicht spezifiziert","Inaktivierter Tollwutimpfstoff mit ganzen Virionen, hergestellt aus mit dem Tollwutvirus infiziertem Ziegen- oder Schafshirngewebe, enthält Myelin"
+903,"Tollwutimpfstoff vom Typ Fuenzalida, nicht näher bezeichnet","Inaktivierter Tollwut-Vollvirusimpfstoff, hergestellt aus mit dem Tollwutvirus infiziertem Gehirngewebe von Säuglingsmäusen, verminderter Myelinanteil"
+904,"Impfstoff gegen Tollwut-Entenembryonen, nicht näher bezeichnet","Inaktivierter Tollwut-Vollvirusimpfstoff, gereinigter Entenembryo-Impfstoff (PDEV), Inaktivierung durch ß-Propiolacton"
+905,"Tollwutimpfstoff PHKCV, nicht spezifiziert","Inaktivierter Tollwut-Vollvirusimpfstoff auf Zellkulturbasis, primärer Hamster-Nierenzellimpfstoff (PHKCV), Stamm Beijing, Inaktivierung mit Formalin"
+906,"Gürtelrose-Impfstoff, nicht näher bezeichnet",Impfung gegen Gürtelrose
+907,"Impfstoff gegen Adenovirus Typ 4, nicht spezifiziert",Impfstoff gegen Adenovirus Typ 4
+908,"Impfstoff gegen Adenovirus Typ 7, nicht spezifiziert",Impfstoff gegen Adenovirus Typ 7
+909,Botulinum-Antitoxin,Antitoxin gegen Botulismus
+910,"Inaktivierter Hepatitis-A-Impfstoff, Erwachsenendosis, nicht spezifiziert","Inaktivierter Hepatitis-A-Impfstoff, Erwachsenendosis"
+911,"Hepatitis-A-Totimpfstoff, monovalent, pädiatrische Dosis, nicht spezifiziert","Inaktivierter Ganzvirusimpfstoff, monovalent, pädiatrische Dosis"
+912,"Hepatitis-A-Impfstoff, pädiatrische Dosis, nicht spezifiziert","Ganzes Virion Inaktivierter Hepatitis-A-Impfstoff, pädiatrische Dosis, Formulierung nicht angegeben (monovalent oder bivalent mit Hepatitis B)"
+913,BIMERVAX,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein, RBD-Fusionsheterodimer, adjuvant"
+914,"Hepatitis-B-Impfstoff, monovalent, pädiatrische Dosis, nicht spezifiziert","Rekombinanter Hepatitis-B-Impfstoff, monovalent, pädiatrische Dosis"
+915,"Hepatitis-B-Impfstoff, monovalent, Dosierung für Erwachsene, nicht spezifiziert","Rekombinanter Hepatitis-B-Impfstoff, monovalent, Erwachsenendosis"
+916,"Hepatitis-B-Impfstoff, monovalent, Dosierung für Dialysepatienten, nicht spezifiziert","Rekombinanter Hepatitis-B-Impfstoff, monovalent, dosiert für Dialysepatienten"
+917,"Hepatitis-E-Impfstoff, nicht näher bezeichnet",Rekombinanter Peptidimpfstoff gegen Hepatitis E
+918,"PRP-D-Hib-Impfstoff, nicht spezifiziert","Konjugatimpfstoff gegen Hämophilus influenzae Typ b, bestehend aus PRP (Polyribosylribitolphosphat), konjugiert mit Diphtherietoxoid"
+919,"Hib-hbOC-Impfstoff, nicht spezifiziert","Impfstoff gegen Haemophilus influenzae Typ b, Kapsel-Oligoside (Polyribosylribitolphosphat, PRP), konjugiert mit mutiertem Diphtherietoxin CRM197"
+920,"Diphtherie-Tetanus-Td-Impfstoff, nicht näher bezeichnet","Impfstoff gegen Diphtherie (Toxoid, reduzierte Dosis) und Tetanus (Toxoid)"
+921,"Impfstoff gegen Japanische Enzephalitis, nicht näher bezeichnet",Impfstoff gegen Japanische Enzephalitis
+922,"Abgeschwächter Adenovirus-Lebendimpfstoff, Typ 4 und Typ 7, oral",Impfstoff gegen Adenovirus Typ 7 und 4
+923,"Monoklonaler Antikörper gegen das Respiratory Syncytial Virus, nicht spezifiziert",Monoklonaler Antikörper gegen RSV
+924,FLUZONE INTRADERMAL,"Trivalenter inaktivierter saisonaler Grippeimpfstoff, intradermal"
+925,"Trivalenter inaktivierter Grippeimpfstoff, nicht näher bezeichnet","Trivalenter inaktivierter saisonaler Grippeimpfstoff, Split oder Subunit, Standarddosis"
+926,FLUCELVAX,"Trivalenter inaktivierter saisonaler Grippeimpfstoff, hergestellt in Zellkultur"
+927,"COVID-19-mRNA-Impfstoff, pädiatrische Dosis, nicht spezifiziert","COVID-19 mRNA-Impfstoff, pädiatrische Dosis"
+928,"Lebendimpfstoff gegen Hepatitis A, nicht näher bezeichnet",Attenuierter Lebendimpfstoff gegen Hepatitis A
+929,,
+930,Ad5-nCoV COVID-19 INHALATION VACCINE,"COVID-19-Impfstoff, nicht-replizierender viraler Vektor, Adenovirus Typ 5, zur Inhalation"
+931,FLUBLOK QUADRIVALENT,Vierwertiger rekombinanter Impfstoff gegen die saisonale Grippe
+932,"Quadrivalenter rekombinanter Influenza-Impfstoff, nicht spezifiziert",Vierwertiger rekombinanter saisonaler Grippeimpfstoff
+933,"TICOVAC 2,7µg",Inaktivierter Vollvirus-Impfstoff gegen Zeckenenzephalitis
+934,VACCIN OREILLONS AVENTIS PASTEUR MSD,Attenuierter Lebendimpfstoff gegen Mumps
+935,VACCIN RABIQUE INACTIVE MERIEUX,"Inaktivierter Vollimpfstoff gegen Tollwut, Stamm WISTAR PM/WI 38-1503-3M, gezüchtet auf Vero-Zellen, inaktiviert mit Beta-Propiolacton"
+936,VACCIN PNEUMOCOCCIQUE POLYOSIDIQUE AVENTIS PASTEUR MSD,"Unkonjugierter Polysaccharid-Pneumokokken-Impfstoff, 23-valent, Serotypen 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F und 33F"
+937,"Botulismus-Impfstoff, nicht näher bezeichnet",Impfstoff gegen Botulismus
+938,"Quadrivalenter Grippeimpfstoff, nicht näher bezeichnet","Vierwertiger inaktivierter Impfstoff gegen die saisonale Grippe, Spaltvirion oder Oberflächenantigenimpfstoff"
+939,PREHEVBRIO,"Rekombinanter Hepatitis-B-Impfstoff, drei Antigene (HbS, pre-S1 und pre-S2)"
+940,SPUTNIK-LIGHT,"Anti-Covid-19-Impfstoff mit nicht-replizierendem viralen Vektor, Adenovirus, der für das Peak-Protein von SARS-CoV-2 kodiert"
+941,"Immunglobulin gegen Milzbrand, nicht näher bezeichnet",Antrax-Immunglobuline
+942,"Tollwutimpfstoff gegen Hühnerembryonen, nicht näher bezeichnet","Inaktivierter Vollimpfstoff gegen Tollwut, gezüchtet in Hühnerembryozellen (CEEC), inaktiviert mit ß-Propiolacton"
+943,"Diploide Zellen des Tollwutimpfstoffs, nicht näher bezeichnet","Inaktivierter Vollimpfstoff gegen Tollwut, hergestellt in der humanen diploiden Zellkultur (HDCV) MRC-5, inaktiviert mit ß-Propiolacton"
+944,"Inaktivierter oraler Cholera-Virionimpfstoff, nicht spezifiziert",Inaktivierter oraler Vollimpfstoff gegen Cholera
+945,"Serogruppe des Meningokokken-Impfstoffs unbekannt, nicht spezifiziert",Meningokokken-Impfstoff mit nicht spezifizierter Serogruppe
+946,TYPHIDRALL,"Impfstoff gegen Typhus und Paratyphus A und B, inaktivierter Ganzzellimpfstoff"
+947,IMMU-PHILUS,"Impfstoff gegen Haemophilus influenzae Typ b, PRP-Polysaccharid, konjugiert mit dem äußeren Membranprotein von Neisseria meningitidis Serogruppe B"
+948,BACITHRAX,"Azellulärer Anthrax-Impfstoff, 50 Mikrogramm pro 0,5 ml Dosis, adjuvantiert"
+949,IMOVAX BCG,Tuberkulose-Impfstoff
+950,IMOVAX DTP,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und inaktivierter Polioimpfstoff (trivalent) für Kinder"
+951,IMOVAX POLIO ORALE,"Polio-Impfstoff (abgeschwächter Lebendimpfstoff, trivalent) gegen Polioviren 1, 2 und 3, zum Einnehmen"
+952,IMOVAX COLERA,Inaktivierter Cholera-Ganzzellimpfstoff zur Injektion
+953,PROCOMVAX,Impfstoff gegen Hepatitis B und Haemophilus influenzae Typ b (OMP-Konjugat)
+954,JAPANESE ENCEPHALITIS VACCINE,"Inaktivierter Vollimpfstoff gegen Japanische Enzephalitis, hergestellt in Mäusegehirngewebe, Nakayama-Stamm, injizierbar, Korean Green Cross Corporation Impfstoff"
+955,PULMOVAX,"Nicht konjugierter Pneumokokken-Impfstoff, 23-valent, Serotypen 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F und 33F"
+956,VACCINO COLERICO BERNA,"Inaktivierter Vollimpfstoff gegen Cholera, injizierbar"
+957,VACCINO BCG BERNA,Attenuierter Lebendimpfstoff gegen Tuberkulose
+958,ADIUGRIP,"Trivalenter inaktivierter Impfstoff gegen die saisonale Grippe, auf Eibasis, Oberflächenantigen"
+959,STREPTOPUR,23-valenter nicht konjugierter Pneumokokkenimpfstoff
+960,VIATIM,"Hepatitis-A-Impfstoff (inaktiviert, adsorbiert) und Typhusimpfstoff (Polysaccharid)"
+961,ANATOXAL TE N,Tetanus-Impfstoff (Toxoid)
+962,ANATOXAL DI TE N ADULT,Diphtherie-Toxoid (niedrige Dosis) und Tetanus-Toxoid-Impfstoff
+963,ANATOXAL DI TE PER,"Diphtherieimpfstoff (Toxoid, Standarddosis), Tetanusimpfstoff (Toxoid) und Keuchhustenimpfstoff (inaktivierter Ganzzellimpfstoff) für Kinder"
+964,ANATOXAL DI,"Diphtherie-Impfstoff (Toxoid, reduzierte Dosis)"
+965,ANATOXAL TE TAB,"Impfstoffe gegen Tetanus (Toxoid), Typhus (ganz inaktiviert) und Paratyphus A und B (ganz inaktiviert)"
+966,JYNNEOS,"Pockenimpfstoff, dritte Generation, modifiziertes Vaccinia-Virus Ankara, nicht-replikativ"
+967,HEPASOMA,"Inaktivierter Ganzzellimpfstoff gegen Hepatitis A, virosomal, für Kinder oder Erwachsene"
+968,INFLEXAL V,
+969,LYSSAVAC N BERNA,"Inaktivierter Vollimpfstoff gegen Tollwut, hergestellt in Vero-Zellkultur"
+970,TETATOX,Tetanus-Toxoid-Impfstoff
+971,VACCINO ANTIVAIOLOSO LANCY,"Pockenimpfstoff, erste Generation, Lebendimpfvirus"
+972,VIROFLUSOMA,"Trivalenter inaktivierter saisonaler Grippeimpfstoff, gewonnen aus Eikultur, Oberflächenantigen"
+973,VIROFLU,"Dreiwertiger inaktivierter saisonaler Grippeimpfstoff, Virosom"
+974,MENCEVAX AC,Nicht-konjugierter Polysaccharid-Impfstoff gegen Meningokokken der Serogruppen A und C
+975,PERTURIX,"Keuchhustenimpfstoff (azellulärer Multikomponentenimpfstoff, 3 Komponenten)"
+976,VACCINO ANTICOLERICO ISI,"Cholera-Impfstoff, nicht spezifiziert"
+977,ENTEROVACCINO ISI,"Inaktivierter Vollimpfstoff gegen Typhus, zum Einnehmen"
+978,VAC.DIFTO TETANO ISI,"Impfstoff gegen Diphtherie (Toxoid, nicht spezifizierte Dosis) und Tetanus (Toxoid)"
+979,VACCINO ANTITETANICO ISI,Tetanusimpfstoff (Toxoid)
+980,VAC.DPT ISI,"Impfstoff gegen Diphtherie (Dosis nicht angegeben), Tetanus und Pertussis (azellulär, Dosis nicht angegeben)"
+981,VACCINO PERTOSSE ISI,"Pertussis-Impfstoff, nicht spezifiziert"
+982,VACCINO TIFICO ISI,"Typhusimpfstoff, nicht spezifiziert"
+983,VACCINO ANTIPOL ISI,"Polio-Impfstoff (ganz inaktiviert, trivalent)"
+984,VACCINO ANTIVAIOLOSO ISI,"Pockenimpfstoff, erste Generation, Lebendimpfvirus"
+985,VACCINO TAB TE ISI,"Impfstoffe gegen Tetanus (Toxoid), Typhus (vollständig inaktiviert) und Paratyphus A und B (vollständig inaktiviert)"
+986,H ATETAL ISI,Tetanus-Toxoid-Impfstoff
+987,TANRIX,Tetanus-Impfstoff (Toxoid)
+988,VACCINO MENINGOCOCCICO POLISACCARIDICO TETRAVALENTE GSK,"Unkonjugierter Meningokokken-Polysaccharid-Impfstoff, Serogruppen A, C, W und Y"
+989,HANTAVAX,"Vollvirus Inaktivierter Impfstoff gegen hämorrhagisches Fieber mit Nierensyndrom (HFRS), verursacht durch das Hantavirus"
+990,ALPHARIX,Trivalenter inaktivierter saisonaler Grippeimpfstoff mit gereinigten Antigenen
+991,FLULAVAL QUADRIVALENT,Vierwertiger inaktivierter saisonaler Grippeimpfstoff mit Oberflächenantigen
+992,AFLURIA QUADRIVALENT,Vierwertiger inaktivierter Impfstoff gegen die saisonale Grippe mit Oberflächenantigen
+993,Td ADSORBED,"Impfstoff gegen Diphtherie (Toxoid, reduzierte Dosis) und Tetanus (Toxoid)"
+994,VARIVAX II,Attenuierter Varizellen-Lebendimpfstoff
+995,IMVAMUNE,"Pockenimpfstoff, dritte Generation, modifiziertes Vaccinia-Virus Ankara, nicht-replikativ"
+996,ACAM2000,"Pockenimpfstoff der zweiten Generation, zellgezüchtetes Vaccinia-Virus"
+997,"13-valenter Konjugatimpfstoff gegen Pneumokokken, nicht näher bezeichnet","13-valenter Pneumokokken-Konjugatimpfstoff, adsorbiert, Serotypen 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F und 23F"
+998,LC16,Pockenimpfstoff der dritten Generation (zellgezüchtete Vaccinia-Viren)
+999,WETVAX APSV,"Pockenimpfstoff, erste Generation, Lebendimpfstoff aus dem Vacciniavirus"
+1000,VACV VACCINIA VIRUS LISTER ELSTREE,"Pockenimpfstoff, erste Generation, lebendes Vacciniavirus"
+1001,V4020 VEEV VACCINE,Abgeschwächter Lebendimpfstoff V4020 gegen das Virus der Venezolanischen Pferdeenzephalitis
+1002,Q-VAX,Inaktivierter Q-Fieber-Impfstoff
+1003,TEDIVAX PRO ADULTO,Diphtherie-Toxoid (niedrige Dosis) und Tetanus-Toxoid-Impfstoff
+1004,TEDIVAX,"Kinderimpfstoff gegen Diphtherie (Toxoid, Standarddosis) und Tetanus (Toxoid), pädiatrische Dosis"
+1005,REVAC-B PLUS ADULT VACCINE,"Rekombinanter Hepatitis-B-Impfstoff, Dosis für Erwachsene"
+1006,SHANVAC B,"Rekombinanter Hepatitis-B-Impfstoff, HBsAg 20 µg, Kinder und Erwachsene"
+1007,ISTIVAC4,"Vierwertiger inaktivierter Impfstoff gegen die saisonale Grippe, Spaltvirion"
+1008,DITEMER,Diphtherietoxoid- (Standarddosis) und Tetanus-Toxoid-Impfstoff
+1009,TETAMER,Tetanus-Impfstoff (Anatoxin)
+1010,TRIAMER,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und inaktivierter Ganzzellimpfstoff gegen Pertussis für Kinder"
+1011,DITEKIBOOSTER,"Impfstoff gegen Diphtherie-Toxoid (niedrige Dosis), Tetanus-Toxoid und azelluläre Pertussis (Pertussis-Toxoid, niedrige Dosis)"
+1012,PICOVAX,Inaktivierter Polio-Impfstoff (trivalent)
+1013,FLUBLOK TRIVALENT,Trivalenter rekombinanter saisonaler Grippeimpfstoff
+1014,PROVARIVAX,Attenuierter Lebendimpfstoff gegen Windpocken
+1015,COMBIVAX,"Diphtherieimpfstoff (Toxoid, Standarddosis), Tetanusimpfstoff (Toxoid) und Keuchhustenimpfstoff (inaktivierte Ganzzellen) für Kinder"
+1016,IDFLU,"Trivalenter inaktivierter saisonaler Grippeimpfstoff, Oberflächenantigen"
+1017,SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (50 µg/50 µg)/mL MODERNA,"Bivalenter COVID-19 mRNA-Impfstoff, Originalvirus + Omicron-Variante"
+1018,NOORA VACCINE,Rekombinanter Impfstoff mit RBD-Protein gegen SARS-CoV-2 (Noora-Impfstoff)
+1019,"SPIKEVAX 0,1 mg/mL MODERNA","Vaccin anti-covid 19 à ARNm, dosiert mit 50 Mikrogramm"
+1020,Hepatitis-A-Impfstoff Aventis Pasteur MSD,"Inaktivierter Hepatitis-A-Vollvirusimpfstoff, monovalent, Dosis für Erwachsene"
+1021,COMIRNATY ORIGINAL/OMICRON BA.1 (15/15 µg) BIONTECH-PFIZER,"Bivalenter mRNA-Impfstoff gegen Covid 19, ursprüngliches Virus + Variante Omicron BA.1, je 15 Mikrogramm"
+1022,COMIRNATY 3 µg SÄUGLINGE UND KINDER BIONTECH-PFIZER,"Pädiatrischer mRNA-Impfstoff gegen Covid 19, 3 Mikrogramm"
+1023,COMIRNATY ORIGINAL/OMICRON BA.4-5 (15/15 µg) BIONTECH-PFIZER,"Bivalenter mRNA-Impfstoff gegen Covid 19, Originalvirus + Variante Omicron BA.4/5, je 15 Mikrogramm"
+1024,SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 (50 µg/50 µg)/mL MODERNA,"Bivalenter mRNA-Impfstoff gegen Covid 19, ursprüngliches Virus + Variante Omicron BA.4/5, je 50 Mikrogramm"
+1025,CORBEVAX,Subunit-Protein-Impfstoff gegen Covid 19; anderer Name: BECOV2A
+1026,SOBERANA 02 FINLAY-FR-2 COVID-19 VACCINE,Subunit-Impfstoff mit rekombinantem Protein (RBD-Domäne konjugiert mit Tetanustoxoid + Adjuvans)
+1027,COVIVAC CHUMAKOV COVID-19 VACCINE,Inaktivierter Ganzkörperimpfstoff gegen Covid 19; alternativer Name: Kovivac
+1028,RECOMBIVAX HB DIALYSIS,"Rekombinanter Hepatitis-B-Impfstoff, Dosis für Dialysepatienten"
+1029,QUINTANRIX,"Kinderimpfstoff gegen Diphtherie (Toxoid, Standarddosis), Tetanus (Toxoid), Pertussis (intaktes Ganzes), Haemophilus influenzae Typ b (mit Tetanustoxoid konjugiert) und Hepatitis B (rekombinant)."
+1030,GEMCOVAC-19,"mRNA-Impfstoff gegen Covid 19, der das Spitzenprotein von SARS-CoV-2 kodiert, befindet sich in der klinischen Prüfung"
+1031,SPIKEVAX 50 µg MONODOSE MODERNA,"Anti-Virus 19 mRNA-Impfstoff, Originalvirus, 50 Mikrogramm Dosierung, vorgefüllte Spritze"
+1032,SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (25 µg/25 µg) MODERNA,"Bivalenter mRNA-Impfstoff gegen Covid 19, Originalvirus + Omicron BA.1 Variante, jeweils 25 Mikrogramm"
+1033,COMIRNATY ORIGINAL/OMICRON BA.4-5 (5/5 µg) BIONTECH-PFIZER,"Bivalenter mRNA-Impfstoff gegen Covid 19, Originalvirus + Variante Omicron BA.4/5, je 5 Mikrogramm, pädiatrische Dosis 5-11 Jahre"
+1034,HEBERBIOVAC B 10 µg,"Rekombinanter Hepatitis-B-Impfstoff, pädiatrische Dosis"
+1035,HEBERBIOVAC HB 20 µg,"Rekombinanter Hepatitis-B-Impfstoff, Erwachsenendosis"
+1036,SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 25 µg/25 µg MODERNA,"Bivalenter RNAm-COVID-19-Impfstoff, Originalvirus + Omicron-Variante BA.4/5, jeweils 25 Mikrogramm"
+1037,"Impfstoff gegen Zeckenenzephalitis, Stamm Neudörfl, pädiatrische Dosis, nicht spezifiziert","Impfstoff gegen Frühsommer-Meningoenzephalitis, Ganzvirus inaktiviert, Stamm Neudörfl, pädiatrische Dosis"
+1038,"Impfstoff gegen Zeckenenzephalitis, Stamm Neudörfl, Erwachsenendosis, nicht spezifiziert","Impfstoff gegen Frühsommer-Meningoenzephalitis, Ganzvirus-inaktiviert, Stamm Neudörfl, Erwachsenendosis"
+1039,"COVID-19-mRNA-Impfstoff, Originalvirus, 50 µg, nicht spezifiziert","COVID-19-mRNA-Impfstoff, Originalvirus, 50 Mikrogramm pro Dosis"
+1040,AREXVY,"Impfstoff gegen Respiratory Syncytial Virus (RSV), rekombinant, mit Adjuvans"
+1041,"COVID-19-RNA-Impfstoff, nicht spezifiziert",COVID-19-RNA-Impfstoff
+1042,"COVID-19-Impfstoff, nicht replizierender viraler Vektor, nicht spezifiziert","COVID-19-Impfstoff, nicht replizierender viraler Vektor"
+1043,"COVID-19-Impfstoff, Proteinuntereinheit, nicht spezifiziert","COVID-19-Impfstoff, Proteinuntereinheit"
+1044,"COVID-19-Impfstoff, ganzes Virion inaktiviert, nicht spezifiziert","COVID-19-Impfstoff, ganzes Virion inaktiviert"
+1045,INFANRIX-IPV/Hib,"Diphtherietoxoid (Standarddosis), Tetanustoxoid, azellulärer Mehrkomponenten-Pertussisimpfstoff (Standarddosis), inaktivierter Polioimpfstoff (trivalent) und Haemophilus influenzae Typ b für Kinder"
+1046,BEYFORTUS 50 mg (nirsevimab),Humaner monoklonaler RSV-Antikörper
+1047,ABRYSVO,"Impfstoff gegen das Respiratory Syncytial Virus (RSV), rekombinante Präfusion von F-Glykoproteinen der RSV-Subtypen A und B, ohne Adjuvans"
+1048,DECAVAC,Diphtherietoxoid- (niedrige Dosis) und Tetanustoxoid-Impfstoff
+1049,TDVAX,Diphtherietoxoid- (niedrige Dosis) und Tetanustoxoid-Impfstoff
+1050,BEYFORTUS 100 mg (nirsevimab),Humaner monoklonaler RSV-Antikörper
+1051,COMIRNATY OMICRON XBB.1.5 30 µg,"mRNA-Impfstoff gegen Covid 19, Subvariante Omicron XBB.1.5, 30 Mikrogramm, Erwachsenendosis (+ 12 Jahre)"
+1052,COMIRNATY OMICRON XBB.1.5 10 µg,"mRNA-Impfstoff gegen Covid 19, Subvariante Omicron XBB.1.5, 30 Mikrogramm, Erwachsenendosis (+ 12 Jahre)"
+1053,COMIRNATY OMICRON XBB.1.5 3 µg,"mRNA-Impfstoff gegen Covid 19, Subvariante Omicron XBB.1.5, 3 Mikrogramm, pädiatrische Dosis (6 Monate-4 Jahre)"
+1054,"COMIRNATY ORIGINAL/OMICRON BA.4-5 (1,5/1,5 µg)","mRNA-Impfstoff gegen Covid 19, Originalvirus + Variante Omicron BA.4/5, je 1,5 Mikrogramm, pädiatrische Dosis (6 MONATE-4 JAHRE)"
+1055,NUVAXOVID XBB.1.5,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinante Spike-Protein-Nanopartikel, mit Adjuvans (Matrix M), Untervariante Omicron XBB.1.5"
+1056,R21/MATRIX-M,R21/Matrix-M-Impfstoff gegen präerythrozytäre Malaria
+1057,ENGERIX B JUNIOR,"Rekombinanter Hepatitis-B-Impfstoff, pädiatrische Dosis"
+1058,SPIKEVAX XBB.1.5 0.1 mg/mL dose 50 µg MODERNA,
+1059,SPIKEVAX XBB.1.5 0.1 mg/mL dose 25 µg MODERNA,"Omicron XBB.1.5 subvarianter COVID-19-mRNA-Impfstoff, 25 Mikrogramm pro Dosis, Mehrfachdosis-Durchstechflasche"
+1060,SPIKEVAX XBB.1.5 50 µg MODERNA,"COVID-19-mRNA-Impfstoff, Subvariante Omicron XBB.1.5, 50 Mikrogramm pro Dosis"
+1061,PENBRAYA,"Meningokokken-Polysaccharid (Gruppen A, C, Y, W), Tetanustoxoid-Konjugat, rekombinanter Meningokokken-B-Impfstoff"
+1062,CMV-Immunglobulin,"Zytomegalievirus-Immunglobulin, intravenös"
+1063,"Hepatitis-C-Impfstoff, nicht näher bezeichnet","Hepatitis-C-Impfstoff, nicht näher bezeichnet"
+1064,"HIV-Impfstoff, nicht näher bezeichnet","HIV-Impfstoff, nicht näher bezeichnet"
+1065,Leprosy vaccine,"Lepraimpfstoff, nicht spezifiziert"
+1066,"Melanom-Impfstoff, nicht näher bezeichnet","Melanom-Impfstoff, nicht näher bezeichnet"
+1067,"Impfstoff gegen Streptococcus pyogenes, nicht näher bezeichnet","Impfstoff gegen Streptococcus pyogenes, nicht näher bezeichnet"
+1068,"Impfstoff gegen Rift-Valley-Fieber, nicht näher bezeichnet","Impfstoff gegen Rift-Valley-Fieber, nicht näher bezeichnet"
+1069,Vaccinia immune globulin,Vaccinia-Immunglobulin
+1070,Fluzone High-Dose Quadrivalent Southern Hemisphere,
+1071,"RSV-antistof eller -vaccine, uspecificeret","RSV-antistof eller -vaccine, uspecificeret"
+1072,"COVID-19-mRNA-Impfstoff, Originalvirus, 25 µg, nicht spezifiziert","COVID-19-mRNA-Impfstoff, Originalvirus, 25 Mikrogramm"
+1073,"Impfstoff gegen Lyme-Borreliose, nicht näher bezeichnet","Impfstoff gegen Lyme-Borreliose, nicht näher bezeichnet"
+1074,CYFENDUS,Adsorbierter azellulärer Milzbrandimpfstoff mit Adjuvans
+1075,"Azellulärer Anthrax-Impfstoff, nicht näher bezeichnet","Azellulärer Anthrax-Impfstoff, nicht näher bezeichnet"
+1076,UROMUNE (MV 140),
+1077,ENVAX-A71,
+1078,ENVACGEN,
+1079,VAX-SPIRAL,
+1080,COVAXIN,
+1081,BAYGAM,
+1082,BAYHEP B,
+1083,BAYRAB,
+1084,BAYTET,
+1085,MYCOBAX,
+1086,PNEUMUNE,
+1087,HYPERTET,
+1088,HYPERRAB,
+1089,HYPERHEB B,
+1090,MENZB,Meningokokken-Impfstoff mit Proteinen aus Außenmembranvesikeln
+1091,VARIZIG,
+1092,KAMRAB,
+1093,HEPAGAM,
+1094,OROCHOL,
+1095,MVA85A,
+1096,MORCVAX,
+1097,CYTOGAM,
+1098,XANAFLU,
+1099,BABYBIG,
+1100,BOTULISM ANTITOXIN BEHRING,
+1101,DOTARICIN,
+1102,HIB-IMMUNE,
+1103,HIB-VAX,
+1104,DIPHTHERIA ANTITOXIN B.P.,
+1105,BAT EMERGENT BIOSOLUTIONS,
+1106,,
+1107,,
+1108,,
+1109,,
+1110,,
+1111,,
+1112,,
+1113,,
+1114,,
+1115,,
+1116,,
+1117,,
+1118,,
+1119,,
+1120,,
+1121,,
+1122,,
+1123,,
+1124,,
+1125,,
+1126,,
+1127,,
+1128,,
+1129,,
+1130,,
+1131,,
+1132,,
+1133,,
+1134,,
+1135,,
+1136,"23-valenter konjugierter Pneumokokken-Impfstoff, nicht näher bezeichnet","Konjugierter Polyosid-Pneumokokken-Impfstoff, 23-valent, Serotypen 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F und 33F"
+1137,,
+1138,,
+1139,,
+1140,,
+1141,,
+1142,,
+1143,,
+1144,,
+1145,,
+1146,,
+1147,,
+1148,,
+1149,,
+1150,,
+1151,,
+1152,,
+1153,,
+1154,,
+1155,,
+1156,,
+1157,,
+1158,,
+1159,,
+1160,,
+1161,,
+1162,,
+1163,"20-valenter konjugierter Pneumokokken-Impfstoff, nicht näher bezeichnet","Konjugierter, 20-valenter, adsorbierter Polyosid-Pneumokokken-Impfstoff, Serotypen 1, 3, 4, 5, 6A, 6B, 7F, 8, 9V, 10A, 11A, 12F, 14, 15B, 18C, 19A, 19F, 22F, 23F und 33F"
+1164,,
+1165,,
+1166,,
+1167,,
+1168,,
+1169,,
+1170,,
+1171,,
+1172,,
+1173,,
+1174,,
+1175,,
+1176,,
+1177,,
+1178,,
+1179,,
+1180,,
+1181,,
+1182,,
+1183,,
+1184,,
+1185,,
+1186,,
+1187,,
+1188,,
+1189,,
+1190,,
+1191,,
+1192,,
+1193,,
+1194,,
+1195,,
+1196,,
+1197,,
+1198,,
+1199,,
+1200,,
+1201,,
+1202,,
+1203,,
+1204,,
+1205,,
+1206,,
+1207,,
+1208,,
+1209,,
+1210,,
+1211,,
+1212,,
+1213,,
+1214,,
+1215,,
+1216,,
+1217,,
+1218,,
+1219,,
+1220,,
+1221,"Diphtheria (standard dose), tetanus and rubella vaccine, unspecified",
+1222,,
+1223,,
+1224,,
+1225,,
+1226,,
+1227,,
+1228,,
+1229,,
+1230,,
+1231,,
+1232,,
+1233,"10-valenter konjugierter Pneumokokken-Impfstoff, nicht näher bezeichnet","Konjugierter Polyosid-Pneumokokken-Impfstoff, 10-valent, Serotypen 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F und 23F"
+1234,,
+1235,,
+1236,,
+1237,,
+1238,,
+1239,"Konjugierter Pneumokokken-Impfstoff, 15-valent, nicht näher bezeichnet","Konjugierter, 15-valenter, adsorbierter Polyosid-Pneumokokken-Impfstoff, Serotypen 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, 22F, 23F und 33F"
+1240,,
+1241,,
+1242,,
+1243,,
+1244,,
+1245,,
+1246,,
+1247,"Hepatitis-A-Impfstoff, nicht näher bezeichnet","Hepatitis-A-Impfstoff, nicht näher bezeichnet"
+1248,,
+1249,,
+1250,EUVICHOL-S,
+1251,EUVICHOL-PLUS,"Cholera-Impfstoff, oral, bivalent, bestehend aus abgetöteten Ganzzellen von Vibrio cholerae O1 (klassisch und El Tor) und O139"
+1252,JE-CV,
+1253,CHIMERIVAX-JE,
+1254,CAPVAXIVE,
+1255,HEXASIIL,
+1256,,
+1257,,
+1258,COMIRNATY JN.1 30,
+1259,COMIRNATY JN.1 10 µg CHILDREN (5-11 YEARS),
+1260,COMIRNATY JN.1 3 µg CHILDREN (6 MONTHS-4 YEARS),
+1261,NUVAXOVID JN.1,
+1262,MRESVIA,Single-stranded 5' capped mRNA encoding the Respiratory syncytial virus glycoprotein F stabilized in the prefusion conformation
+1263,"mRNA-Covid-Impfstoff, der das SARS-COV-2-Spike-Protein kodiert, zugelassen","mRNA-Covid-Impfstoff, der das SARS-COV-2-Spike-Protein kodiert, zugelassen"
+1264,"A(H5) avian influenza vaccine, unspecified",
+1265,CLODIVAC,Diphtherietoxoid- (niedrige Dosis) und Tetanustoxoid-Impfstoff
+1266,,
+1267,,
+1268,SPIKEVAX JN.1 50 µg,"mRNA-Virus-19-Impfstoff, Subvariante Omicron JN.1, 50-Mikrogramm-Dosierung"
+1269,"SPIKEVAX JN.1 0,1 mg/mL dose 25 µg","Omicron JN.1 mRNA-Impfstoff gegen Covid 19, Subvariante, 25 Mikrogramm pro Dosis, Flasche mit Mehrfachdosis"
+1270,"SPIKEVAX JN.1 0,1 mg/mL dose 50 µg","Omicron JN.1 mRNA-Impfstoff gegen Covid 19 , Subvariante, 50 Mikrogramm pro Dosis, Flasche mit Mehrfachdosis"
+1271,TYT BIOMED,"Typhus- und Tetanus-Impfstoff, Injektionssuspension"
+1272,PSEUDOVAC,Polyvalenter Impfstoff gegen das Bakterium Pseudomonas aeruginosa
+1273,DT BIOMED,"Kinderimpfstoff gegen Diphtherie (Toxoid, Standarddosis) und Tetanus (Toxoid), adsorbierte Suspension zur Injektion"
+1274,d BIOMED,"Diphtherie-Impfstoff (Toxoid, reduzierte Dosis)"
+1275,,Diphtherie-Toxoid (Standarddosis) Impfstoff für Kinder
+1276,DTP BIOMED,"Diphtherietoxoid (Standarddosis), Tetanustoxoid und inaktivierter Ganzzellimpfstoff gegen Pertussis für Kinder"
+1277,"Impfstoff gegen Chikungunya, ohne nähere Angaben","Impfstoff gegen Chikungunya, ohne nähere Angaben"
+1278,WALRINVAX,Bivalenter rekombinanter Impfstoff gegen das humane Papillomavirus (Typen 16 und 18) (Pichia pastoris)
+1279,,
+1280,,
+1281,,
+1282,,
+1283,,
+1284,,
+1285,,
+1286,,
+1287,,
+1288,,
+1289,,
+1290,,
+1291,,
+1292,,
+1293,,
+1294,BIO-TD,
+1295,,
+1296,,
+1297,,
+1298,BETT,
+1299,BEVAC 10 µg,"Rekombinanter Hepatitis-B-Impfstoff, pädiatrische Dosis"
+1300,BEVAC 20 µg,
+1301,BE Td,
+1302,COMBE FIVE,
+1303,,
+1304,,
+1305,,
+1306,,"Typhus-Impfstoff, Vi-Antigen, konjugiert an das CRM197-Protein"
+1307,JEEV 6 µg,
+1308,,
+1309,NOVEL ORAL (nOPV) TYPE 2 BIOLOGICAL E. LTD,
+1310,SII TD-VAC,
+1311,"Meningococcal ACWXY conjugate vaccine, unspecified",
+1312,,
+1313,,
+1314,,
+1315,,
+1316,RUBELLA SII,
+1317,,
+1318,"DIPHTHERIA, TETANUS, PERTUSSIS AND HEPATITIS B SII",
+1319,"DIPHTHERIA, TETANUS, PERTUSSIS AND HAEMOPHILUS INFLUENZAE B SII",
+1320,"DIPHTHERIA, TETANUS, PERTUSSIS, HEPATITIS B AND HAEMOPHILUS INFLUENZAE B SII",
+1321,,
+1322,,
+1323,,
+1324,,
+1325,,
+1326,,
+1327,,
+1328,,
+1329,,
+1330,,
+1331,,
+1332,,
+1333,,
+1334,,
+1335,INCELLIPAN,
+1336,KOSTAIVE,
+1337,CONVACELL,
+1338,ZOONOTIC,
+1339,BIMERVAX XBB.1.16,
+1340,"SPIKEVAX BA.1 0,1 mg/mL dose 50 µg",
+1341,"SPIKEVAX BA.4-5 0,1 mg/mL dose 50 µg",
+1342,IPVAX,
+1343,BORYUNG CELL CULTURE-DERIVED JAPANESE ENCEPHALITIS VACCINE,
+1344,BORYUNG JAPANESE ENCEPHALITIS VACCINE,
+1345,ZEROTYPH,
+1346,FLU QUADRIVALENT MCV,
+1347,EFLUELDA,
+1348,TETANA,
+1349,TY BIOMED,
+1350,T SIS BIOMED,
+1351,TETANA PRO,
+1352,TERATECT,
+1353,IL-YANG FLU VACCINE,
+1354,EUFORVAC,
+1355,EUPENTA,
+1356,EUVAX B 10 µg,
+1357,EUPOLIO,
+1358,SKYCELLFLU QUADRIVALENT,
+1359,SKYCELLFLU TRIVALENT,
+1360,HEPAMUNE B 10 µg,
+1361,HEPAMUNE B 20 µg,
+1362,SK TD,
+1363,HEPAVAX-GENE B 10 µg,
+1364,BIOHIB,
+1365,COMVAC5,
+1366,HILLCHOL,
+1367,HNVAC,
+1368,INCOVACC,
+1369,INDIRAB,
+1370,JENVAC,
+1371,REVAC-B MCF,
+1372,ROTAVAC,
+1373,ROTAVAC 5D,
+1374,TYPBAR-TCV,
+1375,TWINRAB,
+1376,ZYCOV-D,
+1377,VAXIFLU-4,
+1378,VACTYPH,
+1379,ZYVAC MMR,
+1380,ZYVAC TCV,
+1381,MEASLES AND RUBELLA VACCINE ZYDUS,
+1382,SKYTYPHOID,
+1383,CYVAC,
+1384,BARYCELA,
+1385,GC FLU QUADRIVALENT,
+1386,GCFLU,
+1387,SINSAVAC,
+1388,BIVAC POLIO,
+1389,INLIVE,
+1390,HEALIVE,
+1391,BILIVE,
+1392,23-VALENT SINOVAC,
+1393,PROVARIX,
+1394,POLIO SINOVAC VACCINE,
+1395,MUMPS SINOVAC VACCINE,
+1396,ANFLU,
+1397,PANFLU,
+1398,PANFLU.1,
+1399,TERTRANFLU,
+1400,SHANIPV,
+1401,9-VALENT HPV VACCINE INNOVAX,
+1402,EASYSIX,
+1403,EASYFIVE-TT,
+1404,EASYFOUR-TT,
+1405,EASYFOURPOL,
+1406,SPUTNIK V,
+1407,NOVOHIB,
+1408,ENIVACHB,
+1409,,
+1410,,
+1411,,
+1412,,
+1413,,
+1414,,
+1415,,
+1416,,
+1417,,
+1418,,
+1419,,
+1420,,
+1421,,
+1422,,
+1423,,
+1424,,
+1425,,
+1426,,
+1427,,
+1428,,
+1429,TETANEA,
+1430,,
+1431,,
+1432,,
+1433,,
+1434,,
+1435,,
+1436,,
+1437,,
+1438,,
+1439,,
+1440,,
+1441,,
+1442,,
+1443,,
+1444,,
+1445,,
+1446,,
+1447,VACCIN BCG SYNTHAVERSE,
+1448,BCG VACCINE MERCK,
+1449,DITANRIX-PEDIATRIC,
+1450,HEPACARE,
+1451,CHIROFLU,
+1452,SCI-B-VAC,
+1453,INVIVAC,
+1454,PRIMAVAX,
+1455,MENGIVAC A + C,
+1456,WYVAC,
+1457,TETRA-SOLGEN,
+1458,TRIDIPIGEN,
+1459,TRINFAGEN N0.1,
+1460,SOLGEN,
+1461,DIFTET,
+1462,PNU-IMUNE 14,
+1463,FREEZE-DRIED BCG VACCINE JAPAN,
+1464,FLUBRON VACCINE,
+1465,PERDIPIGEN,
+1466,COMIRNATY LP.8.1 30 µg,
+1467,COMIRNATY LP.8.1 3 µg,
+1468,COMIRNATY LP.8.1 10 µg,
+1469,mNEXSPIKE,
+1470,,
+1471,,
+1472,,
+1473,,
+1474,ENFLONSIA (clesrovimab),Humaner monoklonaler RSV-Antikörper
+1475,,
+1476,,
+1477,ENCEPUR N KINDER,
+1478,SYNAGIS 50 mg (PALIZIVUMAB),
+1479,VACPERTAGEN,
+1480,PNEUMOVAX 23,"Pneumokokken-Polysaccharid-Nichtkonjugatimpfstoff, 23-valent, Serotypen 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F und 33F"
+1481,FLUVACCINOL,
+1482,IMMUNOGLOBULINE HUMAINE DE L'HÉPATITE B LFB,
+1483,ENCEPUR N,
+1484,HEPRECOMB KINDER,
+1485,GEN H-B-Vax 5,
+1486,GEN H-B-Vax 10,
+1487,PREVENAR-7,
+1488,POLIORIX,
+1489,CELTURA,
+1490,ALMEVAX,
+1491,RUBEVAC,
+1492,POLYOMYELITIS IMPFSTOFF BERNA,
+1493,ACEL P,
+1494,DITEBOOSTER,
+1495,POLIO KOPROWSKI K1-K2-K3,
+1496,POLIO LILLY,
+1497,TD-VIRELON,
+1498,EPIVACCORONA-N,
+1499,SPUTNIK-M,
+1500,COMIRNATY LP.8.1 50 µg,
+1501,SPIKEVAX LP.8.1 25 µg,
+1502,BIMERVAX LP.8.1,
+1503,,
+1504,TD-PUR,
+1505,SCTV01C,
+1506,STROVAC,
+1507,BUTANTAN-DV,
+1508,BUTANTAN HEP A,
+1509,BUTANTAN HEP B,
+1510,BUTANTAN HPV,
+1511,BUTANTAN DT,
+1512,BUTANTAN DT ADULT,
+1513,BUTANTAN DTP,
+1514,BUTANTAN DTAP,
+1515,BUTANTAN RABIES,
+1516,BUTANTAN INFLUENZA,
+1517,AUJEMFLU,
+1518,MFLUSIVA,
+1519,COMIRNATY XFG 10 µg,
+1520,COMIRNATY XFG 30 µg,
+1521,,
+1522,,
+1523,KEYTRUDA,
+1524,,
+1525,NUVAXOVID XFG,
+1526,BIMERVAX XFG.1.1,
+1527,,
+1528,,
+1529,SPIKEVAX XFG 25 µg,
+1530,SPIKEVAX XFG 50 µg,
+1531,,
+1532,,
+1533,,
+1534,,
+1535,,
+1536,,
+1537,,
+1538,,
+1539,,
+1540,,
+1541,,
+1542,,
+1543,,
+1544,,
+1545,,
+1546,,
+1547,,
+1548,,
+1549,,
+1550,,
+1551,,
+1552,,
+1553,,
+1554,,
+1555,,
+1556,,
+1557,,
+1558,EUTYPH-C,"Typhus-Impfstoff, Vi-Antigen, konjugiert an das CRM197-Protein"
+1559,EUVICHOL,"Cholera-Impfstoff, oral, bivalent, bestehend aus abgetöteten Ganzzellen von Vibrio cholerae O1 (klassisch und El Tor) und O139"
+1560,RECOMBIVAX HB ADULT,"Rekombinanter Hepatitis-B-Impfstoff, Erwachsenendosis"
+1561,HEPA-B INJECTION PEDIATRIC,"Rekombinanter Impfstoff gegen Hepatitis B, pädiatrische Dosis"

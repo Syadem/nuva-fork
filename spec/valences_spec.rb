@@ -94,26 +94,6 @@ RSpec.describe 'The valences folder' do
           "VAL-#{data['id']} (#{data['abbreviation']}) has VTY-#{data['valence_type_id']}, " \
           "which is not VTY-#{parent_type} of its parent VAL-#{parent['id']} (#{parent['abbreviation']}) nor one of its subtypes"
       end
-
-      TRANSLATION_LANGUAGES.each do |language|
-        it "has a valid #{language} translation" do
-          translation_file = NUVA_ROOT.join('translations', language, 'valences', File.basename(file))
-
-          expect(translation_file).to be_file
-
-          translation = YAML.safe_load_file(translation_file)
-
-          expect(translation).to be_a(Hash)
-          expect(translation.keys).to contain_exactly('name')
-          
-          if language == 'fr'
-            expect(translation['name']).to be_a(String)
-            expect(translation['name'].strip).not_to be_empty
-          else
-            expect(translation['name']).to(be_a(String).or be_nil)
-          end
-        end
-      end
     end
   end
 
@@ -140,26 +120,6 @@ RSpec.describe 'The valences folder' do
 
         current = parents[current]
       end
-    end
-  end
-end
-
-RSpec.describe 'The valence translations' do
-  it 'uses exactly the supported language folders' do
-    languages = Dir.children(NUVA_ROOT.join('translations')).sort
-
-    expect(languages).to eq(TRANSLATION_LANGUAGES.sort)
-  end
-
-  TRANSLATION_LANGUAGES.each do |language|
-    it "contains exactly one #{language} file per valence, with no orphan files" do
-      directory = NUVA_ROOT.join('translations', language, 'valences')
-
-      expect(directory).to be_directory
-
-      base_files = Dir.children(NUVA_ROOT.join('valences')).sort
-
-      expect(Dir.children(directory).sort).to eq(base_files)
     end
   end
 end

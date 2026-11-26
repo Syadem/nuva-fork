@@ -1,0 +1,33 @@
+nuva_id,name
+1,Antigene
+2,Lebendimpfstoffe
+3,Lebendimpfstoffe mit attenuierten Erregern
+4,Attenuierte bakterielle Lebendimpfstoffe
+5,Attenuierte virale Lebendimpfstoffe
+6,Lebendimpfstoffe mit rekombinantem viralem Vektor
+7,Impfstoffe mit replizierendem viralem Vektor
+8,Impfstoffe mit nicht-replizierendem viralem Vektor
+9,Totimpfstoffe
+10,Inaktivierte Ganzerregerimpfstoffe
+11,Inaktivierte bakterielle Ganzzellimpfstoffe
+12,Inaktivierte virale Ganzvirusimpfstoffe
+13,Spalt- oder Fragmentimpfstoffe
+14,Virale Spaltimpfstoffe
+15,Andere Fragmentimpfstoffe
+16,Subunit-Impfstoffe
+17,Polysaccharidimpfstoffe
+18,Nicht konjugierte Polysaccharidimpfstoffe
+19,Konjugierte Polysaccharidimpfstoffe
+20,Proteinimpfstoffe
+21,Toxoidimpfstoffe
+22,Impfstoffe aus gereinigtem nativem Protein
+23,Rekombinante Proteinimpfstoffe
+24,Impfstoffe aus virusähnlichen Partikeln (VLP)
+25,Impfstoffe auf Basis von Membranvesikeln
+26,Impfstoffe aus äußeren Membranvesikeln (OMV)
+27,Nukleinsäureimpfstoffe
+28,DNA-Impfstoffe
+29,mRNA-Impfstoffe
+30,Konventionelle mRNA-Impfstoffe
+31,Selbstamplifizierende mRNA-Impfstoffe
+32,Antikörper

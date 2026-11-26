@@ -1,0 +1,1485 @@
+nuva_id,name,description
+1,ACT-HIB,Szczepionka skoniugowana przeciwko Haemophilus influenzae typu b
+2,AGRIPPAL,"Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej, oparta na jajach, antygen powierzchniowy"
+3,AVAXIM 160 U,"Inaktywowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu A, dawka dla dorosłych"
+4,D.T. POLIO MERIEUX,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna)"
+5,DUKORAL,Doustna szczepionka przeciwko cholerze zawierająca rekombinowaną podjednostkę B toksyny cholery (rTCB) oraz inaktywowane bakterie z rolą adiuwanta
+6,FLUVIRINE,"Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej, na bazie jaj, antygen powierzchniowy"
+7,GARDASIL,"Szczepionka przeciwko wirusowi brodawczaka ludzkiego, oparta na cząsteczkach VLP (Virus Like Particles), niewalentna (typy 6, 11, 16 i 18), rekombinowana, adsorbowana"
+8,GRIPGUARD,"Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej, oparta na jajach, antygen powierzchniowy, z adiuwantem"
+9,HBVAXPRO 10 µg,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawka dla dorosłych"
+10,HBVAXPRO 40 µg,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawkowanie dla pacjentów dializowanych"
+11,HBVAXPRO 5 µg,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawka pediatryczna"
+12,IMMUGRIP,"Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej, z rozszczepionym wirionem"
+13,IMOVAX POLIO,Inaktywowana szczepionka przeciwko polio (trójwalentna)
+14,INFANRIX HEXA,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wieloskładnikowa acelularna szczepionka przeciw krztuścowi (3 składniki, dawka standardowa), Haemophilus influenzae typu b (skoniugowana z toksoidem tężcowym), inaktywowana szczepionka przeciw polio (trójwartościowa) i przeciw wirusowemu zapaleniu wątroby typu B (rekombinowana) dla dzieci, adsorbowana"
+15,INFANRIXQUINTA,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wieloskładnikowa acelularna szczepionka przeciw krztuścowi (3 składniki, dawka standardowa), Haemophilus influenzae typu b (skoniugowana z toksoidem tężcowym) oraz inaktywowana szczepionka przeciw polio (trójwalentna) dla dzieci, adsorbowana"
+16,"INFLUVAC 0,5 mL","Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana z antygenu powierzchniowego hodowli komórek jajowych, dawka dla dorosłych"
+17,M-M-RVAXPRO,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+18,MENCEVAX,"Nieskoniugowana polisacharydowa szczepionka meningokokowa, serogrupy A, C, W i Y"
+19,MENINGITEC,Szczepionka meningokokowa C skoniugowana
+20,MENJUGATEKIT 10 µg,Szczepionka skoniugowana przeciwko meningokokom typu C
+21,MUTAGRIP,"Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana z hodowli komórkowej w jajach, z wirionami rozszczepionymi"
+22,NEISVAC,Szczepionka meningokokowa C skoniugowana
+23,PENTAVAC,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wieloskładnikowy acelularny krztusiec (5 składników, dawka standardowa), Haemophilus influenzae typu b (sprzężony z toksoidem tężcowym) i inaktywowana szczepionka pediatryczna przeciwko polio (trójwartościowa), adsorbowana"
+24,PNEUMO 23,"Polisacharydowa szczepionka pneumokokowa, 23-walentna, serotypy 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F i 33F"
+25,PREVENAR,"Pneumokokowa szczepionka koniugatowa, 7-walentna, adsorbowana, serotypy 4, 6B, 9V, 14, 18C, 19F i 23F"
+26,PREVIGRIP,"Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana z hodowli komórkowej jaj, antygen powierzchniowy"
+27,R.O.R. VAX,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+28,RABIPUR,"Inaktywowana w całości szczepionka przeciwko wściekliźnie, szczep Flury LEP, oczyszczona szczepionka z komórek zarodka kurcząt (PCECV), inaktywacja ß-propiolaktonem"
+29,REPEVAX,"Toksoid błoniczy (mała dawka), toksoid tężcowy, wieloskładnikowa acelularna szczepionka przeciw krztuścowi (5 składników, mała dawka) i inaktywowana szczepionka przeciw polio (trójwartościowa), adsorbowana"
+30,REVAXIS,"Toksoid błoniczy (niska dawka), toksoid tężcowy i inaktywowana szczepionka przeciwko polio (trójwalentna), adsorbowana"
+31,ROTATEQ,"Żywa atenuowana pięciowartościowa szczepionka przeciw rotawirusom, doustna"
+32,ROUVAX,Żywa atenuowana szczepionka przeciwko odrze
+33,RUDIVAX,Żywa atenuowana szczepionka przeciwko różyczce
+34,SPIROLEPT,"Inaktywowana, pełnokomórkowa szczepionka przeciwko leptospirozie"
+35,STAMARIL,Żywa atenuowana szczepionka przeciwko żółtej gorączce
+36,TETAGRIP,"Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana z hodowli jajowej, szczepionka zawierająca rozszczepione wiriony oraz szczepionka zawierająca toksoid tężcowy"
+37,TETRAVAC-ACELLULAIRE,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomponentowy acelularny krztusiec (dawka standardowa) i inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna)"
+38,"TICOVAC 0,5 mL",Szczepionka przeciwko kleszczowemu zapaleniu mózgu (inaktywowana całym wirusem)
+39,"TICOVAC 0,25 mL",Szczepionka przeciwko kleszczowemu zapaleniu mózgu (inaktywowany cały wirus)
+40,TYAVAX,"Szczepionka przeciwko zapaleniu wątroby typu A (inaktywowana, adsorbowana) i szczepionka przeciwko durowi brzusznemu (polisacharydowa)"
+41,TYPHIM VI,Polisacharydowa szczepionka przeciwko durowi brzusznemu (antygen otoczkowy Vi)
+42,VACCIN BCG SSI,Szczepionka przeciw gruźlicy
+43,BOOSTRIXTETRA,"Toksoid błoniczy (mała dawka), toksoid tężcowy, wieloskładnikowa acelularna szczepionka przeciw krztuścowi (5 składników, mała dawka) i inaktywowana szczepionka przeciw polio (trójwartościowa), adsorbowana"
+44,CERVARIX,"Szczepionka przeciwko wirusowi brodawczaka ludzkiego, oparta na cząsteczkach VLP (Virus Like Particles), dwuwartościowa (typy 6 i 11), rekombinowana, adsorbowana"
+45,ENGERIX B 10 µg,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawka pediatryczna"
+46,ENGERIX B 20 µg,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawka dla dorosłych"
+47,FLUARIX,"Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana z hodowli komórkowej w jajach, z wirionami rozszczepionymi"
+48,GENHEVAC B PASTEUR,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, HBsAg 20 µg, dzieci i dorośli"
+49,HAVRIX 1440 U/1mL,"Inaktywowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu A, dawka dla dorosłych"
+50,"HAVRIX 720 U/0,5 mL","Inaktywowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu A, dawka pediatryczna"
+51,INFANRIXTETRA,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomponentowy acelularny krztusiec (dawka standardowa) i inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna)"
+52,VACCIN MENINGOCOCCIQUE A+C,"Nieskonjugowana polisacharydowa szczepionka meningokokowa, serogrupy A i C"
+53,PRIORIX,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+54,VACCIN RABIQUE PASTEUR,"Inaktywowany cały wirion, szczep WISTAR Rabies PM/WI38 1503-3M, hodowany na komórkach Vero"
+56,VACCIN TETANIQUE PASTEUR,Szczepionka zawierająca toksoid tężcowy
+57,TWINRIX 20 µg,"Skojarzona szczepionka przeciwko wirusowemu zapaleniu wątroby typu A i B, dawka dla dorosłych"
+58,TWINRIX 10 µg,"Skojarzona szczepionka przeciwko wirusowemu zapaleniu wątroby typu A i B, dawka pediatryczna"
+59,TYPHERIX,Polisacharydowa szczepionka przeciwko durowi brzusznemu (antygen kapslowy Vi)
+60,VARILRIX,Żywa atenuowana szczepionka przeciwko ospie wietrznej
+61,VARIVAX,Żywa atenuowana szczepionka przeciwko ospie wietrznej
+62,VAXIGRIP,"Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana z hodowli komórkowej w jajach, z wirionami rozszczepionymi"
+63,TETRACOQ,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, inaktywowany całokomórkowy krztusiec i inaktywowana szczepionka przeciw polio (trójwalentna) dla dzieci"
+64,PENTACOQ,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, krztusiec pełnokomórkowy, Haemophilus influenzae typu b (sprzężony z toksoidem tężcowym) oraz inaktywowana szczepionka pediatryczna przeciwko polio (trójwartościowa), adsorbowana"
+66,DTCP PASTEUR,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomponentowa szczepionka acelularna przeciwko krztuścowi (dawka standardowa) oraz inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna)"
+67,HAVRIX 360 U,"Inaktywowana szczepionka przeciw wirusowemu zapaleniu wątroby typu A, dawka pediatryczna"
+68,MONOVAX,Szczepionka przeciw gruźlicy
+69,MENOMUNE,"Nieskoniugowana szczepionka polisacharydowa przeciwko meningokokom, serogrupy A, C, W i Y"
+70,DT BIS,Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa) i toksoid tężcowy
+71,D.T. BIS - RUDIVAX,"Toksydy błonicze (dawka standardowa), toksoid tężcowy i szczepionka pediatryczna przeciwko różyczce (żywa atenuowana)"
+72,JE-VAX,"Inaktywowana w całości wirusowa szczepionka przeciwko japońskiemu zapaleniu mózgu, pochodząca z mózgu myszy, szczep Nakayama - Inne nazwy: JEVAX, BIKEN"
+73,IXIARO,"Inaktywowana w całości szczepionka przeciwko japońskiemu zapaleniu mózgu, pochodząca z komórek Vero, adsorbowana"
+74,D.T. COQ MERIEUX,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana całokomórkowa szczepionka pediatryczna przeciwko krztuścowi"
+76,DTVax,Toksoid błoniczy (dawka standardowa) i toksoid tężcowy - szczepionka pediatryczna
+77,IMOVAX Mumps,Żywa atenuowana szczepionka przeciwko śwince
+78,RUDI-ROUVAX,Żywa atenuowana szczepionka przeciwko odrze i różyczce
+79,ENCEPUR,"Szczepionka przeciwko kleszczowemu zapaleniu mózgu (inaktywowany, adsorbowany wirus)"
+80,BCG PASTEUR,Szczepionka przeciw gruźlicy
+82,MENBVAC,"Szczepionka przeciwko meningokokom typu B (białko pęcherzyka błony zewnętrznej B:14:P1.7,16)"
+83,SYNFLORIX,"Pneumokokowa szczepionka skoniugowana, 10-walentna, seroptypy 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F i 23F"
+84,"H5N1 pre-pandemic influenza vaccine, unspecified",Szczepionka przeciwko grypie A(H5N1)
+85,T POLIO MERIEUX,Toksoid tężcowy i inaktywowana szczepionka przeciw polio (trójwalentna)
+86,TETAVAX,Szczepionka zawierająca toksoid tężcowy
+87,VAXICOQ,Inaktywowana pełnokomórkowa szczepionka przeciwko krztuścowi
+88,"DTIPV vaccine, unspecified","Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna)"
+90,VACCIN BRUCELLIQUE P.I. à usage humain,Białkowa (antygen P.I.) szczepionka przeciw brucelozie
+91,VACCIN CCB PASTEUR,Połączenie inaktywowanych bakterii w celu pobudzenia układu odpornościowego. CCB = przeciwko powikłaniom oskrzelowym. Tak naprawdę nie jest to szczepionka...
+92,VACCIN CHOLERIQUE PASTEUR,"Inaktywowana, pełnokomórkowa szczepionka przeciwko cholerze do wstrzykiwań"
+93,VACCIN DT TAB PASTEUR,"Szczepionka pediatryczna przeciwko błonicy (toksoid, dawka standardowa), tężcowi (toksoid), durowi brzusznemu (inaktywowana całokomórkowo) oraz durowi brzusznemu A i B (inaktywowana całokomórkowo)"
+94,VACCIN SABIN POLIO ORAL,"Szczepionka przeciwko polio (żywa, atenuowana, trójwartościowa) przeciwko poliovirusom 1, 2 i 3, doustna"
+95,VACCIN TAB PASTEUR,"Szczepionka przeciwko durowi brzusznemu i paratyfusowi typu A i B, inaktywowana całokomórkowo"
+96,VACCIN GRIPPAL RONCHESE (VGR),"Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana z hodowli komórkowej w jajach, z wirionami rozszczepionymi"
+97,VACCIN LEPTOSPIRES ICTEROHEMORRAGIAE PASTEUR,"Inaktywowana, pełnokomórkowa szczepionka przeciwko leptospirozie"
+98,HEXAVAC,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomponentowy acelularny krztusiec (dawka standardowa), Haemophilus influenzae typu b (sprzężony z toksoidem tężcowym), inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna) i wirusowemu zapaleniu wątroby typu B (rekombinowana), adsorbowana"
+99,MENINVACT,Szczepionka skoniugowana przeciwko meningokokom typu C
+101,"Rekombinowana szczepionka przeciw wirusowemu zapaleniu wątroby typu B, nieokreślona","Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawka nieokreślona"
+102,"Inaktywowana szczepionka przeciw wirusowemu zapaleniu wątroby typu A, nieokreślona","Inaktywowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu A, dawka pediatryczna lub dla dorosłych"
+103,MENACTRA,"Czterowalentna skoniugowana szczepionka przeciw meningokokom przeciwko serogrupom A, C, W i Y"
+104,HUMENZA,"Szczepionka przeciwko pandemicznej grypie A(H1N1)pdm09, zawierająca inaktywowane całe wiriony, uzyskana z hodowli w jajach"
+105,PANENZA,"Szczepionka przeciwko grypie pandemicznej typu A(H1N1)pdm09, inaktywowana, uzyskana z hodowli w jajach"
+106,Q-Pan H1N1,"Szczepionka przeciwko grypie pandemicznej typu A(H1N1)pdm09, inaktywowana, uzyskana z hodowli w jajach"
+107,CELVAPAN,"Szczepionka przeciwko pandemicznej grypie A(H1N1)pdm09, zawierająca inaktywowane całe wiriony, uzyskana z hodowli w jajach"
+108,PANDEMRIX,"Szczepionka przeciwko grypie pandemicznej typu A(H1N1)pdm09, inaktywowana, uzyskana z hodowli w jajach"
+109,FOCETRIA (unidose),"Szczepionka przeciwko grypie pandemicznej A(H1N1)pdm09, inaktywowana, oparta na jajach, antygen powierzchniowy, z adiuwantem"
+110,"Influenza vaccine, unspecified",Szczepionka przeciwko grypie sezonowej
+111,Szczepionka nieokreślona. Żółta gorączka,Żywa atenuowana szczepionka przeciwko żółtej gorączce
+112,"Typhoid vaccine, unspecified",Szczepionka przeciwko durowi brzusznemu
+113,"Rubella vaccine, unspecified",Żywa atenuowana szczepionka przeciwko różyczce
+114,,Żywa atenuowana szczepionka przeciwko odrze
+115,AVAXIM 80 U,"Inaktywowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu A, dawka pediatryczna"
+116,R.O.R SANOFI PASTEUR,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+120,VACCIN VARICELLE MERIEUX,Szczepionka przeciwko ospie wietrznej
+121,PRIORIX-TETRA,"Żywa atenuowana szczepionka przeciwko odrze, śwince, różyczce i ospie wietrznej"
+123,PREVENAR 13,"Pneumokokowa polisacharydowa szczepionka skoniugowana, 13-walentna, adsorbowana, serotypy 1, 3, 4 , 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F i 23F"
+124,FOCETRIA (multidose),"Szczepionka przeciwko grypie pandemicznej A(H1N1)pdm09, inaktywowana, oparta na jajach, antygen powierzchniowy, z adiuwantem"
+125,AREPANRIX,"Szczepionka przeciwko pandemicznej grypie typu A(H1N1)pdm09, inaktywowana, uzyskana z hodowli w jajach, zawierająca rozszczepione wiriony"
+126,HEVAC B,Plazmowa szczepionka przeciwko wirusowemu zapaleniu wątroby typu B (pierwsza francuska szczepionka)
+127,HB VAX DNA 5 µg,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawka pediatryczna"
+128,HB VAX DNA 10 µg,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B z 10 mikrogramami antygenu HBs (mimo że 10 µg, szczepionka ta jest wskazana od 16 roku życia)"
+129,HB VAX DNA 40 µg,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawkowanie dla pacjentów dializowanych"
+130,"Szczepionka nieokreślona. Odra, różyczka, świnka","Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+131,"Rabies vaccine, unspecified",Inaktywowana w całości szczepionka przeciwko wściekliźnie
+132,Szczepionka nieokreślona. Tężec,Szczepionka zawierająca toksoid tężcowy
+133,"Smallpox vaccine, unspecified",Żywa atenuowana szczepionka przeciwko ospie wietrznej
+134,Szczepionka nieokreślona. Gruźlica,Szczepionka przeciw gruźlicy
+135,"Szczepionka nieokreślona. Polio, choroba Heinego-Medina","Polio vaccine, live or inactivated (unspecified)"
+136,"DTwP - Diphtheria-Tetanus-Pertussis, unspecified","Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana całokomórkowa szczepionka pediatryczna przeciwko krztuścowi"
+137,"DT vaccine, unspecified",Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa) i toksoid tężcowy
+138,"Diphtheria-Tetanus-Pertussis-Polio vaccine, unspecified","Toksoid błoniczy (dawka nieokreślona), toksoid tężcowy, acelularna lub całokomórkowa inaktywowana szczepionka przeciw krztuścowi (dawka nieokreślona) oraz inaktywowana szczepionka przeciw polio (trójwalentna)"
+139,PENT-HIBEST,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, krztusiec pełnokomórkowy, Haemophilus influenzae typu b (skoniugowany z toksoidem tężcowym) oraz inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna), adsorbowana"
+140,INTANZA,"Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana z hodowli komórek jajowych, zawierająca rozszczepione wiriony, do podania śródskórnego"
+141,MENVEO,"Czterowalentna szczepionka skoniugowana przeciwko meningokokom, przeciwko serogrupom A, C, W i Y"
+143,"Haemophilus influenzae B (or Hib) vaccine, unspecified",Szczepionka skoniugowana przeciwko Haemophilus influenzae typu b
+144,"Cholera vaccine, unspecified",Szczepionka przeciwko cholerze
+145,Szczepionka nieokreślona. Kleszczowe zapalenie mózgu,Szczepionka przeciwko kleszczowemu zapaleniu mózgu
+146,"Live attenuated Japanese Encephalitis vaccine 14-14-2 strain, unspecified","Żywa atenuowana szczepionka przeciwko japońskiemu zapaleniu mózgu, szczep 14-14-2"
+147,"Influenza A(H1N1)2009 vaccine, unspecified","Szczepionka przeciwko grypie pandemicznej typu A(H1N1)pdm09, inaktywowana, uzyskana z hodowli w jajach"
+148,"Leptospirosis vaccine, unspecified","Inaktywowana, całokomórkowa szczepionka przeciwko leptospirozie"
+149,Szczepionka przeciwko meningokokom zawierająca białka pęcherzyków błony zewnętrznej,Szczepionka przeciwko meningokokom zawierająca białka pęcherzyków błony zewnętrznej
+150,"Meningococcal conjugate vaccine C, unspecified",Szczepionka meningokokowa C skoniugowana
+151,"Meningococcal A + C vaccine, unspecified","Nieskoniugowana polisacharydowa szczepionka meningokokowa, serogrupy A i C"
+152,"Unconjugated meningococcal vaccine ACWY, unspecified","Nieskoniugowana polisacharydowa szczepionka meningokokowa, serogrupy A, C, W i Y"
+153,"Mumps vaccine, unspecified",Żywa atenuowana szczepionka przeciwko śwince
+154,Szczepionka nieokreślona. Malaria,Szczepionka przeciwko malarii (stosowana w badaniach klinicznych)
+155,"Dengue vaccine, unspecified","Szczepionka przeciwko dendze, nieokreślona"
+156,HPV Vaccine,"Szczepionka przeciwko wirusowi brodawczaka ludzkiego, niespecyfikowana"
+157,Szczepionka nieokreślona. Pneumokoki,"Pneumokokowa szczepionka polisacharydowa skoniugowana lub niespokrewniona, liczba serotypów nieokreślona"
+158,"Rotavirus vaccine, unspecified",Szczepionka przeciwko rotawirusom
+159,Szczepionka nieokreślona. Ospa wietrzna,Szczepionka przeciwko ospie wietrznej
+160,"Live attenuated shingles vaccine, unspecified",Żywa atenuowana szczepionka przeciw półpaścowi
+161,ZOSTAVAX,Żywe atenuowane szczepionki przeciwko półpaścowi
+162,"Brucellosis vaccine, unspecified",Szczepionka przeciwko brucelozie
+163,"Whole-cell inactivated pertussis vaccine, unspecified",Całokomórkowa inaktywowana szczepionka przeciwko krztuścowi
+164,INTANZA 9 µg,"Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej, z rozszczepionym wirionem"
+165,"VAQTA 25 U/0,5 mL","Inaktywowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu A, dawka przypominająca"
+166,VAQTA 50 U,"Inaktywowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu A, dawka dla dorosłych"
+168,AMBIRIX,"Skojarzona szczepionka przeciwko wirusowemu zapaleniu wątroby typu A i B, dawka pediatryczna"
+169,OPTAFLU,"Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej, antygen powierzchniowy, hodowana w komórkach"
+170,AFLUNOV,"Szczepionka przeciwko grypie A(H5N1) (antygen powierzchniowy, inaktywowana, z adiuwantem)"
+171,PREPANDEMIC INFLUENZA VACCINE (H5N1) NOVARTIS,Szczepionka przeciwko grypie A(H5N1)
+172,DIFTAVAX,Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa) i toksoid tężcowy
+173,FLUENZ,"Szczepionka przeciwko grypie sezonowej, trójwartościowa, żywa, atenuowana, donosowa"
+174,PROQUAD,"Żywe atenuowane szczepionki przeciwko odrze, śwince, różyczce i ospie wietrznej"
+175,A.D.T. BOOSTER,Szczepionka zawierająca toksoid błoniczy (mała dawka) i toksoid tężcowy (stosowana w dawkach przypominających)
+176,A.K.D.S.,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana całokomórkowa szczepionka pediatryczna przeciwko krztuścowi"
+177,AC VAX,"Nieskoniugowana szczepionka polisacharydowa przeciwko meningokokom, serogrupy A i C"
+178,ACEL-IMUNE,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i wieloskładnikowa szczepionka acelularna przeciwko krztuścowi (dawka standardowa) dla dzieci"
+179,ACELLULAR D.P.T. KOVAX,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna)"
+180,ACTACEL,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomponentowy acelularny krztusiec (dawka standardowa, 5 składników) oraz szczepionka pediatryczna przeciwko Haemophilus influenzae typu b (skoniugowana z toksoidem tężcowym)"
+182,ADACEL,"Szczepionka zawierająca toksoid błoniczy (mała dawka), toksoid tężcowy i wieloskładnikową szczepionkę acelularną przeciwko krztuścowi (mała dawka)"
+183,AIMMUGEN,Inaktywowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu A
+184,ALDIANA,Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa)
+185,ALDITEANA,Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa) i toksoid tężcowy
+186,ALDITERPERA,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i całokomórkowa inaktywowana szczepionka pediatryczna przeciwko krztuścowi"
+187,AMARIL,Żywa atenuowana szczepionka przeciwko żółtej gorączce
+188,QUIMI-HIB,"Szczepionka przeciwko Haemophilus influenzae typu b, polisacharyd otoczkowy (fosforan polirybozylobitolu, PRP) skoniugowany z toksoidem tężcowym"
+189,ANADIFTERALL,Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa)
+190,ANATETALL,Szczepionka zawierająca toksoid tężcowy
+191,ARILVAX,Żywa atenuowana szczepionka przeciwko żółtej gorączce
+192,ATTENUVAX,Żywa atenuowana szczepionka przeciwko odrze
+193,"AVAC-1, AVA",Adsorbowana bezkomórkowa szczepionka przeciwko wąglikowi z adiuwantem
+194,B-CAPSA,Nieskoniugowana szczepionka polisacharydowa przeciwko Haemophilus influenzae typu b
+195,BEGRIVAC,"Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana z hodowli komórkowej w jajach, z wirionami rozszczepionymi"
+196,BIAVAX,Żywa atenuowana szczepionka przeciwko różyczce i śwince
+197,BIAVAX II,Żywa atenuowana szczepionka przeciwko różyczce i śwince
+198,BIKEN-HB,Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B
+199,BIMMUGEN,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, zawierająca 10 mikrogramów HBsAg w 0,5 ml (dostępny jest preparat o objętości 0,25 ml)"
+200,BIOTHRAX,Adsorbowana bezkomórkowa szczepionka przeciwko wąglikowi z adiuwantem
+201,BIVIRATEN BERNA,Żywa atenuowana szczepionka przeciwko odrze i śwince
+202,BVAC,Antytoksyna przeciw botulizmowi
+203,C.D.T.,Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa) i toksoid tężcowy
+204,CAM-KOVAX,Żywa atenuowana szczepionka przeciwko odrze
+205,CD.JEVAX,"Żywa atenuowana szczepionka przeciwko japońskiemu zapaleniu mózgu, przygotowana w pierwotnej hodowli komórek nerki chomika (PHK) ze szczepu SA 14-14-2"
+206,CELLUVAX,Wieloskładnikowa szczepionka acelularna przeciwko krztuścowi (dawka standardowa)
+207,CENDEVAX,Żywa atenuowana szczepionka przeciwko różyczce
+208,CERTIVA,"Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa), toksoid tężcowy i wieloskładnikową acelularną szczepionkę przeciw krztuścowi (dawka standardowa)"
+209,COMVAX,Szczepionka przeciwko żółtaczce typu B i Haemophilus influenzae typu b (połączona z protekcją OMP)
+210,D.S.D.P.T.,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana całokomórkowa szczepionka pediatryczna przeciwko krztuścowi"
+211,DAPTACEL,"Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa), toksoid tężcowy i wieloskładnikowy acelularny krztusiec (dawka standardowa)"
+212,DI TE PER POL IMPFSTOFF,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, całokomórkowy inaktywowany krztusiec i inaktywowana szczepionka przeciw polio (trójwalentna) dla dzieci"
+213,DI-TE-POL,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna)"
+214,DIF-TET-ALL,Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa) i toksoid tężcowy
+216,ANATOXAL DI TE,Toksoid błoniczy (dawka standardowa) i toksoid tężcowy - szczepionka pediatryczna
+217,DITOXIM,Toksoid błoniczy (dawka standardowa) i toksoid tężcowy - szczepionka pediatryczna
+218,DOUBLE ANIGEN B.,Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa) i toksoid tężcowy
+219,DRYVAX,"Szczepionka przeciwko ospie wietrznej, pierwsza generacja, żywy wirus wakcyny"
+220,DT MERIEUX,Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa) i toksoid tężcowy
+222,"DTwP, unspecified","Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana całokomórkowa szczepionka pediatryczna przeciwko krztuścowi"
+223,DUAL ANTIGEN SII,Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa) i toksoid tężcowy
+224,ECOLARIX,Żywa atenuowana szczepionka przeciwko odrze i różyczce
+225,EIPV,Inaktywowana szczepionka przeciwko polio (trójwalentna)
+226,"Diptheria, Tetanus and Acellular Pertussis Combined Walvax vaccine","Toksoid błoniczy (dawka standardowa), toksoid tężcowy i wieloskładnikowa acelularna szczepionka przeciw krztuścowi (dawka standardowa) dla dzieci"
+227,EPAXAL,"Inaktywowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu A, wirosomowa, pediatryczna lub dla dorosłych"
+228,ERVEVAX RA 27/3,Żywa atenuowana szczepionka przeciwko różyczce
+229,FLU SHIELD,"Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana z hodowli komórkowej jaj"
+230,FLUAD,"Trójwartościowa, inaktywowana szczepionka przeciw grypie sezonowej, antygen powierzchniowy, z adiuwantem"
+231,FLUKOVAX,Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej
+232,FLULAVAL,"Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana z hodowli komórkowej w jajach"
+233,FLUMIST,"Szczepionka przeciwko grypie sezonowej, czterowalentna, żywa, atenuowana, donosowa"
+234,FLUOGEN,"Szczepionka przeciwko grypie sezonowej zawierająca inaktywowane całe wirusy, uzyskana w hodowli jajowej"
+235,FLUVIRIN,Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej
+236,FLUZONE HIGH-DOSE,"Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana z hodowli komórkowej jaj, w wysokiej dawce"
+238,FUNED-CEME,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana całokomórkowa szczepionka przeciw krztuścowi dla dzieci"
+240,GUNEVAX,Żywa atenuowana szczepionka przeciwko różyczce
+241,HAEMOPHILUS INFLUENZAE B CONJUGATE VACCINE - SERUM INSTITUTE OF INDIA,"Szczepionka przeciwko Haemophilus influenzae typu b, polisacharyd otoczkowy (fosforan polirybozylobitolu, PRP) skoniugowany z toksoidem tężcowym"
+242,HBY,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawka dla dorosłych"
+243,HEPA-B INJECTION ADULT,"Szczepionka rekombinowana przeciwko wirusowemu zapaleniu wątroby typu B, dawka dla dorosłych"
+244,HEPRECOMB,Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B zawierająca 10 mikrogramów antygenu HBs do stosowania od 11 roku życia
+245,HEPTAVAX B,"Plazmowa szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, stosowana w USA w latach 1981-1990"
+246,HIBERNA PRODUCTSIX,Toksoid tężcowy i szczepionka przeciwko grypie sezonowej (trójwalentna)
+247,HIBTITER,"Szczepionka przeciwko Haemophilus influenzae typu b, oligosacharydy otoczkowe (fosforan polirybozylobitolu, PRP) sprzężone ze zmutowaną toksyną błoniczą CRM197"
+248,HINKUYS KAROKOE,Pełnokomórkowa inaktywowana szczepionka przeciwko krztuścowi
+249,RUBELLA VACCINE HPV-77,"Żywa atenuowana szczepionka przeciwko różyczce, wyhodowana na kaczych komórkach embrionalnych (szczep HPV-77)"
+251,HUMOTET-ANTI TETANUS,Szczepionka zawierająca toksoid tężcowy
+252,VAXIGRIP ENFANTS,"Trójwalentna, inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana w hodowli jajowej, zawierająca fragmenty wirionów, dawka pediatryczna"
+253,VAXIRAB N,"Inaktywowana w całości szczepionka przeciwko wściekliźnie, szczep Flury LEP, szczepionka z oczyszczonych komórek zarodka kurzego (PCECV), inaktywacja ß-propiolaktonem"
+254,IMOVAX D.T.,Toksoid błoniczy (dawka standardowa) i toksoid tężcowy - szczepionka pediatryczna
+255,IMOVAX GRIPPE,Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej
+256,IMOVAX MUMPS,Żywa atenuowana szczepionka przeciwko śwince
+257,IMOVAX PAROTIDITIS,Żywa atenuowana szczepionka przeciwko śwince
+258,IMOVAX R.O.R.,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+259,IMOVAX Rabies,"Cała inaktywowana szczepionka przeciwko wściekliźnie, przygotowana w komórkach MRC5"
+260,IMOVAX Rabies I.D.,"Inaktywowany cały wirion, szczepionka z ludzkich komórek diploidalnych (HDCV), śródskórnie"
+261,IMOVAX Rabies I.M.,Inaktywowana w całości szczepionka przeciwko wściekliźnie (podanie domięśniowe)
+262,IMOVAX RUBEOLA,Żywa atenuowana szczepionka przeciwko różyczce
+263,IMOVAX SARAMPION,Żywa atenuowana szczepionka przeciwko odrze
+264,INFANRIX,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i wieloskładnikowa acelularna szczepionka przeciw krztuścowi (dawka standardowa) dla dzieci"
+265,INFLU-KOVAX,"Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana z hodowli komórkowej jaj"
+266,INFLUENZA HA VACCINE KOVAX,"Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana z hodowli komórkowej jaj"
+267,IPAD TP,Toksoid tężcowy i inaktywowana szczepionka przeciwko polio (trójwalentna)
+268,IPOL,Inaktywowana szczepionka przeciwko polio (trójwalentna)
+270,"Inactivated Polio vaccine, unspecified",Inaktywowana szczepionka przeciwko polio (trójwalentna)
+271,ISTIVAC,"Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana z hodowli komórkowej w jajach"
+272,KAKSOISROKOTE DUBBELVACCIN,Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa) i toksoid tężcowy
+273,KIKHOSTE-VAKSINE,Pełnokomórkowa inaktywowana szczepionka przeciwko krztuścowi
+274,LANCY VAXINA,"Szczepionka przeciwko ospie wietrznej, pierwszej generacji, żywy wirus wakcylii"
+275,LAVANTUU TIROKOTE,"Szczepionka przeciwko durowi brzusznemu, nieokreślona"
+276,LIOVAX,"Szczepionka przeciwko ospie wietrznej, pierwsza generacja, żywy wirus vaccinia"
+277,LIRUBEL,Żywe atenuowane szczepionki przeciwko odrze i różyczce
+278,LIRUGEN,Żywa atenuowana szczepionka przeciwko odrze
+280,MUMPS-MEASLES VACCINE MICROGEN,Żywa atenuowana szczepionka przeciwko odrze i śwince
+281,LM - 3 RIT,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+282,LTEANAS IMUNA,Szczepionka zawierająca toksoid tężcowy
+283,LYMERIX,Rekombinowana szczepionka przeciwko boreliozie
+284,LYOVAC ATTENUVAX,Żywa atenuowana szczepionka przeciwko odrze
+285,LYOVAC MERUVAX,Żywa atenuowana szczepionka przeciwko różyczce
+286,M-M-R II,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+287,M-R VAX,Żywa atenuowana szczepionka przeciwko odrze i różyczce
+288,M-R VAX II,Żywa atenuowana szczepionka przeciwko odrze i różyczce
+289,M-VAX,Żywa atenuowana szczepionka przeciwko odrze
+290,MASERN-IMPFSTOFF SSW,Żywa atenuowana szczepionka przeciwko odrze
+291,MEASLES VACCINE AIK-C STRAIN POLYVAC,Żywa atenuowana szczepionka przeciwko odrze
+292,MEASLES VACCINE DK3,Żywa atenuowana szczepionka przeciwko odrze
+293,MENAFRIVAC,Szczepionka skoniugowana przeciwko meningokokom serogrupy A
+294,MENCEVAX A,"Nieskoniugowana szczepionka polisacharydowa przeciwko meningokokom, serogrupa A"
+295,MENOMUNE-A/C/Y/W-135,"Nieskoniugowana szczepionka polisacharydowa przeciwko meningokokom, serogrupy A, C, W i Y"
+296,MENPOVAX 4 A+C+Y+W135,"Nieskoniugowana polisacharydowa szczepionka przeciw meningokokom, serogrupy A, C, W i Y"
+297,MENPOVAX A+C,"Nieskoniugowana szczepionka polisacharydowa przeciwko meningokokom, serogrupy A i C"
+298,MERUVAX,Żywa atenuowana szczepionka przeciwko różyczce
+299,MERUVAX II,Żywa atenuowana szczepionka przeciwko różyczce
+300,MEVILIN-L,Żywa atenuowana szczepionka przeciwko odrze
+301,MMR,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+303,MONIARIX,"17-walentna polisacharydowa szczepionka przeciw pneumokokom, serotypy 1, 2, 3, 4, 6A, 7F, 8, 9N, 11A, 12F, 14, 15F, 17F, 18C, 19F, 23F i 25"
+304,MOPAVAC SEVAC,Żywa atenuowana szczepionka przeciwko odrze i śwince
+305,MOPV,"Szczepionka przeciwko polio (żywa, atenuowana, trójwartościowa) przeciwko poliovirusom 1, 2 i 3, doustna"
+306,MORBILVAX,Żywa atenuowana szczepionka przeciwko odrze
+307,MORUBEL,Żywa atenuowana szczepionka przeciwko odrze i różyczce
+308,MORUMAN BERNA PRODUCTS,Immunoglobulina przeciwko odrze
+309,MORUPAR,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+310,MOVIVAC,Żywa atenuowana szczepionka przeciwko odrze
+311,MUMATEN BERNA PRODUCTSNA,Żywa atenuowana szczepionka przeciwko śwince
+312,MUMPS LIVE,Żywa atenuowana szczepionka przeciwko śwince
+313,MUMPS inactivated,Cały wirion Inaktywowana szczepionka przeciwko śwince
+315,MUMPSVAX,Żywa atenuowana szczepionka przeciwko śwince
+317,NABI-HB,Immunoglobulina zapalenia wątroby typu B
+318,NOTHAV,Inaktywowana szczepionka przeciwko zapaleniu wątroby typu A
+319,OMNIHIB,"Szczepionka przeciwko Haemophilus influenzae typu b, polisacharyd otoczkowy (fosforan polirybozylorybitolu, PRP) sprzężony z toksoidem tężcowym"
+320,"OPV 1-2-3, unspecified","Szczepionka przeciwko polio (żywa, atenuowana, trójwartościowa) przeciwko poliovirusom 1, 2 i 3, doustna"
+321,ORIMUNE,"Szczepionka przeciwko polio (żywa atenuowana, trójwartościowa) przeciwko poliovirusom 1, 2 i 3, doustna"
+322,PARIORIX,Żywa atenuowana szczepionka przeciwko śwince
+323,PAVIVAC-SEVAC,Żywa atenuowana szczepionka przeciwko odrze
+324,"Pneumococcal conjugate vaccine, 7 valent, unspecified","Pneumokokowa polisacharydowa szczepionka skoniugowana, 7-walentna, serotypy 4, 6B, 9V, 14, 18C, 19F i 23F"
+325,PEDIARIX,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomponentowy acelularny krztusiec (dawka standardowa), inaktywowana szczepionka przeciw polio (trójwalentna) oraz szczepionka przeciw wirusowemu zapaleniu wątroby typu B (rekombinowana) dla dzieci"
+326,PEDVAXHIB,"Szczepionka przeciwko Haemophilus influenzae typu b, polisacharyd otoczkowy (fosforan polirybozylobitolu, PRP) sprzężony z białkiem błony zewnętrznej Neisseria meningitidis serogrupy B"
+327,PENTA,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wieloskładnikowy acelularny krztusiec (5 składników, dawka standardowa), Haemophilus influenzae typu b (skoniugowany z toksoidem tężcowym) oraz inaktywowana szczepionka pediatryczna przeciwko polio (trójwartościowa), adsorbowana"
+328,PENTACEL,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wieloskładnikowy acelularny krztusiec (5 składników, dawka standardowa), Haemophilus influenzae typu b (sprzężony z toksoidem tężcowym) i inaktywowana szczepionka pediatryczna przeciwko polio (trójwartościowa), adsorbowana"
+330,PENTACT-HIB,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, krztusiec, Haemophilus influenzae typu b (sprzężony z toksoidem tężcowym) oraz inaktywowana szczepionka przeciwko polio (trójwartościowa) dla dzieci, adsorbowana"
+332,PENTAVALENTE,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, koklusz pełnokomórkowy, Haemophilus influenzae typu b (sprzężony z toksoidem tężcowym) i wirusowe zapalenie wątroby typu B (rekombinowane) szczepionka pediatryczna"
+333,PFIZER VAX-MEASLES K,"Inaktywowana szczepionka przeciwko odrze, stara"
+334,PFIZER-VAX MEASLES-L,Żywa atenuowana szczepionka przeciwko odrze
+335,PLUSERIX,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+336,PNEUMOVAX,"Polisacharydowa szczepionka przeciw pneumokokom, 23-walentna, serotypy 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F i 33F"
+337,PNU-IMUNE 23,"Pneumokokowa polisacharydowa szczepionka nie koniugatowa, 23-walentna, serotypy 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F i 33F"
+338,POLIACEL,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wieloskładnikowy acelularny krztusiec (5 składników, dawka standardowa), Haemophilus influenzae typu b (skoniugowana z toksoidem tężcowym) oraz inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna), adsorbowana"
+339,"Pneumococcal polysaccharide vaccine 23-valent, unspecified","Pneumokokowa polisacharydowa szczepionka nieskoniugowana, 23-walentna"
+341,PREVNAR,"Pneumokokowa polisacharydowa szczepionka skoniugowana, 7-walentna, adsorbowana, serotypy 4, 6B, 9V, 14, 18C, 19F i 23F"
+343,PROHIBIT,Szczepionka skoniugowana przeciwko Haemophilus influenzae typu b (PRP-D)
+344,"PRP-OMP Hib vaccine, unspecified",Szczepionka skoniugowana przeciwko Haemophilus influenzae typu b składająca się z PRP (fosforan polirybozylobitolu) skoniugowanego z OMP (białko błony zewnętrznej Neisseria meningitidis)
+345,"Hib PRP-T conjugated vaccine, unspecified",Szczepionka skoniugowana przeciwko Haemophilus influenzae typu b składająca się z PRP (fosforan polirybozylobitolu) skoniugowanego z toksoidem tężcowym
+346,PURIVAX,Inaktywowana szczepionka przeciw polio (trójwalentna)
+347,QUADRACEL,"Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomponentową szczepionkę acelularną przeciwko krztuścowi (dawka standardowa) oraz inaktywowaną szczepionkę przeciwko polio (trójwalentną)"
+348,QUADRACEL/HIBEST,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wieloskładnikowy krztusiec acelularny (5 składników, dawka standardowa), Haemophilus influenzae typu b (sprzężony z toksoidem tężcowym) oraz inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna), adsorbowana"
+349,QUADRIGEN,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, całokomórkowa inaktywowana szczepionka przeciw krztuścowi i inaktywowana szczepionka przeciw polio (trójwalentna) dla dzieci"
+350,QUATRO-VIRELON,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomponentowy acelularny krztusiec (dawka standardowa) oraz inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna)"
+351,QUINTUPLE,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomponentowy acelularny krztusiec (dawka standardowa), Haemophilus influenzae typu b (skoniugowana z toksoidem tężcowym) oraz szczepionka pediatryczna przeciwko wirusowemu zapaleniu wątroby typu B (rekombinowana)"
+352,R-HB VACCINE,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawka dla dorosłych"
+353,R-VAC,Żywa atenuowana szczepionka przeciwko różyczce
+354,RA27/3,Żywa atenuowana szczepionka przeciwko różyczce
+355,RABAVERT,"Inaktywowana w całości szczepionka przeciwko wściekliźnie, szczep Flury LEP, oczyszczona szczepionka z komórek zarodka kurzego (PCECV), inaktywacja ß-propiolaktonem"
+356,RECOMBIVAX HB PEDIATRIC,"Szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawka dla dzieci"
+357,"RESPIGAM, RSV-IVIG",Immunoglobulina anty-RSV
+358,"Rabies immunoglobulin human origin, unspecified","Immunoglobulina przeciwko wściekliźnie, pochodzenia ludzkiego"
+359,RIMEVAX,Żywa atenuowana szczepionka przeciwko odrze
+360,RIMPARIX,Żywa atenuowana szczepionka przeciwko odrze i śwince
+361,RIT - LM-2,Żywa atenuowana szczepionka przeciwko odrze i śwince
+362,RIT - LM-3,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+363,ROTASHIELD,Szczepionka przeciwko rotawirusom (pierwsza)
+364,RUBEATEN BERNA PRODUCTS,Żywa atenuowana szczepionka przeciwko różyczce
+365,RUBELLA VACCINE MICROGEN,Żywa atenuowana szczepionka przeciwko różyczce
+366,RUBELLA-KOVAX,Żywa atenuowana szczepionka przeciwko różyczce
+367,RUBELLOVAC,Żywa atenuowana szczepionka przeciwko różyczce
+368,RUBELOGEN,Żywa atenuowana szczepionka przeciwko różyczce
+369,RUBEOVAX,Żywa atenuowana szczepionka przeciwko odrze
+370,RVA RABIES VACCINE ABSORBED BIOPORT,"cała inaktywowana szczepionka przeciwko wściekliźnie, adsorbowana na fosforanie glinu z laboratorium BioPort"
+371,SABIN,"Szczepionka przeciwko polio (żywa atenuowana, trójwartościowa) przeciwko poliovirusom 1, 2 i 3, doustna"
+372,SAHIA,"Szczepionka przeciwko polio (żywa, atenuowana, trójwartościowa) przeciwko poliovirusom 1, 2 i 3, doustna"
+373,SALK,Inaktywowana szczepionka przeciwko polio (trójwalentna)
+374,SANDOVAC,"Trójwalentna szczepionka inaktywowana przeciwko grypie sezonowej, uzyskana z hodowli jajowej"
+375,SEROBACTERIN,"Inaktywowana, pełnokomórkowa szczepionka przeciwko cholerze do wstrzykiwań w połączeniu z polisacharydową szczepionką przeciwko durowi brzusznemu"
+376,SHANCOL TM,Doustna inaktywowana pełnokomórkowa szczepionka przeciwko cholerze
+377,TRIPLE ANTIGEN SII,
+378,SYNAGIS 100 mg (PALIZIVUMAB),Przeciwciało monoklonalne hRSV
+379,T-IMMUN,Szczepionka zawierająca toksoid tężcowy
+380,"T.Polio, unspecified",Toksoid tężcowy i inaktywowana szczepionka przeciwko polio (trójwalentna)
+382,"Tetanus diphtheria vaccine, unspecified",Szczepionka zawierająca toksoid błoniczy (dawka nieokreślona) i toksoid tężcowy
+383,ANATOXAL TE,Szczepionka zawierająca toksoid tężcowy
+384,TE/VAC/PTAP,Szczepionka zawierająca toksoid tężcowy (Jugosławia)
+385,TELVACLPTAP,Szczepionka zawierająca toksoid tężcowy
+386,TETAMYN,Szczepionka zawierająca toksoid tężcowy
+387,TETANOL,Szczepionka zawierająca toksoid tężcowy
+388,TETASORBAT SSW,Szczepionka zawierająca toksoid tężcowy
+389,TETAMUN SSW,Szczepionka zawierająca toksoid tężcowy
+390,TETRACT-HIB,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, całokomórkowy inaktywowany krztusiec i Haemophilus influenzae typu b (sprzężony z toksoidem tężcowym) szczepionka pediatryczna"
+391,TETRAMUNE,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, krztusiec pełnokomórkowy i Haemophilus influenzae typu b (skoniugowana z toksoidem błoniowym) szczepionka pediatryczna"
+392,TETRAVAX,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, inaktywowany całokomórkowo krztusiec i inaktywowane polio (trójwalentne) szczepionka pediatryczna"
+393,TICE BCG,Szczepionka przeciw gruźlicy
+394,TIG,Immunoglobulina przeciwtężcowa
+395,TITIFICA,"Szczepionka przeciwko durowi brzusznemu i paratyfusowi, cała inaktywowana"
+396,BIOPOLIO,"Szczepionka przeciwko polio (żywa atenuowana, trójwartościowa) przeciwko poliovirusom 1, 2 i 3, doustna"
+397,TRESIVAC LYOPHOLIZED,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+398,TRI-IMMUNOL,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i całokomórkowa inaktywowana szczepionka pediatryczna przeciwko krztuścowi"
+399,TRIACEL,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna)"
+400,TRIACELLUVAX,"Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa), toksoid tężcowy i wieloskładnikowy acelularny krztusiec (dawka standardowa)"
+401,TRIHIBIT,"Szczepionka przeciwko błonicy (dawka standardowa), toksoidowi tężcowemu, wielokomponentowemu krztuścowi acelularnemu (dawka standardowa) oraz Haemophilus influenzae typu b (skoniugowana z toksoidem tężcowym)"
+403,TRINIVAC,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana całokomórkowa szczepionka przeciw krztuścowi dla dzieci"
+404,TRIPACEL,"Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa), toksoid tężcowy i wieloskładnikowy acelularny krztusiec (dawka standardowa)"
+405,TRIPEDIA,"Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa), toksoid tężcowy i wieloskładnikową szczepionkę acelularną przeciwko krztuścowi (dawka standardowa)"
+407,TRIPLE,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy oraz inaktywowana całokomórkowa szczepionka pediatryczna przeciwko krztuścowi"
+408,TRIPLE ANTIGEN,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana całokomórkowa szczepionka przeciw krztuścowi dla dzieci"
+409,TRIPLE SABIN,"Szczepionka przeciwko polio (żywa atenuowana, trójwartościowa) przeciwko poliovirusom 1, 2 i 3, doustna"
+410,TRIPLE VIRAL,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+411,TRIVACUNA LETI,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana całokomórkowa szczepionka pediatryczna przeciwko krztuścowi"
+412,TRIVAX,"Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa), toksoid tężcowy i wieloskładnikową szczepionkę acelularną przeciwko krztuścowi (dawka standardowa)"
+413,TRIVAX-AD,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i wieloskładnikowa szczepionka acelularna przeciwko krztuścowi (dawka standardowa) dla dzieci"
+414,TRIVAX-HIB,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomponentowy acelularny krztusiec (dawka standardowa) i Haemophilus influenzae typu b (skoniugowana z toksoidem tężcowym) szczepionka pediatryczna"
+415,TRIVB,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana szczepionka przeciw polio (trójwalentna) pediatryczna"
+416,Triviraten,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+417,TRIVIVAC SEVAC,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+418,TRIVIVAC Y,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+419,SHANTT,Szczepionka zawierająca toksoid tężcowy
+420,BIO-TT Vaccine,Szczepionka zawierająca toksoid tężcowy
+421,TUSSITRUPIN FORTE,Pełnokomórkowa inaktywowana szczepionka przeciwko krztuścowi
+423,TWINRIX JUNIOR,"Skojarzona szczepionka przeciwko wirusowemu zapaleniu wątroby typu A i B, dawka pediatryczna"
+424,"Live attenuated oral typhoid vaccine, unspecified","Żywa atenuowana szczepionka przeciwko durowi brzusznemu, szczep Ty21a, doustna"
+425,TYNE,Szczepionka przeciw gruźlicy
+426,TYPHOID VACCINE WYETH,Inaktywowana całokomórkowa szczepionka przeciwko durowi brzusznemu
+427,TYPHOID-KOVAX,Polisacharydowa szczepionka przeciwko durowi brzusznemu (antygen kapslowy Vi)
+428,VA-MENGOC-BC,Szczepionka przeciwko meningokokom serogrupy B i C
+429,VACCIN COMBINAT DIFTERO-TETANIC,Toksyna błonicza (dawka standardowa) i toksoid tężcowy - szczepionka pediatryczna
+430,VACCIN DIFTERIC ADSORBIT,Toksoid błoniczy (dawka nieokreślona)
+431,VACCINUM MORBILLORUM VIVUM,Żywa atenuowana szczepionka przeciwko odrze
+432,VACINA DUPLA,Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa) i toksoid tężcowy
+433,VACINA TRIPLICE,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowany całokomórkowy lub acelularny krztusiec (dawka nieokreślona) szczepionka pediatryczna"
+434,VACINA TRIPLICE VIRAL,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+435,VAKSIN CACAR,"Szczepionka przeciwko ospie wietrznej, pierwsza generacja, żywy wirus vaccinia"
+436,VAKSIN CAMPAK KERING,Żywa atenuowana szczepionka przeciwko odrze
+437,VAKSIN KOTIPA,"Inaktywowana, pełnokomórkowa szczepionka przeciwko cholerze do wstrzykiwań w połączeniu z inaktywowaną, pełnokomórkową szczepionką przeciwko durowi brzusznemu"
+438,VAKSIN SERAP,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana lub acelularna szczepionka przeciw krztuścowi (dawka nieokreślona) dla dzieci"
+439,VAMOAVAX,Żywa atenuowana szczepionka przeciwko odrze i śwince
+441,SKY Varicella Inj,Szczepionka przeciwko ospie wietrznej (laboratorium SK Bioscience)
+442,VARICELLON,Immunoglobulina przeciwko wirusowi ospy wietrznej
+443,VARIE,"Szczepionka przeciwko ospie wietrznej, pierwsza generacja, żywy wirus wakcylii"
+444,VAXEM-HIB,Szczepionka przeciwko Haemophilus influenzae typu b (skoniugowana z toksoidem błoniczym)
+445,VAXIPAR,Żywa szczepionka przeciwko śwince
+446,VCDT,Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa) i toksoid tężcowy
+447,VDA VACCIN DIFTERIC ADSORBIT,Toksyna błonicza (dawka standardowa) szczepionka pediatryczna
+448,VICPS (TYPHIM VI),Polisacharydowa szczepionka przeciwko durowi brzusznemu (antygen otoczkowy Vi)
+449,VIRELON T 20,"Szczepionka przeciwko polio (żywa, atenuowana, trójwartościowa) przeciwko poliovirusom 1, 2 i 3, doustna"
+450,"VIROVAC MASSLING, PEROTID, RUBELLA","Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+451,VIVOTIF,"Żywa atenuowana szczepionka przeciwko durowi brzusznemu, szczep Ty21a, doustna"
+452,VT (VACINA TRIPLICE),"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i całokomórkowy inaktywowany lub acelularny krztusiec (dawka nieokreślona) szczepionka pediatryczna"
+453,VTV (VACINA TRIPLICE VIRAL),"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+454,VVR,Żywa atenuowana szczepionka przeciwko odrze
+456,WELLTRIVAX TRIVALENTE,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i całokomórkowa inaktywowana lub acelulowana szczepionka przeciw krztuścowi (dawka nieokreślona) dla dzieci"
+457,YF-VAX,Żywa atenuowana szczepionka przeciwko żółtej gorączce
+458,ZAANTIDE antitoxin,Immunoglobulina antytoksyny błoniczej
+459,ZAANTITE,Szczepionka zawierająca toksoid tężcowy
+460,ZADITEADVAX,Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa) i toksoid tężcowy
+461,ZADITEVAX,Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa) i toksoid tężcowy
+462,ZAMEVAX A+C,"Nieskoniugowana polisacharydowa szczepionka meningokokowa, serogrupy A i C"
+463,ZAMOVAX,Żywa atenuowana szczepionka przeciwko odrze
+464,ZAMRUVAX,Żywa atenuowana szczepionka przeciwko odrze i różyczce
+465,ZARUVAX,Żywa atenuowana szczepionka przeciwko różyczce
+466,ZATETRAVAX,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy oraz inaktywowana całokomórkowa lub acelularna szczepionka przeciw krztuścowi (dawka nieokreślona) dla dzieci"
+467,ZATEVAX,Szczepionka zawierająca toksoid tężcowy
+468,ZATRIBAVAX,"Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowany całokomórkowo krztusiec"
+469,ZATRIVAX,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+470,QUINVAXEM,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, krztusiec pełnokomórkowy, Haemophilus influenzae typu b (skoniugowany z toksoidem błoniowym) oraz szczepionka pediatryczna przeciwko wirusowemu zapaleniu wątroby typu B (rekombinowana)"
+471,HEPAVAX-GENE B 20 µg,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawka dla dorosłych"
+472,PREPANDRIX,Szczepionka przeciwko grypie A(H5N1)
+473,PRE-PANDEMIC INFLUENZA VACCINE H5N1,"Szczepionka przeciwko grypie A(H5N1) (podzielona, z adiuwantem)"
+474,DARONRIX,Szczepionka przeciwko grypie A(H5N1)
+475,FOCLIVIA,Szczepionka przeciw grypie A(H5N1)
+476,Pandemic Influenza Vaccine H5N1 Baxter,"Szczepionka przeciwko grypie A(H5N1) (cały wirion, hodowany w komórkach Vero, inaktywowany) wielodawkowa"
+477,PUMARIX,Szczepionka przeciwko grypie A(H5N1)
+478,COVAXIS,"Toksydy błonicze (mała dawka), toksoid tężcowy i wieloskładnikowa szczepionka acelularna przeciwko krztuścowi (mała dawka)"
+479,TRIAXIS,"Szczepionka zawierająca toksoid błoniczy (niska dawka), toksoid tężcowy i wieloskładnikową szczepionkę acelularną przeciwko krztuścowi (niska dawka)"
+480,FENDRIX,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawkowanie dla pacjentów dializowanych"
+481,TRIVIVAX,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+482,VEPACEL,"Szczepionka przeciwko grypie A(H5N1) (cały wirion, hodowany w komórkach Vero, inaktywowany)"
+483,FLUAD PAEDIATRICS,"Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej, antygen powierzchniowy"
+484,RABIVAX-S,Inaktywowana w całości szczepionka przeciwko wściekliźnie
+485,TETAGAM P (immunoglobuline),Immunoglobulina przeciwtężcowa
+486,NIMENRIX,"Czterowalentna skoniugowana szczepionka meningokokowa przeciwko serogrupom A, C, W i Y"
+487,MENHIBRIX,Szczepionka przeciwko Haemophilus influenzae typu b oraz szczepionka skoniugowana przeciwko meningokokom A i C
+488,PENTAXIM,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wieloskładnikowa szczepionka acelularna przeciwko krztuścowi (5 składników, dawka standardowa), Haemophilus influenzae typu b (skoniugowana z toksoidem tężcowym) oraz inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna), adsorbowana"
+489,TRIMOVAX,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+490,KINRIX,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wieloskładnikowy acelularny krztusiec (dawka standardowa) i inaktywowana szczepionka pediatryczna przeciwko polio (trójwartościowa)"
+491,TENIVAC,Szczepionka zawierająca toksoid błoniczy (mała dawka) i toksoid tężcowy
+492,AFLURIA,"Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana z hodowli komórkowej w jajach, z wirionami rozszczepionymi"
+494,TRITANRIX HepB,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, całokomórkowa inaktywowana szczepionka pediatryczna przeciwko krztuścowi i wirusowemu zapaleniu wątroby typu B (rekombinowana)"
+495,BEXSERO,4-komponentowa szczepionka przeciwko meningokokom typu B
+496,GAMMATETANOS (immunoglobulines),Immunoglobulina przeciwtężcowa
+497,"Tetanus immunoglobulin, unspecified",Immunoglobulina przeciwtężcowa
+498,IMOGAM RAGE,"Immunoglobulina przeciwko wściekliźnie, pochodzenia ludzkiego"
+499,BERIRAB,"Immunoglobulina przeciwko wściekliźnie, pochodzenia ludzkiego"
+500,FAVIRAB,"Immunoglobulina przeciwko wściekliźnie, pochodzenia końskiego"
+501,EQUIRAB (immunoglobuline),"Immunoglobulina przeciwko wściekliźnie, pochodzenia końskiego"
+502,"Rabies immunoglobulin, unspecified","Immunoglobulina przeciwko wściekliźnie, pochodzenia ludzkiego lub końskiego"
+503,"Rabies immunoglobulin equine origin, unspecified","Immunoglobulina przeciw wściekliźnie, pochodzenia końskiego"
+504,INFANRIX Polio HIB Nourrissons,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomponentowy acelularny krztusiec (dawka standardowa), Haemophilus influenzae typu b (skoniugowana z toksoidem tężcowym) oraz inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna), adsorbowana"
+505,HIBEST,"Szczepionka przeciwko Haemophilus influenzae typu b, polisacharyd otoczkowy (fosforan polirybozylobitolu, PRP) skoniugowany z toksoidem tężcowym"
+506,"Pentavalent DTaPHibIPV vaccine, unspecified","Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomponentowy acelularny krztusiec (dawka standardowa), Haemophilus influenzae typu b (skoniugowana nieokreślona) oraz inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna)"
+507,HEXACIMA,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wieloskładnikowa acelularna szczepionka przeciw krztuścowi (dawka standardowa), Haemophilus influenzae typu b (skoniugowana z toksoidem tężcowym), inaktywowana szczepionka przeciw polio (trójwalentna) i przeciw wirusowemu zapaleniu wątroby typu B (rekombinowana) dla dzieci, adsorbowana"
+508,JEEV 3 µg,"Cała inaktywowana szczepionka przeciwko japońskiemu zapaleniu mózgu, przygotowana w komórkach Vero, 3 mikrogramy"
+509,BIKEN,"Szczepionka przeciwko japońskiemu zapaleniu mózgu, inaktywowana, pochodząca z mózgu myszy, szczep Nakayama - inna nazwa: JEVAX"
+510,HEXYON,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wieloskładnikowy acelularny krztusiec (2 składników, dawka standardowa), Haemophilus influenzae typu b (skoniugowana z toksoidem tężcowym), inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna) i wirusowemu zapaleniu wątroby typu B (rekombinowana), adsorbowana"
+511,SILGARD,"Szczepionka przeciwko wirusowi brodawczaka ludzkiego, oparta na cząsteczkach VLP (Virus Like Particles), niewalentna (typy 6, 11, 16 i 18), rekombinowana, adsorbowana"
+512,"Typhus vaccine, unspecified",Szczepionka przeciwko tyfusowi epidemicznemu (tyfus epidemiczny wszy)
+513,HEPATYRIX,Skojarzona szczepionka przeciwko wirusowemu zapaleniu wątroby typu A i durowi brzusznemu
+514,ROTARIX,"Szczepionka przeciw rotawirusom, doustna"
+515,INFANRIX POLIO,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomponentowa acelularna szczepionka przeciw krztuścowi (dawka standardowa) oraz inaktywowana szczepionka przeciw polio (trójwalentna) dla dzieci"
+516,ABHAYRAB,Inaktywowana w całości szczepionka przeciwko wściekliźnie
+517,FLUARIXTETRA,"Czterowalentna inaktywowana szczepionka przeciwko grypie sezonowej, podzielona wirusowo"
+518,STAMARIL (multidose),Żywa atenuowana szczepionka przeciwko żółtej gorączce
+520,IMVANEX,"Szczepionka przeciwko ospie wietrznej, trzecia generacja, zmodyfikowany wirus vaccinia Ankara, niereplikowalna"
+521,FLUENZ TETRA,"Żywa atenuowana czterowalentna szczepionka przeciwko grypie sezonowej, donosowa"
+523,GARDASIL 9,"Szczepionka przeciwko wirusowi brodawczaka ludzkiego, oparta na cząstkach VLP (Virus Like Particles), niewalentna (typy 6, 11, 16, 18, 31, 33, 45, 52 i 58), rekombinowana, adsorbowana"
+524,TEVAX,Szczepionka zawierająca toksoid tężcowy
+525,INFANRIX PENTA,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomponentowa acelularna szczepionka przeciw krztuścowi (dawka standardowa), inaktywowana szczepionka przeciw polio (trójwalentna) oraz szczepionka przeciw wirusowemu zapaleniu wątroby typu B (rekombinowana) dla dzieci, adsorbowana"
+526,HECOLIN,Rekombinowana szczepionka peptydowa przeciwko zapaleniu wątroby typu E
+527,VACCIN DIPHTERIQUE ET TETANIQUE ADSORBE,Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa) i toksoid tężcowy
+528,MOSQUIRIX,Szczepionki przeciwko wirusowemu zapaleniu wątroby typu B i malarii
+529,IMOVAX TETANO,Szczepionka zawierająca toksoid tężcowy
+530,TETANOL PUR,Szczepionka zawierająca toksoid tężcowy
+531,TETANOS ADSORBE MERIEUX,Szczepionka zawierająca toksoid tężcowy
+532,TETANUS VACCIN,Szczepionka zawierająca toksoid tężcowy (sprzedawana przez pewien czas w Holandii przez Bilthoven Biologicals)
+534,MENJUGATE 10 µg,Szczepionka skoniugowana przeciwko meningokokom typu C
+535,VAXELIS,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wieloskładnikowa acelularna szczepionka przeciw krztuścowi (dawka standardowa), Haemophilus influenzae typu b (sprzężona z białkiem błony zewnętrznej Neisseria meningitidis serogrupy B), inaktywowana szczepionka przeciw polio (trójwalentna) oraz szczepionka przeciw wirusowemu zapaleniu wątroby typu B (rekombinowana) dla dzieci, adsorbowana"
+538,VACCIN BCG BIOMED-LUBLIN,Szczepionka przeciw gruźlicy
+539,DENGVAXIA,"Żywe atenuowane, chimeryczne, rekombinowane, czterowalentne [serotypy 1, 2, 3 i 4] szczepionki przeciwko wirusowi dengi (na bazie szczepionki przeciwko żółtej gorączce 17D)"
+540,IPAD T,Szczepionka zawierająca toksoid tężcowy
+541,BOOSTRIX,"Toksoid błoniczy (niska dawka), toksoid tężcowy i wieloskładnikowa szczepionka acelularna przeciwko krztuścowi (niska dawka)"
+542,Vaccin D.T.P. Pasteur,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna)"
+543,HEXAXIM,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomponentowy acelularny krztusiec (dawka standardowa), Haemophilus influenzae typu b (skoniugowana z toksoidem tężcowym), inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna) i wirusowemu zapaleniu wątroby typu B (rekombinowana), adsorbowana"
+544,TETRAXIM,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wieloskładnikowa acelularna szczepionka przeciw krztuścowi (dawka standardowa) oraz inaktywowana szczepionka przeciw polio (trójwalentna) dla dzieci"
+545,EUVAX B 20 µg,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawka dla dorosłych"
+546,DULTAVAX,"Toksoid błoniczy (niska dawka), toksoid tężcowy i inaktywowana szczepionka przeciwko polio (trójwartościowa), adsorbowana"
+549,"dTIPV - Diphtheria-Tetanus-Polio, low dose, unspecified","Toksoid błoniczy (niska dawka), toksoid tężcowy i inaktywowana szczepionka przeciwko polio (trójwalentna)"
+550,"Measles-Rubella vaccine, unspecified",Żywa atenuowana szczepionka przeciwko odrze i różyczce
+551,"DTaPIPV vaccine, standard dose, unspecified","Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomponentowa acelularna szczepionka przeciw krztuścowi (dawka standardowa) oraz inaktywowana szczepionka przeciw polio (trójwalentna) dla dzieci"
+552,"DTaPHibHepBIPV hexavalent vaccine, unspecified","Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomponentowa acelularna szczepionka przeciw krztuścowi (dawka standardowa), Haemophilus influenzae typu b (skoniugowana nieokreślona), inaktywowana szczepionka przeciw polio (trójwartościowa) i szczepionka przeciw wirusowemu zapaleniu wątroby typu B (rekombinowana) dla dzieci"
+553,"Pentavalent DTwPHibIPV vaccine, unspecified","Toksoid błoniczy (dawka standardowa), toksoid tężcowy, krztusiec pełnokomórkowy, skoniugowana szczepionka przeciwko Haemophilus influenzae typu b (skoniugowana nieokreślona) oraz inaktywowana szczepionka przeciwko polio (trójwalentna) pediatryczna"
+554,PEDIACEL,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wieloskładnikowy acelularny krztusiec (5 składników, dawka standardowa), Haemophilus influenzae typu b (sprzężony z toksoidem tężcowym) i inaktywowana szczepionka pediatryczna przeciwko polio (trójwartościowa), adsorbowana"
+555,CombAct-HIB,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, krztusiec, Haemophilus influenzae typu b (skoniugowany z toksoidem tężcowym) oraz inaktywowana szczepionka przeciwko polio (trójwalentna), adsorbowana"
+556,MENITORIX,Haemophilus influenzae typu b i szczepionka skoniugowana przeciwko meningokokom typu C
+560,VAXIGRIPTETRA,Inaktywowana czterowalentna szczepionka przeciwko grypie sezonowej z antygenami powierzchniowymi
+561,IMOJEV,"Żywa atenuowana szczepionka przeciwko japońskiemu zapaleniu mózgu, rekombinowana chimeryczna"
+562,INFLUVAC TETRA,Czterowalentna inaktywowana szczepionka przeciwko grypie sezonowej z antygenami powierzchniowymi
+563,ALPHA-RIX-TETRA,"Czterowalentna inaktywowana szczepionka przeciwko grypie sezonowej, z rozszczepionym wirionem"
+566,PNEUMOCOCCAL POLYSACCHARIDE VACCINE MSD,"Pneumokokowa polisacharydowa szczepionka nieskojarzona, 23-walentna, serotypy 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F i 33F"
+567,SHINGRIX,"Szczepionka przeciwko półpaścowi (rekombinowana, z adiuwantem)"
+568,BOOSTRIX-POLIO,"Toksoid błoniczy (niska dawka), toksoid tężcowy, wieloskładnikowa acelularna szczepionka przeciw krztuścowi (5 składników, niska dawka) i inaktywowana szczepionka przeciw polio (trójwalentna), adsorbowana"
+569,INFANRIX-IPV,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomponentowa acelularna szczepionka przeciw krztuścowi (dawka standardowa) oraz inaktywowana szczepionka przeciw polio (trójwalentna) dla dzieci"
+570,HIBERIX,Szczepionka skoniugowana przeciwko Haemophilus influenzae typu b (Hib) (koniugat białek tężcowych)
+573,AGRIFLU,"Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana z hodowli komórkowej jaj, antygen powierzchniowy"
+574,Td POLIO ADSORBED,"Toksyna błonicza (mała dawka), toksoid tężcowy i inaktywowana szczepionka przeciw polio (trójwartościowa), adsorbowana"
+575,FSME-IMMUN,Szczepionka przeciwko kleszczowemu zapaleniu mózgu (inaktywowana)
+576,FLUVIRAL,Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej
+577,TRIPACEL HYBRID,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i wieloskładnikowa szczepionka acelularna przeciwko krztuścowi (dawka standardowa), pediatryczna"
+578,INFANRIX-HIB,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomponentowy acelularny krztusiec (dawka standardowa) oraz Haemophilus influenzae typu b (skoniugowana z toksoidem tężcowym) szczepionka pediatryczna"
+579,CLAIRYG 50 mg/mL,"Immunoglobulina przeciwko gorączce, pochodzenia ludzkiego"
+580,CLAIRYG,"Immunoglobulina przeciwko gorączce, pochodzenia ludzkiego"
+582,TRUMENBA,"Szczepionka przeciwko meningokokom typu B (rekombinowana, adsorbowana)"
+585,"TdapIPV - Diphtheria-Tetanus-Pertussis-Polio vaccine, low dose, unspecified","Toksoid błoniczy (mała dawka), toksoid tężcowy, wieloskładnikowa acelularna szczepionka przeciw krztuścowi (5 składników, mała dawka) i inaktywowana szczepionka przeciw polio (trójwartościowa), adsorbowana"
+586,Ervebo,"Szczepionka przeciwko wirusowi Ebola Zaire (rVSVΔG-ZEBOV-GP, żywa)"
+590,VACCIN BCG AJVACCINES,Szczepionka przeciw gruźlicy
+591,VIVAXIM,"Skojarzona szczepionka przeciwko durowi brzusznemu (oczyszczony antygen polisacharydowy Vi) i wirusowemu zapaleniu wątroby typu A (inaktywowany cały wirus), podawana w strzykawce dwukomorowej"
+592,SPEEDA,"Inaktywowana w całości szczepionka przeciwko wściekliźnie, hodowana na komórkach Vero"
+593,VERORAB,"Inaktywowana w całości szczepionka przeciwko wściekliźnie, szczep WISTAR PM/WI 38-1503-3M, hodowana na komórkach Vero, beta-propiolakton Inaktywowana"
+594,MenQuadfi,"Czterowalentna skoniugowana szczepionka meningokokowa przeciwko serogrupom A, C, W i Y"
+595,FLUCELVAX TETRA,"Czterowalentna inaktywowana szczepionka przeciwko grypie sezonowej, komórkowa"
+596,"DTaPHibHepB pentavalent vaccine, unspecified","Toksoid błoniczy (dawka standardowa), toksoid tężcowy i wielokomponentowy acelularny krztusiec (dawka standardowa), Haemophilus influenzae typu b (skoniugowana, nieokreślona) oraz szczepionka pediatryczna przeciwko wirusowemu zapaleniu wątroby typu B (rekombinowana)"
+598,"DTwPHibHepB pentavalent vaccine, unspecified","Toksoid błoniczy (dawka standardowa), toksoid tężcowy, inaktywowany całokomórkowo krztusiec, Haemophilus influenzae typu b (skoniugowana, nieokreślona) i wirusowe zapalenie wątroby typu B (rekombinowane), szczepionka pediatryczna"
+599,"DTPerHibHepB pentavalent vaccine, unspecified","Toksoid błoniczy (dawka standardowa), toksoid tężcowy i wielokomponentowa acelularna szczepionka przeciw krztuścowi (nieokreślona), Haemophilus influenzae typu b (skoniugowana, nieokreślona) oraz pediatryczna szczepionka przeciw wirusowemu zapaleniu wątroby typu B (rekombinowana)"
+600,"OPV bivalent 1-3, unspecified","Szczepionka przeciwko polio (żywa, atenuowana, dwuwartościowa) przeciwko poliovirusowi typu 1 i 3, doustna"
+601,"DPT Diphtheria-Pertussis-Tetanus vaccine, unspecified","Toksoid błoniczy (dawka standardowa), toksoid tężcowy i całokomórkowy inaktywowany lub acelularny krztusiec (dawka nieokreślona) szczepionka pediatryczna"
+602,"DTaP - Diphtheria-Tetanus-Pertussis vaccine, standard dose, unspecified","Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa), toksoid tężcowy i wieloskładnikowy acelularny krztusiec (dawka standardowa)"
+603,ComVac3,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy oraz inaktywowana całokomórkowa szczepionka pediatryczna przeciwko krztuścowi"
+610,"Tdap - Diphtheria-Tetanus-Pertussis vaccine, low dose, unspecified","Szczepionka zawierająca toksoid błoniczy (mała dawka), toksoid tężcowy i wieloskładnikową szczepionkę acelularną przeciwko krztuścowi (mała dawka)"
+611,SHAN-5,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, krztusiec, Haemophilus influenzae typu b (skoniugowany z toksoidem tężcowym) i wirusowe zapalenie wątroby typu B (rekombinowane) - inna nazwa: DTwP-Hep B-Hib Szczepionka płynna"
+612,DTP-vax FINLAY,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i całokomórkowa inaktywowana szczepionka przeciw krztuścowi dla dzieci"
+613,BORYUNG DTap VACCINE,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i wieloskładnikowa acelularna szczepionka przeciw krztuścowi (dawka standardowa) dla dzieci"
+614,TDAPBOOSTER AJ VACCINES,"Szczepionka zawierająca toksoid błoniczy (niska dawka), toksoid tężcowy i wieloskładnikową acelularną szczepionkę przeciw krztuścowi (niska dawka)"
+615,VACCIN T.P. PASTEUR,Toksoid tężcowy i inaktywowana szczepionka przeciwko polio (trójwalentna)
+620,IXCHIQ,Żywa atenuowana szczepionka przeciwko chikungunya
+621,"MenC, unspecified",Szczepionka skoniugowana przeciwko meningokokom typu C (wyprodukowana przez Fundację Ezequiela Diasa)
+622,EOLARIX,Żywa atenuowana szczepionka przeciwko odrze i różyczce
+623,"Measles-mumps vaccine, unspecified",Żywa atenuowana szczepionka przeciwko odrze i śwince
+624,M-M-Vax,Żywa atenuowana szczepionka przeciwko odrze i śwince
+625,MORATEN,Żywa atenuowana szczepionka przeciwko odrze
+626,MoRu Viraten,Żywa atenuowana szczepionka przeciwko odrze i różyczce
+627,MORUMAN,Żywa atenuowana szczepionka przeciwko odrze
+628,Immravax,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+631,MENINVACTKIT,Szczepionka skoniugowana przeciwko meningokokom typu C
+632,OPVERO,"Szczepionka przeciw polio (żywa atenuowana, trójwartościowa) przeciwko poliovirusom 1, 2 i 3, doustna"
+633,ZABDENO,Szczepionka przeciwko wirusowi Ebola z żywym niereplikującym się wektorem rekombinowanego wirusa
+634,MVABEA,Szczepionka przeciwko wirusowi Ebola z niereplikującym się wektorem wirusowym
+635,PREFLUCEL,"Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej, oczyszczone antygeny"
+636,FluMist Quadrivalent,Żywa atenuowana czterowalentna szczepionka przeciwko grypie sezonowej
+637,IPAD DT,Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa) i toksoid tężcowy
+638,IPAD POLIO,Inaktywowana szczepionka przeciwko polio (trójwalentna)
+639,ADACEL POLIO,"Toksoid błoniczy (mała dawka), toksoid tężcowy, wieloskładnikowa acelularna szczepionka przeciw krztuścowi (5 składników, mała dawka) i inaktywowana szczepionka przeciw polio (trójwartościowa), adsorbowana"
+640,TRITANRIX HepB+Hib,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, krztusiec pełnokomórkowy, Haemophilus influenzae typu b (skoniugowana z toksoidem tężcowym) oraz szczepionka pediatryczna przeciwko wirusowemu zapaleniu wątroby typu B (rekombinowana)"
+641,GLOBORIX,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, całokomórkowy inaktywowany krztusiec, haemophilus influenzae typu b (skoniugowany z toksoidem tężcowym) oraz szczepionka pediatryczna przeciwko meningokokom A+C"
+642,FLUZONE HIGH-DOSE QUADRIVALENT,"Szczepionka przeciwko grypie sezonowej, czterowalentna, inaktywowana, uzyskana z hodowli w jajach, typu split-virion, o wysokiej dawce"
+643,"Meningococcal ACWY conjugate vaccine, unspecified","Czterowalentna szczepionka skoniugowana przeciwko meningokokom, przeciwko serogrupom A, C, W i Y"
+644,QDENGA,"Żywa atenuowana, chimeryczna rekombinowana, czterowalentna [serotypy 1, 2, 3 i 4] szczepionka przeciwko wirusowi dengi. Inna nazwa: TAK-003 Szczepionka przeciwko dendze Takeda"
+645,IMMU ORR,"Żywa atenuowana szczepionka przeciwko odrze, śwince i różyczce"
+646,CECOLIN,"Szczepionka przeciwko wirusowi brodawczaka ludzkiego, oparta na cząsteczkach VLP (Virus Like Particles), dwuwartościowa (typy 16 i 18), rekombinowana (wytwarzana przez Escherichia coli)"
+647,ROTASIIL,Szczepionka przeciwko rotawirusom
+648,Szczepionka nieokreślona. COVID-19,Szczepionka COVID-19
+649,EFLUELDA TETRA,"Szczepionka przeciwko grypie sezonowej, czterowalentna, inaktywowana, uzyskana z hodowli w jajach, typu split-virion, o wysokiej dawce"
+650,VAXZEVRIA ASTRAZENECA,"Szczepionka COVID-19, niereplikujący się szympansi wektor adenowirusowy ChAdOx1 kodujący białko kolca SARS-CoV-2"
+651,CORONAVAC SINOVAC COVID-19 VACCINE,"Szczepionka COVID-19, cały wirus inaktywowany, adiuwant (adiuwant: wodorotlenek glinu)"
+652,CONVIDECIA,"Szczepionka COVID-19, niereplikujący się wektor adenowirusowy 5 kodujący białko kolca SARS-CoV-2"
+653,"Hepatitis A + Hepatitis B vaccine Child, unspecified","Skojarzona szczepionka przeciwko wirusowemu zapaleniu wątroby typu A i B, dawka pediatryczna"
+654,"Hepatitis A + Hepatitis B vaccine Adult, unspecified","Skojarzona szczepionka przeciw wirusowemu zapaleniu wątroby typu A i B, dawka dla dorosłych"
+655,Szczepionka nieokreślona. Błonica,Toksoid błoniczy (dawka nieokreślona)
+656,"SPIKEVAX 0,2 mg/mL MODERNA",Szczepionka COVID-19 mRNA
+657,Chinese-WIBP-Vero-Inactivated-Covid,"Szczepionka COVID-19, cały wirus inaktywowany (hodowla komórkowa Vero)"
+658,COMIRNATY 30 µg BIONTECH-PFIZER,"Szczepionka COVID-19 mRNA, dla dorosłych"
+659,ZIFIVAX ANHUI COVID-19 VACCINE,"Szczepionka COVID-19, podjednostka białkowa"
+660,Chinese-IMB-Inactivated-Covid,"Szczepionka COVID-19, cały wirion inaktywowany"
+661,Inovio-DNA-Covid,Szczepionka COVID-19 plazmidowe DNA
+662,Osaka-DNA-covid / AG0301-COVID19,COVID-19 szczepionka plazmidowa DNA
+663,Cadila-DNA-covid,Szczepionka plazmidowa DNA COVID-19
+664,GX-19-DNA-Covid,COVID-19 szczepionka plazmidowa DNA
+665,COVAXIN BHARAT BIOTECH COVID-19 VACCINE,"Szczepionka COVID-19, cały wirus inaktywowany, adiuwant (adiuwant : agonista TLR 7 i 8 cząsteczka imidazochinoliny adsorbowana na wodorotlenku glinu). Inne nazwy: BBV152, Bharat Inactivated Covid Vaccine"
+666,JCOVDEN (former name: JANSSEN COVID-19 VACCINE),Szczepionka przeciwko COVID-19 z niereplikującym się wektorem wirusowym (adenowirusem)
+667,NUVAXOVID,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane nanocząstki białka kolczastego, z adiuwantem (Matrix M) - Inna nazwa: NOVAVAX NVX-CoV2373 Szczepionka COVID-19"
+668,Kentucky-RBD-Covid,"Szczepionka COVID-19, podjednostka białkowa"
+669,Arcturus-RNA-Covid,"Szczepionka COVID-19, mRNA kodujące białko kolca SARS-CoV-2, trwające badanie kliniczne"
+670,SPOUTNIK V,"Szczepionka COVID-19, niereplikujący się wektor adenowirusowy kodujący białko kolca SARS-CoV-2"
+671,Clover-Spike-SCB-2019-Covid,"Szczepionka COVID-19, podjednostka białka, rekombinowane białko kolczaste"
+672,Vaxine-Spike-Covid,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane białko kolczaste, z adiuwantem (Advax)"
+673,Queensland-Spike-MF59-Covid,"Szczepionka COVID-19, podjednostka białka, rekombinowane białko kolca, z adiuwantem (MF59)"
+674,Pasteur-MSD Measles vector Covid,"Szczepionka COVID-19, replikujący wektor wirusa odry kodujący białko kolca SARS-CoV-2"
+675,Imperial-College-RNA-Covid,"Szczepionka COVID-19, mRNA kodujące białko kolca SARS-CoV-2, trwające badanie kliniczne"
+676,Curevac-RNA-Covid,"Szczepionka COVID-19, mRNA kodujące białko kolca SARS-CoV-2, trwające badanie kliniczne"
+677,Chinese-PLA-ARN-Covid,"Szczepionka COVID-19, mRNA kodujące białko kolcowe SARS-CoV-2, trwające badanie kliniczne"
+678,,"Szczepionka COVID-19, VLP, rekombinowane białko kolca, z adiuwantem"
+679,MEDIGEN-S-2P-CpH1018-COVID,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane białko kolca, S-2P i CpG1018"
+680,COVILO SINOPHARM COVID-19 VACCINE,"Szczepionka COVID-19, inaktywowany cały wirus, hodowany w komórkach Vero - Inne nazwy : SINOPHARM BBIBP-CorV COVID-19 ; COVID-19 Szczepionka BIBP"
+681,GRAd-COV2 COVID-19 Vaccine ReiThera,"Szczepionka COVID-19, niereplikujący się wektor adenowirusowy kodujący białko kolca SARS-CoV-2"
+682,FLUQUADRI,Czterowalentna inaktywowana szczepionka przeciwko grypie sezonowej z antygenami powierzchniowymi
+683,EPIVACCORONA,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane białko kolca"
+684,QazVac,"Szczepionka COVID-19, inaktywowany cały wirion"
+685,VIDPREVTYN BETA,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane białko szpiku, z adiuwantami lub bez. Inna nazwa: Sanofi-GSK Rekombinowana szczepionka COVID-19."
+686,MULTI-PEPTIDE-pVAC-COVID,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane białko kolca, dostosowane do ludzkich cząsteczek głównego kompleksu zgodności tkankowej II"
+687,UB-612 COVID-19 Vaccine,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane białko spike (oparte na podjednostkach S1 i S2 białka spike oraz białkach M i N wirusa SARS-CoV-2)"
+688,Chinese-Influenza-intranasal-covid,"Szczepionka COVID-19, replikujący się wektor wirusa grypy, rekombinowane białko RBD, spray donosowy"
+689,CHINESE-RECOMBINANT-Sf9-COVID,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane białko kolca, wyrażone przez bakulowirusa hodowanego na komórkach Sf9"
+690,Chinese-Ad5-nCoV-covid,"Szczepionka COVID-19, niereplikujący się wektor adenowirusowy 5 kodujący białko kolca SARS-CoV-2"
+691,FINLAY-FR-1,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane białko kolca"
+692,COVAXX,"Szczepionka COVID-19, podjednostka białkowa"
+693,VXA-CoV2-1-Covid,"COVID-19 szczepionka, niereplikujący się wektor adenowirusowy 5 kodujący białko kolca SARS-CoV-2, adiuwantowa, podawana doustnie"
+694,LMU-MVA-SARS-2-S-Covid,"Szczepionka COVID-19, niereplikujący się zmodyfikowany wektor wirusa Vaccinia Virus Ankara kodujący białko kolca SARS-CoV-2"
+695,RBD-HBsAg-VLPs-Covid,"Szczepionka COVID-19, VLP, rekombinowane białko szpikowe. Antygen RBD wirusa SARS-Cov-2 jest skoniugowany z antygenem HBs wirusa zapalenia wątroby typu B"
+696,Chinese-Inactivated-Vero-Covid,"Szczepionka COVID-19, cały wirus inaktywowany (hodowla komórkowa Vero)"
+697,V590 (COVID-19 Vaccine),"Szczepionka COVID-19, replikujący się wektor wirusa pęcherzykowego zapalenia jamy ustnej kodujący białko kolca SARS-CoV-2"
+698,hAd5-COVID-19,"Szczepionka COVID-19, niereplikujący się wektor adenowirusowy 5 kodujący białko SARS-CoV-2 S i N"
+699,IIBR's RECOMBINANT VSV-DeltaG-spike VACCINE,"Szczepionka COVID-19, replikujący wektor wirusa pęcherzykowego zapalenia jamy ustnej kodujący białko kolca SARS-CoV-2"
+701,bacTRL-Spike,"Szczepionka COVID-19 zawierająca plazmid DNA kodujący białko kolca wirusa SARS-CoV-2 przenoszonego przez Bifidobacterium longum, doustna"
+702,rRBD produced in CHO-cell chemically conjugate to tetanus toxoid,"Szczepionka COVID-19, podjednostka białkowa, skoniugowana z toksoidem tężcowym"
+703,Adjuvanted protein subunit (RBD),"Szczepionka COVID-19, podjednostka białkowa, adiuwantowa"
+705,INFLUSPLIT TETRA,Czterowalentna inaktywowana szczepionka przeciwko grypie sezonowej z antygenami powierzchniowymi
+706,FLUZONE QUADRIVALENT,Czterowalentna inaktywowana szczepionka przeciwko grypie sezonowej z antygenami powierzchniowymi
+707,Coronavirus SARS-CoV-2 inactivé,"Szczepionka COVID-19, inaktywowany cały wirion (hodowla komórkowa Vero)"
+708,CORVax12,"COVID-19 szczepionka plazmidowa DNA, białko S z lub bez kombinacji plazmidowej IL-12p70"
+709,COVI-VAC,"Szczepionka COVID-19, żywa atenuowana"
+710,COVID-19 mRNA Vaccine BNT162b2,"Szczepionka COVID-19 mRNA, pierwotna nazwa handlowa, dawka dla dorosłych 30 mikrogramów"
+711,"Typhoid conjugate vaccine, unspecified",Polisacharydowa szczepionka skoniugowana przeciwko durowi brzusznemu
+712,"Typhoid-hepatitis A vaccine, unspecified",Skojarzona szczepionka przeciwko durowi brzusznemu i wirusowemu zapaleniu wątroby typu A
+713,"Typhoid polysaccharide vaccine, unspecified",Polisacharydowa szczepionka przeciwko durowi brzusznemu (antygen kapsulowy Vi)
+714,"COVID-19 VACCINE (INACTIVATED, ADJUVANTED) VALNEVA","Szczepionka COVID-19, inaktywowany cały wirus, adiuwant z CpG 10183 , (fosfoguanina cytozyny) a) w połączeniu z wodorotlenkiem glinu - Inna nazwa: Valneva VLA2001"
+715,ERUCOV-VAC,"Szczepionka COVID-19, inaktywowany cały wirion"
+716,SARS-CoV-2-RBD-Fc fusion protein,"Szczepionka COVID-19, podjednostka białkowa"
+717,CIGB-669,"Szczepionka COVID-19, podjednostka białkowa (białko RBD + antygen rdzeniowy wirusa zapalenia wątroby typu B)"
+718,CIGB-66,"Szczepionka COVID-19, podjednostka białkowa (białko RBD + antygen rdzeniowy wirusa zapalenia wątroby typu B)"
+719,NANOCOVAX,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane białko kolca"
+720,S-268019,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane białko kolca, wyrażone przez bakulowirusa"
+721,AdimrSC-2f,"Szczepionka COVID-19, podjednostka białkowa, wspomagana i nie wspomagana aluminium"
+722,Covigenix VAX-001,"Szczepionka COVID-19 z plazmidowym DNA, kodująca białko nukleokapsydu"
+723,GLS-5310,"Szczepionka COVID-19, plazmidowy DNA"
+724,ChulaCov19,"Szczepionka COVID-19, mRNA kodujące białko kolca SARS-CoV-2, trwające badanie kliniczne (zamknięte w nanocząstce lipidowej)"
+725,COH04S1,"szczepionka COVID-19, niereplikujący się zmodyfikowany wektor Vaccinia Virus Ankara kodujący białko kolca SARS-CoV-2, zawierający fragmenty DNA kodujące białko kolca i nukleokapsyd SARS-CoV-2"
+726,AdCOVID,"Szczepionka COVID-19, niereplikujący się wektor adenowirusowy kodujący białko kolca SARS-CoV-2"
+727,AdCLD-CoV19,"Szczepionka COVID-19, niereplikujący się wektor adenowirusowy 5/35 kodujący białko kolca SARS-CoV-2"
+728,Covid-19/aAPC,Szczepionka COVID-19 przygotowana przez zastosowanie modyfikacji lentiwirusa genami modulującymi odporność oraz minigenami wirusowymi do sztucznych komórek prezentujących antygen (aAPCs)
+729,LV-SMENP-DC vaccine,"Szczepionka COVID-19, niereplikujący się wektor wirusowy, z komórkami prezentującymi antygen. Komórki dendrytyczne modyfikowane lentiwirusem, wyrażające syntetyczny minigen oparty na ekstraktach białek wirusa SARS-CoV-2. Szczepionka ta jest również podawana z rekombinowanymi komórkami T specyficznymi dla antygenów SARS-CoV-2"
+730,Dendritic cell AV-COVID-19,"Autologiczne komórki dendrytyczne obciążone antygenami SARS-CoV-2, z lub bez GM-CSF"
+731,DITANRIX,"Szczepionka przeciw błonicy (toksoid, zmniejszona dawka) i tężcowi (toksoid), dawka dla dorosłych"
+732,COVAC-1 - COVAC-2,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane białko kolca, z adiuwantem (skwalenem)"
+733,HEPLISAV-B,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawka dla dorosłych"
+734,POLIO BOOSTRIX,"Toksoid błoniczy (mała dawka), toksoid tężcowy, wieloskładnikowa acelularna szczepionka przeciw krztuścowi (5 składników, mała dawka) oraz inaktywowana szczepionka przeciw polio (trójwalentna), adsorbowana"
+735,POLIOINFANRIX,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wieloskładnikowy acelularny krztusiec (dawka standardowa) oraz inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna)"
+736,TRIAXIS POLIO,"Toksoid błoniczy (niska dawka), toksoid tężcowy, wieloskładnikowa acelularna szczepionka przeciw krztuścowi (5 składników, niska dawka) i inaktywowana szczepionka przeciw polio (trójwalentna), adsorbowana"
+737,GBP510,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane białko spike, z adiuwantem (AS03)"
+739,RAZI Cov Pars,"Szczepionka COVID-19, podjednostka białka, rekombinowane białko kolca, z adiuwantem nieokreślonym"
+740,PTX-COVID19-B,"Szczepionka COVID-19, mRNA kodujące białko kolca SARS-CoV-2, trwające badanie kliniczne"
+741,COVID-eVax,"Szczepionka plazmidowa DNA COVID-19, kodująca białko Spike wirusa SARS-CoV-2"
+742,COVIGEN,Szczepionka plazmidowa DNA COVID-19
+743,BBV154,"Szczepionka COVID-19, niereplikujący się wektor adenowirusowy kodujący białko kolca SARS-CoV-2"
+744,COVID-19 inactivated vaccine,"Szczepionka COVID-19, inaktywowana całym wirusem"
+745,MF59 adjuvanted SARS-CoV-2 Sclamp vaccine,"Szczepionka COVID-19, podjednostka białka, rekombinowane białko kolca, z adiuwantem (skwalenem)"
+752,COVISHIELD,"Szczepionka COVID-19, niereplikujący się szympansi wektor adenowirusowy ChAdOx1 kodujący białko kolca SARS-CoV-2"
+753,Inactivated SARS-CoV-2 vaccine FAKHRAVAC (MIVAC),"Szczepionka COVID-19, cały wirion inaktywowany"
+754,Inactivated Koçak-19 Inaktif Adjuvant COVID-19 Vaccine,"COVID-19 szczepionka, cały wirus inaktywowany, adiuwant (adiuwant nieokreślony)"
+755,Adjuvanted inactivated vaccine against SARS-CoV-2,"Szczepionka COVID-19, cały wirus inaktywowany, z adiuwantem (adiuwant: wodorotlenek glinu + agonista TLR9 (CpG ODN))"
+756,MV-014-212,"Szczepionka COVID-19, żywa, atenuowana, wyrażająca białko kolca SARS-CoV-2"
+757,NBP 2001,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane białko kolca, z adiuwantem (wodorotlenek glinu)"
+758,SpFN COVID 19 vaccine + AFLQ,"Szczepionka COVID-19, podjednostka białka, rekombinowane białko kolca, z adiuwantem (AFKQ: liposomalny zawierający saponinę QS21)"
+759,EuCorVac-19,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane białko kolca, z adiuwantem nieokreślonym"
+760,ReCOV,"Szczepionka COVID-19, podjednostka białka, rekombinowane białko kolca, z adiuwantem nieokreślonym"
+761,V-01,"Szczepionka COVID-19, podjednostka białka, rekombinowane białko kolczaste, białko fuzyjne"
+762,CoV2 SAM (LNP) vaccine,"Szczepionka COVID-19, samowzmacniający się mRNA (SAM), nanocząstka lipidowa (LNP) kodująca białko kolca SARS-CoV-2, trwające badanie kliniczne"
+763,mRNA-1273.351,"Szczepionka COVID-19, mRNA kodujące białko kolca SARS-CoV-2 wariant B.1.351, trwające badanie kliniczne (zamknięte w nanocząstce lipidowej)"
+764,MRT5500,"Szczepionka COVID-19, mRNA kodujące białko kolca SARS-CoV-2, trwające badanie kliniczne"
+765,DS-5670a,"Szczepionka COVID-19, mRNA kodujący białko kolca SARS-CoV-2, trwające badanie kliniczne"
+766,HDT-301,"Szczepionka COVID-19, mRNA kodujące białko kolca SARS-CoV-2, trwające badanie kliniczne (zamknięte w nanocząstce lipidowej)"
+767,ChAdV68 SAM-LNP rS-TCE GRITSTONE ONCOLOGY COVID-19 VACCINE,"Szczepionki przeciwko adenowirusowi szympansa i samowzmacniającemu się mRNA Prime-Boost profilaktyczne COVID-19:""1. Niereplikujący się wektor adenowirusowy szympansa, serotyp 68 (ChAdV68), kodujący białko kolca SARS-CoV-2 (ChAdV68-S) i/lub białko kolca plus dodatkowe epitopy komórek T SARS-CoV-2 (ChAdV68-S-TCE) oraz 2. Samoprzetwarzające się mRNA (SAM) w nanocząstkach lipidowych (SAM-LNP) kodujące białko kolca SARS-CoV-2 (SAM-S) lub białko kolca plus dodatkowe epitopy komórek T SARS-CoV-2 (SAM-S-TCE), wektor SAM oparty na wirusie zapalenia mózgu Wenezuelskich Koni (VEEV)."
+768,COVIVAC,"Szczepionka COVID-19, niereplikujący się wektor wirusa rzekomego pomoru drobiu kodujący białko kolca SARS-CoV-2, z adiuwantem CpG 1018 lub bez niego"
+769,SC-Ad6-1,"Szczepionka COVID-19, niereplikujący się wektor adenowirusowy 6 kodujący białko kolca SARS-CoV-2"
+770,NDV-HXP-S,"Szczepionka COVID-19, replikujący wektor wirusa rzekomego pomoru drobiu kodujący białko kolca SARS-CoV-2, z adiuwantem CpG 1018 lub bez niego"
+771,VBI-2902a,"Szczepionka COVID-19, VLP, rekombinowane białko kolca, z adiuwantem (fosforan glinu)"
+772,SARS-CoV-2 VLP Vaccine,"Szczepionka COVID-19, VLP, rekombinowane białko kolca, wyrażone białko SARS-CoV-2 nieokreślone, z adiuwantami (aluminium nieokreślonego typu + CpGODN-K3, agonista TLR9)"
+773,ABNCoV2,"Szczepionka COVID-19, VLP, rekombinowane białko kolca, z adiuwantem MF56 (skwalen) lub bez niego"
+774,"FSME-IMMUN 0,25 mL",Szczepionka przeciwko kleszczowemu zapaleniu mózgu (inaktywowana całym wirusem)
+775,"DTwPHib, unspecified","Toksoid błoniczy (dawka standardowa), toksoid tężcowy, całokomórkowy inaktywowany krztusiec i haemophilus influenzae typu b (skoniugowana nieokreślona) szczepionka pediatryczna"
+776,TETRABIK,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wieloskładnikowa acelularna szczepionka przeciw krztuścowi (dawka standardowa) i inaktywowana szczepionka przeciw polio (trójwalentna) dla dzieci"
+777,ADJUPANRIX,"Szczepionka przeciwko grypie A(H5N1) (fragmentaryczny wirion, inaktywowany, z adiuwantem)"
+778,VAXCHORA,Żywa atenuowana szczepionka przeciwko cholerze (atenuowany szczep V. cholerae CVD 103-HgR wytworzony przy użyciu technologii rekombinacji DNA)
+779,BATREVAC,"Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej, antygen powierzchniowy"
+780,VAXNEUVANCE,"Pneumokokowa polisacharydowa szczepionka koniugacyjna, 15-walentna, adsorbowana, serotypy 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, 22F, 23F i 33F"
+781,RABIVAC,"Inaktywowana w całości szczepionka przeciwko wściekliźnie, szczep Flury LEP, oczyszczona szczepionka z komórek zarodka kurzego (PCECV), inaktywacja ß-propiolaktonem"
+782,RASILVAX,"Inaktywowana w całości szczepionka przeciwko wściekliźnie, szczep Flury LEP, oczyszczona szczepionka z komórek zarodka kurzego (PCECV), inaktywacja ß-propiolaktonem"
+783,R-COVI,"Szczepionka COVID-19, niereplikujący się szympansi wektor adenowirusowy ChAdOx1 kodujący białko kolca SARS-CoV-2"
+784,PERTAGEN,Wieloskładnikowa szczepionka acelularna przeciwko krztuścowi (niska dawka)
+785,BOOSTAGEN,"Szczepionka zawierająca toksoid błoniczy (mała dawka), toksoid tężcowy i wieloskładnikową szczepionkę acelularną przeciwko krztuścowi (mała dawka)"
+786,PREVNAR 20,"Polisacharydowa szczepionka pneumokokowa, 20-walentna, adsorbowana, serotypy 1, 3, 4, 5, 6A, 6B, 7F, 8, 9V, 10A, 11A, 12F, 14, 15B, 18C, 19A, 19F, 22F, 23F i 33F"
+787,"Diphtheria (dose unspecified), tetanus and rubella vaccine, unspecified","Toksoid błoniczy (dawka nieokreślona), toksoid tężcowy i szczepionka przeciw różyczce (żywa atenuowana)"
+788,"Hib-IPV, unspecified","Haemophilus influenzae typu b (skoniugowana, nieokreślona) i inaktywowana szczepionka przeciwko polio (trójwartościowa)"
+789,COMVAC4,"Toksydy błonicze (dawka standardowa), toksoid tężcowy, inaktywowany całokomórkowy krztusiec i wirusowe zapalenie wątroby typu B (rekombinowane) - szczepionka pediatryczna"
+790,"Diphtheria-Tetanus-Hepatitis B vaccine, unspecified","Toksydy błonicze (dawka nieokreślona), toksoid tężcowy i szczepionka przeciw wirusowemu zapaleniu wątroby typu B (rekombinowana)"
+791,"Hexavalent Diphtheria-Tetanus-Pertussis-Polio-Hepatitis B-Hib vaccine, unspecified","Toksoid błoniczy (dawka standardowa), toksoid tężcowy, krztusiec (nieokreślony), Haemophilus influenzae typu b (skoniugowany, nieokreślony), inaktywowana szczepionka przeciw polio (trójwartościowa) i szczepionka przeciw wirusowemu zapaleniu wątroby typu B (rekombinowana) dla dzieci"
+792,"Diphtheria-Tetanus-Pertussis-Polio-Hepatitis B pentavalent vaccine, unspecified","Toksoid błoniczy (dawka nieokreślona), toksoid tężcowy, acelularny lub całokomórkowy inaktywowany krztusiec (dawka nieokreślona), inaktywowana szczepionka przeciwko polio (trójwalentna) oraz szczepionka przeciwko wirusowemu zapaleniu wątroby typu B (rekombinowana)"
+793,"Diph-T, unspecified",Szczepionka zawierająca toksoid błoniczy (mała dawka) i toksoid tężcowy
+794,"T-igT, unspecified",Szczepionka zawierająca toksoid tężcowy w połączeniu z immunoglobuliną tężcową
+795,"Acellular pertussis vaccine, unspecified","Acelularna szczepionka przeciw krztuścowi, dawka nieokreślona"
+796,Szczepionka nieokreślona. Krztusiec,Szczepionka przeciwko krztuścowi (acelularna lub inaktywowana całokomórkowa)
+797,"Szczepionka nieokreślona. Błonica, tężec, krztusiec","Szczepionka zawierająca toksoid błoniczy (dawka nieokreślona), toksoid tężcowy i acelularny krztusiec (dawka nieokreślona)"
+798,"Hib-MeningoC vaccine, unspecified",Haemophilus influenzae typu b i szczepionka skoniugowana przeciwko meningokokom typu C
+799,"DT-Hib vaccine, unspecified","Toksoid błoniczy (dawka standardowa), toksoid tężcowy i szczepionka pediatryczna przeciwko Haemophilus influenzae typu b (skoniugowana, nieokreślona)"
+800,"Diphtheria-tetanus-pertussis-Hib vaccine, unspecified","Szczepionka pediatryczna przeciwko błonicy (dawka standardowa), toksoidowi tężcowemu, krztuścowi (acelularna dawka standardowa lub całkowicie inaktywowana) i Haemophilus influenzae typu b (skoniugowana, nieokreślona)"
+801,"HepB-Hib, unspecified",Szczepionka przeciwko Haemophilus influenzae typu b i wirusowemu zapaleniu wątroby typu B
+802,"Monovalent oral polio vaccine - type unknown, unspecified","Szczepionka przeciwko polio (żywa, atenuowana, monowalentna), doustna"
+803,Polio Sabin One and Three GSK,"Szczepionka przeciwko polio (żywa, atenuowana, dwuwartościowa) przeciwko poliovirusowi typu 1 i 3, doustna"
+804,"Anthrax vaccine, unspecified",Szczepionka przeciwko wąglikowi
+805,"Whole-cell inactivated cholera vaccine, unspecified","Inaktywowana, pełnokomórkowa szczepionka przeciwko cholerze do wstrzykiwań"
+806,"Live attenuated cholera vaccine, unspecified",Żywa atenuowana szczepionka przeciwko cholerze
+807,"Cholera-Typhoid inactivated vaccine, unspecified","Inaktywowana, całokomórkowa szczepionka przeciwko cholerze w połączeniu z inaktywowaną, całokomórkową szczepionką przeciwko durowi brzusznemu, do wstrzykiwań"
+808,"Hib-MenCY, unspecified",Haemophilus influenzae typu b oraz szczepionka skoniugowana przeciwko meningokokom C i Y
+809,"Meningococcal monovalent polysaccharide vaccine, unspecified","Monowalentna szczepionka meningokokowa, skoniugowana lub nieskoniugowana polisacharydowa"
+810,"Meningococcal polyvalent polysaccharide vaccine, unspecified","Poliwalentna, nieskoniugowana szczepionka polisacharydowa przeciwko meningokokom"
+811,"Meningococcal B vaccine, unspecified","Szczepionka meningokokowa typu B, rodzaj szczepionki nieokreślony"
+812,"Inactivated whole plague vaccine, unspecified",Szczepionka przeciwko dżumie - cała inaktywowana
+813,"Pneumococcal unconjugated polysaccharide vaccine, unspecified","Nieskonjugowana polisacharydowa szczepionka przeciw pneumokokom, serotypy nieokreślone"
+814,"Pneumococcal conjugate vaccine, serotypes unspecified","Szczepionka pneumokokowa polisacharydowa skoniugowana, liczba serotypów nieokreślona"
+815,"Pneumo-Hib, unspecified","Szczepionka przeciwko Haemophilus influenzae typu b i pneumokokom - skoniugowana, nieokreślona"
+816,PEDATYPH,"Szczepionka skoniugowana przeciwko durowi brzusznemu, polisacharyd Vi połączony z toksoidem tężcowym"
+817,"Inactivated Typhoid vaccine, unspecified",Inaktywowana szczepionka przeciw durowi brzusznemu w całości
+818,"Typhoid-Paratyphoid vaccine, unspecified","Szczepionka przeciwko durowi brzusznemu i paratyfusowi, cała inaktywowana"
+819,"Inactivated Japanese Encephalitis vaccine, unspecified",Inaktywowana w całości szczepionka przeciwko japońskiemu zapaleniu mózgu
+820,"Całocząsteczkowa szczepionka przeciw grypie zawierająca inaktywowane wirusy, uzyskana z hodowli w jajach, nieokreślona","Szczepionka przeciwko grypie sezonowej zawierająca inaktywowane całe wirusy, uzyskana w hodowli jajowej"
+821,"Inactivated influenza vaccine, split or subunit, unspecified",Inaktywowana szczepionka przeciwko grypie sezonowej
+822,"Influenza vaccine, live attenuated, unspecified","Szczepionka przeciwko grypie sezonowej, żywa, atenuowana"
+823,"VLP influenza vaccine, unspecified",Szczepionka przeciwko grypie sezonowej zawierająca cząsteczki wirusopodobne (VLP)
+824,"Hepatitis A virosome vaccine, unspecified","Inaktywowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu A, wirusowa, dziecięca lub dla dorosłych"
+825,"Combined hepatitis A and hepatitis B vaccine, unspecified",Skojarzona szczepionka przeciwko wirusowemu zapaleniu wątroby typu A i B
+826,MEASLES AND RUBELLA VACCINE - SERUM INSTITUTE OF INDIA,Żywa atenuowana szczepionka przeciwko odrze i różyczce
+827,"MMRV - Measles-Mumps-Rubella-Varicella vaccine, unspecified","Żywa atenuowana szczepionka przeciwko odrze, śwince, różyczce i ospie wietrznej"
+828,"Rotavirus pentavalent vaccine, unspecified","Żywa atenuowana pięciowartościowa szczepionka przeciwko rotawirusom, doustna"
+829,"Rubella-Mumps vaccine, unspecified",Żywa atenuowana szczepionka przeciwko różyczce i śwince
+830,"Subunit shingles vaccine, unspecified",Podjednostkowa szczepionka przeciwko półpaścowi (obecnie odpowiada glikoproteinie E)
+831,"Ebola vaccine, unspecified",Szczepionka przeciwko wirusowi Ebola
+832,"Herpes Simplex vaccine, unspecified",Inaktywowana szczepionka przeciwko herpes simplex
+833,COMIRNATY 10 µg  BIONTECH-PFIZER,"Szczepionka Covid 19 mRNA, 10 mikrogramów, dawka pediatryczna 5-11 lat"
+835,FIOCRUZ COVID-19 VACCINE,"Szczepionka COVID-19, niereplikujący się szympansi wektor adenowirusowy ChAdOx1 kodujący białko kolca SARS-CoV-2"
+836,FLUAD TETRA,Czterowalentna inaktywowana szczepionka przeciwko grypie sezonowej z antygenami powierzchniowymi
+837,COVOVAX SII,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane nanocząstki białka szpiku, z adiuwantem (Matrix M) - Inna nazwa: NOVAVAX NVX-CoV2373 Szczepionka COVID-19"
+838,COVOVAX NOVAVAX,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane białko kolca, z adiuwantem (Matrix M) - Inna nazwa: NOVAVAX NVX-CoV2373 Szczepionka COVID-19"
+839,"Inactivated whole-cell brucella vaccine, unspecified","Inaktywowana, pełnokomórkowa szczepionka przeciwko brucelozie"
+840,ADDIGRIP,"Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej, antygen powierzchniowy"
+841,"INFLUVAC 0,25 mL","Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana z hodowli komórek jajowych, antygen powierzchniowy, dawka pediatryczna"
+842,NEORABIS,"Szczepionka przeciwko wściekliźnie, inaktywowana w całości, szczep wirusa Wistar PM1503-3M, hodowana na komórkach Vero"
+843,NOVIRAB,"Inaktywowana w całości szczepionka przeciwko wściekliźnie, szczep WISTAR PM/WI 38-1503-3M, hodowana na komórkach Vero, beta-propiolakton Inaktywowana"
+844,VERORABVAX,"Inaktywowana w całości szczepionka przeciwko wściekliźnie, szczep WISTAR PM/WI 38-1503-3M, hodowana na komórkach Vero, beta-propiolakton Inaktywowana"
+845,DOUSTNA SZCZEPIONKA PRZECIW POLIO PRODUKOWANA NA KOMÓRKACH VERO MERIEUX,Doustna inaktywowana szczepionka przeciwko polio (trójwalentna)
+846,VACCIN POLIOMYELITIQUE ORAL BIVALENT TYPES 1 et 3,"Szczepionka przeciwko polio (żywa, atenuowana, dwuwartościowa) przeciwko poliovirusowi typu 1 i 3, doustna"
+847,VACCIN PNEUMOCOCCIQUE SARBACH,"Pneumokokowa szczepionka polisacharydowa, 15-walentna, serotypy 1, 2, 3, 4, 6B, 7F, 8, 9N, 11A, 12F, 14, 15F, 18C, 19F i 23F"
+848,VACCIN BCG INSTITUT MERIEUX,Szczepionka przeciw gruźlicy
+849,"Szczepionka na tularemię, nieokreślona",Szczepionka przeciwko tularemii
+850,NEISVAC-C,Szczepionka meningokokowa skoniugowana C
+851,POLIO SABIN MONO TWO (ORAL) GSK,"Szczepionka przeciwko polio (żywa, atenuowana, monowalentna) przeciwko polio wirusom typu 2, doustna"
+852,"mOPV2 Sabin, monowalentna doustna szczepionka przeciw polio typu 2, nieokreślona","Szczepionka przeciwko polio (żywa, atenuowana, monowalentna) przeciwko polio wirusom typu 2, doustna"
+853,"mOPV1 Sabin, monowalentna doustna szczepionka przeciw polio typu 1, nieokreślona","Szczepionka przeciwko polio (żywa, atenuowana, monowalentna) przeciwko poliovirusowi typu 1, doustna"
+854,"mOPV3 Sabin, monowalentna doustna szczepionka przeciw polio typu 3, nieokreślona","Szczepionka przeciwko polio (żywa, atenuowana, jednowalentna) przeciwko poliovirusowi typu 3, doustna"
+855,"Szczepionka przeciw błonicy, tężcowi i polio, nieokreślona","Toksoid błoniczy (dawka nieokreślona), toksoid tężcowy i inaktywowana szczepionka przeciwko polio (trójwalentna), adsorbowana"
+856,"Szczepionka DTaPHib, nieokreślona","Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa), toksoid tężcowy i wieloskładnikowy acelularny krztusiec (dawka standardowa) oraz Haemophilus influenzae typu b (skoniugowana, nieokreślona)"
+857,"Szczepionka przeciw błonicy, tężcowi, krztuścowi i wirusowemu zapaleniu wątroby typu B, nieokreślona","Szczepionka pediatryczna zawierająca toksoid błoniczy (dawka standardowa), toksoid tężcowy, krztusiec (acelularny w dawce standardowej lub w całości inaktywowany) i wirusowe zapalenie wątroby typu B (rekombinowane)"
+858,"Szczepionka przeciw HPV dwuwalentna, nieokreślona","Dwuwalentna rekombinowana szczepionka przeciwko wirusowi brodawczaka ludzkiego, typ 16 i 18"
+859,"Szczepionka przeciwko HPV czterowalentna, nieokreślona","Poczwórna rekombinowana szczepionka przeciwko wirusowi brodawczaka ludzkiego, typy 6, 11, 16 i 18"
+860,Szczepionka nieokreślona. Wirus brodawczaka ludzkiego,"Niewalentna rekombinowana szczepionka przeciwko wirusowi brodawczaka ludzkiego, typy 6, 11, 16, 18, 31, 33, 45, 52 i 58"
+861,"Wieloskładnikowa szczepionka przeciw meningokokom typu B, nieokreślona",Szczepionka przeciwko meningokokom serogrupy B (wieloskładnikowa - wiele białek)
+862,"Immunoglobulina odry, nieokreślona",Immunoglobulina przeciwko gorączce
+863,"Immunoglobulina przeciw wirusowi zapalenia wątroby typu B, nieokreślona",Immunoglobulina przeciw wirusowemu zapaleniu wątroby typu B
+864,"Immunoglobulina przeciwko ospie wietrznej i półpaścu, nieokreślona",Immunoglobulina przeciwko Varicella-Zoster
+865,"Szczepionka polisacharydowa przeciwko meningokokom typu A, nieokreślona","Nieskoniugowana polisacharydowa szczepionka przeciw meningokokom, serogrupa A"
+866,"Szczepionka skoniugowana przeciwko meningokokom A, nieokreślona",Polisacharydowa szczepionka skoniugowana przeciwko meningokokom typu A
+867,"Antytoksyna błonicza, nieokreślona",Antytoksyna błonicza
+868,MENPOVAX A,"Nieskoniugowana szczepionka polisacharydowa przeciwko meningokokom, serogrupa A"
+869,MENPOVAX C,"Nieskoniugowana polisacharydowa szczepionka meningokokowa, serogrupa C"
+870,TYPBAR,"Szczepionka skoniugowana przeciwko durowi brzusznemu, polisacharyd Vi połączony z białkiem toksoidu tężcowego"
+871,SUPEMTEK TETRA,"Czterowalentna inaktywowana szczepionka przeciwko grypie sezonowej, oparta na komórkach"
+872,INFLUPOZZI SUBUNITA,"Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej, na bazie jaj, antygen powierzchniowy"
+873,INFLUPOZZI ADIUVATO,"Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej, oparta na jajach, z antygenem powierzchniowym, adiuwantowana MF59C.1"
+874,INNOFLU,"Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej, na bazie jaj, antygen powierzchniowy, adiuwant MF59C.2"
+875,PANDEMIC INFLUENZA VACCINE H5N1 ASTRAZENECA,"Szczepionka przeciw grypie A(H5N1), żywa, atenuowana, donosowa, przedpandemiczna"
+876,CINQUERIX,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomponentowy acelularny krztusiec (dawka standardowa), Haemophilus influenzae typu b (skoniugowana z toksoidem tężcowym) i inaktywowana szczepionka pediatryczna przeciwko polio (trójwartościowa), adsorbowana"
+877,INFANRIX HEPB,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wieloskładnikowa acelularna szczepionka przeciw krztuścowi (dawka standardowa) i pediatryczne zapalenie wątroby typu B, adsorbowana"
+878,TRITANRIX,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana całokomórkowa szczepionka pediatryczna przeciwko krztuścowi"
+879,ACELLUVAX,"Wieloskładnikowa szczepionka przeciwko krztuścowi acelularnemu (3 składniki, dawka standardowa)"
+880,"Pentawalentna szczepionka przeciwko błonicy, tężcowi, krztuścowi, Hib-Polio (DTPerHibIPV), nieokreślona","Toksoid błoniczy (dawka standardowa), toksoid tężcowy, krztusiec (nieokreślony), skoniugowana szczepionka przeciwko Haemophilus influenzae typu b (skoniugowana, nieokreślona) oraz inaktywowana szczepionka przeciwko polio (trójwalentna) pediatryczna, adsorbowana"
+881,"Żywa, atenuowana szczepionka przeciwko japońskiemu zapaleniu mózgu, nieokreślona","Żywa atenuowana szczepionka przeciwko japońskiemu zapaleniu mózgu, szczep i platforma produkcyjna nieokreślone"
+882,CANDID 1,"Żywa atenuowana szczepionka przeciwko argentyńskiej gorączce krwotocznej, wirus Junin"
+883,ENTEROVACCINO TIFICO SCLAVO,"Pełnokomórkowa inaktywowana szczepionka przeciwko durowi brzusznemu, doustna"
+884,DIF-PER-TET-ALL CHIRON,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i wieloskładnikowa szczepionka acelularna przeciwko krztuścowi (3 składniki, dawka standardowa) dla dzieci, adsorbowana"
+885,INFLUPOZZI ZONALE,"Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej, oparta na jajach, antygen powierzchniowy"
+886,MONO OPV1,"Szczepionka przeciwko polio (żywa, atenuowana, monowalentna) przeciwko poliovirusowi typu 1, doustna"
+887,POLIORAL,"Szczepionka przeciwko polio (żywa, atenuowana, trójwartościowa) przeciwko poliovirusom 1, 2 i 3, doustna"
+888,QUATTVAXEM,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wielokomórkowy krztusiec, Haemophilus influenzae typu b (skoniugowany z toksoidem błoniowym) oraz szczepionka pediatryczna przeciwko wirusowemu zapaleniu wątroby typu B (rekombinowana)"
+889,MONO OPV3,"Szczepionka przeciwko polio (żywa, atenuowana, monowalentna) przeciwko poliovirusowi typu 3, doustna"
+890,NEOTYF,"Żywa atenuowana szczepionka przeciwko durowi brzusznemu, Salmonella Typhi szczep Ty21A, doustna"
+891,PNEUMOPUR,"Nieskonjugowana szczepionka polisacharydowa przeciwko pneumokokom, 23-walentna, serotypy 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19F, 19A, 20, 22F, 23F i 33F"
+892,POLIOVAX-IN,Inaktywowana szczepionka przeciwko polio (trójwalentna)
+893,VACCINO ANTICOLERICO SCLAVO,"Szczepionka przeciwko cholerze, nieokreślona"
+894,"Adenovirus vaccine, unspecified","Szczepionka adenowirusowa, nieokreślony typ"
+895,"Wenezuelska szczepionka przeciwko zapaleniu mózgu koni, nieokreślona",Szczepionka przeciwko wenezuelskiemu zapaleniu mózgu koni
+896,"Szczepionka na gorączkę Q, nieokreślona",Szczepionka przeciwko gorączce Q
+897,"Szczepionka hantawirusowa, nieokreślona",Szczepionka przeciwko hantawirusowi
+898,"Szczepionka na leiszmaniozę, nieokreślona",Szczepionka przeciwko leiszmaniozie
+899,"Szczepionka przeciwko ludzkiemu wirusowi paragrypy, nieokreślona",Szczepionka przeciwko ludzkiemu wirusowi parainfluenzy
+900,PREVENAR 20 (poprzednio APEXXNAR),"Polisacharydowa szczepionka pneumokokowa, 20-walentna, adsorbowana, serotypy 1, 3, 4, 5, 6A, 6B, 7F, 8, 9V, 10A, 11A, 12F, 14, 15B, 18C, 19A, 19F, 22F, 23F i 33F - inna nazwa: Prevnar 20 w USA"
+901,MENCEVAX ACW,"Nieskoniugowana polisacharydowa szczepionka meningokokowa, serogrupy A, C i W"
+902,"RSzczepionka przeciwko wściekliźnie typu Semple, nieokreślona","Inaktywowana szczepionka przeciwko wściekliźnie, zawierająca cały wirion, przygotowana z koziej lub owczej tkanki mózgowej zakażonej wirusem wścieklizny, zawierająca mielinę"
+903,"Szczepionka przeciwko wściekliźnie typu Fuenzalida, nieokreślona","Inaktywowana w całości szczepionka przeciwko wściekliźnie, przygotowana z tkanki mózgowej myszy zakażonej wirusem wścieklizny, o zmniejszonej zawartości mieliny"
+904,"Szczepionka przeciwko wściekliźnie zarodków kaczych, nieokreślona","Inaktywowana w całości szczepionka przeciwko wściekliźnie, oczyszczona szczepionka z zarodków kaczek (PDEV), inaktywowana ß-propiolaktonem"
+905,"Szczepionka przeciwko wściekliźnie PHKCV, nieokreślona","Inaktywowana szczepionka zawierająca całe wirusy wścieklizny, oparta na kulturach komórkowych, szczep z pierwotnych komórek nerkowych chomika (PHKCV), szczep pekiński, inaktywacja formaliną"
+906,"Szczepionka na półpasiec, nieokreślona",Szczepionka przeciwgrzybicza
+907,"Szczepionka przeciwko adenowirusowi typu 4, nieokreślona",Szczepionka przeciwko adenowirusowi typu 4
+908,"Szczepionka przeciwko adenowirusowi typu 7, nieokreślona",Szczepionka przeciwko adenowirusowi typu 7
+909,Antytoksyna botulinowa,Antytoksyna przeciwko botulizmowi
+910,"Inaktywowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu A, dawka dla dorosłych, nieokreślona","Inaktywowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu A, dawka dla dorosłych"
+911,"Wirusowe zapalenie wątroby Szczepionka cała inaktywowana, jednoważna, dawka pediatryczna, nieokreślona","Inaktywowana szczepionka zawierająca całe wirusy, monowalentna, dawka pediatryczna"
+912,"Szczepionka przeciwko wirusowemu zapaleniu wątroby typu A, dawka pediatryczna, nieokreślona","Inaktywowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu A, dawka pediatryczna, postać nieokreślona (monowalentna lub dwuwartościowa z wirusowym zapaleniem wątroby typu B)"
+913,BIMERVAX,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane białko kolczaste, heterodimer fuzyjny RBD, adiuwantowa"
+914,"Szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, monowalentna, dawka pediatryczna, nieokreślona","Rekombinowana szczepionka przeciw wirusowemu zapaleniu wątroby typu B, monowalentna, dawka pediatryczna"
+915,"Szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, monowalentna, dawka dla dorosłych, nieokreślona","Rekombinowana szczepionka przeciw wirusowemu zapaleniu wątroby typu B, monowalentna, dawka dla dorosłych"
+916,"Szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, monowalentna, dawka dla pacjentów dializowanych, nieokreślona","Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, monowalentna, dawkowana dla pacjentów dializowanych"
+917,"Szczepionka przeciwko wirusowemu zapaleniu wątroby typu E, nieokreślona",Rekombinowana szczepionka peptydowa przeciwko wirusowemu zapaleniu wątroby typu E
+918,"Szczepionka PRP-D Hib, nieokreślona",Szczepionka skoniugowana przeciwko Hemophilus influenzae typu b składająca się z PRP (fosforan polirybozylobitolu) skoniugowanego z toksoidem błoniczym
+919,"Szczepionka Hib hbOC, nieokreślona","Szczepionka Haemophilus influenzae typu b, oligozydy otoczkowe (fosforan polirybozylobitolu, PRP) sprzężone ze zmutowaną toksyną błoniczą CRM197"
+920,"Szczepionka przeciw błonicy i tężcowi Td, nieokreślona","Szczepionka przeciwko błonicy (toksoid, dawka zmniejszona) i tężcowi (toksoid)"
+921,"Szczepionka przeciwko japońskiemu zapaleniu mózgu, nieokreślona",Szczepionka przeciwko japońskiemu zapaleniu mózgu
+922,"Żywa, atenuowana szczepionka adenowirusowa typu 4 i typu 7, doustna",Szczepionka przeciwko adenowirusowi typu 7 i 4
+923,"Przeciwciało monoklonalne przeciwko wirusowi syncytialnemu układu oddechowego, nieokreślone",Przeciwciało monoklonalne przeciwko RSV
+924,FLUZONE INTRADERMAL,"Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej, podawana śródskórnie"
+925,"Trójwalentna inaktywowana szczepionka przeciw grypie, nieokreślona","Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej, podzielona lub podjednostkowa, dawka standardowa"
+926,FLUCELVAX,"Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej, wytwarzana w hodowli komórkowej"
+927,"Szczepionka mRNA przeciwko COVID-19, dawka pediatryczna, nieokreślona","Szczepionka COVID-19 mRNA, dawka pediatryczna"
+928,"Żywa, atenuowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu A, nieokreślona",Żywa atenuowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu A
+929,"Czterowalentna szczepionka przeciw grypie, inaktywowana, wyprodukowana w hodowli jajowej, dawka pediatryczna, bez dalszych szczegółów","Czterowalentna szczepionka przeciw grypie, inaktywowana, wyprodukowana w hodowli jajowej, dawka pediatryczna, bez dalszych szczegółów"
+930,Ad5-nCoV COVID-19 INHALATION VACCINE,"Szczepionka przeciw COVID-19, niereplikujący się wektor wirusowy, adenowirus typu 5, do inhalacji"
+931,FLUBLOK QUADRIVALENT,Czterowalentna rekombinowana szczepionka przeciwko grypie sezonowej
+932,"Czterowalentna rekombinowana szczepionka przeciw grypie, nieokreślona",Czterowalentna rekombinowana szczepionka przeciwko grypie sezonowej
+933,"TICOVAC 2,7µg",Inaktywowana w całości szczepionka przeciwko kleszczowemu zapaleniu mózgu
+934,VACCIN OREILLONS AVENTIS PASTEUR MSD,Żywa atenuowana szczepionka przeciwko śwince
+935,VACCIN RABIQUE INACTIVE MERIEUX,"Inaktywowana, cała szczepionka przeciwko wściekliźnie, szczep WISTAR PM/WI 38-1503-3M, hodowana na komórkach Vero, inaktywowana beta-propiolaktonem"
+936,VACCIN PNEUMOCOCCIQUE POLYOSIDIQUE AVENTIS PASTEUR MSD,"Nieskoniugowana polisacharydowa szczepionka przeciwko pneumokokom, 23-walentna, serotypy 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F i 33F"
+937,"Szczepionka na botulizm, nieokreślona",Szczepionka przeciwko botulizmowi
+938,"Czterowalentna szczepionka przeciw grypie, nieokreślona","Czterowalentna inaktywowana szczepionka przeciwko grypie sezonowej, szczepionka z rozszczepionym wirionem lub antygenem powierzchniowym"
+939,PREHEVBRIO,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, trzy antygeny (HbS, pre-S1 i pre-S2)"
+940,SPUTNIK-LIGHT,"Szczepionka przeciwko COVID-19 z niereplikującym się wektorem wirusowym, adenowirusem kodującym białko szczytowe SARS-CoV-2"
+941,"Immunoglobulina przeciw wąglikowi, nieokreślona",Immunoglobulina Antrax
+942,"Szczepionka przeciwko wściekliźnie zarodków kurcząt, nieokreślona","Inaktywowana, pełna szczepionka przeciwko wściekliźnie, hodowana w komórkach embrionu kurzego (CEEC), inaktywowana ß-propiolaktonem"
+943,"RabKomórki diploidalne szczepionki przeciw wściekliźnie, nieokreślone","Inaktywowana cała szczepionka przeciwko wściekliźnie, przygotowana w ludzkiej diploidalnej kulturze komórkowej (HDCV) MRC-5, inaktywowana ß-propiolaktonem"
+944,"Inaktywowana doustna szczepionka przeciw cholerze z całym wirionem, nieokreślona",Inaktywowana cała doustna szczepionka przeciwko cholerze
+945,Szczepionka nieokreślona. Grupa serologiczna szczepionki przeciw meningokokom nieznana,Szczepionka przeciw meningokokom o nieokreślonej serogrupie
+946,TYPHIDRALL,"Szczepionka przeciwko durowi brzusznemu i paratyfusowi typu A i B, inaktywowana, całokomórkowa"
+947,IMMU-PHILUS,"Szczepionka przeciwko Haemophilus influenzae typu b, polisacharyd PRP sprzężony z białkiem błony zewnętrznej Neisseria meningitidis serogrupa B"
+948,BACITHRAX,"Acelularna szczepionka przeciwko wąglikowi, 50 mikrogramów na 0,5 ml dawki, z adiuwantem"
+949,IMOVAX BCG,Szczepionka przeciw gruźlicy
+950,IMOVAX DTP,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana szczepionka pediatryczna przeciwko polio (trójwalentna)"
+951,IMOVAX POLIO ORALE,"Szczepionka przeciwko polio (żywa, atenuowana, trójwartościowa) przeciwko poliovirusom 1, 2 i 3, doustna"
+952,IMOVAX COLERA,"Inaktywowana, pełnokomórkowa szczepionka przeciwko cholerze do wstrzykiwań"
+953,PROCOMVAX,Szczepionka przeciwko wirusowemu zapaleniu wątroby typu B i Haemophilus influenzae typu b (koniugat OMP)
+954,JAPANESE ENCEPHALITIS VACCINE,"Pełna inaktywowana szczepionka przeciwko japońskiemu zapaleniu mózgu, przygotowana w tkance mózgowej myszy, szczep Nakayama, do wstrzykiwań, szczepionka Korean Green Cross Corporation"
+955,PULMOVAX,"Nieskoniugowana szczepionka przeciw pneumokokom, 23-walentna, serotypy 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F i 33F"
+956,VACCINO COLERICO BERNA,"Inaktywowana, cała szczepionka przeciwko cholerze, do wstrzykiwania"
+957,VACCINO BCG BERNA,Żywa atenuowana szczepionka przeciwko gruźlicy
+958,ADIUGRIP,"Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej, oparta na jajach, antygen powierzchniowy"
+959,STREPTOPUR,23-walentna niesprzężona szczepionka przeciw pneumokokom
+960,VIATIM,"Szczepionka przeciwko zapaleniu wątroby typu A (inaktywowana, adsorbowana) i szczepionka przeciwko durowi brzusznemu (polisacharydowa)"
+961,ANATOXAL TE N,Szczepionka przeciwko tężcowi (toksoidalna)
+962,ANATOXAL DI TE N ADULT,Szczepionka zawierająca toksoid błoniczy (niska dawka) i toksoid tężcowy
+963,ANATOXAL DI TE PER,"Szczepionka pediatryczna przeciwko błonicy (toksoid, dawka standardowa), tężcowi (toksoid) i krztuścowi (inaktywowana całokomórkowo)"
+964,ANATOXAL DI,"Szczepionka przeciwko błonicy (toksoid, dawka zmniejszona)"
+965,ANATOXAL TE TAB,"Szczepionka przeciwko tężcowi (toksoidowi), durowi brzusznemu (cała inaktywowana) oraz durowi brzusznemu A i B (cała inaktywowana)"
+966,JYNNEOS,"Szczepionka przeciwko ospie wietrznej, trzecia generacja, zmodyfikowany wirus vaccinia Ankara, niereplikowalna"
+967,HEPASOMA,"Inaktywowana, całokomórkowa szczepionka przeciwko wirusowemu zapaleniu wątroby typu A, wirosomalna, pediatryczna lub dla dorosłych"
+968,INFLEXAL V,"Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana z hodowli komórkowej jaj, wirosom"
+969,LYSSAVAC N BERNA,"Inaktywowana cała szczepionka przeciwko wściekliźnie, przygotowana w hodowli komórkowej Vero"
+970,TETATOX,Szczepionka zawierająca toksoid tężcowy
+971,VACCINO ANTIVAIOLOSO LANCY,"Szczepionka przeciwko ospie wietrznej, pierwsza generacja, żywy wirus vaccinia"
+972,VIROFLUSOMA,"Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana z hodowli komórkowej jaj, antygen powierzchniowy"
+973,VIROFLU,"Trójwalentna inaktywowana szczepionka przeciwko grypie sezonowej, wirosomalna"
+974,MENCEVAX AC,Nieskoniugowana szczepionka polisacharydowa przeciwko serogrupom meningokokowym A i C
+975,PERTURIX,"Szczepionka przeciwko krztuścowi (acelularna, wieloskładnikowa, 3 komponenty)"
+976,VACCINO ANTICOLERICO ISI,"Szczepionka przeciwko cholerze, nieokreślona"
+977,ENTEROVACCINO ISI,"Inaktywowana pełna szczepionka przeciwko durowi brzusznemu, doustna"
+978,VAC.DIFTO TETANO ISI,"Szczepionka przeciwko błonicy (toksoid, dawka nieokreślona) i tężcowi (toksoid)"
+979,VACCINO ANTITETANICO ISI,Szczepionka przeciwko tężcowi (toksoid)
+980,VAC.DPT ISI,"Szczepionka przeciwko błonicy (dawka nieokreślona), tężcowi i krztuścowi (acelularna, dawka nieokreślona)"
+981,VACCINO PERTOSSE ISI,"Szczepionka przeciwko krztuścowi, niespecyfikowana"
+982,VACCINO TIFICO ISI,"Szczepionka przeciwko durowi brzusznemu, nieokreślona"
+983,VACCINO ANTIPOL ISI,"Szczepionka przeciwko polio (cała inaktywowana, trójwartościowa)"
+984,VACCINO ANTIVAIOLOSO ISI,"Szczepionka przeciwko ospie wietrznej, pierwsza generacja, żywy wirus wakcyny"
+985,VACCINO TAB TE ISI,"Szczepionka przeciwko tężcowi (toksoid), durowi brzusznemu (cała inaktywowana) oraz paratyfusowi A i B (cała inaktywowana)"
+986,H ATETAL ISI,Szczepionka zawierająca toksoid tężcowy
+987,TANRIX,Szczepionka przeciwko tężcowi (toksoid)
+988,VACCINO MENINGOCOCCICO POLISACCARIDICO TETRAVALENTE GSK,"Nieskoniugowana polisacharydowa szczepionka meningokokowa, serogrupy A, C, W i Y"
+989,HANTAVAX,Szczepionka zawierająca cały wirion Inaktywowana szczepionka przeciwko gorączce krwotocznej z zespołem nerkowym (HFRS) wywołanej przez hantawirusa
+990,ALPHARIX,Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej z oczyszczonymi antygenami
+991,FLULAVAL QUADRIVALENT,Inaktywowana czterowalentna szczepionka przeciwko grypie sezonowej z antygenem powierzchniowym
+992,AFLURIA QUADRIVALENT,Czterowalentna inaktywowana szczepionka przeciwko grypie sezonowej z antygenem powierzchniowym
+993,Td ADSORBED,"Szczepionka przeciwko błonicy (toksoid, dawka zmniejszona) i tężcowi (toksoid)"
+994,VARIVAX II,Żywa atenuowana szczepionka przeciw warchlakom
+995,IMVAMUNE,"Szczepionka przeciwko ospie wietrznej, trzecia generacja, zmodyfikowany wirus vaccinia Ankara, niereplikowalna"
+996,ACAM2000,"Szczepionka drugiej generacji przeciwko ospie wietrznej, hodowany w komórkach wirus vaccinia"
+997,"13-walentna szczepionka skoniugowana przeciwko pneumokokom, nieokreślona","13-walentna pneumokokowa szczepionka skoniugowana, adsorbowana, serotypy 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F i 23F"
+998,LC16,Szczepionka przeciwko ospie wietrznej trzeciej generacji (wirus vaccinia hodowany w komórkach)
+999,WETVAX APSV,"Szczepionka przeciwko ospie wietrznej, pierwszej generacji, żywy wirus vaccinia"
+1000,VACV VACCINIA VIRUS LISTER ELSTREE,"Szczepionka przeciwko ospie wietrznej, pierwsza generacja, żywy wirus wakcylii"
+1001,V4020 VEEV VACCINE,Żywy atenuowany V4020 dla szczepionki przeciwko wirusowi wenezuelskiego końskiego zapalenia mózgu
+1002,Q-VAX,Inaktywowana szczepionka przeciwko gorączce Q
+1003,TEDIVAX PRO ADULTO,Szczepionka zawierająca toksoid błoniczy (niska dawka) i toksoid tężcowy
+1004,TEDIVAX,"Szczepionka pediatryczna przeciwko błonicy (toksoid, dawka standardowa) i tężcowi (toksoid), dawka pediatryczna"
+1005,REVAC-B PLUS ADULT VACCINE,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawka dla dorosłych"
+1006,SHANVAC B,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, HBsAg 20 µg, dzieci i dorośli"
+1007,ISTIVAC4,"Czterowalentna inaktywowana szczepionka przeciwko grypie sezonowej, z rozszczepionym wirionem"
+1008,DITEMER,Toksyna błonicza (dawka standardowa) i szczepionka zawierająca toksoid tężcowy
+1009,TETAMER,Vaccin tétanique (anatoksyna)
+1010,TRIAMER,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana całokomórkowa szczepionka pediatryczna przeciwko krztuścowi"
+1011,DITEKIBOOSTER,"Szczepionka zawierająca toksoid błoniczy (niska dawka), toksoid tężcowy i acelularny krztusiec (toksoid krztuścowy, niska dawka)"
+1012,PICOVAX,Inaktywowana szczepionka przeciw polio (trójwalentna)
+1013,FLUBLOK TRIVALENT,Trójwalentna rekombinowana szczepionka przeciwko grypie sezonowej
+1014,PROVARIVAX,Żywa atenuowana szczepionka przeciwko ospie wietrznej
+1015,COMBIVAX,"Szczepionka pediatryczna przeciwko błonicy (toksoid, dawka standardowa), tężcowi (toksoid) i krztuścowi (inaktywowana całokomórkowa)"
+1016,IDFLU,"Trójwartościowa inaktywowana szczepionka przeciwko grypie sezonowej, antygen powierzchniowy"
+1017,SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (50 µg/50 µg)/mL MODERNA,"Dwuwalentna szczepionka COVID-19 mRNA, oryginalny wirus + wariant Omicron"
+1018,NOORA VACCINE,Rekombinowana szczepionka SARS-CoV-2 zawierająca białko RBD (Noora Vaccine)
+1019,"SPIKEVAX 0,1 mg/mL MODERNA","Szczepionka przeciwko krowom 19 ARNm, w dawce 50 mikrogramów"
+1020,Szczepionka przeciwko wirusowemu zapaleniu wątroby typu A Aventis Pasteur MSD,"Inaktywowana w całości szczepionka przeciwko wirusowemu zapaleniu wątroby typu A, monowalentna, dawka dla dorosłych"
+1021,COMIRNATY ORIGINAL/OMICRON BA.1 (15/15 µg) BIONTECH-PFIZER,"Dwuwalentna szczepionka mRNA przeciwko Covid 19, oryginalny wirus + wariant Omicron BA.1, po 15 mikrogramów"
+1022,KOMIRNATY 3 µg NIEMOWLĘTA I DZIECI BIONTECH-PFIZER,"Szczepionka pediatryczna mRNA 19, 3 mikrogramy"
+1023,COMIRNATY ORIGINAL/OMICRON BA.4-5 (15/15 µg) BIONTECH-PFIZER,"Dwuwalentna szczepionka mRNA przeciwko Covid 19, oryginalny wirus + wariant Omicron BA.4/5, po 15 mikrogramów"
+1024,SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 (50 µg/50 µg)/mL MODERNA,"Dwuwalentna szczepionka mRNA przeciwko Covid 19, oryginalny wirus + wariant Omicron BA.4/5, po 50 mikrogramów"
+1025,CORBEVAX,Podjednostkowa szczepionka białkowa przeciwko Covid 19; inna nazwa: BECOV2A
+1026,SOBERANA 02 FINLAY-FR-2 COVID-19 VACCINE,Rekombinowane białko podjednostkowe szczepionki (domena RBD skoniugowana z toksoidem tężcowym + adiuwant)
+1027,COVIVAC CHUMAKOV COVID-19 VACCINE,Całkowicie inaktywowana szczepionka COVID- 19; inna nazwa: Kovivac
+1028,RECOMBIVAX HB DIALYSIS,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawkowanie dla pacjentów dializowanych"
+1029,QUINTANRIX,"Dziecięca szczepionka przeciwko błonicy (toksoid, dawka standardowa), tężcowi (toksoid), krztuścowi (inaktywowana całokomórkowo, dawka standardowa), Haemophilus influenzae typu b (skoniugowana z toksoidem tężcowym) i wirusowemu zapaleniu wątroby typu B (rekombinowana)"
+1030,GEMCOVAC-19,"Szczepionka COVID-19, mRNA kodujący białko kolca SARS-CoV-2, trwające badanie kliniczne"
+1031,SPIKEVAX 50 µg MONODOSE MODERNA,"Szczepionka mRNA COVID-19, oryginalny wirus, 50 mikrogramów, ampułko-strzykawka"
+1032,SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (25 µg/25 µg) MODERNA,"Dwuwalentna szczepionka mRNA przeciwko Covid 19, oryginalny wirus + wariant Omicron BA.1, po 25 mikrogramów"
+1033,COMIRNATY ORIGINAL/OMICRON BA.4-5 (5/5 µg) BIONTECH-PFIZER,"Dwuwalentna szczepionka mRNA przeciwko Covid 19, oryginalny wirus + wariant Omicron BA.4/5, po 5 mikrogramów, dawka pediatryczna 5-11 lat"
+1034,HEBERBIOVAC B 10 µg,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawka pediatryczna"
+1035,HEBERBIOVAC HB 20 µg,"Rekombinowana szczepionka przeciw wirusowemu zapaleniu wątroby typu B, dawka dla dorosłych"
+1036,SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 25 µg/25 µg MODERNA,"Biwalentna szczepionka RNAm przeciwko COVID-19, oryginalny wirus + wariant Omicron BA.4/5, 25 mikrogramów każda"
+1037,"Szczepionka na kleszczowe zapalenie mózgu, szczep Neudörfl, dawka pediatryczna, nieokreślona","Szczepionka na kleszczowe zapalenie mózgu, inaktywowana całym wirusem, szczep Neudörfl, dawka pediatryczna"
+1038,"Szczepionka na kleszczowe zapalenie mózgu, szczep Neudörfl, dawka dla dorosłych, nieokreślona","Szczepionka na kleszczowe zapalenie mózgu, inaktywowana całym wirusem, szczep Neudörfl, dawka dla dorosłych"
+1039,"Szczepionka mRNA przeciwko COVID-19, wirus oryginalny, 50 µg, nieokreślony","Szczepionka mRNA przeciwko COVID-19, oryginalny wirus, 50 mikrogramów na dawkę"
+1040,AREXVY,"Szczepionka przeciwko syncytialnemu wirusowi oddechowemu (RSV), rekombinowana, antygen RSVPreF3 pochodzący z białka F, z adiuwantem"
+1041,"Szczepionka RNA przeciwko Covid-19, nieokreślona",Szczepionka RNA przeciwko Covid-19
+1042,"Szczepionka przeciwko COVID-19, niereplikujący wektor wirusowy, nieokreślony","Szczepionka przeciwko COVID-19, niereplikujący wektor wirusowy"
+1043,"Szczepionka przeciwko COVID-19, podjednostka białka, nieokreślona","Szczepionka przeciwko COVID-19, podjednostka białka"
+1044,"Szczepionka przeciwko COVID-19, inaktywowany cały wirion, nieokreślony","Szczepionka na Covid-19, inaktywowany cały wirion"
+1045,INFANRIX-IPV/Hib,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy, wieloskładnikowa acelularna szczepionka przeciw krztuścowi (dawka standardowa), inaktywowana szczepionka przeciw polio (trójwalentna) i szczepionka przeciw Haemophilus influenzae typu b dla dzieci."
+1046,BEYFORTUS 50 mg (nirsevimab),Ludzkie przeciwciało monoklonalne przeciwko RSV
+1047,ABRYSVO,"Szczepionka przeciwko wirusowi Syncytialnego układu oddechowego (RSV), rekombinowana prefuzja, glikoproteiny F podtypów A i B RSV, bez adiuwanta"
+1048,DECAVAC,Szczepionka zawierająca toksoid błoniczy (mała dawka) i toksoid tężcowy
+1049,TDVAX,Szczepionka zawierająca toksoid błoniczy (mała dawka) i toksoid tężcowy
+1050,BEYFORTUS 100 mg (nirsevimab),Ludzkie przeciwciało monoklonalne przeciwko RSV
+1051,COMIRNATY OMICRON XBB.1.5 30 µg,"Szczepionka Covid 19 mRNA, podwariant Omicron XBB.1.5, 30 mikrogramów, dawka dla dorosłych (+ 12 lat)"
+1052,COMIRNATY OMICRON XBB.1.5 10 µg,"Szczepionka Covid 19 mRNA, podwariant Omicron XBB.1.5, 30 mikrogramów, dawka dla dorosłych (+ 12 lat)"
+1053,COMIRNATY OMICRON XBB.1.5 3 µg,"Szczepionka Omicron XBB.1.5 subwariant covid 19 mRNA, 3 mikrogramy, dawka pediatryczna (6 miesięcy-4 lata)"
+1054,"COMIRNATY ORIGINAL/OMICRON BA.4-5 (1,5/1,5 µg)","Szczepionka Covid 19 mRNA, oryginalny wirus + wariant Omicron BA.4/5, po 1,5 mikrograma, dawka pediatryczna (6 MIESIĘCY-4 LATA)"
+1055,NUVAXOVID XBB.1.5,"Szczepionka przeciwko COVID-19, podjednostka białkowa, rekombinowane nanocząsteczki białka kolczastego, z adiuwantem (Matrix M), podwariant Omicron XBB.1.5"
+1056,R21/MATRIX-M,Preerytrocytarna szczepionka przeciwko malarii R21/Matrix-M
+1057,ENGERIX B JUNIOR,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawka pediatryczna"
+1058,SPIKEVAX XBB.1.5 0.1 mg/mL dose 50 µg MODERNA,
+1059,SPIKEVAX XBB.1.5 0.1 mg/mL dose 25 µg MODERNA,"Podwariantowa szczepionka mRNA przeciwko Covid-19 Omicron XBB.1.5, 25 mikrogramów na dawkę, fiolka wielodawkowa"
+1060,SPIKEVAX XBB.1.5 50 µg MODERNA,"Szczepionka mRNA przeciwko COVID-19, podwariant Omicron XBB.1.5, 50 mikrogramów na dawkę"
+1061,PENBRAYA,"Meningokoki polisacharydowe (grupy A, C, Y, W), koniugat toksoidu tężcowego, rekombinowana szczepionka przeciwko meningokokom B"
+1062,Immunoglobulina CMV,"Immunoglobulina przeciw wirusowi cytomegalii, dożylna"
+1063,"Szczepionka przeciwko wirusowemu zapaleniu wątroby typu C, nieokreślona","Szczepionka przeciwko wirusowemu zapaleniu wątroby typu C, nieokreślona"
+1064,"Szczepionka przeciwko wirusowi HIV, nieokreślona","Szczepionka przeciwko wirusowi HIV, nieokreślona"
+1065,Leprosy vaccine,"Szczepionka na trąd, nieokreślona"
+1066,"Szczepionka na czerniaka, nieokreślona","Szczepionka na czerniaka, nieokreślona"
+1067,"Szczepionka Streptococcus pyogenes, nieokreślona","Szczepionka Streptococcus pyogenes, nieokreślona"
+1068,"Szczepionka na gorączkę Doliny Rift, nieokreślona","Szczepionka na gorączkę Doliny Rift, nieokreślona"
+1069,Vaccinia immune globulin,Globulina immunologiczna przeciwko szczepionce
+1070,Fluzone High-Dose Quadrivalent Southern Hemisphere,"Czterowalentna inaktywowana szczepionka przeciw grypie, uzyskana z hodowli komórek jajowych, typu „split” lub podjednostkowa, w wysokiej dawce"
+1071,"Przeciwciało lub szczepionka przeciwko wirusowi RSV, nieokreślone","Przeciwciało lub szczepionka przeciwko wirusowi RSV, nieokreślone"
+1072,"Szczepionka mRNA przeciwko COVID-19, wirus oryginalny, 25 µg, nieokreślony","Szczepionka mRNA przeciwko COVID-19, oryginalny wirus, 25 mikrogramów"
+1073,"Szczepionka na boreliozę, nieokreślona","Szczepionka na boreliozę, nieokreślona"
+1074,CYFENDUS,Adsorbowana bezkomórkowa szczepionka przeciwko wąglikowi z adiuwantem
+1075,"Bezkomórkowa szczepionka przeciwko wąglikowi, nieokreślona","Bezkomórkowa szczepionka przeciwko wąglikowi, nieokreślona"
+1076,UROMUNE (MV 140),
+1077,ENVAX-A71,
+1078,ENVACGEN,
+1079,VAX-SPIRAL,
+1080,COVAXIN,
+1081,BAYGAM,
+1082,BAYHEP B,
+1083,BAYRAB,
+1084,BAYTET,
+1085,MYCOBAX,
+1086,PNEUMUNE,
+1087,HYPERTET,
+1088,HYPERRAB,
+1089,HYPERHEB B,
+1090,MENZB,Szczepionka przeciwko meningokokom zawierająca białka pęcherzyków błony zewnętrznej
+1091,VARIZIG,
+1092,KAMRAB,
+1093,HEPAGAM,
+1094,OROCHOL,
+1095,MVA85A,
+1096,MORCVAX,
+1097,CYTOGAM,
+1098,XANAFLU,
+1099,BABYBIG,
+1100,BOTULISM ANTITOXIN BEHRING,
+1101,DOTARICIN,
+1102,HIB-IMMUNE,
+1103,HIB-VAX,
+1104,DIPHTHERIA ANTITOXIN B.P.,
+1105,BAT EMERGENT BIOSOLUTIONS,
+1106,,
+1107,,
+1108,,
+1109,,
+1110,,
+1111,,
+1112,,
+1113,,
+1114,,
+1115,,
+1116,,
+1117,,
+1118,,
+1119,,
+1120,,
+1121,,
+1122,,
+1123,,
+1124,,
+1125,,
+1126,,
+1127,,
+1128,,
+1129,,
+1130,,
+1131,,
+1132,,
+1133,,
+1134,,
+1135,,
+1136,"23-walentna skoniugowana szczepionka przeciw pneumokokom, nieokreślona","23-walentna skoniugowana szczepionka przeciw pneumokokom, serotypy 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F i 33F"
+1137,"Szczepionka nieokreślona. Szczepionka przeciw kleszczowemu zapaleniu mózgu, pełnowirionowa inaktywowana, szczep K23",
+1138,,
+1139,,
+1140,,
+1141,,
+1142,,
+1143,,
+1144,,
+1145,,
+1146,"Szczepionka przeciw grypie czterowalentna, inaktywowana, wyprodukowana w hodowli jajowej, o wysokiej dawce, bez dalszych informacji","Czterowalentna, inaktywowana szczepionka przeciw grypie, uzyskana w hodowli jajowej, frakcjonowana lub podjednostkowa, o wysokiej dawce"
+1147,,
+1148,,
+1149,,
+1150,,
+1151,,
+1152,,
+1153,,
+1154,,
+1155,,
+1156,,
+1157,,
+1158,,
+1159,,
+1160,,
+1161,,
+1162,,
+1163,"20-walentna skoniugowana szczepionka przeciw pneumokokom, nieokreślona","20-walentna skoniugowana szczepionka przeciw pneumokokom, adsorbowana, serotypy 1, 3, 4, 5, 6A, 6B, 7F, 8, 9V, 10A, 11A, 12F, 14, 15B, 18C, 19A, 19F, 22F, 23F i 33F"
+1164,,
+1165,,
+1166,,
+1167,,
+1168,,
+1169,,
+1170,,
+1171,"Trójwalentna szczepionka przeciw grypie, inaktywowana, uzyskana z hodowli komórek jajowych, typu „split” lub podjednostkowa, o wysokiej dawce, bez określenia","Trójwalentna inaktywowana szczepionka przeciw grypie, uzyskana z hodowli komórek jajowych, typu „split” lub podjednostkowa, o wysokiej dawce"
+1172,,
+1173,,
+1174,,
+1175,,
+1176,,
+1177,,
+1178,,
+1179,,
+1180,,
+1181,,
+1182,,
+1183,,
+1184,,
+1185,,
+1186,,
+1187,,
+1188,,
+1189,,
+1190,,
+1191,,
+1192,,
+1193,,
+1194,,
+1195,,
+1196,,
+1197,,
+1198,,
+1199,,
+1200,,
+1201,,
+1202,,
+1203,,
+1204,,
+1205,,
+1206,,
+1207,,
+1208,,
+1209,,
+1210,,
+1211,,
+1212,,
+1213,,
+1214,,
+1215,,
+1216,,
+1217,,
+1218,,
+1219,,
+1220,,
+1221,"Diphtheria (standard dose), tetanus and rubella vaccine, unspecified",
+1222,,
+1223,,
+1224,,
+1225,,
+1226,,
+1227,,
+1228,,
+1229,,
+1230,,
+1231,,
+1232,,
+1233,"10-walentna skoniugowana szczepionka przeciw pneumokokom, nieokreślona","Skoniugowana polisacharydowa szczepionka przeciw pneumokokom, 10-walentna, serotypy 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F i 23F"
+1234,,
+1235,,
+1236,,
+1237,,
+1238,,
+1239,"15-walentna skoniugowana szczepionka przeciw pneumokokom, nieokreślona","15-walentna skoniugowana szczepionka przeciw pneumokokom, adsorbowana, serotypy 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, 22F, 23F i 33F"
+1240,,
+1241,,
+1242,,
+1243,,
+1244,,
+1245,,
+1246,,
+1247,,
+1248,,
+1249,,
+1250,EUVICHOL-S,
+1251,EUVICHOL-PLUS,"Szczepionka przeciwko cholerze, doustna, dwuwartościowa, zawierająca zabite całe komórki bakterii Vibrio cholerae O1 (typ klasyczny i El Tor) oraz O139"
+1252,JE-CV,
+1253,CHIMERIVAX-JE,
+1254,CAPVAXIVE,
+1255,HEXASIIL,
+1256,,
+1257,,
+1258,COMIRNATY JN.1 30,
+1259,COMIRNATY JN.1 10 µg CHILDREN (5-11 YEARS),
+1260,COMIRNATY JN.1 3 µg CHILDREN (6 MONTHS-4 YEARS),
+1261,NUVAXOVID JN.1,
+1262,MRESVIA,Single-stranded 5' capped mRNA encoding the Respiratory syncytial virus glycoprotein F stabilized in the prefusion conformation
+1263,"Zatwierdzona szczepionka mRNA covid, kodująca białko kolczaste SARS-COV-2","Zatwierdzona szczepionka mRNA covid, kodująca białko kolczaste SARS-COV-2"
+1264,"A(H5) avian influenza vaccine, unspecified",
+1265,CLODIVAC,Szczepionka zawierająca toksoid błoniczy (mała dawka) i toksoid tężcowy
+1266,,
+1267,,
+1268,SPIKEVAX JN.1 50 µg,"Szczepionka Covid 19 mRNA, podwariant Omicron JN.1, dawka 50 mikrogramów"
+1269,"SPIKEVAX JN.1 0,1 mg/mL dose 25 µg","Szczepionka Omicron JN.1 subwariant covid 19 mRNA, 25 mikrogramów na dawkę, fiolka wielodawkowa"
+1270,"SPIKEVAX JN.1 0,1 mg/mL dose 50 µg","Szczepionka Omicron JN.1 subwariant covid 19 mRNA, 50 mikrogramów na dawkę, fiolka wielodawkowa"
+1271,TYT BIOMED,"Szczepionka przeciw durowi brzusznemu i tężcowi, zawiesina do wstrzykiwań"
+1272,PSEUDOVAC,Poliwalentna szczepionka przeciwko bakterii Pseudomonas aeruginosa
+1273,DT BIOMED,"Szczepionka pediatryczna przeciwko błonicy (toksoid, dawka standardowa) i tężcowi (toksoid), adsorbowana zawiesina do wstrzykiwań"
+1274,d BIOMED,"Szczepionka przeciwko błonicy (toksoid, dawka zmniejszona)"
+1275,,Toksyna błonicza (dawka standardowa) szczepionka pediatryczna
+1276,DTP BIOMED,"Toksoid błoniczy (dawka standardowa), toksoid tężcowy i inaktywowana całokomórkowa szczepionka pediatryczna przeciwko krztuścowi"
+1277,"Szczepionka przeciwko chikungunya, nieokreślona","Szczepionka przeciwko chikungunya, nieokreślona"
+1278,WALRINVAX,Dwuwalentna rekombinowana szczepionka przeciwko wirusowi brodawczaka ludzkiego (typ 16 i 18) (Pichia pastoris)
+1279,,
+1280,,
+1281,,
+1282,,
+1283,,
+1284,,
+1285,,
+1286,,
+1287,,
+1288,,
+1289,,
+1290,,
+1291,,
+1292,,
+1293,,
+1294,BIO-TD,
+1295,,
+1296,,
+1297,,
+1298,BETT,
+1299,BEVAC 10 µg,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawka pediatryczna"
+1300,BEVAC 20 µg,
+1301,BE Td,
+1302,COMBE FIVE,
+1303,,
+1304,,
+1305,,
+1306,,"Szczepionka przeciwko durowi brzusznemu, antygen Vi skoniugowany z białkiem CRM197"
+1307,JEEV 6 µg,
+1308,,
+1309,NOVEL ORAL (nOPV) TYPE 2 BIOLOGICAL E. LTD,
+1310,SII TD-VAC,
+1311,,
+1312,,
+1313,,
+1314,,
+1315,,
+1316,RUBELLA SII,
+1317,,
+1318,"DIPHTHERIA, TETANUS, PERTUSSIS AND HEPATITIS B SII",
+1319,"DIPHTHERIA, TETANUS, PERTUSSIS AND HAEMOPHILUS INFLUENZAE B SII",
+1320,"DIPHTHERIA, TETANUS, PERTUSSIS, HEPATITIS B AND HAEMOPHILUS INFLUENZAE B SII",
+1321,,
+1322,,
+1323,,
+1324,,
+1325,,
+1326,,
+1327,,
+1328,,
+1329,,
+1330,,
+1331,,
+1332,,
+1333,,
+1334,,
+1335,INCELLIPAN,
+1336,KOSTAIVE,
+1337,CONVACELL,
+1338,ZOONOTIC,
+1339,BIMERVAX XBB.1.16,
+1340,"SPIKEVAX BA.1 0,1 mg/mL dose 50 µg",
+1341,"SPIKEVAX BA.4-5 0,1 mg/mL dose 50 µg",
+1342,IPVAX,
+1343,BORYUNG CELL CULTURE-DERIVED JAPANESE ENCEPHALITIS VACCINE,
+1344,BORYUNG JAPANESE ENCEPHALITIS VACCINE,
+1345,ZEROTYPH,
+1346,FLU QUADRIVALENT MCV,
+1347,EFLUELDA,"Szczepionka przeciwko grypie sezonowej, trójwalentna, inaktywowana, uzyskana z hodowli komórek jajowych, typu split-virion, o wysokiej dawce"
+1348,TETANA,
+1349,TY BIOMED,
+1350,T SIS BIOMED,
+1351,TETANA PRO,
+1352,TERATECT,
+1353,IL-YANG FLU VACCINE,
+1354,EUFORVAC,
+1355,EUPENTA,
+1356,EUVAX B 10 µg,
+1357,EUPOLIO,
+1358,SKYCELLFLU QUADRIVALENT,
+1359,SKYCELLFLU TRIVALENT,
+1360,HEPAMUNE B 10 µg,
+1361,HEPAMUNE B 20 µg,
+1362,SK TD,
+1363,HEPAVAX-GENE B 10 µg,
+1364,BIOHIB,
+1365,COMVAC5,
+1366,HILLCHOL,
+1367,HNVAC,"Szczepionka przeciwko grypie pandemicznej typu A(H1N1)pdm09, inaktywowana, uzyskana z hodowli w jajach"
+1368,INCOVACC,
+1369,INDIRAB,
+1370,JENVAC,
+1371,REVAC-B MCF,
+1372,ROTAVAC,
+1373,ROTAVAC 5D,
+1374,TYPBAR-TCV,
+1375,TWINRAB,
+1376,ZYCOV-D,
+1377,VAXIFLU-4,
+1378,VACTYPH,
+1379,ZYVAC MMR,
+1380,ZYVAC TCV,
+1381,MEASLES AND RUBELLA VACCINE ZYDUS,
+1382,SKYTYPHOID,
+1383,CYVAC,
+1384,BARYCELA,
+1385,GC FLU QUADRIVALENT,
+1386,GCFLU,
+1387,SINSAVAC,
+1388,BIVAC POLIO,
+1389,INLIVE,
+1390,HEALIVE,
+1391,BILIVE,
+1392,23-VALENT SINOVAC,
+1393,PROVARIX,
+1394,POLIO SINOVAC VACCINE,
+1395,MUMPS SINOVAC VACCINE,
+1396,ANFLU,
+1397,PANFLU,
+1398,PANFLU.1,"Szczepionka przeciwko grypie pandemicznej typu A(H1N1)pdm09, inaktywowana, uzyskana z hodowli w jajach"
+1399,TERTRANFLU,
+1400,SHANIPV,
+1401,9-VALENT HPV VACCINE INNOVAX,
+1402,EASYSIX,
+1403,EASYFIVE-TT,
+1404,EASYFOUR-TT,
+1405,EASYFOURPOL,
+1406,SPUTNIK V,
+1407,NOVOHIB,
+1408,ENIVACHB,
+1409,,
+1410,,
+1411,,
+1412,,
+1413,,
+1414,,
+1415,,
+1416,,
+1417,,
+1418,,
+1419,,
+1420,,
+1421,,
+1422,,
+1423,,
+1424,,
+1425,,
+1426,,
+1427,,
+1428,,
+1429,TETANEA,
+1430,,
+1431,,
+1432,,
+1433,,
+1434,,
+1435,,
+1436,,
+1437,,
+1438,,
+1439,,
+1440,,
+1441,"Szczepionka przeciw grypie, czterowalentna, inaktywowana, uzyskana z hodowli komórek jajowych, typu „split” lub podjednostkowa, do podania śródskórnego, bez określenia","Szczepionka przeciw grypie, czterowalentna, inaktywowana, uzyskana z hodowli komórek jajowych, typu „split” lub podjednostkowa, do podania śródskórnego, bez określenia"
+1442,,
+1443,,
+1444,,
+1445,,
+1446,,
+1447,VACCIN BCG SYNTHAVERSE,
+1448,BCG VACCINE MERCK,
+1449,DITANRIX-PEDIATRIC,
+1450,HEPACARE,
+1451,CHIROFLU,
+1452,SCI-B-VAC,
+1453,INVIVAC,
+1454,PRIMAVAX,
+1455,MENGIVAC A + C,
+1456,WYVAC,
+1457,TETRA-SOLGEN,
+1458,TRIDIPIGEN,
+1459,TRINFAGEN N0.1,
+1460,SOLGEN,
+1461,DIFTET,
+1462,PNU-IMUNE 14,
+1463,FREEZE-DRIED BCG VACCINE JAPAN,
+1464,FLUBRON VACCINE,"Szczepionka przeciwko grypie sezonowej zawierająca inaktywowane całe wirusy, uzyskana w hodowli jajowej"
+1465,PERDIPIGEN,
+1466,COMIRNATY LP.8.1 30 µg,
+1467,COMIRNATY LP.8.1 3 µg,
+1468,COMIRNATY LP.8.1 10 µg,
+1469,mNEXSPIKE,
+1470,,
+1471,,
+1472,,
+1473,,
+1474,ENFLONSIA (clesrovimab),Ludzkie przeciwciało monoklonalne przeciwko RSV
+1475,,
+1476,,
+1477,ENCEPUR N CHILDREN,
+1478,SYNAGIS 50 mg (PALIZIVUMAB),
+1479,VACPERTAGEN,
+1480,PNEUMOVAX 23,"Polisacharydowa szczepionka przeciw pneumokokom, 23-walentna, serotypy 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19A, 19F, 20, 22F, 23F i 33F"
+1481,FLUVACCINOL,
+1482,IMMUNOGLOBULINE HUMAINE DE L'HÉPATITE B LFB,
+1483,ENCEPUR N,
+1484,HEPRECOMB CHILDREN,
+1485,GEN H-B-Vax 5,
+1486,GEN H-B-Vax 10,
+1487,PREVENAR-7,
+1488,POLIORIX,
+1489,CELTURA,"Szczepionka przeciwko grypie pandemicznej typu A(H1N1)pdm09, inaktywowana, uzyskana z hodowli w jajach"
+1490,ALMEVAX,
+1491,RUBEVAC,
+1492,POLYOMYELITIS IMPFSTOFF BERNA,
+1493,ACEL P,
+1494,DITEBOOSTER,
+1495,POLIO KOPROWSKI K1-K2-K3,
+1496,POLIO LILLY,
+1497,TD-VIRELON,
+1498,EPIVACCORONA-N,
+1499,SPUTNIK-M,
+1500,COMIRNATY LP.8.1 50 µg,
+1501,SPIKEVAX LP.8.1 25 µg,
+1502,BIMERVAX LP.8.1,
+1503,,
+1504,TD-PUR,
+1505,SCTV01C,
+1506,STROVAC,
+1507,BUTANTAN-DV,
+1508,BUTANTAN HEP A,
+1509,BUTANTAN HEP B,
+1510,BUTANTAN HPV,
+1511,BUTANTAN DT,
+1512,BUTANTAN DT ADULT,
+1513,BUTANTAN DTP,
+1514,BUTANTAN DTAP,
+1515,BUTANTAN RABIES,
+1516,BUTANTAN INFLUENZA,
+1517,AUJEMFLU,
+1518,MFLUSIVA,
+1519,COMIRNATY XFG 10 µg,
+1520,COMIRNATY XFG 30 µg,
+1521,,
+1522,,
+1523,KEYTRUDA,
+1524,,
+1525,NUVAXOVID XFG,
+1526,BIMERVAX XFG.1.1,
+1527,,
+1528,,
+1529,SPIKEVAX XFG 25 µg,
+1530,SPIKEVAX XFG 50 µg,
+1531,,
+1532,,
+1533,,
+1534,"Trójwalentna, inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana w hodowli jajowej, zawierająca fragmenty wirionów, dawka pediatryczna","Trójwalentna, inaktywowana szczepionka przeciwko grypie sezonowej, uzyskana w hodowli jajowej, zawierająca fragmenty wirionów, dawka pediatryczna"
+1535,,
+1536,,
+1537,,
+1538,,
+1539,,
+1540,,
+1541,,
+1542,,
+1543,,
+1544,,
+1545,,
+1546,,
+1547,,
+1548,,
+1549,,
+1550,,
+1551,,
+1552,,
+1553,,
+1554,,
+1555,,
+1556,,
+1557,,
+1558,EUTYPH-C,"Szczepionka przeciwko durowi brzusznemu, antygen Vi skoniugowany z białkiem CRM197"
+1559,EUVICHOL,"Szczepionka przeciwko cholerze, doustna, dwuwartościowa, zawierająca zabite całe komórki bakterii Vibrio cholerae O1 (typ klasyczny i El Tor) oraz O139"
+1560,RECOMBIVAX HB ADULT,"Rekombinowana szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, dawka dla dorosłych"
+1561,HEPA-B INJECTION PEDIATRIC,"Szczepionka rekombinowana przeciwko wirusowemu zapaleniu wątroby typu B, dawka pediatryczna"

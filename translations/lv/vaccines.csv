@@ -1,0 +1,1485 @@
+nuva_id,name,description
+1,ACT-HIB,Haemophilus influenzae b tipa konjugētā vakcīna
+2,AGRIPPAL,"Trivalenta inaktivēta sezonālās gripas vakcīna, olu bāzes, virsmas antigēns"
+3,AVAXIM 160 U,"Inaktivēta A hepatīta vakcīna, pieaugušo deva"
+4,D.T. POLIO MERIEUX,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un inaktivēta poliomielīta (trivalenta) bērnu vakcīna."
+5,DUKORAL,"Perorālā holēras vakcīna, kas satur rekombinantu holēras toksīna B apakšvienību (rTCB) un inaktivētas baktērijas ar palīgvielas nozīmi"
+6,FLUVIRINE,"Trivalenta inaktivēta sezonālās gripas vakcīna, olu bāzes, virsmas antigēns"
+7,GARDASIL,"Cilvēka papilomas vīrusa vakcīna, uz VLP (vīrusiem līdzīgu daļiņu) bāzes, neavalenta (6., 11., 16. un 18. tips), rekombinanta, adsorbēta"
+8,GRIPGUARD,"Trivalenta inaktivēta sezonālās gripas vakcīna, olu bāzes, ar virsmas antigēnu, ar adjuvantu"
+9,HBVAXPRO 10 µg,"Rekombinantā B hepatīta vakcīna, pieaugušo deva"
+10,HBVAXPRO 40 µg,"rekombinantā B hepatīta vakcīna, dializējamo pacientu devas"
+11,HBVAXPRO 5 µg,"rekombinantā B hepatīta vakcīna, bērnu vakcīnas deva"
+12,IMMUGRIP,"Trivalenta inaktivēta sezonālās gripas vakcīna, sadalīta virionā"
+13,IMOVAX POLIO,Inaktivēta poliomielīta (trivalenta) vakcīna
+14,INFANRIX HEXA,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepus (3 komponenti, standarta deva), Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu), inaktivēta poliomielīta (trivalenta) un B hepatīta (rekombinanta) bērnu vakcīna, adsorbēta"
+15,INFANRIXQUINTA,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu akcelulārās garo klepusas (3 komponenti, standarta deva), Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) un inaktivēta poliomielīta (trivalenta) bērnu vakcīna, adsorbēta"
+16,"INFLUVAC 0,5 mL","Sezonas gripas trivalentā inaktivētā vakcīna, kas iegūta no olu kultūras virsmas antigēna, deva pieaugušajiem"
+17,M-M-RVAXPRO,"Dzīva novājināta masalu, parotīta un masaliņu vakcīna"
+18,MENCEVAX,"nekonjugēta meningokoku polisaharīdu vakcīna, A, C, W un Y serogrupas"
+19,MENINGITEC,Meningokoka C konjugētā vakcīna
+20,MENJUGATEKIT 10 µg,Meningokoka C konjugētā vakcīna
+21,MUTAGRIP,"Sezonas gripas trivalentā inaktivētā vakcīna, iegūta no olu kultūras, sadalīti virioni"
+22,NEISVAC,Meningokoka C konjugētā vakcīna
+23,PENTAVAC,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu akcelulārās garo klepusas (5 komponenti, standarta deva), Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) un inaktivētas poliomielīta (trivalentas) bērnu vakcīna, adsorbēta"
+24,PNEUMO 23,"Pneimokoku polisaharīdu vakcīna, 23-valenta, 1., 2., 3., 4., 5., 6.B, 7.F, 8., 9.N, 9.V, 10.A, 11.A, 12.F, 14., 15.B, 17.F, 18.C, 19.A, 19.F, 20., 22.F, 23.F un 33.F serotipi"
+25,PREVENAR,"Pneimokoku konjugētā vakcīna, 7-valenta, adsorbēta, 4., 6B, 9V, 14., 18C, 19F un 23F serotips"
+26,PREVIGRIP,"Sezonas gripas trivalentā inaktivētā vakcīna, iegūta no olu kultūras, virsmas antigēns"
+27,R.O.R. VAX,"Dzīva novājināta masalu, parotīta un masaliņu vakcīna"
+28,RABIPUR,"Visa viriona inaktivēta trakumsērgas vakcīna, Flury LEP celms, attīrīta vistas embriju šūnu vakcīna (PCECV), inaktivācija ar ß-propiolaktonu"
+29,REPEVAX,"Difterijas toksoīda (neliela deva), stingumkrampju toksoīda, daudzkomponentu akcelulārās garo klepusas (5 komponenti, neliela deva) un inaktivēta poliomielīta (trivalenta) vakcīna, adsorbēta"
+30,REVAXIS,"Difterijas toksoīda (mazas devas), stingumkrampju toksoīda un inaktivētas poliomielīta (trivalentas) vakcīnas, adsorbētas"
+31,ROTATEQ,"Dzīva novājināta pentavalenta rotavīrusa vakcīna, perorāla"
+32,ROUVAX,Dzīva novājināta masalu vakcīna
+33,RUDIVAX,Dzīva novājināta masaliņu vakcīna
+34,SPIROLEPT,Inaktivēta pilnšūnu leptospirozes vakcīna
+35,STAMARIL,Dzīva novājināta dzeltenā drudža vakcīna
+36,TETAGRIP,"Sezonas trivalentā inaktivētā gripas vakcīna, kas iegūta no olu kultūras, sadalītu virionu un stērbeles toksoīda vakcīna"
+37,TETRAVAC-ACELLULAIRE,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva) un inaktivēta poliomielīta (trivalenta) bērnu vakcīna"
+38,"TICOVAC 0,5 mL",Ērču encefalīta vakcīna (inaktivēta ar veselu vīrusu)
+39,"TICOVAC 0,25 mL",Ērču encefalīta vakcīna (inaktivēta ar veselu vīrusu)
+40,TYAVAX,"A hepatīta vakcīna (inaktivēta, adsorbēta) un vēdertīfa vakcīna (polisaharīda)"
+41,TYPHIM VI,Polisaharīdu vakcīna pret vēdertīfu (Vi kapsulārais antigēns)
+42,VACCIN BCG SSI,Tuberkulozes vakcīna
+43,BOOSTRIXTETRA,"Difterijas toksoīda (neliela deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (5 komponenti, neliela deva) un inaktivētas poliomielīta (trīsvērtīgas) vakcīnas, adsorbēta"
+44,CERVARIX,"Cilvēka papilomas vīrusa vakcīna, kuras pamatā ir VLP (vīrusiem līdzīgas daļiņas), divvērtīga (6. un 11. tips), rekombinantā, adsorbētā veidā"
+45,ENGERIX B 10 µg,"Rekombinantā B hepatīta vakcīna, pediatriskā deva"
+46,ENGERIX B 20 µg,"rekombinantā B hepatīta vakcīna, pieaugušo deva"
+47,FLUARIX,"Sezonas gripas trivalentā inaktivētā vakcīna, iegūta no olu kultūras, sadalīti virioni"
+48,GENHEVAC B PASTEUR,"rekombinantā B hepatīta vakcīna, HBsAg 20 µg, bērniem un pieaugušajiem"
+49,HAVRIX 1440 U/1mL,"Inaktivēta A hepatīta vakcīna, pieaugušo deva"
+50,"HAVRIX 720 U/0,5 mL","Inaktivēta A hepatīta vakcīna, pediatriskā deva"
+51,INFANRIXTETRA,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva) un inaktivēta poliomielīta (trivalenta) bērnu vakcīna."
+52,VACCIN MENINGOCOCCIQUE A+C,"Nekonjugēta meningokoka polisaharīdu vakcīna, A un C serogrupas"
+53,PRIORIX,"Dzīva novājināta vakcīna pret masalām, parotītu un masaliņām"
+54,VACCIN RABIQUE PASTEUR,"Inaktivēts vesels vīruss, WISTAR trakumsērgas PM/WI38 1503-3M celms, kultivēts uz Vero šūnām"
+56,VACCIN TETANIQUE PASTEUR,Tetanusa toksoīda vakcīna
+57,TWINRIX 20 µg,"Kombinētā A un B hepatīta vakcīna, pieaugušo deva"
+58,TWINRIX 10 µg,"Kombinētā A un B hepatīta vakcīna, pediatriskā deva"
+59,TYPHERIX,Polisaharīdu vakcīna pret vēdertīfu (Vi kapsulārais antigēns)
+60,VARILRIX,Dzīva novājināta vējbaku vakcīna
+61,VARIVAX,Dzīva novājināta vējbaku vakcīna
+62,VAXIGRIP,"Sezonas gripas trivalentā inaktivētā vakcīna, iegūta no olu kultūras, sadalīti virioni"
+63,TETRACOQ,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, veselas šūnas inaktivēta garo klepus klepus un inaktivēta poliomielīta (trivalenta) bērnu vakcīna"
+64,PENTACOQ,"Difterijas toksoīds (standarta deva), stingumkrampju toksoīds, pilnšūnu garo klepus, Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) un inaktivēta poliomielīta (trivalenta) bērnu vakcīna, adsorbēta"
+66,DTCP PASTEUR,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu akcelulārās garo klepusas (standarta deva) un inaktivēta poliomielīta (trivalenta) bērnu vakcīna."
+67,HAVRIX 360 U,"Inaktivēta A hepatīta vakcīna, pediatriskā deva"
+68,MONOVAX,Tuberkulozes vakcīna
+69,MENOMUNE,"nekonjugēta meningokoku polisaharīdu vakcīna, A, C, W un Y serogrupas"
+70,DT BIS,Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+71,D.T. BIS - RUDIVAX,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un masaliņu (dzīvā novājinātā) pediatriskā vakcīna"
+72,JE-VAX,"Visa vīriona inaktivēta inaktivēta Japānas encefalīta vakcīna, peļu smadzeņu izcelsmes, Nakayama celms - Citi nosaukumi: JEVAX, BIKEN"
+73,IXIARO,"Pilna viriona inaktivēta Japānas encefalīta vakcīna, iegūta no Vero šūnām, adsorbēta"
+74,D.T. COQ MERIEUX,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un veselas šūnas inaktivēta garo klepusīša pediatriskā vakcīna"
+76,DTVax,Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+77,IMOVAX Mumps,Dzīva novājināta cūciņas vakcīna
+78,RUDI-ROUVAX,Dzīva novājināta masalu un masaliņu vakcīna
+79,ENCEPUR,"Ērču encefalīta vakcīna (inaktivēta, adsorbēts vīruss)"
+80,BCG PASTEUR,Tuberkulozes vakcīna
+82,MENBVAC,"B meningokoka vakcīna (ārējās membrānas vezikulas proteīns B:14:P1.7,16)"
+83,SYNFLORIX,"Pneimokoku konjugētā vakcīna, 10-valenta, 1., 4., 5., 6.B, 6.B, 7.F, 9.V, 14., 18.C, 19.F un 23.F seroptips."
+84,"H5N1 pre-pandemic influenza vaccine, unspecified",A(H5N1) gripas vakcīna
+85,T POLIO MERIEUX,Stetanusa toksoīda un inaktivēta poliomielīta (trivalenta) vakcīna
+86,TETAVAX,Tetanusa toksoīda vakcīna
+87,VAXICOQ,Pilnšūnu inaktivētā garo klepusīša vakcīna
+88,"DTIPV vaccine, unspecified","Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un inaktivētas poliomielīta (trivalentas) bērnu vakcīnas."
+90,VACCIN BRUCELLIQUE P.I. à usage humain,Proteīna (P.I. antigēna) vakcīna pret brucelozi
+91,VACCIN CCB PASTEUR,Inaktivētu baktēriju kombinācija imūnsistēmas stimulēšanai. CCB = pret bronhu komplikācijām. Nav īsti vakcīna...
+92,VACCIN CHOLERIQUE PASTEUR,Inaktivēta pilnšūnu holēras vakcīna injekcijām
+93,VACCIN DT TAB PASTEUR,"Bērnu difterijas (toksoīda, standarta deva), stingumkrampju (toksoīda), vēdertīfa (veselas inaktivētas) un paratifa A un B (veselas inaktivētas) vakcīna."
+94,VACCIN SABIN POLIO ORAL,"Poliomielīta vakcīna (dzīvā novājināta, trivalenta) pret poliovīrusu 1, 2 un 3, perorāla"
+95,VACCIN TAB PASTEUR,"A un B vēdertīfa un paratifa vakcīna, inaktivēta, veselas šūnas."
+96,VACCIN GRIPPAL RONCHESE (VGR),"Sezonas gripas trivalentā inaktivētā vakcīna, iegūta no olu kultūras, sadalīti virioni"
+97,VACCIN LEPTOSPIRES ICTEROHEMORRAGIAE PASTEUR,Inaktivēta pilnšūnu leptospirozes vakcīna
+98,HEXAVAC,"Difterijas toksoīds (standarta deva), stingumkrampju toksoīds, daudzkomponentu akcelulārā garo klepus (standarta deva), Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu), inaktivēta poliomielīta (trivalenta) un B hepatīta (rekombinanta) pediatriskā vakcīna, adsorbēta"
+99,MENINVACT,Meningokoka C konjugētā vakcīna
+101,"Rekombinantā B hepatīta vakcīna, neprecizēta","rekombinantā B hepatīta vakcīna, deva nav precizēta"
+102,Nespecificēta inaktivēta A hepatīta vakcīna,"Inaktivēta A hepatīta vakcīna, bērnu vai pieaugušo deva"
+103,MENACTRA,"Četrvērtīgā meningokoku konjugētā vakcīna pret A, C, W un Y serogrupu infekciju"
+104,HUMENZA,"A(H1N1)pdm09 gripas pandēmijas vakcīna, inaktivēta ar veseliem vīrusdaļiņām, iegūta no olu kultūras"
+105,PANENZA,"A(H1N1)pdm09 gripas pandēmijas vakcīna, inaktivēta, iegūta no olu kultūras"
+106,Q-Pan H1N1,"A(H1N1)pdm09 gripas pandēmijas vakcīna, inaktivēta, iegūta no olu kultūras"
+107,CELVAPAN,"A(H1N1)pdm09 gripas pandēmijas vakcīna, inaktivēta ar veseliem vīrusdaļiņām, iegūta no olu kultūras"
+108,PANDEMRIX,"A(H1N1)pdm09 gripas pandēmijas vakcīna, inaktivēta, iegūta no olu kultūras"
+109,FOCETRIA (unidose),"Pandēmiskās gripas A(H1N1)pdm09 vakcīna, inaktivēta, olu bāzes, ar virsmas antigēnu, ar palīgvielu"
+110,"Influenza vaccine, unspecified",Sezonas gripas vakcīna
+111,"Yellow fever vaccine, unspecified",Dzīva novājināta dzeltenā drudža vakcīna
+112,"Typhoid vaccine, unspecified",Vakcīna pret vēdertīfu
+113,"Rubella vaccine, unspecified",Dzīva novājināta masaliņu vakcīna
+114,"Live attenuated measles vaccine, unspecified",Dzīva novājināta masalu vakcīna
+115,AVAXIM 80 U,"Inaktivēta A hepatīta vakcīna, pediatriskā deva"
+116,R.O.R SANOFI PASTEUR,"Dzīva novājināta masalu, parotīta un masaliņu vakcīna."
+120,VACCIN VARICELLE MERIEUX,Vējbakas vakcīna
+121,PRIORIX-TETRA,"Dzīva novājināta vakcīna pret masalām, parotītu, masaliņām un vējbakām"
+123,PREVENAR 13,"Pneimokoku polisaharīdu konjugētā vakcīna, 13-valenta, adsorbēta, 1., 3., 4., 5., 6.A, 6.A, 6.B, 7.F, 9.V, 14., 18.C, 19.A, 19.F un 23.F serotips"
+124,FOCETRIA (multidose),"Pandēmiskās gripas A(H1N1)pdm09 vakcīna, inaktivēta, uz olu bāzes, ar virsmas antigēnu, ar palīgvielu"
+125,AREPANRIX,"A(H1N1)pdm09 gripas pandēmijas vakcīna, inaktivēta, iegūta no olu kultūras, sadalīti virioni"
+126,HEVAC B,Plazmas vakcīna pret B hepatītu (pirmā Francijas vakcīna)
+127,HB VAX DNA 5 µg,"rekombinantā B hepatīta vakcīna, bērnu vakcīna, bērnu vakcīnas deva"
+128,HB VAX DNA 10 µg,"rekombinantā B hepatīta vakcīna ar 10 mikrogramiem HBs antigēna (lai gan 10 μg, šī vakcīna ir indicēta no 16 gadu vecuma)."
+129,HB VAX DNA 40 µg,"Rekombinantā B hepatīta vakcīna, dializējamo pacientu devas"
+130,"MMR vaccine, unspecified","Dzīva novājināta masalu, parotīta un masaliņu vakcīna"
+131,"Rabies vaccine, unspecified",Inaktivēta trakumsērgas vakcīna ar veselām vīriolām
+132,"Tetanus vaccine, unspecified",Tetanusa toksoīda vakcīna
+133,"Smallpox vaccine, unspecified",Dzīva novājināta vakcīna pret bakām
+134,"BCG vaccine, unspecified",Tuberkulozes vakcīna
+135,"Polio vaccine, unspecified","Polio vaccine, live or inactivated (unspecified)"
+136,"DTwP - Diphtheria-Tetanus-Pertussis, unspecified","Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un veselas šūnas inaktivēta garo klepus hepatīta vakcīna bērniem"
+137,"DT vaccine, unspecified",Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+138,"Diphtheria-Tetanus-Pertussis-Polio vaccine, unspecified","Difterijas toksoīda (deva nav norādīta), stingumkrampju toksoīda, acelulārās vai pilnšūnu inaktivētās garo klepusas (deva nav norādīta) un inaktivētās poliomielīta (trivalentās) vakcīnas"
+139,PENT-HIBEST,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, pilnšūnu garo klepus, Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) un inaktivēta poliomielīta (trivalenta) pediatriskā vakcīna, adsorbēta"
+140,INTANZA,"Sezonas gripas trivalentā inaktivētā vakcīna, iegūta no olu kultūras, sadalīti virioni, intradermāla"
+141,MENVEO,"Četrivalenta meningokoku konjugētā vakcīna pret A, C, W un Y serogrupu infekciju"
+143,"Haemophilus influenzae B (or Hib) vaccine, unspecified",Haemophilus influenzae b tipa konjugētā vakcīna
+144,"Cholera vaccine, unspecified",Holeras vakcīna
+145,"Tick-borne encephalitis vaccine, unspecified",Ērču encefalīta vakcīna
+146,"Live attenuated Japanese Encephalitis vaccine 14-14-2 strain, unspecified","Dzīva novājināta Japānas encefalīta vakcīna, 14-14-2 celms"
+147,"Influenza A(H1N1)2009 vaccine, unspecified","A(H1N1)pdm09 gripas pandēmijas vakcīna, inaktivēta, iegūta no olu kultūras"
+148,"Leptospirosis vaccine, unspecified",Inaktivēta pilnšūnu leptospirozes vakcīna
+149,Meningokoku vakcīna ar ārējās membrānas vezikulu proteīniem,Meningokoku vakcīna ar ārējās membrānas vezikulu proteīniem
+150,"Meningococcal conjugate vaccine C, unspecified",Meningokoka C konjugētā vakcīna
+151,"Meningococcal A + C vaccine, unspecified","Nekonjugēta meningokoku polisaharīdu vakcīna, A un C serogrupas"
+152,"Unconjugated meningococcal vaccine ACWY, unspecified","Nekonjugēta meningokoku polisaharīdu vakcīna, A, C, W un Y serogrupas"
+153,"Mumps vaccine, unspecified",Dzīva novājināta cūciņas vakcīna
+154,"Malaria vaccine, unspecified",Vakcīna pret malāriju (izmantota klīniskajos pētījumos)
+155,"Dengue vaccine, unspecified","Denges drudža vakcīna, neprecizēta"
+156,HPV Vaccine,"cilvēka papilomas vīrusa vakcīna, neprecizēta"
+157,"Pneumococcal vaccine, unspecified","Pneimokoku konjugētā vai nekonjugētā polisaharīdu vakcīna, serotipu skaits neprecizēts"
+158,"Rotavirus vaccine, unspecified",Rotavīrusa vakcīna
+159,"Chickenpox vaccine, unspecified",Vējbaku vakcīna
+160,"Live attenuated shingles vaccine, unspecified",Dzīva novājināta vakcīna pret šinšļiem
+161,ZOSTAVAX,Dzīva novājināta vakcīna pret šinšļiem
+162,"Brucellosis vaccine, unspecified",Brucelozes vakcīna
+163,"Whole-cell inactivated pertussis vaccine, unspecified",Pilno šūnu inaktivētā garo klepus klepus vakcīna
+164,INTANZA 9 µg,"Trivalenta inaktivēta sezonālās gripas vakcīna, sadalīta viriona veidā"
+165,"VAQTA 25 U/0,5 mL","Inaktivēta A hepatīta vakcīna, padiatriskā deva"
+166,VAQTA 50 U,"Inaktivēta A hepatīta vakcīna, pieaugušo deva"
+168,AMBIRIX,"Kombinētā A un B hepatīta vakcīna, pediatriskā deva"
+169,OPTAFLU,"Trivalenta inaktivēta sezonālās gripas vakcīna, virsmas antigēns, šūnu kultūru vakcīna"
+170,AFLUNOV,"A(H5N1) gripas vakcīna (virsmas antigēns, inaktivēta, ar adjuvantu)"
+171,PREPANDEMIC INFLUENZA VACCINE (H5N1) NOVARTIS,A(H5N1) gripas vakcīna
+172,DIFTAVAX,Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+173,FLUENZ,"Sezonas gripas vakcīna, trivalenta, dzīvā novājināta, deguna vakcīna"
+174,PROQUAD,"Dzīva novājināta vakcīna pret masalām, epidēmisko parotītu, masaliņām un vējbakām"
+175,A.D.T. BOOSTER,Difterijas toksoīda (mazas devas) un stingumkrampju toksoīda vakcīna (izmanto pastiprinātājšāvienu veikšanai)
+176,A.K.D.S.,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un veselas šūnas inaktivētas garo klepus hepatīta vakcīna bērniem"
+177,AC VAX,Nekonjugēta A un C serogrupas meningokoku polisaharīdu vakcīna
+178,ACEL-IMUNE,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un daudzkomponentu akcelulārās garo klepusas (standarta deva) vakcīna bērniem"
+179,ACELLULAR D.P.T. KOVAX,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un inaktivēta poliomielīta (trivalenta) bērnu vakcīna"
+180,ACTACEL,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu akcelulārās garo klepusas (standarta deva, 5 komponenti) un Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) bērnu vakcīna."
+182,ADACEL,"Difterijas toksoīda (zema deva), stingumkrampju toksoīda un daudzkomponentu akcelulārās garo klepusas (zema deva) vakcīna"
+183,AIMMUGEN,Inaktivēta A hepatīta vakcīna
+184,ALDIANA,difterijas toksoīda (standarta deva) pediatriskā vakcīna
+185,ALDITEANA,Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+186,ALDITERPERA,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un pilnšūnu inaktivēta garo klepus hepatīta vakcīna bērniem"
+187,AMARIL,Dzīva novājināta dzeltenā drudža vakcīna
+188,QUIMI-HIB,"Haemophilus influenzae b tipa vakcīna, kapsulārais polisaharīds (poliribozilribitolfosfāts, PRP), konjugēts ar stingumkrampju toksoīdu"
+189,ANADIFTERALL,Difterijas toksoīda (standarta deva) pediatriskā vakcīna
+190,ANATETALL,Tetanusa toksoīda vakcīna
+191,ARILVAX,Dzīva novājināta dzeltenā drudža vakcīna
+192,ATTENUVAX,Dzīva novājināta masalu vakcīna
+193,"AVAC-1, AVA",Adsorbēta acelulāra Sibīrijas mēra vakcīna ar adjuvantu
+194,B-CAPSA,Haemophilus influenzae b tipa nekonjugēta polisaharīdu vakcīna
+195,BEGRIVAC,"Sezonas gripas trivalentā inaktivētā vakcīna, iegūta no olu kultūras, sadalīti virioni"
+196,BIAVAX,Dzīva novājināta masaliņu un epidēmiskā parotīta vakcīna
+197,BIAVAX II,Dzīva novājināta masaliņu un epidēmiskā parotīta vakcīna
+198,BIKEN-HB,rekombinantā B hepatīta vakcīna
+199,BIMMUGEN,"rekombinantā B hepatīta vakcīna ar 10 mikrogramiem HBsAg 0,5 ml (pieejams 0,25 ml preparāts)."
+200,BIOTHRAX,Adsorbēta acelulāra Sibīrijas mēra vakcīna ar adjuvantu
+201,BIVIRATEN BERNA,Dzīva novājināta masalu un epidēmiskā parotīta vakcīna
+202,BVAC,Botulicisma antitoksīns
+203,C.D.T.,Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+204,CAM-KOVAX,Dzīva novājināta masalu vakcīna
+205,CD.JEVAX,"Dzīva novājināta Japānas encefalīta vakcīna, sagatavota primārajā kāmja nieru šūnu kultūrā (PHK) no SA 14-14-2 celma"
+206,CELLUVAX,Daudzkomponentu acelulārās garo klepusas vakcīna (standarta deva)
+207,CENDEVAX,Dzīva novājināta masaliņu vakcīna
+208,CERTIVA,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un daudzkomponentu acelulārās garo klepusas (standarta deva) pediatriskā vakcīna"
+209,COMVAX,Vakcīna pret B hepatītu un b tipa Haemophilus influenzae (conjugué à la protéine OMP)
+210,D.S.D.P.T.,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un pilnšūnu inaktivēta garo klepusīša pediatriskā vakcīna"
+211,DAPTACEL,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un daudzkomponentu acelulārās garo klepusas (standarta deva) pediatriskā vakcīna."
+212,DI TE PER POL IMPFSTOFF,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, pilnšūnu inaktivēta garo klepus klepus un inaktivēta poliomielīta (trivalenta) bērnu vakcīna"
+213,DI-TE-POL,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un inaktivēta poliomielīta (trivalenta) bērnu vakcīna"
+214,DIF-TET-ALL,Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+216,ANATOXAL DI TE,Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+217,DITOXIM,Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+218,DOUBLE ANIGEN B.,Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+219,DRYVAX,"Pirmā paaudzes vakcīna pret bakām, dzīvs vakcīnijas vīruss"
+220,DT MERIEUX,Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+222,"DTwP, unspecified","Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un pilnšūnu inaktivētā garo klepusakcīnas pediatriskā vakcīna"
+223,DUAL ANTIGEN SII,Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+224,ECOLARIX,Dzīva novājināta masalu un masaliņu vakcīna
+225,EIPV,Inaktivēta poliomielīta (trivalenta) vakcīna
+226,"Diptheria, Tetanus and Acellular Pertussis Combined Walvax vaccine","Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un daudzkomponentu acelulārās garo klepusas (standarta deva) pediatriskā vakcīna."
+227,EPAXAL,"Inaktivēta A hepatīta vakcīna, virosoma, bērnu vai pieaugušo vakcīna"
+228,ERVEVAX RA 27/3,Dzīva novājināta masaliņu vakcīna
+229,FLU SHIELD,"Trīsvērtīga inaktivēta sezonas gripas vakcīna, iegūta no olu kultūras"
+230,FLUAD,"Adjuvancēta trivalenta inaktivēta sezonālās gripas vakcīna, virsmas antigēns"
+231,FLUKOVAX,Trivalenta inaktivēta sezonālās gripas vakcīna
+232,FLULAVAL,"Sezonālās gripas trivalentā inaktivētā vakcīna, iegūta no olu kultūras"
+233,FLUMIST,"Sezonas gripas vakcīna, četrivalenta, dzīvā novājināta, deguna vakcīna"
+234,FLUOGEN,"Vakcīna pret sezonas gripu ar inaktivētu pilnvērtīgu vīrusu, kas iegūta, kultivējot olās"
+235,FLUVIRIN,Trivalenta inaktivēta sezonālās gripas vakcīna
+236,FLUZONE HIGH-DOSE,"Sezonas gripas trivalentā inaktivētā vakcīna, iegūta no olu kultūras, augsta deva"
+238,FUNED-CEME,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un pilnšūnu inaktivētas garo klepusakcīnas pediatriskā vakcīna."
+240,GUNEVAX,Dzīva novājināta masaliņu vakcīna
+241,HAEMOPHILUS INFLUENZAE B CONJUGATE VACCINE - SERUM INSTITUTE OF INDIA,"Haemophilus influenzae b tipa vakcīna, kapsulārais polisaharīds (poliribozilribitolfosfāts, PRP), konjugēts ar stingumkrampju toksoīdu"
+242,HBY,"rekombinantā B hepatīta vakcīna, pieaugušo deva"
+243,HEPA-B INJECTION ADULT,"Rekombinantā vakcīna pret B hepatītu, deva pieaugušajiem"
+244,HEPRECOMB,rekombinantā B hepatīta vakcīna ar 10 mikrogramiem HBs antigēna lietošanai no 11 gadu vecuma.
+245,HEPTAVAX B,"B hepatīta B vakcīna no plazmas, ko ASV lietoja no 1981. līdz 1990. gadam."
+246,HIBERNA PRODUCTSIX,Stetanusa toksoīda un sezonālās gripas (trivalenta) vakcīna
+247,HIBTITER,"Haemophilus influenzae b tipa vakcīna, kapsulārie oligosaharīdi (poliribozilribitola fosfāts, PRP), konjugēti ar mutantu difterijas toksīnu CRM197"
+248,HINKUYS KAROKOE,Pilnšūnu inaktivētā garo klepusīša vakcīna
+249,RUBELLA VACCINE HPV-77,"Dzīva novājināta vakcīna pret masaliņām, audzēta uz pīļu embrionālajām šūnām (HPV-77 celms)"
+251,HUMOTET-ANTI TETANUS,Tetanusa toksoīda vakcīna
+252,VAXIGRIP ENFANTS,"Inaktivēta trivalentā sezonas gripas vakcīna, iegūta, kultivējot olās, ar fragmentētiem virioniem, bērniem paredzēta deva"
+253,VAXIRAB N,"Visa vīriona inaktivēta trakumsērgas vakcīna, Flury LEP celms, attīrīta cāļu embriju šūnu vakcīna (PCECV), inaktivācija ar ß-propiolaktonu"
+254,IMOVAX D.T.,Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+255,IMOVAX GRIPPE,Trivalenta inaktivēta sezonālās gripas vakcīna
+256,IMOVAX MUMPS,Dzīva novājināta cūciņu vakcīna
+257,IMOVAX PAROTIDITIS,Dzīva novājināta cūciņu vakcīna
+258,IMOVAX R.O.R.,"Dzīva novājināta masalu, parotīta un masaliņu vakcīna"
+259,IMOVAX Rabies,"Visa inaktivēta trakumsērgas vakcīna, sagatavota MRC5 šūnās"
+260,IMOVAX Rabies I.D.,"Inaktivēta visa vīriona, cilvēka diploīdu šūnu vakcīna (HDCV), intradermālā vakcīna"
+261,IMOVAX Rabies I.M.,Visa viriona inaktivēta trakumsērgas vakcīna (intramuskulāra ievadīšana)
+262,IMOVAX RUBEOLA,Dzīva novājināta masaliņu vakcīna
+263,IMOVAX SARAMPION,Dzīva novājināta masalu vakcīna
+264,INFANRIX,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un daudzkomponentu acelulārās garo klepusas (standarta deva) pediatriskā vakcīna (standarta deva)."
+265,INFLU-KOVAX,"Sezonālās gripas trivalentā inaktivētā vakcīna, iegūta no olu kultūras"
+266,INFLUENZA HA VACCINE KOVAX,"Trīsvērtīga inaktivēta sezonas gripas vakcīna, iegūta no olu kultūras"
+267,IPAD TP,Stetanusa toksoīda un inaktivēta poliomielīta (trivalenta) vakcīna
+268,IPOL,Inaktivēta poliomielīta (trivalenta) vakcīna
+270,"Inactivated Polio vaccine, unspecified",Inaktivēta poliomielīta (trivalenta) vakcīna
+271,ISTIVAC,"Trīsvērtīga inaktivēta sezonas gripas vakcīna, iegūta no olu kultūras"
+272,KAKSOISROKOTE DUBBELVACCIN,Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+273,KIKHOSTE-VAKSINE,Pilnšūnu inaktivētā garo klepus klepus vakcīna
+274,LANCY VAXINA,"Pirmā paaudzes vakcīna pret bakām, dzīvs vakcinācijas vīruss"
+275,LAVANTUU TIROKOTE,neprecizēta vakcīna pret vēdertīfu
+276,LIOVAX,"Pirmās paaudzes vakcīna pret bakām, dzīvs vakcinācijas vīruss"
+277,LIRUBEL,Dzīva novājināta masalu un masaliņu vakcīna
+278,LIRUGEN,Dzīva novājināta masalu vakcīna
+280,MUMPS-MEASLES VACCINE MICROGEN,Dzīva novājināta masalu un epidēmiskā parotīta vakcīna
+281,LM - 3 RIT,"Dzīva novājināta masalu, parotīta un masaliņu vakcīna"
+282,LTEANAS IMUNA,Tetanusa toksoīda vakcīna
+283,LYMERIX,Rekombinantā Laima slimības vakcīna
+284,LYOVAC ATTENUVAX,Dzīva novājināta masalu vakcīna
+285,LYOVAC MERUVAX,Dzīva novājināta masaliņu vakcīna
+286,M-M-R II,"Dzīva novājināta masalu, parotīta un masaliņu vakcīna"
+287,M-R VAX,Dzīva novājināta masalu un masaliņu vakcīna
+288,M-R VAX II,Dzīva novājināta masalu un masaliņu vakcīna
+289,M-VAX,Dzīva novājināta masalu vakcīna
+290,MASERN-IMPFSTOFF SSW,Dzīva novājināta vakcīna pret masalām
+291,MEASLES VACCINE AIK-C STRAIN POLYVAC,Dzīva novājināta masalu vakcīna pret masalām
+292,MEASLES VACCINE DK3,Dzīva novājināta masalu vakcīna
+293,MENAFRIVAC,A serogrupas meningokoka konjugētā vakcīna
+294,MENCEVAX A,"Nekonjugēta meningokoka polisaharīdu vakcīna, A serogrupa"
+295,MENOMUNE-A/C/Y/W-135,"Nekonjugēta A, C, W un Y serogrupas meningokoku polisaharīdu vakcīna"
+296,MENPOVAX 4 A+C+Y+W135,"Nekonjugēta meningokoku polisaharīdu vakcīna, A, C, W un Y serogrupas."
+297,MENPOVAX A+C,"Nekonjugēta meningokoka polisaharīdu vakcīna, A un C serogrupa"
+298,MERUVAX,Dzīva novājināta masaliņu vakcīna
+299,MERUVAX II,Dzīva novājināta masaliņu vakcīna
+300,MEVILIN-L,Dzīva novājināta masalu vakcīna
+301,MMR,"Dzīva novājināta masalu, parotīta un masaliņu vakcīna"
+303,MONIARIX,"pneimokoku polisaharīdu nekonjugētā vakcīna, 17-valenta, 1., 2., 3., 4., 6A, 7F, 8., 9N, 11A, 12F, 14., 15F, 17F, 18C, 19F, 23F un 25. serotips."
+304,MOPAVAC SEVAC,Dzīva novājināta masalu un epidēmiskā parotīta vakcīna
+305,MOPV,"Poliomielīta vakcīna (dzīvā novājināta, trivalenta) pret poliovīrusu 1, 2 un 3 vīrusu, perorāla"
+306,MORBILVAX,Dzīva novājināta vakcīna pret masalām
+307,MORUBEL,Dzīva novājināta masalu un masaliņu vakcīna
+308,MORUMAN BERNA PRODUCTS,Masalu imūnglobulīns
+309,MORUPAR,"Dzīva novājināta masalu, parotīta un masaliņu vakcīna"
+310,MOVIVAC,Dzīva novājināta masalu vakcīna pret masalām
+311,MUMATEN BERNA PRODUCTSNA,Dzīva novājināta vakcīna pret parotītu
+312,MUMPS LIVE,Dzīva novājināta cūciņu vakcīna
+313,MUMPS inactivated,Visa viriona inaktivēta vakcīna pret cūciņām
+315,MUMPSVAX,Dzīva novājināta cūciņas vakcīna
+317,NABI-HB,B hepatīta imūnglobulīns
+318,NOTHAV,Inaktivēta A hepatīta vakcīna
+319,OMNIHIB,"Haemophilus influenzae b tipa vakcīna, kapsulārais polisaharīds (poliribozilribitolfosfāts, PRP), konjugēta ar stingumkrampju toksoīdu"
+320,"OPV 1-2-3, unspecified","Poliomielīta vakcīna (dzīvā novājināta, trivalenta) pret poliovīrusu 1, 2 un 3, perorāla"
+321,ORIMUNE,"Poliomielīta vakcīna (dzīvā novājināta, trivalenta) pret 1., 2. un 3. poliovīrusu, perorāla"
+322,PARIORIX,Dzīva novājināta vakcīna pret parotītu
+323,PAVIVAC-SEVAC,Dzīva novājināta masalu vakcīna pret masalām
+324,"Pneumococcal conjugate vaccine, 7 valent, unspecified","Pneimokoku polisaharīdu konjugētā vakcīna, 7-valenta, 4., 6B, 9V, 14., 18C, 19F un 23F serotips."
+325,PEDIARIX,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu akcelulārās garo klepusas (standarta deva), inaktivētas poliomielīta (trivalenta) un B hepatīta (rekombinantā) bērnu vakcīna"
+326,PEDVAXHIB,"Haemophilus influenzae b tipa vakcīna, kapsulārais polisaharīds (poliribozilribitolfosfāts, PRP), konjugēts ar Neisseria meningitidis B serogrupas ārējās membrānas proteīnu"
+327,PENTA,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu akcelulārās garo klepusas (5 komponenti, standarta deva), Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) un inaktivēta poliomielīta (trivalenta) bērnu vakcīna, adsorbēta"
+328,PENTACEL,"Difterijas toksoīds (standarta deva), stingumkrampju toksoīds, daudzkomponentu acelulārā garo klepus klepus (5 komponenti, standarta deva), Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) un inaktivēta poliomielīta (trivalenta) bērnu vakcīna, adsorbēta"
+330,PENTACT-HIB,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, pilnšūnu garo klepus, Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) un inaktivētas poliomielīta (trīsvērtīgas) bērnu vakcīnas, adsorbēta"
+332,PENTAVALENTE,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, pilnšūnu garo klepus, Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) un B hepatīta (rekombinantā) bērnu vakcīna."
+333,PFIZER VAX-MEASLES K,"Visa inaktivētā masalu vakcīna, veca"
+334,PFIZER-VAX MEASLES-L,Dzīva novājināta masalu vakcīna
+335,PLUSERIX,"Dzīva novājināta masalu, parotīta un masaliņu vakcīna"
+336,PNEUMOVAX,"Pneimokoku polisaharīdu nekonjugētā vakcīna, 23-valenta, 1., 2., 3., 4., 5., 6B, 7F, 8., 9N, 9V, 10A, 11A, 12F, 14., 15B, 17F, 18C, 19A, 19F, 20., 22F, 23F un 33F serotips."
+337,PNU-IMUNE 23,"Pneimokoku polisaharīdu nekonjugētā vakcīna, 23-valenta, 1., 2., 3., 4., 5., 6.B, 7.F, 8., 9.N, 9.V, 10.A, 11.A, 12.F, 14., 15.B, 17.F, 18.C, 19.A, 19.F, 20., 22.F, 23.F un 33.F serotips"
+338,POLIACEL,"Difterijas toksoīds (standarta deva), stingumkrampju toksoīds, daudzkomponentu acelulārā garo klepus klepus (5 komponenti, standarta deva), Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) un inaktivēta poliomielīta (trivalenta) bērnu vakcīna, adsorbēta"
+339,"Pneumococcal polysaccharide vaccine 23-valent, unspecified","Pneimokoku polisaharīdu nekonjugētā vakcīna, 23-valenta"
+341,PREVNAR,"Pneimokoku polisaharīdu konjugētā vakcīna, 7-valenta, adsorbēta, 4., 6B, 9V, 14., 18C, 19F un 23F serotips."
+343,PROHIBIT,Haemophilus influenzae b tipa konjugētā vakcīna (PRP-D)
+344,"PRP-OMP Hib vaccine, unspecified","Haemophilus influenzae b tipa konjugētā vakcīna, kas sastāv no PRP (poliribozilribitolfosfāta), konjugēta ar OMP (Neisseria meningitidis ārējās membrānas proteīnu)."
+345,"Hib PRP-T conjugated vaccine, unspecified","Haemophilus influenzae b tipa konjugētā vakcīna, kas sastāv no PRP (poliribozilribitolfosfāta), konjugēta ar stingumkrampju toksoīdu"
+346,PURIVAX,Inaktivēta poliomielīta (trivalenta) vakcīna
+347,QUADRACEL,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva) un inaktivēta poliomielīta (trivalenta) bērnu vakcīna."
+348,QUADRACEL/HIBEST,"Difterijas toksoīds (standarta deva), stingumkrampju toksoīds, daudzkomponentu acelulārā garo klepus klepus (5 komponenti, standarta deva), Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) un inaktivēta poliomielīta (trivalenta) bērnu vakcīna, adsorbēta"
+349,QUADRIGEN,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, pilnšūnu inaktivēta garo klepus klepus un inaktivēta poliomielīta (trivalenta) bērnu vakcīna"
+350,QUATRO-VIRELON,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva) un inaktivētas poliomielīta (trivalentas) bērnu vakcīnas."
+351,QUINTUPLE,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva), Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) un B hepatīta (rekombinētā) bērnu vakcīna"
+352,R-HB VACCINE,"rekombinantā B hepatīta vakcīna, pieaugušo deva"
+353,R-VAC,Dzīva novājināta masaliņu vakcīna
+354,RA27/3,Dzīva novājināta masaliņu vakcīna
+355,RABAVERT,"Visa vīriona inaktivēta trakumsērgas vakcīna, Flury LEP celms, attīrīta vistu embriju šūnu vakcīna (PCECV), inaktivācija ar ß-propiolaktonu"
+356,RECOMBIVAX HB PEDIATRIC,"Vakcīna pret B hepatītu, deva bērniem"
+357,"RESPIGAM, RSV-IVIG",Imunoglobulīns pret RSV
+358,"Rabies immunoglobulin human origin, unspecified",Cilvēka izcelsmes imūnglobulīns pret trakumsērgu
+359,RIMEVAX,Dzīva novājināta masalu vakcīna
+360,RIMPARIX,Dzīva novājināta masalu un epidēmiskā parotīta vakcīna
+361,RIT - LM-2,Dzīva novājināta masalu un epidēmiskā parotīta vakcīna
+362,RIT - LM-3,"Dzīva novājināta masalu, parotīta un masaliņu vakcīna"
+363,ROTASHIELD,Rotavīrusa vakcīna (pirmā)
+364,RUBEATEN BERNA PRODUCTS,Dzīva novājināta masaliņu vakcīna
+365,RUBELLA VACCINE MICROGEN,Dzīva novājināta masaliņu vakcīna
+366,RUBELLA-KOVAX,Dzīva novājināta masaliņu vakcīna
+367,RUBELLOVAC,Dzīva novājināta masaliņu vakcīna
+368,RUBELOGEN,Dzīva novājināta masaliņu vakcīna
+369,RUBEOVAX,Dzīva novājināta masalu vakcīna
+370,RVA RABIES VACCINE ABSORBED BIOPORT,"BioPort laboratorijas veselā inaktivētā trakumsērgas vakcīna, adsorbēta uz alumīnija fosfāta"
+371,SABIN,"Poliomielīta vakcīna (dzīvā novājināta, trivalenta) pret poliovīrusu 1, 2 un 3, perorāla"
+372,SAHIA,"Poliomielīta vakcīna (dzīvā novājināta, trivalenta) pret poliovīrusu 1, 2 un 3, perorāla"
+373,SALK,Inaktivēta poliomielīta (trivalenta) vakcīna
+374,SANDOVAC,"Sezonas gripas trivalentā inaktivētā vakcīna, iegūta no olu kultūras"
+375,SEROBACTERIN,Inaktivēta pilnšūnu holēras vakcīna injekcijām kombinācijā ar polisaharīdu vakcīnu pret vēdertīfu
+376,SHANCOL TM,Perorāla inaktivēta pilnšūnu holēras vakcīna
+377,TRIPLE ANTIGEN SII,
+378,SYNAGIS 100 mg (PALIZIVUMAB),hRSV monoklonālā antiviela
+379,T-IMMUN,Tetanusa toksoīda vakcīna
+380,"T.Polio, unspecified",Tetanusa toksoīda un inaktivēta poliomielīta (trivalenta) vakcīna
+382,"Tetanus diphtheria vaccine, unspecified",Difterijas toksoīda (deva nav precizēta) un stingumkrampju toksoīda vakcīna
+383,ANATOXAL TE,Stetanusa toksoīda vakcīna
+384,TE/VAC/PTAP,Tetanusa toksoīda vakcīna (Dienvidslāvija)
+385,TELVACLPTAP,Tetanusa toksoīda vakcīna
+386,TETAMYN,Tetanusa toksoīda vakcīna
+387,TETANOL,Stingumkrampju toksoīda vakcīna
+388,TETASORBAT SSW,Stetanusa toksoīda vakcīna
+389,TETAMUN SSW,Stetanusa toksoīda vakcīna
+390,TETRACT-HIB,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, pilnšūnu inaktivēta garo klepus klepus un Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) pediatriskā vakcīna"
+391,TETRAMUNE,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, pilnšūnu garo klepus un Haemophilus influenzae b tipa (konjugēta ar difterijas toksoīdu) bērnu vakcīna"
+392,TETRAVAX,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, pilnšūnu inaktivētas garo klepus klepus un inaktivētas poliomielīta (trivalenta) bērnu vakcīna"
+393,TICE BCG,Tuberkulozes vakcīna
+394,TIG,Prettėtanusa imūnglobulīns
+395,TITIFICA,Inaktivēta vakcīna pret vēdertīfu un paratīfu
+396,BIOPOLIO,"Poliomielīta vakcīna (dzīvā novājinātā, trīsvērtīgā) pret 1., 2. un 3. poliovīrusu, perorāla"
+397,TRESIVAC LYOPHOLIZED,"Dzīva novājināta masalu, parotīta un masaliņu vakcīna"
+398,TRI-IMMUNOL,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un pilnšūnu inaktivēta garo klepusīša vakcīna bērniem"
+399,TRIACEL,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un inaktivēta poliomielīta (trivalenta) bērnu vakcīna"
+400,TRIACELLUVAX,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un daudzkomponentu acelulārās garo klepusas (standarta deva) pediatriskā vakcīna"
+401,TRIHIBIT,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva) un Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) vakcīna"
+403,TRINIVAC,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un pilnšūnu inaktivētas garo klepusakcīnas pediatriskā vakcīna"
+404,TRIPACEL,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un daudzkomponentu acelulārās garo klepusas (standarta deva) pediatriskā vakcīna"
+405,TRIPEDIA,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un daudzkomponentu acelulārās garo klepusas (standarta deva) pediatriskā vakcīna"
+407,TRIPLE,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un pilnšūnu inaktivēta garo klepusīša pediatriskā vakcīna"
+408,TRIPLE ANTIGEN,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un pilnšūnu inaktivētas garo klepusakcīnas pediatriskā vakcīna"
+409,TRIPLE SABIN,"Poliomielīta vakcīna (dzīvā novājināta, trivalenta) pret poliovīrusu 1, 2 un 3, perorāla"
+410,TRIPLE VIRAL,"Dzīva novājināta vakcīna pret masalām, parotītu un masaliņām"
+411,TRIVACUNA LETI,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un pilnšūnu inaktivētā garo klepus hepatīta pediatriskā vakcīna"
+412,TRIVAX,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un daudzkomponentu acelulārās garo klepusas (standarta deva) pediatriskā vakcīna"
+413,TRIVAX-AD,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un daudzkomponentu acelulārās garo klepusas (standarta deva) pediatriskā vakcīna."
+414,TRIVAX-HIB,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva) un Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) pediatriskā vakcīna"
+415,TRIVB,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un inaktivēta poliomielīta (trivalenta) bērnu vakcīna"
+416,Triviraten,"Dzīva novājināta masalu, parotītu un masaliņu vakcīna"
+417,TRIVIVAC SEVAC,"Dzīva novājināta masalu, parotīta un masaliņu vakcīna"
+418,TRIVIVAC Y,"Dzīva novājināta masalu, parotīta un masaliņu vakcīna"
+419,SHANTT,Tetanusa toksoīda vakcīna
+420,BIO-TT Vaccine,Tetanusa toksoīda vakcīna
+421,TUSSITRUPIN FORTE,Pilnšūnu inaktivēta garo klepus klepus vakcīna
+423,TWINRIX JUNIOR,"Kombinētā A un B hepatīta vakcīna, pediatriskā deva"
+424,"Live attenuated oral typhoid vaccine, unspecified","Dzīva novājināta tīfa vakcīna, Ty21a celms, perorāla"
+425,TYNE,Tuberkulozes vakcīna
+426,TYPHOID VACCINE WYETH,Pilnšūnu inaktivēta vakcīna pret vēdertīfu
+427,TYPHOID-KOVAX,Polisaharīdu vakcīna pret vēdertīfu (Vi kapsulārais antigēns)
+428,VA-MENGOC-BC,B un C serogrupas meningokoku vakcīna
+429,VACCIN COMBINAT DIFTERO-TETANIC,Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+430,VACCIN DIFTERIC ADSORBIT,Difterijas toksoīds (nespecificēta deva)
+431,VACCINUM MORBILLORUM VIVUM,Dzīva novājināta vakcīna pret masalām
+432,VACINA DUPLA,Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+433,VACINA TRIPLICE,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un pilnšūnu inaktivētas vai aceliluzīvās garo klepus klepus (deva nav norādīta) bērnu vakcīna."
+434,VACINA TRIPLICE VIRAL,"Dzīva novājināta masalu, parotīta un masaliņu vakcīna"
+435,VAKSIN CACAR,"Pirmā paaudzes vakcīna pret bakām, dzīvs vakcīnijas vīruss"
+436,VAKSIN CAMPAK KERING,Dzīva novājināta masalu vakcīna
+437,VAKSIN KOTIPA,Inaktivēta pilnšūnu holēras vakcīna injekcijām kopā ar inaktivētu pilnšūnu vakcīnu pret vēdertīfu
+438,VAKSIN SERAP,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un veselas šūnas inaktivētas vai acelilulaire garo klepus klepus vakcīnas (deva nav norādīta) pediatriskā vakcīna."
+439,VAMOAVAX,Dzīva novājināta masalu un epidēmiskā parotīta vakcīna
+441,SKY Varicella Inj,Vējbaku vakcīna (SK Bioscience laboratorija)
+442,VARICELLON,Imunoglobulīns pret vējbaku vīrusu
+443,VARIE,"Pirmā paaudzes vakcīna pret bakām, dzīvs vakcīnijas vīruss"
+444,VAXEM-HIB,Haemophilus influenzae b tipa (konjugēta ar difterijas toksoīdu) vakcīna
+445,VAXIPAR,Dzīva cūciņu vakcīna
+446,VCDT,Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+447,VDA VACCIN DIFTERIC ADSORBIT,Difterijas toksoīda (standarta deva) pediatriskā vakcīna
+448,VICPS (TYPHIM VI),polisaharīdu vakcīna pret vēdertīfu (Vi kapsulārais antigēns)
+449,VIRELON T 20,"Poliomielīta vakcīna (dzīvā novājināta, trivalenta) pret 1., 2. un 3. poliovīrusu, perorāla"
+450,"VIROVAC MASSLING, PEROTID, RUBELLA","Dzīva novājināta masalu, parotīta un masaliņu vakcīna"
+451,VIVOTIF,"Dzīva novājināta tīfa vakcīna, Ty21a celms, perorāla"
+452,VT (VACINA TRIPLICE),"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un veselas šūnas inaktivētas vai aceliluzīvās garo klepusenes (deva nav norādīta) pediatriskā vakcīna."
+453,VTV (VACINA TRIPLICE VIRAL),"Dzīva novājināta masalu, parotīta un masaliņu vakcīna"
+454,VVR,Dzīva novājināta masalu vakcīna
+456,WELLTRIVAX TRIVALENTE,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un pilnšūnu inaktivēta vai acelilulaire garo klepus klepus (deva nav precizēta) pediatriskā vakcīna"
+457,YF-VAX,Dzīva novājināta dzeltenā drudža vakcīna
+458,ZAANTIDE antitoxin,Difterijas antitoksīna imūnglobulīns
+459,ZAANTITE,Stingumkrampju toksoīda vakcīna
+460,ZADITEADVAX,Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+461,ZADITEVAX,Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+462,ZAMEVAX A+C,"nekonjugēta meningokoku polisaharīdu vakcīna, A un C serogrupa"
+463,ZAMOVAX,Dzīva novājināta masalu vakcīna pret masalām
+464,ZAMRUVAX,Dzīva novājināta masalu un masaliņu vakcīna
+465,ZARUVAX,Dzīva novājināta masaliņu vakcīna
+466,ZATETRAVAX,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un pilnšūnu inaktivētas vai acelilulaire garo klepus klepus (deva nav precizēta) pediatriskā vakcīna"
+467,ZATEVAX,Stingumkrampju toksoīda vakcīna
+468,ZATRIBAVAX,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un pilnšūnu inaktivētas garo klepusakcīnas pediatriskā vakcīna."
+469,ZATRIVAX,"Dzīva novājināta masalu, parotītu un masaliņu vakcīna"
+470,QUINVAXEM,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, pilnšūnu garo klepus, Haemophilus influenzae b tipa (konjugēta ar difterijas toksoīdu) un B hepatīta (rekombinantā) bērnu vakcīna."
+471,HEPAVAX-GENE B 20 µg,"Rekombinantā B hepatīta vakcīna, pieaugušo deva"
+472,PREPANDRIX,A(H5N1) gripas vakcīna
+473,PRE-PANDEMIC INFLUENZA VACCINE H5N1,"A(H5N1) gripas vakcīna (dalīta, ar adjuvantu)"
+474,DARONRIX,A(H5N1) gripas vakcīna
+475,FOCLIVIA,A(H5N1) gripas vakcīna
+476,Pandemic Influenza Vaccine H5N1 Baxter,"A(H5N1) gripas vakcīna (visa viriona, inaktivēta, kultivēta Vero šūnu kultūrā), daudzkārtēja deva"
+477,PUMARIX,A(H5N1) gripas vakcīna
+478,COVAXIS,"Difterijas toksoīda (mazā deva), stingumkrampju toksoīda un daudzkomponentu acelulārās garo klepusas (mazā deva) vakcīna"
+479,TRIAXIS,"Difterijas toksoīda (neliela deva), stingumkrampju toksoīda un daudzkomponentu akcelulārās garo klepusas (neliela deva) vakcīna"
+480,FENDRIX,"rekombinantā B hepatīta vakcīna, dializējamo pacientu deva"
+481,TRIVIVAX,"Dzīva novājināta masalu, parotītu un masaliņu vakcīna"
+482,VEPACEL,"A(H5N1) gripas vakcīna (veseli virioni, inaktivēta, kultivēta Vero šūnu kultūrā)"
+483,FLUAD PAEDIATRICS,Trivalenta inaktivēta sezonālās gripas vakcīna
+484,RABIVAX-S,Visa viriona inaktivēta trakumsērgas vakcīna
+485,TETAGAM P (immunoglobuline),Prettetanusa imūnglobulīns
+486,NIMENRIX,"Četrivalenta meningokoku konjugētā vakcīna pret A, C, W un Y serogrupām"
+487,MENHIBRIX,Haemophilus influenzae b tipa un meningokoka A un C konjugētā vakcīna
+488,PENTAXIM,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (5 komponenti, standarta deva), Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) un inaktivēta poliomielīta (trivalenta) bērnu vakcīna, adsorbēta"
+489,TRIMOVAX,"dzīvā novājinātā masalu, parotīta un masaliņu vakcīna"
+490,KINRIX,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva) un inaktivētas poliomielīta (trivalentas) bērnu vakcīnas."
+491,TENIVAC,Difterijas toksoīda (mazā deva) un stingumkrampju toksoīda vakcīna
+492,AFLURIA,"Sezonas gripas trivalentā inaktivētā vakcīna, iegūta no olu kultūras, sadalīti virioni"
+494,TRITANRIX HepB,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, veselas šūnas inaktivēta garo klepus klepus un B hepatīta (rekombinētā) pediatriskā vakcīna"
+495,BEXSERO,4komponentu meningokoka B vakcīna
+496,GAMMATETANOS (immunoglobulines),Prettetanusa imūnglobulīns
+497,"Tetanus immunoglobulin, unspecified",imūnglobulīns pret stingumkrampjiem
+498,IMOGAM RAGE,Cilvēka izcelsmes imūnglobulīns pret trakumsērgu
+499,BERIRAB,cilvēka izcelsmes imūnglobulīns pret trakumsērgu
+500,FAVIRAB,zirgu izcelsmes imūnglobulīns pret trakumsērgu
+501,EQUIRAB (immunoglobuline),"Trakumsērgas imūnglobulīns, zirgu izcelsmes"
+502,"Rabies immunoglobulin, unspecified",Cilvēka vai zirgu izcelsmes imūnglobulīns pret trakumsērgu
+503,"Rabies immunoglobulin equine origin, unspecified",Zirgu izcelsmes imūnglobulīns pret trakumsērgu
+504,INFANRIX Polio HIB Nourrissons,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva), Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) un inaktivētas poliomielīta (trīsvērtīgas) bērnu vakcīnas, adsorbēta"
+505,HIBEST,"Haemophilus influenzae b tipa vakcīna, kapsulārais polisaharīds (poliribozilribitolfosfāts, PRP), konjugēts ar stingumkrampju toksoīdu"
+506,"Pentavalent DTaPHibIPV vaccine, unspecified","Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva), Haemophilus influenzae b tipa (konjugēta, neprecizēta) un inaktivēta poliomielīta (trivalenta) bērnu vakcīna."
+507,HEXACIMA,"Difterijas toksoīds (standarta deva), stingumkrampju toksoīds, daudzkomponentu acelulārā garo klepus klepus (standarta deva), Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu), inaktivēta poliomielīta (trivalenta) un B hepatīta (rekombinētā) bērnu vakcīna, adsorbēta"
+508,JEEV 3 µg,"Visa inaktivēta Japānas encefalīta vakcīna, sagatavota Vero šūnās, 3 mikrogrami"
+509,BIKEN,"Japānas encefalīta vakcīna, inaktivēta, peļu smadzeņu izcelsmes, Nakayama celms - cits nosaukums: JEVAX"
+510,HEXYON,"Difterijas toksoīds (standarta deva), stingumkrampju toksoīds, daudzkomponentu acelulārā garo klepus klepus (2 komponenti, standarta deva), Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu), inaktivēta poliomielīta (trivalenta) un B hepatīta (rekombinanta) bērnu vakcīna, adsorbēta"
+511,SILGARD,"Cilvēka papilomas vīrusa vakcīna, kuras pamatā ir VLP (vīrusiem līdzīgās daļiņas), neavalenta (6., 11., 16. un 18. tips), rekombinantā, adsorbētā veidā."
+512,"Typhus vaccine, unspecified",Vakcīna pret epidēmisko tīfu (epidēmisko utīšu tīfu)
+513,HEPATYRIX,Kombinētā A hepatīta un vēdertīfa vakcīna
+514,ROTARIX,"Rotavīrusa vakcīna, perorāla"
+515,INFANRIX POLIO,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva) un inaktivēta poliomielīta (trivalenta) bērnu vakcīna"
+516,ABHAYRAB,Visa vīriona inaktivēta trakumsērgas vakcīna
+517,FLUARIXTETRA,"Četrivalenta inaktivēta sezonālās gripas vakcīna, dalītā vīrusa vakcīna"
+518,STAMARIL (multidose),Dzīva novājināta dzeltenā drudža vakcīna
+520,IMVANEX,"Trešās paaudzes vakcīna pret bakasām, modificēta vakcinācijas vīrusa Ankara, nereplikatīvā vakcīna"
+521,FLUENZ TETRA,"Dzīva novājināta četrivalenta sezonālās gripas vakcīna, deguna vakcīna"
+523,GARDASIL 9,"Cilvēka papilomas vīrusa vakcīna, kuras pamatā ir VLP (vīrusiem līdzīgas daļiņas), neavalenta (6., 11., 16., 18., 31., 33., 45., 52. un 58. tips), rekombinanta, adsorbēta"
+524,TEVAX,Tetanusa toksoīda vakcīna
+525,INFANRIX PENTA,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva), inaktivēta poliomielīta (trivalenta) un B hepatīta (rekombinanta) pediatriskā vakcīna, adsorbēta"
+526,HECOLIN,Rekombinantā E hepatīta peptīda vakcīna
+527,VACCIN DIPHTERIQUE ET TETANIQUE ADSORBE,Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+528,MOSQUIRIX,B hepatīta un malārijas vakcīnas
+529,IMOVAX TETANO,Stetanusa toksoīda vakcīna
+530,TETANOL PUR,Tetanusa toksoīda vakcīna
+531,TETANOS ADSORBE MERIEUX,Tetanusa toksoīda vakcīna
+532,TETANUS VACCIN,Tetanusa toksoīda vakcīna (kādu laiku Nīderlandē tirgoja Bilthoven Biologicals)
+534,MENJUGATE 10 µg,Meningokoka C konjugētā vakcīna
+535,VAXELIS,"Difterijas toksoīds (standarta deva), stingumkrampju toksoīds, daudzkomponentu akcelulārā garo klepus (standarta deva), Haemophilus influenzae b tipa (konjugēta ar Neisseria meningitidis B serogrupas ārējās membrānas proteīnu), inaktivēta poliomielīta (trivalenta) un B hepatīta (rekombinanta) pediatriskā vakcīna, adsorbēta"
+538,VACCIN BCG BIOMED-LUBLIN,Tuberkulozes vakcīna
+539,DENGVAXIA,"Dzīva novājināta, himēriska, rekombinanta, četrvalenta [1., 2., 3. un 4. serotips] denges vīrusa vakcīna (uz dzeltenā drudža vakcīnas 17D bāzes)"
+540,IPAD T,Stingumkrampju toksoīda vakcīna
+541,BOOSTRIX,"Difterijas toksoīda (mazas devas), stingumkrampju toksoīda un daudzkomponentu akcelulārās garo klepusas (mazas devas) vakcīna."
+542,Vaccin D.T.P. Pasteur,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un inaktivētas poliomielīta (trivalentas) pediatriskās vakcīnas."
+543,HEXAXIM,"difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva), Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu), inaktivētas poliomielīta (trivalenta) un B hepatīta (rekombinanta) bērnu vakcīna, adsorbēta"
+544,TETRAXIM,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva) un inaktivētas poliomielīta (trivalentas) bērnu vakcīnas."
+545,EUVAX B 20 µg,"Rekombinantā B hepatīta vakcīna, pieaugušo deva"
+546,DULTAVAX,"Difterijas toksoīda (zema deva), stingumkrampju toksoīda un inaktivēta poliomielīta (trivalenta) vakcīna, adsorbēta"
+549,"dTIPV - Diphtheria-Tetanus-Polio, low dose, unspecified","Difterijas toksoīda (zema deva), stingumkrampju toksoīda un inaktivētas poliomielīta (trivalentas) vakcīnas"
+550,"Measles-Rubella vaccine, unspecified",Dzīva novājināta masalu un masaliņu vakcīna
+551,"DTaPIPV vaccine, standard dose, unspecified","Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva) un inaktivētas poliomielīta (trīsvērtīgas) bērnu vakcīnas"
+552,"DTaPHibHepBIPV hexavalent vaccine, unspecified","Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva), Haemophilus influenzae b tipa (konjugētas, neprecizētas), inaktivētas poliomielīta (trīsvērtīgas) un B hepatīta (rekombinantās) bērnu vakcīnas."
+553,"Pentavalent DTwPHibIPV vaccine, unspecified","difterijas toksoīda (standarta deva), stingumkrampju toksoīda, pilnšūnu garo klepus, konjugētās Haemophilus influenzae b tipa (konjugētās neprecizētās) un inaktivētās poliomielīta (trivalentās) bērnu vakcīnas."
+554,PEDIACEL,"Difterijas toksoīds (standarta deva), stingumkrampju toksoīds, daudzkomponentu acelulārā garo klepus klepus (5 komponenti, standarta deva), Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) un inaktivēta poliomielīta (trivalenta) bērnu vakcīna, adsorbēta"
+555,CombAct-HIB,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, pilnšūnu garo klepus, Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) un inaktivētas poliomielīta (trīsvērtīgas) bērnu vakcīnas, adsorbēta"
+556,MENITORIX,Haemophilus influenzae b tipa un meningokoka C konjugētā vakcīna
+560,VAXIGRIPTETRA,Četrivalenta inaktivēta sezonālās gripas vakcīna ar virsmas antigēniem
+561,IMOJEV,"Dzīva novājināta Japānas encefalīta vakcīna, rekombinantā himēriskā vakcīna"
+562,INFLUVAC TETRA,četrvērtīga inaktivēta sezonālās gripas vakcīna ar virsmas antigēniem
+563,ALPHA-RIX-TETRA,"Četrivalenta inaktivēta sezonālās gripas vakcīna, sadalīta vīrionu veidā"
+566,PNEUMOCOCCAL POLYSACCHARIDE VACCINE MSD,"Pneimokoku polisaharīdu nekonjugētā vakcīna, 23-valenta, 1., 2., 3., 4., 5., 6.B, 7.F, 8., 9.N, 9.V, 10.A, 11.A, 12.F, 14., 15.B, 17.F, 18.C, 19.A, 19.F, 20., 22.F, 23.F un 33.F serotips"
+567,SHINGRIX,"vakcīna pret šinšļiem (rekombinantā, ar adjuvantu)"
+568,BOOSTRIX-POLIO,"Difterijas toksoīda (neliela deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (5 komponenti, neliela deva) un inaktivēta poliomielīta (trivalenta) vakcīna, adsorbēta."
+569,INFANRIX-IPV,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva) un inaktivēta poliomielīta (trivalenta) bērnu vakcīna"
+570,HIBERIX,Haemophilus influenzae b tipa (Hib) konjugētā vakcīna (stingumkrampju proteīna konjugētā vakcīna)
+573,AGRIFLU,"Sezonas gripas trivalentā inaktivētā vakcīna, iegūta no olu kultūras, virsmas antigēns"
+574,Td POLIO ADSORBED,"Difterijas toksoīda (neliela deva), stingumkrampju toksoīda un inaktivēta poliomielīta (trivalenta) vakcīna, adsorbēta"
+575,FSME-IMMUN,Ērču encefalīta vakcīna (inaktivēta)
+576,FLUVIRAL,Trivalenta inaktivēta sezonālās gripas vakcīna
+577,TRIPACEL HYBRID,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un daudzkomponentu acelulārās garo klepusas (standarta deva) pediatriskā vakcīna"
+578,INFANRIX-HIB,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva) un Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) bērnu vakcīna"
+579,CLAIRYG 50 mg/mL,Cilvēka izcelsmes masalu imūnglobulīns
+580,CLAIRYG,Cilvēka izcelsmes masalu imūnglobulīns
+582,TRUMENBA,"Meningokoka B tipa vakcīna (rekombinantā, adsorbētā veidā)"
+585,"TdapIPV - Diphtheria-Tetanus-Pertussis-Polio vaccine, low dose, unspecified","Difterijas toksoīda (neliela deva), stingumkrampju toksoīda, daudzkomponentu akcelulārās garo klepusas (5 komponenti, neliela deva) un inaktivētas poliomielīta (trīsvērtīgas) vakcīnas, adsorbēta"
+586,Ervebo,"Ebolas Zairas vakcīna (rVSVΔG-ZEBOV-GP, dzīva)"
+590,VACCIN BCG AJVACCINES,Tuberkulozes vakcīna
+591,VIVAXIM,"Kombinētā vakcīna pret vēdertīfu (attīrīts polisaharīda antigēns Vi) un A hepatītu (inaktivēts vesels virions), kas ir divkomponentu šļircē."
+592,SPEEDA,"Visa viriona inaktivēta trakumsērgas vakcīna, kultivēta uz Vero šūnām"
+593,VERORAB,"Visa viriona inaktivēta trakumsērgas vakcīna, WISTAR PM/WI 38-1503-3M celms, kultivēts uz Vero šūnām, beta-propiolaktons Inaktivēta"
+594,MenQuadfi,"Četrivalenta meningokoku konjugētā vakcīna pret A, C, W un Y serogrupām"
+595,FLUCELVAX TETRA,"Četrivalenta inaktivēta sezonālās gripas vakcīna, šūnu bāzes"
+596,"DTaPHibHepB pentavalent vaccine, unspecified","Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un daudzkomponentu akcelulārās garo klepusas (standarta deva), Haemophilus influenzae b tipa (konjugētā, neprecizētā) un B hepatīta (rekombinētā) bērnu vakcīna"
+598,"DTwPHibHepB pentavalent vaccine, unspecified","Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, veselas šūnas inaktivētas garo klepus, Haemophilus influenzae b tipa (konjugētas, neprecizētas) un B hepatīta (rekombinantās) bērnu vakcīnas."
+599,"DTPerHibHepB pentavalent vaccine, unspecified","difterijas toksoīda (standarta deva), stingumkrampju toksoīda un daudzkomponentu akcelulārās garo klepusas (neprecizētas), Haemophilus influenzae b tipa (konjugētas, neprecizētas) un B hepatīta (rekombinantās) bērnu vakcīnas."
+600,"OPV bivalent 1-3, unspecified","Poliomielīta vakcīna (dzīvā novājināta, divvērtīga) pret 1. un 3. tipa poliovīrusu, perorāla"
+601,"DPT Diphtheria-Pertussis-Tetanus vaccine, unspecified","Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un pilnšūnu inaktivētas vai acelulārās garo klepusas (deva nav norādīta) pediatriskā vakcīna"
+602,"DTaP - Diphtheria-Tetanus-Pertussis vaccine, standard dose, unspecified","Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un daudzkomponentu akcelulārās garo klepusas (standarta deva) pediatriskā vakcīna."
+603,ComVac3,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un pilnšūnu inaktivētas garo klepus hepatīta pediatriskā vakcīna"
+610,"Tdap - Diphtheria-Tetanus-Pertussis vaccine, low dose, unspecified","Difterijas toksoīda (neliela deva), stingumkrampju toksoīda un daudzkomponentu akcelulārās garo klepusas (neliela deva) vakcīna"
+611,SHAN-5,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, pilnšūnu garo klepus, Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) un B hepatīta (rekombinantā) bērnu vakcīna - cits nosaukums: DTwP-Hep B-Hib šķidrā vakcīna"
+612,DTP-vax FINLAY,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un veselas šūnas inaktivētas garo klepusakcīnas pediatriskā vakcīna"
+613,BORYUNG DTap VACCINE,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un daudzkomponentu akcelulārās garo klepusas (standarta deva) pediatriskā vakcīna"
+614,TDAPBOOSTER AJ VACCINES,"Difterijas toksoīda (neliela deva), stingumkrampju toksoīda un daudzkomponentu akcelulārās garo klepusas (neliela deva) vakcīna"
+615,VACCIN T.P. PASTEUR,Stetanusa toksoīda un inaktivēta poliomielīta (trivalenta) vakcīna
+620,IXCHIQ,Dzīva novājināta čikungunjas vakcīna
+621,"MenC, unspecified",Meningokoka C konjugētā vakcīna (ražo Ezequiel Dias Foundation)
+622,EOLARIX,Dzīva novājināta masalu un masaliņu vakcīna
+623,"Measles-mumps vaccine, unspecified",Dzīva novājināta masalu un epidēmiskā parotīta vakcīna
+624,M-M-Vax,Dzīva novājināta masalu un epidēmiskā parotīta vakcīna
+625,MORATEN,Dzīva novājināta masalu vakcīna
+626,MoRu Viraten,Dzīva novājināta masalu un masaliņu vakcīna
+627,MORUMAN,Dzīva novājināta masalu vakcīna
+628,Immravax,"Dzīva novājināta masalu, parotītu un masaliņu vakcīna"
+631,MENINVACTKIT,Meningokoka C konjugētā vakcīna
+632,OPVERO,"Poliomielīta vakcīna (dzīvā novājinātā, trivalenta) pret poliovīrusu 1, 2 un 3 vīrusu, perorālā vakcīna"
+633,ZABDENO,Ebolas vīrusa vakcīna ar dzīvu neatjaunojošu rekombinantu vīrusa vektoru
+634,MVABEA,Ebolas vīrusa vakcīna ar neatjaunojošu vīrusa vektoru
+635,PREFLUCEL,"Trivalenta inaktivēta sezonālās gripas vakcīna, attīrīti antigēni"
+636,FluMist Quadrivalent,Dzīva novājināta četrivalenta sezonālās gripas vakcīna
+637,IPAD DT,Difterijas toksoīda (standarta deva) un stingumkrampju toksoīda pediatriskā vakcīna
+638,IPAD POLIO,Inaktivēta poliomielīta (trivalenta) vakcīna
+639,ADACEL POLIO,"Difterijas toksoīda (neliela deva), stingumkrampju toksoīda, daudzkomponentu akcelulārās garo klepusas (5 komponenti, neliela deva) un inaktivēta poliomielīta (trivalenta) vakcīna, adsorbēta"
+640,TRITANRIX HepB+Hib,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, pilnšūnu garo klepus, Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) un B hepatīta (rekombinantā) bērnu vakcīna."
+641,GLOBORIX,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, veselas šūnas inaktivētas garo klepus klepus, b tipa hemophilus influenzae (konjugēta ar stingumkrampju toksoīdu) un meningokoka A+C vakcīna bērniem"
+642,FLUZONE HIGH-DOSE QUADRIVALENT,"Sezonas gripas vakcīna, četrvalentu inaktivēta, iegūta no olu kultūras, ar sadalītiem vīrusdaļiņām, augsta deva"
+643,"Meningococcal ACWY conjugate vaccine, unspecified","Četrivalentā meningokoku konjugētā vakcīna pret A, C, W un Y serogrupām."
+644,QDENGA,"Dzīva novājināta, himēriska, rekombinanta, četrvalenta [1., 2., 3. un 4. serotips] tropu drudža vīrusa vakcīna. Cits nosaukums: TAK-003 Denges vakcīna Takeda"
+645,IMMU ORR,"Dzīva novājināta masalu, parotīta un masaliņu vakcīna"
+646,CECOLIN,"Cilvēka papilomas vīrusa vakcīna, kuras pamatā ir VLP (vīrusiem līdzīgās daļiņas), divvērtīga (16. un 18. tips), rekombinanta (ar Escherichia coli ekspresiju)."
+647,ROTASIIL,Rotavīrusa vakcīna
+648,"COVID-19 vaccine, unspecified",COVID-19 vakcīna
+649,EFLUELDA TETRA,"Sezonas gripas vakcīna, četrvalentu inaktivēta, iegūta no olu kultūras, ar sadalītiem vīrusdaļiņām, augsta deva"
+650,VAXZEVRIA ASTRAZENECA,"COVID-19 vakcīna, neatjaunojošs šimpanzes adenovīrusu vektors ChAdOx1, kas kodē SARS-CoV-2 smailes proteīnu."
+651,CORONAVAC SINOVAC COVID-19 VACCINE,"COVID-19 vakcīna, inaktivēta ar veselu vīrionu, ar adjuvantu (adjuvants: alumīnija hidroksīds)"
+652,CONVIDECIA,"COVID-19 vakcīna, neatjaunojošs adenovīrusa 5 vektors, kas kodē SARS-CoV-2 smailes proteīnu"
+653,"Hepatitis A + Hepatitis B vaccine Child, unspecified","Kombinētā A un B hepatīta vakcīna, pediatriskā deva"
+654,"Hepatitis A + Hepatitis B vaccine Adult, unspecified","Kombinētā A un B hepatīta vakcīna, pieaugušo deva"
+655,"Diphtheria vaccine, unspecified",Difterijas toksoīds (nespecificēta deva)
+656,"SPIKEVAX 0,2 mg/mL MODERNA",COVID-19 mRNS vakcīna
+657,Chinese-WIBP-Vero-Inactivated-Covid,"COVID-19 vakcīna, inaktivēts vesels virions (Vero šūnu kultūra)"
+658,COMIRNATY 30 µg BIONTECH-PFIZER,"COVID-19 mRNS vakcīna, pieaugušajiem"
+659,ZIFIVAX ANHUI COVID-19 VACCINE,"COVID-19 vakcīna, proteīna apakšvienība"
+660,Chinese-IMB-Inactivated-Covid,"COVID-19 vakcīna, inaktivēta ar veselu virionu"
+661,Inovio-DNA-Covid,COVID-19 plazmīdu DNS vakcīna
+662,Osaka-DNA-covid / AG0301-COVID19,COVID-19 plazmīdu DNS vakcīna
+663,Cadila-DNA-covid,COVID-19 plazmīdu DNS vakcīna
+664,GX-19-DNA-Covid,COVID-19 plazmīdu DNS vakcīna
+665,COVAXIN BHARAT BIOTECH COVID-19 VACCINE,"COVID-19 vakcīna, inaktivēta ar veseliem vīrijoniem, adjuvētā (adjuvants: TLR 7 un 8 agonista imidazohinolīna molekula, adsorbēta uz alumīnija hidroksīda). Citi nosaukumi: BBV152, Bharat inaktivēta kovidīna vakcīna"
+666,JCOVDEN (agrākais nosaukums : JANSSEN COVID-19 VACCINE),Vakcīna pret Kovid 19 ar neatjaunojošu vīrusu vektoru (adenovīrusu)
+667,NUVAXOVID,"COVID-19 vakcīna, proteīna apakšvienība, rekombinantā smaiļveida proteīna nanodaļiņas, ar palīgvielu (Matrikss M) - cits nosaukums: NOVAVAX NVX-CoV2373 COVID-19 vakcīna"
+668,Kentucky-RBD-Covid,"COVID-19 vakcīna, proteīna apakšvienība"
+669,Arcturus-RNA-Covid,"COVID-19 vakcīna, mRNS, kas kodē SARS-CoV-2 smailes proteīnu, pašlaik notiek klīniskais pētījums"
+670,SPOUTNIK V,"COVID-19 vakcīna, neatjaunojošs adenovīrusu vektors, kas kodē SARS-CoV-2 smailes proteīnu"
+671,Clover-Spike-SCB-2019-Covid,"COVID-19 vakcīna, proteīna apakšvienība, rekombinantais smaiļveida proteīns"
+672,Vaxine-Spike-Covid,"COVID-19 vakcīna, proteīna apakšvienība, rekombinants smaiļveida proteīns, ar adjuvantu (Advax)"
+673,Queensland-Spike-MF59-Covid,"COVID-19 vakcīna, proteīna apakšvienība, rekombinantais smailes proteīns, ar adjuvantu (MF59)"
+674,Pasteur-MSD Measles vector Covid,"COVID-19 vakcīna, replicējošs masalu vīrusa vektors, kas kodē SARS-CoV-2 smailes proteīnu"
+675,Imperial-College-RNA-Covid,"COVID-19 vakcīna, mRNS, kas kodē SARS-CoV-2 smailes proteīnu, pašlaik notiek klīniskais pētījums"
+676,Curevac-RNA-Covid,"COVID-19 vakcīna, mRNS, kas kodē SARS-CoV-2 smailes proteīnu, pašlaik notiek klīniskais pētījums"
+677,Chinese-PLA-ARN-Covid,"COVID-19 vakcīna, mRNS, kas kodē SARS-CoV-2 smailes proteīnu, pašlaik notiek klīniskais pētījums"
+678,,"COVID-19 vakcīna, VLP, rekombinants smailes proteīns, ar adjuvantu"
+679,MEDIGEN-S-2P-CpH1018-COVID,"COVID-19 vakcīna, proteīna apakšvienība, rekombinants smailes proteīns, S-2P un CpG1018"
+680,COVILO SINOPHARM COVID-19 VACCINE,"COVID-19 vakcīna, inaktivēta ar veselu virionu, kultivēta ar Vero šūnu kultūrām - Citi nosaukumi : SINOPHARM BBIBP-CorV COVID-19 ; COVID-19 vakcīna BIBP"
+681,GRAd-COV2 COVID-19 Vaccine ReiThera,"COVID-19 vakcīna, neatjaunojošs adenovīrusu vektors, kas kodē SARS-CoV-2 smailes proteīnu"
+682,FLUQUADRI,četrvērtīga inaktivēta sezonālās gripas vakcīna ar virsmas antigēniem
+683,EPIVACCORONA,"COVID-19 vakcīna, proteīna apakšvienība, rekombinants smailes proteīns"
+684,QazVac,"COVID-19 vakcīna, inaktivēts vesels virions"
+685,VIDPREVTYN BETA,"COVID-19 vakcīna, proteīna apakšvienība, rekombinants smailes proteīns, ar vai bez palīgvielām. Cits nosaukums: Sanofi-GSK rekombinantā COVID-19 vakcīna"
+686,MULTI-PEPTIDE-pVAC-COVID,"COVID-19 vakcīna, proteīna apakšvienība, rekombinants smailes proteīns, pielāgots cilvēka galvenā histokompatibilitātes kompleksa II molekulām"
+687,UB-612 COVID-19 Vaccine,"COVID-19 vakcīna, proteīna apakšvienība, rekombinantais smailes proteīns (pamatojoties uz Spike proteīna S1 un S2 apakšvienībām un SARS-CoV-2 M un N proteīniem)."
+688,Chinese-Influenza-intranasal-covid,"COVID-19 vakcīna, replicējošs gripas vīrusa vektors, rekombinants RBD proteīns, intranazālais aerosols"
+689,CHINESE-RECOMBINANT-Sf9-COVID,"COVID-19 vakcīna, proteīna apakšvienība, rekombinantais smailes proteīns, kas izteikts ar Baculovirus, kultivēts uz Sf9 šūnām."
+690,Chinese-Ad5-nCoV-covid,"COVID-19 vakcīna, neatjaunojošs adenovīrusa 5 vektors, kas kodē SARS-CoV-2 smailes proteīnu."
+691,FINLAY-FR-1,"COVID-19 vakcīna, proteīna apakšvienība, rekombinants smailes proteīns"
+692,COVAXX,"COVID-19 vakcīna, proteīna apakšvienība"
+693,VXA-CoV2-1-Covid,"COVID-19 vakcīna, neatjaunojošs adenovīrusa 5 vektors, kas kodē SARS-CoV-2 smailes proteīnu, ar adjuvantu, perorāli lietojama tabletēs"
+694,LMU-MVA-SARS-2-S-Covid,"COVID-19 vakcīna, neatjaunojošs modificēts vakcīnas vīrusa Ankara vektors, kas kodē SARS-CoV-2 smailes proteīnu."
+695,RBD-HBsAg-VLPs-Covid,"COVID-19 vakcīna, VLP, rekombinantais smailes proteīns. SARS-Cov-2 RBD antigēns ir konjugēts ar B hepatīta vīrusa HBs antigēnu."
+696,Chinese-Inactivated-Vero-Covid,"COVID-19 vakcīna, inaktivēta ar veselu virionu (Vero šūnu kultūra)"
+697,V590 (COVID-19 Vaccine),"COVID-19 vakcīna, replicējošs vezikulārā stomatīta vīrusa vektors, kas kodē SARS-CoV-2 smailes proteīnu."
+698,hAd5-COVID-19,"COVID-19 vakcīna, neatjaunojošs adenovīrusa 5 vektors, kas kodē SARS-CoV-2 S un N proteīnu."
+699,IIBR's RECOMBINANT VSV-DeltaG-spike VACCINE,"COVID-19 vakcīna, replicējošs vezikulārā stomatīta vīrusa vektors, kas kodē SARS-CoV-2 smailes proteīnu"
+701,bacTRL-Spike,"COVID-19 plazmīdu DNS vakcīna, kas kodē SARS-CoV-2 smailes proteīnu, ko pārnēsā Bifidobacterium longum, perorāla"
+702,rRBD produced in CHO-cell chemically conjugate to tetanus toxoid,"COVID-19 vakcīna, proteīna apakšvienība, konjugēta ar stingumkrampju toksoīdu"
+703,Adjuvanted protein subunit (RBD),"COVID-19 vakcīna, proteīna apakšvienība, ar adjuvantu"
+705,INFLUSPLIT TETRA,Četrivalenta inaktivēta sezonālās gripas vakcīna ar virsmas antigēniem
+706,FLUZONE QUADRIVALENT,Četrvērtīgā inaktivētā sezonālās gripas vakcīna ar virsmas antigēniem
+707,Coronavirus SARS-CoV-2 inactivé,"COVID-19 vakcīna, inaktivēta ar veseliem vīrijoniem (Vero šūnu kultūra)"
+708,CORVax12,"COVID-19 plazmīdu DNS vakcīna, S-proteīns ar vai bez IL-12p70 plazmīdu kombinācijas"
+709,COVI-VAC,"COVID-19 vakcīna, dzīvā novājinātā vakcīna"
+710,COVID-19 mRNA Vaccine BNT162b2,"COVID-19 mRNA vakcīna, sākotnējais tirdzniecības nosaukums, deva pieaugušajiem 30 mikrogrami"
+711,"Typhoid conjugate vaccine, unspecified",polisaharīdu konjugētā vēdertīfa vakcīna
+712,"Typhoid-hepatitis A vaccine, unspecified",Kombinētā vakcīna pret vēdertīfu un A hepatītu
+713,"Typhoid polysaccharide vaccine, unspecified",Polisaharīdu vakcīna pret vēdertīfu (Vi kapsulārais antigēns)
+714,"COVID-19 VACCINE (INACTIVATED, ADJUVANTED) VALNEVA","COVID-19 vakcīna, inaktivēta ar veselu vīrionu, ar CpG 10183 , (citozīnfosfogvanīns) a) kombinācijā ar alumīnija hidroksīdu - Cits nosaukums: Valneva VLA2001"
+715,ERUCOV-VAC,"COVID-19 vakcīna, inaktivēta ar veselu virionu"
+716,SARS-CoV-2-RBD-Fc fusion protein,"COVID-19 vakcīna, proteīna apakšvienība"
+717,CIGB-669,"COVID-19 vakcīna, proteīna apakšvienība (RBD proteīns + B hepatīta vīrusa kodola antigēns)"
+718,CIGB-66,"COVID-19 vakcīna, proteīna apakšvienība (RBD proteīns + B hepatīta vīrusa kodola antigēns)"
+719,NANOCOVAX,"COVID-19 vakcīna, proteīna apakšvienība, rekombinants smailes proteīns"
+720,S-268019,"COVID-19 vakcīna, proteīna apakšvienība, rekombinantais smailes proteīns, kas izteikts ar baculovīrusu"
+721,AdimrSC-2f,"COVID-19 vakcīna, proteīna apakšvienība, ar alumīnija piedevu un bez alumīnija piedevas"
+722,Covigenix VAX-001,"COVID-19 plazmīdu DNS vakcīna, kas kodē nukleokapsīdu proteīnu"
+723,GLS-5310,COVID-19 plazmīdu DNS vakcīna
+724,ChulaCov19,"COVID-19 vakcīna, mRNS, kas kodē SARS-CoV-2 smailes proteīnu, pašlaik notiek klīniskais pētījums (iekapsulēta lipīdu nanodaļiņā)"
+725,COH04S1,"COVID-19 vakcīna, neatjaunojošs modificēts Vaccinia Virus Ankara vektors, kas kodē SARS-CoV-2 smailes proteīnu, kas satur DNS fragmentus, kuri kodē SARS-CoV-2 smailes proteīnu un nukleokapsīdu."
+726,AdCOVID,"COVID-19 vakcīna, neatjaunojošs adenovīrusa vektors, kas kodē SARS-CoV-2 smailes proteīnu."
+727,AdCLD-CoV19,"COVID-19 vakcīna, neatjaunojošs adenovīrusa 5/35 vektors, kas kodē SARS-CoV-2 smailes proteīnu"
+728,Covid-19/aAPC,"COVID-19 vakcīna, kas sagatavota, mākslīgajām antigēnu prezentējošajām šūnām (aAPCs) piemērojot lēcvielas modifikāciju ar imūnmodulējošiem gēniem un vīrusa minigēniem."
+729,LV-SMENP-DC vaccine,"COVID-19 vakcīna, neatjaunojošs vīrusa vektors, ar antigēnu prezentējošām šūnām. Lenvīrusu modificētas dendrītšūnas, kas ekspresē sintētisku minigēnu, kura pamatā ir SARS-CoV-2 vīrusa proteīna ekstrakti. Šo vakcīnu ievada arī ar rekombinantām T šūnām, kas specifiskas SARS-CoV-2 antigēniem."
+730,Dendritic cell AV-COVID-19,"Autologas dendrītšūnas, kas pildītas ar SARS-CoV-2 antigēniem, ar vai bez GM-CSF"
+731,DITANRIX,"Difterijas vakcīna (toksoīda, samazinātā deva) un stingumkrampju vakcīna (toksoīda), pieaugušo deva"
+732,COVAC-1 - COVAC-2,"COVID-19 vakcīna, proteīna apakšvienība, rekombinants smailes proteīns, ar adjuvantu (skvalēnu)"
+733,HEPLISAV-B,"Rekombinantā B hepatīta vakcīna, pieaugušo deva"
+734,POLIO BOOSTRIX,"Difterijas toksoīda (neliela deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (5 komponenti, neliela deva) un inaktivēta poliomielīta (trivalenta) vakcīna, adsorbēta"
+735,POLIOINFANRIX,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva) un inaktivētas poliomielīta (trivalentas) bērnu vakcīnas."
+736,TRIAXIS POLIO,"Difterijas toksoīda (neliela deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (5 komponenti, neliela deva) un inaktivēta poliomielīta (trivalenta) vakcīna, adsorbēta."
+737,GBP510,"COVID-19 vakcīna, proteīna apakšvienība, rekombinantais smailes proteīns, ar palīgvielu (AS03)"
+739,RAZI Cov Pars,"COVID-19 vakcīna, proteīna apakšvienība, rekombinantais smailes proteīns, ar adjuvantu, kas nav precizēts"
+740,PTX-COVID19-B,"COVID-19 vakcīna, mRNS, kas kodē SARS-CoV-2 smailes proteīnu, pašlaik notiek klīniskais pētījums"
+741,COVID-eVax,"COVID-19 plazmīdu DNS vakcīna, kas kodē SARS-CoV-2 smailes proteīnu"
+742,COVIGEN,COVID-19 plazmīdu DNS vakcīna
+743,BBV154,"COVID-19 vakcīna, neatjaunojošs adenovīrusu vektors, kas kodē SARS-CoV-2 smailes proteīnu"
+744,COVID-19 inactivated vaccine,"COVID-19 vakcīna, inaktivēta ar veseliem vīrijoniem"
+745,MF59 adjuvanted SARS-CoV-2 Sclamp vaccine,"COVID-19 vakcīna, proteīna apakšvienība, rekombinants smailes proteīns, ar adjuvantu (skvalēnu)"
+752,COVISHIELD,"COVID-19 vakcīna, neatjaunojošs šimpanzes adenovīrusu vektors ChAdOx1, kas kodē SARS-CoV-2 smailes proteīnu"
+753,Inactivated SARS-CoV-2 vaccine FAKHRAVAC (MIVAC),"COVID-19 vakcīna, inaktivēta ar veselu virionu"
+754,Inactivated Koçak-19 Inaktif Adjuvant COVID-19 Vaccine,"COVID-19 vakcīna, inaktivēta ar veselu virionu, ar adjuvantu (adjuvants nav precizēts)."
+755,Adjuvanted inactivated vaccine against SARS-CoV-2,"COVID-19 vakcīna, inaktivēts vesels virions, ar adjuvantu (adjuvants: alumīnija hidroksīds + TLR9 agonists (CpG ODN))"
+756,MV-014-212,"COVID-19 vakcīna, dzīvā novājināta, kas ekspresē SARS-CoV-2 smailes proteīnu"
+757,NBP 2001,"COVID-19 vakcīna, proteīna apakšvienība, rekombinants smailes proteīns, ar palīgvielu (alumīnija hidroksīds)"
+758,SpFN COVID 19 vaccine + AFLQ,"COVID-19 vakcīna, proteīna apakšvienība, rekombinantais smailes proteīns, ar adjuvantu (AFKQ: liposomālā, kas satur saponīnu QS21)"
+759,EuCorVac-19,"COVID-19 vakcīna, proteīna apakšvienība, rekombinantais smailes proteīns, ar nespecificētu palīgvielu."
+760,ReCOV,"COVID-19 vakcīna, proteīna apakšvienība, rekombinants smailes proteīns, ar adjuvantu, neprecizēts"
+761,V-01,"COVID-19 vakcīna, proteīna apakšvienība, rekombinants smailes proteīns, saplūšanas proteīns"
+762,CoV2 SAM (LNP) vaccine,"COVID-19 vakcīna, pašamplicējoša mRNS (SAM) lipīdu nanodaļiņa (LNP), kas kodē SARS-CoV-2 smailes proteīnu, pašlaik notiek klīnisks pētījums"
+763,mRNA-1273.351,"COVID-19 vakcīna, mRNS, kas kodē SARS-CoV-2 varianta B.1.351 smailes proteīnu, pašlaik notiek klīniskais pētījums (iekapsulēta lipīdu nanodaļiņā)."
+764,MRT5500,"COVID-19 vakcīna, mRNS, kas kodē SARS-CoV-2 smailes proteīnu, pašlaik notiek klīniskais pētījums."
+765,DS-5670a,"COVID-19 vakcīna, mRNS, kas kodē SARS-CoV-2 smailes proteīnu, pašlaik notiek klīniskais pētījums"
+766,HDT-301,"COVID-19 vakcīna, mRNS, kas kodē SARS-CoV-2 smailes proteīnu, pašlaik notiek klīniskais pētījums (iekapsulēta lipīdu nanodaļiņā)"
+767,ChAdV68 SAM-LNP rS-TCE GRITSTONE ONCOLOGY COVID-19 VACCINE,"Šimpanzes adenovīrusa un pašatjaunojošās mRNS pirmreizējā pavairošanas profilaktiskās COVID-19 vakcīnas:""1. neatjaunojošs šimpanzes adenovīrusa vektors, 68. serotips (ChAdV68), kas kodē SARS-CoV-2 smailes proteīnu (ChAdV68-S) un/vai smailes proteīnu un papildu SARS-CoV-2 T šūnu epitopus (ChAdV68-S-TCE), un 2. pašatjaunojoša mRNS (SAM) lipīdu nanodaļiņās (SAM-LNP), kas kodē SARS-CoV-2 smailes proteīnu (SAM-S) un/vai smailes proteīnu un papildu SARS-CoV-2 T šūnu epitopus (SAM-S-TCE), SAM vektors, kura pamatā ir Venecuēlas zirgu encefalīta vīruss (VEEV)."
+768,COVIVAC,"COVID-19 vakcīna, neatjaunojošs Ņūkāslas slimības vīrusa vektors, kas kodē SARS-CoV-2 smailes proteīnu, ar vai bez CpG 1018 adjuvanta"
+769,SC-Ad6-1,"COVID-19 vakcīna, neatjaunojošs adenovīrusu 6 vektors, kas kodē SARS-CoV-2 smailes proteīnu"
+770,NDV-HXP-S,"COVID-19 vakcīna, replicējošs Ņūkāslas slimības vīrusa vektors, kas kodē SARS-CoV-2 smailes proteīnu, ar vai bez CpG 1018 adjuvanta"
+771,VBI-2902a,"COVID-19 vakcīna, VLP, rekombinants smailes proteīns, ar palīgvielu (alumīnija fosfātu)"
+772,SARS-CoV-2 VLP Vaccine,"COVID-19 vakcīna, VLP, rekombinants smailes proteīns, izteikts SARS-CoV-2 neprecizēts proteīns, ar palīgvielām (neprecizēta veida alumīnijs + CpGODN-K3, TLR9 agonists)."
+773,ABNCoV2,"COVID-19 vakcīna, VLP, rekombinantais smailes proteīns, ar vai bez adjuvanta MF56 (skvalēns)"
+774,"FSME-IMMUN 0,25 mL",Ērču encefalīta vakcīna (inaktivēta ar veselu vīrusu)
+775,"DTwPHib, unspecified","Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, veselas šūnas inaktivētas garo klepus hepatīta un hemophilus influenzae b tipa (konjugētas, neprecizētas) bērnu vakcīna."
+776,TETRABIK,"difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva) un inaktivētas poliomielīta (trivalenta) bērnu vakcīnas"
+777,ADJUPANRIX,"A(H5N1) gripas vakcīna (fragmentēta viriona, inaktivēta, ar adjuvantu)"
+778,VAXCHORA,"Dzīva novājināta holēras vakcīna (novājināts V. cholerae celms CVD 103-HgR, kas iegūts ar rekombinantās DNS tehnoloģiju)"
+779,BATREVAC,"Trivalenta inaktivēta sezonālās gripas vakcīna, virsmas antigēns"
+780,VAXNEUVANCE,"Pneimokoku polisaharīdu konjugētā vakcīna, 15-valenta, adsorbēta, 1., 3., 4., 5., 6.A, 6.A, 6.B, 7.F, 9.V, 14., 18.C, 19.A, 19.F, 22.F, 23.F un 33.F serotips"
+781,RABIVAC,"Visa viriona inaktivēta trakumsērgas vakcīna, Flury LEP celms, attīrīta vistu embriju šūnu vakcīna (PCECV), inaktivācija ar ß-propiolaktonu"
+782,RASILVAX,"Inaktivēta trakumsērgas vakcīna, Flury LEP celms, attīrīta vistu embriju šūnu vakcīna (PCECV), inaktivācija ar ß-propiolaktonu"
+783,R-COVI,"COVID-19 vakcīna, neatjaunojošs šimpanzes adenovīrusu vektors ChAdOx1, kas kodē SARS-CoV-2 smailes proteīnu"
+784,PERTAGEN,Daudzkomponentu acelulārās garo klepus (mazas devas) vakcīna
+785,BOOSTAGEN,"Difterijas toksoīda (neliela deva), stingumkrampju toksoīda un daudzkomponentu akcelulārās garo klepusas (neliela deva) vakcīna."
+786,PREVNAR 20,"Pneimokoku polisaharīdu konjugētā vakcīna, 20-valenta, adsorbēta, 1., 3., 4., 5., 6.A, 6.A, 6.B, 7.F, 8., 9.V, 10.A, 11.A, 12.F, 14., 15.B, 18.C, 19.A, 19.F, 22.F, 23.F un 33.F serotips"
+787,"Diphtheria (dose unspecified), tetanus and rubella vaccine, unspecified","Difterijas toksoīda (nespecificēta deva), stingumkrampju toksoīda un masaliņu (dzīvu novājinātu) vakcīna"
+788,"Hib-IPV, unspecified","Haemophilus influenzae b tipa (konjugētā, neprecizēta) un inaktivēta poliomielīta (trivalenta) vakcīna"
+789,COMVAC4,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, pilnšūnu inaktivētas garo klepus klepus un B hepatīta (rekombinētā) pediatriskā vakcīna."
+790,"Diphtheria-Tetanus-Hepatitis B vaccine, unspecified","Difterijas toksoīda (nespecificēta deva), stingumkrampju toksoīda un B hepatīta (rekombinētā) vakcīna"
+791,"Heksavalentā difterijas-Tetanus-Pertuss-Polio-Hib-Hepatīta B vakcīna, neprecizēta","Heksavalentā difterijas-Tetanus-Pertuss-Polio-Hib-Hepatīta B vakcīna, neprecizēta"
+792,"Diphtheria-Tetanus-Pertussis-Polio-Hepatitis B pentavalent vaccine, unspecified","Difterijas toksoīda (deva nav precizēta), stingumkrampju toksoīda, acelulārās vai pilnšūnu inaktivētās garo klepus hepatīta (deva nav precizēta), inaktivētās poliomielīta (trivalentās) un B hepatīta (rekombinantās) vakcīnas."
+793,"Diph-T, unspecified",Difterijas toksoīda (zema deva) un stingumkrampju toksoīda vakcīna
+794,"T-igT, unspecified",Stingumkrampju toksoīda vakcīna kopā ar stingumkrampju imūnglobulīnu
+795,"Acellular pertussis vaccine, unspecified","Acelulārā garo klepus klepus vakcīna, deva nav precizēta"
+796,"Pertussis vaccine, unspecified",Pertussis vakcīna (acelulārā vai pilnšūnu inaktivētā)
+797,"Diph-T-aP/ap, unspecified","Difterijas toksoīda (nenoteikta deva), stingumkrampju toksoīda un acelulārās garo klepusas (nenoteikta deva) vakcīna"
+798,"Hib-MeningoC vaccine, unspecified",Hemophilus influenzae b tipa un meningokoka C konjugētā vakcīna
+799,"DT-Hib vaccine, unspecified","Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un hemophilus influenzae b tipa (konjugēta, neprecizēta) bērnu vakcīna"
+800,"Diphtheria-tetanus-pertussis-Hib vaccine, unspecified","difterijas (standarta deva), stingumkrampju toksoīda, stingumkrampju (acelulārā standarta deva vai pilnībā inaktivēta) un Haemophilus influenzae b tipa (konjugēta, neprecizēta) bērnu vakcīna."
+801,"HepB-Hib, unspecified",Haemophilus influenzae b tipa un B hepatīta vakcīna
+802,"Monovalent oral polio vaccine - type unknown, unspecified","Poliomielīta vakcīna (dzīva novājināta, monovalenta), perorāla"
+803,Polio Sabin One and Three GSK,"Poliomielīta vakcīna (dzīvā novājināta, divvērtīga) pret 1. un 3. tipa poliovīrusu, perorāla"
+804,"Anthrax vaccine, unspecified",Sibīrijas mēra vakcīna
+805,"Whole-cell inactivated cholera vaccine, unspecified",Inaktivēta pilnšūnu holēras vakcīna injekcijām
+806,"Live attenuated cholera vaccine, unspecified",Dzīva novājināta holēras vakcīna
+807,"Cholera-Typhoid inactivated vaccine, unspecified","Inaktivēta pilnšūnu holēras vakcīna, kombinēta ar inaktivētu pilnšūnu vakcīnu pret vēdertīfu, injicējama"
+808,"Hib-MenCY, unspecified",Haemophilus influenzae b tipa un meningokoka C un Y konjugētā vakcīna
+809,"Meningococcal monovalent polysaccharide vaccine, unspecified",Meningokoka monovalentā konjugētā vai nekonjugētā polisaharīda vakcīna
+810,"Meningococcal polyvalent polysaccharide vaccine, unspecified",Meningokoku polivalenta nekonjugēta polisaharīdu nekonjugēta vakcīna
+811,"Meningococcal B vaccine, unspecified","Meningokoka B vakcīna, vakcīnas veids nav precizēts"
+812,"Inactivated whole plague vaccine, unspecified",Mora vakcīna - pilnībā inaktivēta
+813,"Pneumococcal unconjugated polysaccharide vaccine, unspecified","Pneimokoku nekonjugēta polisaharīdu vakcīna, neprecizēti serotipi"
+814,"Pneumococcal conjugate vaccine, serotypes unspecified","Pneimokoku polisaharīdu konjugētā vakcīna, serotipu skaits neprecizēts"
+815,"Pneumo-Hib, unspecified","Haemophilus influenzae b tipa un pneimokoku vakcīna - konjugētā, nespecificēta"
+816,PEDATYPH,"Konjugētā vakcīna pret vēdertīfu, Vi polisaharīda vakcīna, kas saistīta ar stingumkrampju toksoīdu"
+817,"Inactivated Typhoid vaccine, unspecified",Pilnšūnu inaktivēta vakcīna pret vēdertīfu
+818,"Typhoid-Paratyphoid vaccine, unspecified","Inaktivēta vakcīna pret vēdertīfu un paratifu, pilnībā inaktivēta"
+819,"Inactivated Japanese Encephalitis vaccine, unspecified",Visa viriona inaktivēta japāņu encefalīta vakcīna
+820,"No olu kultūras iegūta inaktivēta pilnvērtīga gripas vakcīna, nav norādīts","Vakcīna pret sezonas gripu ar inaktivētu pilnvērtīgu vīrusu, kas iegūta, kultivējot olās"
+821,"Inactivated influenza vaccine, split or subunit, unspecified",Inaktivēta sezonālās gripas vakcīna
+822,"Influenza vaccine, live attenuated, unspecified","Sezonas gripas vakcīna, dzīvā novājināta vakcīna"
+823,"VLP influenza vaccine, unspecified",Virusiem līdzīgo daļiņu (VLP) sezonālās gripas vakcīna
+824,"Hepatitis A virosome vaccine, unspecified","Inaktivēta A hepatīta vakcīna, virosoma, bērnu vai pieaugušo vakcīna"
+825,"Combined hepatitis A and hepatitis B vaccine, unspecified",Kombinētā A un B hepatīta vakcīna
+826,MEASLES AND RUBELLA VACCINE - SERUM INSTITUTE OF INDIA,Dzīva novājināta masalu un masaliņu vakcīna
+827,"MMRV - Measles-Mumps-Rubella-Varicella vaccine, unspecified","Dzīva novājināta vakcīna pret masalām, parotītu, masaliņām un vējbakām"
+828,"Rotavirus pentavalent vaccine, unspecified","Dzīva novājināta pentavalenta rotavīrusa vakcīna, perorāla"
+829,"Rubella-Mumps vaccine, unspecified",Dzīva novājināta masaliņu un masaliņu vakcīna
+830,"Subunit shingles vaccine, unspecified",Subvienības vakcīna pret šinšļiem (pašlaik atbilst E glikoproteīnam)
+831,"Ebola vaccine, unspecified",Ebolas vīrusa vakcīna
+832,"Herpes Simplex vaccine, unspecified",Inaktivēta herpes simplex vakcīna
+833,COMIRNATY 10 µg  BIONTECH-PFIZER,"Covid 19 mRNA vakcīna, 10 mikrogrami, pediatriskā deva 5-11 gadi"
+835,FIOCRUZ COVID-19 VACCINE,"COVID-19 vakcīna, neatjaunojošs šimpanzes adenovīrusu vektors ChAdOx1, kas kodē SARS-CoV-2 smailes proteīnu"
+836,FLUAD TETRA,Četrivalenta inaktivēta sezonālās gripas vakcīna ar virsmas antigēniem
+837,COVOVAX SII,"COVID-19 vakcīna, proteīna apakšvienība, rekombinantās smaiļveida proteīna nanodaļiņas, ar palīgvielu (Matrikss M) - cits nosaukums: NOVAVAX NVX-CoV2373 COVID-19 vakcīna"
+838,COVOVAX NOVAVAX,"COVID-19 vakcīna, proteīna apakšvienība, rekombinantā smaiļveida proteīna nanodaļiņas, ar adjuvantu (Matrikss M) - COVID-19 vakcīna, proteīna apakšvienība, rekombinantā smaiļveida proteīna nanodaļiņas, ar adjuvantu (Matrikss M) - cits nosaukums: NOVAVAX NVX-CoV2373 COVID-19 vakcīna"
+839,"Inactivated whole-cell brucella vaccine, unspecified",Pilnšūnu inaktivēta brucelozes vakcīna
+840,ADDIGRIP,"Trivalenta inaktivēta sezonālās gripas vakcīna, virsmas antigēns"
+841,"INFLUVAC 0,25 mL","Sezonas gripas trivalentā inaktivētā vakcīna, iegūta no olu kultūras, virsmas antigēns, pediatrijas deva"
+842,NEORABIS,"Visa viriona inaktivēta trakumsērgas vakcīna, Wistar vīrusa celms PM1503-3M, kultivēts uz Vero šūnām"
+843,NOVIRAB,"Visa viriona inaktivēta trakumsērgas vakcīna, WISTAR PM/WI 38-1503-3M celms, kultivēts uz Vero šūnām, beta-propiolaktons Inaktivēta"
+844,VERORABVAX,"Visa viriona inaktivēta trakumsērgas vakcīna, WISTAR PM/WI 38-1503-3M celms, kultivēts uz Vero šūnām, beta-propiolaktons Inaktivēta"
+845,"PERORĀLĀ POLIOMIELĪTA VAKCĪNA, KAS RAŽOTA UZ VERO MERIO ŠŪNĀM.",Perorāla inaktivēta poliomielīta (trivalenta) vakcīna
+846,VACCIN POLIOMYELITIQUE ORAL BIVALENT TYPES 1 et 3,"Poliomielīta vakcīna (dzīvā novājināta, divvērtīga) pret 1. un 3. tipa poliovīrusu, perorāla"
+847,VACCIN PNEUMOCOCCIQUE SARBACH,"Pneimokoku polisaharīdu vakcīna, 15-valenta, 1., 2., 3., 4., 6B, 7F, 8., 9N, 11A, 12F, 14., 15F, 18C, 19F un 23F serotips."
+848,VACCIN BCG INSTITUT MERIEUX,Tuberkulozes vakcīna
+849,"Vakcīna pret tularēmiju, neprecizēta",Tularēmijas vakcīna
+850,NEISVAC-C,Meningokoku konjugētā C vakcīna
+851,POLIO SABIN MONO TWO (ORAL) GSK,"Poliomielīta vakcīna (dzīvā novājināta, monovalenta) pret poliovīrusa 2. tipa poliovīrusu, perorāla"
+852,"mOPV2 Sabin monovalentā perorālā poliomielīta vakcīna, 2. tips, neprecizēta","Poliomielīta vakcīna (dzīvā novājināta, monovalenta) pret 2. tipa poliovīrusu, perorāla"
+853,"mOPV1 Sabin monovalentā perorālā poliomielīta vakcīna, 1. tips, neprecizēta","Poliomielīta vakcīna (dzīvā novājināta, monovalenta) pret 1. tipa poliovīrusu, perorāla"
+854,"mOPV3 Sabin monovalentā perorālā poliomielīta vakcīna, 3. tips, neprecizēta","Poliomielīta vakcīna (dzīvā novājināta, monovalenta) pret 3. tipa poliovīrusu, perorāla"
+855,"Difterijas-stingumkrampju-poliomielīta vakcīna, neprecizēta","Difterijas toksoīda (nespecificēta deva), stingumkrampju toksoīda un inaktivēta poliomielīta (trivalenta) vakcīna, adsorbēta"
+856,"DTaPHib vakcīna, neprecizēta","Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un daudzkomponentu acelulārās garo klepusas (standarta deva) un Haemophilus influenzae b tipa (konjugētā, nespecificēta) bērnu vakcīna"
+857,"Difterijas-stingumkrampju-garā klepus-B hepatīta vakcīna, neprecizēta","difterijas toksoīda (standarta deva), stingumkrampju toksoīda, stingumkrampju (acelulārā standarta deva vai pilnībā inaktivēta) un B hepatīta (rekombinantā) pediatriskā vakcīna."
+858,"HPV vakcīna divvērtīgā, neprecizēta",Bivalentā rekombinētā 16. un 18. tipa cilvēka papilomas vīrusa vakcīna
+859,"HPV vakcīnas četrvērtīgā, neprecizēta","Četrīskāršā rekombinētā 6., 11., 16. un 18. tipa cilvēka papilomas vīrusa vakcīna"
+860,"HPV vakcīna nevalenta, neprecizēta","Neavalentā rekombinētā 6., 11., 16., 18., 31., 33., 45., 52. un 58. tipa cilvēka papilomas vīrusa vakcīna."
+861,"Daudzkomponentu meningokoku B vakcīna, neprecizēta",B serogrupas meningokoka vakcīna (daudzkomponentu - vairāki proteīni)
+862,"Masalu imūnglobulīns, neprecizēts",Masalu imūnglobulīns
+863,"B hepatīta imūnglobulīns, neprecizēts",B hepatīta imūnglobulīns
+864,"Varicella-Zoster imūnglobulīns, neprecizēts",Varicella-Zoster imūnglobulīns
+865,"Polisaharīdu meningokoku A vakcīna, neprecizēta","Nekonjugēta meningokoka polisaharīdu vakcīna, A serogrupa"
+866,"Meningokoku konjugētā vakcīna A, neprecizēta",Meningokoka A polisaharīdu konjugētā vakcīna
+867,"Difterijas antitoksīns, neprecizēts",Difterijas antitoksīns
+868,MENPOVAX A,"Nekonjugēta meningokoku polisaharīdu vakcīna, A serogrupa"
+869,MENPOVAX C,"Nekonjugēta meningokoku polisaharīdu vakcīna, C serogrupa"
+870,TYPBAR,"Konjugētā vakcīna pret vēdertīfu, Vi polisaharīds, kas saistīts ar stingumkrampju toksoīda proteīnu"
+871,SUPEMTEK TETRA,"Četrivalenta inaktivēta sezonālās gripas vakcīna, šūnu bāze"
+872,INFLUPOZZI SUBUNITA,"Trivalenta inaktivēta sezonālās gripas vakcīna uz olu bāzes, virsmas antigēns"
+873,INFLUPOZZI ADIUVATO,"Trivalenta inaktivēta sezonālās gripas vakcīna uz olu bāzes, ar virsmas antigēnu, adjuvansēta ar MF59C.1."
+874,INNOFLU,"Trivalenta inaktivēta sezonālās gripas vakcīna, olu bāzes, ar virsmas antigēnu, adjuvansēta ar MF59C.2"
+875,PANDEMIC INFLUENZA VACCINE H5N1 ASTRAZENECA,"A(H5N1) gripas vakcīna pirms pandēmijas, dzīvā novājināta, deguna vakcīna"
+876,CINQUERIX,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva), Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) un inaktivēta poliomielīta (trivalenta) bērnu vakcīna, adsorbēta"
+877,INFANRIX HEPB,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva) un B hepatīta pediatriskā vakcīna, adsorbēta."
+878,TRITANRIX,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un pilnšūnu inaktivētas garo klepus hepatīta vakcīna pediatriskajai vakcīnai."
+879,ACELLUVAX,"Daudzkomponentu acelulārās garo klepus (3 komponenti, standarta deva) vakcīna"
+880,"Pentavalentā difterijas-stingumkrampju-garā klepus-Hib-polio (DTPerHibIPV) vakcīna, neprecizēta","Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, garo klepus (neprecizēta), konjugētas Haemophilus influenzae b tipa (konjugētas, neprecizētas) un inaktivētas poliomielīta (trivalentas) bērnu vakcīnas, adsorbēta"
+881,"Dzīva novājināta Japānas encefalīta vakcīna, neprecizēta","Dzīva novājināta Japānas encefalīta vakcīna, celms un ražošanas platforma nav norādīta"
+882,CANDID 1,"Dzīva novājināta Argentīnas hemorāģiskā drudža vakcīna, Junin vīruss"
+883,ENTEROVACCINO TIFICO SCLAVO,Pilnšūnu inaktivēta iekšķīgi lietojama inaktivēta vakcīna pret vēdertīfu
+884,DIF-PER-TET-ALL CHIRON,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un daudzkomponentu akcelulārās garo klepusas (3 komponenti, standarta deva) bērnu vakcīna, adsorbēta"
+885,INFLUPOZZI ZONALE,"Trivalenta inaktivēta sezonālās gripas vakcīna, olu bāzes, virsmas antigēns"
+886,MONO OPV1,"Poliomielīta vakcīna (dzīvā novājināta, monovalenta) pret 1. tipa poliovīrusu, perorāla"
+887,POLIORAL,"Poliomielīta vakcīna (dzīvā novājināta, trivalenta) pret 1., 2. un 3. poliovīrusu, perorāla"
+888,QUATTVAXEM,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, pilnšūnu garo klepus, Haemophilus influenzae b tipa (konjugēta ar difterijas toksoīdu) un B hepatīta (rekombinētā) bērnu vakcīna"
+889,MONO OPV3,"Poliomielīta vakcīna (dzīvā novājināta, monovalenta) pret 3. tipa poliovīrusu, perorāla"
+890,NEOTYF,"Dzīva novājināta vakcīna pret vēdertīfu, Salmonella Typhi celms Ty21A, perorāla vakcīna"
+891,PNEUMOPUR,"Pneimokoku nekonjugēta polisaharīdu vakcīna, 23-valenta, 1., 2., 3., 4., 5., 6.B, 7.F, 8., 9.N, 9.V, 10.A, 11.A, 12.F, 14., 15.B, 17.F, 18.C, 19.F, 19.A, 20., 22.F, 23.F un 33.F serotipi"
+892,POLIOVAX-IN,Inaktivēta poliomielīta (trivalenta) vakcīna
+893,VACCINO ANTICOLERICO SCLAVO,"Vakcīna pret holēru, neprecizēta"
+894,"Adenovirus vaccine, unspecified","Adenovīrusa vakcīna, neprecizēta tipa"
+895,"Venecuēlas zirgu encefalīta vakcīna, neprecizēta",Venecuēlas zirgu encefalīta vakcīna
+896,"Q drudža vakcīna, neprecizēta",Q drudža vakcīna
+897,"Hantavīrusa vakcīna, neprecizēta",Hantavīrusa vakcīna
+898,"Leishmaniozes vakcīna, neprecizēta",Leišmanijas vakcīna
+899,"Cilvēka paragripas vīrusa vakcīna, neprecizēta",Cilvēka paragripas vīrusa vakcīna
+900,PREVENAR 20 (iepriekš APEXXNAR),"Pneimokoku polisaharīdu konjugētā vakcīna, 20-valenta, adsorbēta, 1., 3., 4., 5., 6.A, 6.A, 6.B, 7.F, 8., 9.V, 10.A, 11.A, 12.F, 14., 15.B, 18.C, 19.A, 19.F, 22.F, 23.F un 33.F serotips - cits nosaukums: Prevnar 20 ASV."
+901,MENCEVAX ACW,"Nekonjugēta A, C un W serogrupas meningokoku polisaharīdu vakcīna"
+902,"Vakcīna pret trakumsērgu Semple tips, neprecizēts","Visa viriona inaktivēta trakumsērgas vakcīna, sagatavota no kazas vai aitas smadzeņu audiem, kas inficēti ar trakumsērgas vīrusu, satur mielīnu"
+903,"Vakcīna pret trakumsērgu Fuenzalida tipa, neprecizēta","Visa viriona inaktivēta trakumsērgas vakcīna, kas pagatavota no zīdītājpeļu smadzeņu audiem, kas inficēti ar trakumsērgas vīrusu, ar samazinātu mielīna saturu"
+904,"Trakumsērgas pīļu embrija vakcīna, neprecizēta","Inaktivēta trakumsērgas vakcīna, attīrīta pīļu embriju vakcīna (PDEV), inaktivācija ar ß-propiolaktonu"
+905,"Vakcīna pret trakumsērgu PHKCV, neprecizēta","Visa vīriona inaktivēta trakumsērgas vakcīna, uz šūnu kultūru bāzes, primārā kāmja nieru šūnu vakcīna (PHKCV), Pekinas celms, inaktivācija ar formalīnu"
+906,"Vakcīna pret jostas rozi, neprecizēta",Vakcīna pret šindeli
+907,"Vakcīna pret 4. tipa adenovīrusu, neprecizēts",4. tipa adenovīrusa vakcīna
+908,"Vakcīna pret 7. tipa adenovīrusu, neprecizēts",Adenovīrusa 7. tipa vakcīna
+909,Botulīna antitoksīns,Pretbotulisma antitoksīns
+910,"Inaktivēta A hepatīta vakcīna, pieaugušo deva, neprecizēta","Inaktivēta A hepatīta vakcīna, pieaugušo deva"
+911,"A hepatīta vesela inaktivēta vakcīna, monovalenta, pediatriskā deva, neprecizēta","Visa vīriona inaktivēta vakcīna, monovalenta, pediatriskā deva"
+912,"Vakcīna pret A hepatītu, pediatriskā deva, neprecizēta","Pilnvērtīga inaktivēta A hepatīta vakcīna, pediatriskā deva, sastāvs nav norādīts (monovalenta vai divvērtīga ar B hepatīta vakcīnu)"
+913,BIMERVAX,"COVID-19 vakcīna, proteīna apakšvienība, rekombinants smailes proteīns, RBD saplūšanas heterodimērs, ar adjuvantu"
+914,"B hepatīta vakcīna, monovalenta, pediatriskā deva, neprecizēta","Hepatīta B rekombinantā vakcīna, monovalenta, pediatriskā deva"
+915,"B hepatīta vakcīna, monovalenta, pieaugušo deva, nav precizēta","Hepatīta B rekombinantā vakcīna, monovalenta, pieaugušo deva"
+916,"B hepatīta vakcīna, monovalenta, dialīzes pacienta deva, neprecizēta","rekombinantā B hepatīta vakcīna, monovalenta, dozēta dialīzes pacientiem"
+917,"Vakcīna pret E hepatītu, neprecizēta",rekombinantā peptīdu vakcīna pret E hepatītu
+918,"PRP-D Hib vakcīna, neprecizēta","Hemophilus influenzae b tipa konjugētā vakcīna, kas sastāv no PRP (poliribozilribitolfosfāta), konjugēta ar difterijas toksoīdu"
+919,"Hib hbOC vakcīna, neprecizēta","Haemophilus influenzae b tipa vakcīna, kapsulārie oligosīdi (poliribozilribitolfosfāts, PRP), konjugēti ar mutantu difterijas toksīnu CRM197"
+920,"Difterijas-stingumkrampju Td vakcīna, neprecizēta",Difterijas (toksoīda (samazinātā deva) un stingumkrampju (toksoīda) vakcīna
+921,"Japānas encefalīta vakcīna, neprecizēta",Japānas encefalīta vakcīna
+922,"Dzīva novājināta adenovīrusa vakcīna, 4. un 7. tipa, perorāla",Adenovīrusa 7. un 4. tipa vakcīna
+923,"Elpceļu sincitiālā vīrusa monoklonāla antiviela, neprecizēta",Monoklonālā antiviela pret RSV
+924,FLUZONE INTRADERMAL,"Trivalenta inaktivēta sezonālās gripas vakcīna, intradermāla"
+925,"Trīsvērtīgā inaktivēta gripas vakcīna, neprecizēta","Trivalenta inaktivēta sezonālās gripas vakcīna, sadalīta vai apakšvienība, standarta deva"
+926,FLUCELVAX,"Trivalenta inaktivēta sezonālās gripas vakcīna, ražota šūnu kultūrā"
+927,"Covid-19 mRNS vakcīna, pediatriskā deva, nav precizēta","COVID-19 mRNS vakcīna, pediatriskā deva"
+928,"Dzīva novājināta A hepatīta vakcīna, neprecizēta",Dzīva novājināta A hepatīta vakcīna
+929,"Četrvalentu inaktivēta gripas vakcīna, iegūta olu kultūrā, pediatrijas deva, bez precizējuma","Četrvalentu inaktivēta gripas vakcīna, iegūta olu kultūrā, pediatrijas deva, bez precizējuma"
+930,Ad5-nCoV COVID-19 INHALATION VACCINE,"COVID-19 vakcīna, neatjaunojošs vīrusa vektors, 5. tipa adenovīruss, inhalācijai"
+931,FLUBLOK QUADRIVALENT,Četrvērtīgā rekombinētā sezonālās gripas vakcīna
+932,"Kvadrivalentā rekombinantā gripas vakcīna, neprecizēta",Četrivalentā rekombinētā sezonālās gripas vakcīna
+933,"TICOVAC 2,7µg",Inaktivēta inaktivēta ērču encefalīta vakcīna ar veseliem vīrijoniem
+934,VACCIN OREILLONS AVENTIS PASTEUR MSD,Dzīva novājināta vakcīna pret cūciņām
+935,VACCIN RABIQUE INACTIVE MERIEUX,"Inaktivēta visa trakumsērgas vakcīna, WISTAR PM/WI 38-1503-3M celms, kultivēts uz Vero šūnām, inaktivēts ar beta-propiolaktonu"
+936,VACCIN PNEUMOCOCCIQUE POLYOSIDIQUE AVENTIS PASTEUR MSD,"nekonjugēta polisaharīdu pneimokoku vakcīna, 23-valenta, 1., 2., 3., 4., 5., 6.B, 7.F, 8., 9.N, 9.V, 10.A, 11.A, 12.F, 14., 15.B, 17.F, 18.C, 19.A, 19.F, 20., 22.F, 23.F un 33.F serotipi."
+937,"Botulisma vakcīna, neprecizēta",Botulisma vakcīna
+938,Neprecizēta četrvērtīgā gripas vakcīna,"Četrivalenta inaktivēta sezonālās gripas vakcīna, sadalīta virionu vai virsmas antigēna vakcīna"
+939,PREHEVBRIO,"rekombinantā B hepatīta vakcīna, trīs antigēni (HbS, pre-S1 un pre-S2)"
+940,SPUTNIK-LIGHT,"Vakcīna pret COVID 19 ar neatjaunojošu vīrusu vektoru, adenovīrusu, kas kodē SARS-CoV-2 maksimālo proteīnu"
+941,"Imūnglobulīns pret Sibīrijas mēri, neprecizēts",Antrax imūnglobulīns
+942,"Vistas embrija trakumsērgas vakcīna, neprecizēta","Inaktivēta visa trakumsērgas vakcīna, kultivēta vistas embrija šūnās (CEEC), inaktivēta ar ß-propiolaktonu."
+943,"Trakumsērgas vakcīnas diploīdās šūnas, neprecizētas","Inaktivēta visa trakumsērgas vakcīna, sagatavota cilvēka diploīdu šūnu kultūrā (HDCV) MRC-5, inaktivēta ar ß-propiolaktonu"
+944,"Inaktivēta visa viriona perorālā holēras vakcīna, neprecizēta","Inaktivēta perorālā holēras vakcīna, nesadalīta"
+945,"Meningokoku vakcīnas serogrupa nav zināma, nav precizēta",Meningokoka vakcīna ar neprecizētu serogrupu
+946,TYPHIDRALL,"A un B vēdertīfa un paratifa vakcīna, inaktivēta, veselas šūnas"
+947,IMMU-PHILUS,"Haemophilus influenzae b tipa vakcīna, PRP polisaharīds, konjugēts ar Neisseria meningitidis B serogrupas ārējās membrānas proteīnu"
+948,BACITHRAX,"Acelulārā Sibīrijas lopu mēra vakcīna, 50 mikrogrami 0,5 ml devas, ar adjuvantu"
+949,IMOVAX BCG,Tuberkulozes vakcīna
+950,IMOVAX DTP,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un inaktivēta poliomielīta (trivalenta) bērnu vakcīna"
+951,IMOVAX POLIO ORALE,"Poliomielīta vakcīna (dzīvā novājināta, trivalenta) pret 1., 2. un 3. poliovīrusu, perorāla"
+952,IMOVAX COLERA,Inaktivēta veselas šūnas holēras vakcīna injekcijām
+953,PROCOMVAX,B hepatīta un Haemophilus influenzae b tipa vakcīna (OMP konjugāta)
+954,JAPANESE ENCEPHALITIS VACCINE,"Pilna inaktivēta Japānas encefalīta vakcīna, sagatavota no peļu smadzeņu audiem, Nakayama celms, injicējama, Korejas Zaļā krusta korporācijas vakcīna"
+955,PULMOVAX,"Nekonjugēta pneimokoku vakcīna, 23-valenta, 1., 2., 3., 4., 4., 5., 6.B, 7.F, 8., 9.N, 9.V, 10.A, 11.A, 12.F, 14., 15.B, 17.F, 18.C, 19.A, 19.F, 20., 22.F, 23.F un 33.F serotipi."
+956,VACCINO COLERICO BERNA,Inaktivēta injicējama veselā holēras vakcīna
+957,VACCINO BCG BERNA,Dzīva novājināta tuberkulozes vakcīna
+958,ADIUGRIP,"Trivalenta inaktivēta sezonālās gripas vakcīna, olu bāzes, virsmas antigēns"
+959,STREPTOPUR,23-valenta nekonjugēta pneimokoku vakcīna
+960,VIATIM,"A hepatīta vakcīna (inaktivēta, adsorbēta) un vēdertīfa vakcīna (polisaharīda)"
+961,ANATOXAL TE N,Vakcīna pret stingumkrampjiem (toksoīda)
+962,ANATOXAL DI TE N ADULT,Difterijas toksoīda (zema deva) un stingumkrampju toksoīda vakcīna
+963,ANATOXAL DI TE PER,"Difterijas (toksoīds, standarta deva), stingumkrampju (toksoīds) un stingumkrampju (pilnšūnu inaktivētā) pediatriskā vakcīna"
+964,ANATOXAL DI,"Difterijas vakcīna (toksoīda, samazinātā deva)"
+965,ANATOXAL TE TAB,"Stingumkrampju (toksoīda), vēdertīfa (veselas inaktivētas) un paratīfa A un B (veselas inaktivētas) vakcīnas."
+966,JYNNEOS,"Trešās paaudzes vakcīna pret masaliņām, modificēts vakcīnijas vīruss Ankara, nereplikatīvā vakcīna"
+967,HEPASOMA,"Inaktivēta A hepatīta A vakcīna, virozomāla, bērnu vai pieaugušo vakcīna, veselas šūnas, bērniem vai pieaugušajiem"
+968,INFLEXAL V,"Sezonas gripas trivalentā inaktivētā vakcīna, iegūta no olu kultūras, vīrosoma"
+969,LYSSAVAC N BERNA,"Inaktivēta visa trakumsērgas vakcīna, sagatavota Vero šūnu kultūrā"
+970,TETATOX,Stetanusa toksoīda vakcīna
+971,VACCINO ANTIVAIOLOSO LANCY,"Pirmās paaudzes vakcīna pret bakām, dzīvs vakcīnijas vīruss"
+972,VIROFLUSOMA,"Sezonas gripas trivalentā inaktivētā vakcīna, iegūta no olu kultūras, virsmas antigēns"
+973,VIROFLU,"Trivalenta inaktivēta sezonālās gripas vakcīna, virosoma"
+974,MENCEVAX AC,Nekonjugēta polisaharīdu vakcīna pret A un C meningokoka serogrupu infekciju
+975,PERTURIX,"Pertussis vakcīna (acelulārā daudzkomponentu vakcīna, 3 komponenti)"
+976,VACCINO ANTICOLERICO ISI,"Holēras vakcīna, neprecizēta"
+977,ENTEROVACCINO ISI,Inaktivēta vesela iekšķīga vakcīna pret vēdertīfu
+978,VAC.DIFTO TETANO ISI,"Difterijas (toksoīda, nespecificēta deva) un stingumkrampju (toksoīda) vakcīna"
+979,VACCINO ANTITETANICO ISI,Stingumkrampju vakcīna (toksoīds)
+980,VAC.DPT ISI,"Difterijas (deva nav norādīta), stingumkrampju un garo klepus vakcīna (acelulārā, deva nav norādīta)"
+981,VACCINO PERTOSSE ISI,neprecizēta vakcīna pret garo klepu (Pertussis)
+982,VACCINO TIFICO ISI,neprecizēta vakcīna pret vēdertīfu
+983,VACCINO ANTIPOL ISI,"Poliomielīta vakcīna (pilnvērtīga inaktivēta, trīsvērtīga)"
+984,VACCINO ANTIVAIOLOSO ISI,"Pirmā paaudzes vakcīna pret bakām, dzīvs vakcinācijas vīruss"
+985,VACCINO TAB TE ISI,"Stingumkrampju (toksoīda), vēdertīfa (veselas inaktivētas) un paratīfa A un B (veselas inaktivētas) vakcīnas"
+986,H ATETAL ISI,Tetanusa toksoīda vakcīna
+987,TANRIX,Stingumkrampju vakcīna (toksoīds)
+988,VACCINO MENINGOCOCCICO POLISACCARIDICO TETRAVALENTE GSK,"nekonjugēta meningokoku polisaharīdu vakcīna, A, C, W un Y serogrupas."
+989,HANTAVAX,"Visa vīrusa inaktivēta vakcīna pret hemorāģisko drudzi ar nieru sindromu (HFRS), ko izraisa hantavīruss"
+990,ALPHARIX,Trivalenta inaktivēta sezonālās gripas vakcīna ar attīrītiem antigēniem
+991,FLULAVAL QUADRIVALENT,Četrivalenta inaktivēta sezonālās gripas vakcīna ar virsmas antigēnu
+992,AFLURIA QUADRIVALENT,Četrivalenta inaktivēta sezonālās gripas vakcīna ar virsmas antigēnu
+993,Td ADSORBED,"Difterijas (toksoīda, samazinātā deva) un stingumkrampju (toksoīda) vakcīna"
+994,VARIVAX II,Dzīva novājināta varicellas vakcīna
+995,IMVAMUNE,"Trešās paaudzes vakcīna pret bakasiem, modificēta vakcinācijas vīrusa Ankara, nereplikatīvā vakcīna"
+996,ACAM2000,"Otrās paaudzes vakcīna pret bakām, šūnu kultivēta vakcinācijas vīrusa vakcīna"
+997,"13-valentā konjugāta pneimokoku vakcīna, neprecizēta","13-valenta pneimokoku konjugētā vakcīna, adsorbēta, 1., 3., 4., 5., 6.A, 6.A, 6.B, 7.F, 9.V, 14., 18.C, 19.A, 19.F un 23.F serotips"
+998,LC16,Trešās paaudzes vakcīna pret bakām (šūnu kultūrā audzēts vakcīnijas vīruss)
+999,WETVAX APSV,"Pirmā paaudzes vakcīna pret bakām, dzīvs vakcinācijas vīruss"
+1000,VACV VACCINIA VIRUS LISTER ELSTREE,"Pirmās paaudzes vakcīna pret bakām, dzīvs vakcinācijas vīruss"
+1001,V4020 VEEV VACCINE,"V4020 vakcīna pret Venecuēlas zirgu encefalīta vīrusu, dzīvā novājināta V4020"
+1002,Q-VAX,Inaktivēta Q drudža vakcīna
+1003,TEDIVAX PRO ADULTO,Difterijas toksoīda (zema deva) un stingumkrampju toksoīda vakcīna
+1004,TEDIVAX,"Pediatriskā difterijas vakcīna (toksoīds, standarta deva) un stingumkrampju vakcīna (toksoīds), pediatriskā deva"
+1005,REVAC-B PLUS ADULT VACCINE,"rekombinantā B hepatīta vakcīna, pieaugušo vakcīnas deva"
+1006,SHANVAC B,"Rekombinantā B hepatīta vakcīna, HBsAg 20 µg, bērniem un pieaugušajiem"
+1007,ISTIVAC4,"Četrivalenta inaktivēta sezonālās gripas vakcīna, dalītā virionu vakcīna"
+1008,DITEMER,difterijas toksoīda (standarta deva) un stingumkrampju toksoīda vakcīna
+1009,TETAMER,Titāna vakcīna (anatoksīns)
+1010,TRIAMER,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un pilnšūnu inaktivēta garo klepusakcīnas pediatriskā vakcīna"
+1011,DITEKIBOOSTER,"Difterijas toksoīda (zema deva), stingumkrampju toksoīda un acelulārās garo klepusas (garo klepus toksoīda, zema deva) vakcīna."
+1012,PICOVAX,Inaktivēta poliomielīta (trivalenta) vakcīna
+1013,FLUBLOK TRIVALENT,Trivalenta rekombinētā sezonālās gripas vakcīna
+1014,PROVARIVAX,Dzīva novājināta vējbaku vakcīna
+1015,COMBIVAX,"Difterijas (toksoīda, standarta deva), stingumkrampju (toksoīda) un garo klepus (inaktivēta) pediatriskā vakcīna."
+1016,IDFLU,"Trivalenta inaktivēta sezonālās gripas vakcīna, virsmas antigēns"
+1017,SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (50 µg/50 µg)/mL MODERNA,"Bivalenta COVID-19 mRNS vakcīna, oriģinālais vīruss + Omicron variants"
+1018,NOORA VACCINE,RBD proteīna rekombinantā SARS-CoV-2 vakcīna (Noora vakcīna)
+1019,"SPIKEVAX 0,1 mg/mL MODERNA","Vakcīna pret Kovid 19 à ARNm, 50 mikrogramu deva"
+1020,Vakcīna pret A hepatītu aventis pasteur MSD,"Visa viriona inaktivēta A hepatīta vakcīna, monovalenta, pieaugušo deva"
+1021,COMIRNATY ORIGINAL/OMICRON BA.1 (15/15 µg) BIONTECH-PFIZER,"Bivalentā mRNS vakcīna pret Kovid 19, oriģinālais vīruss + Omicron BA.1 variants, pa 15 mikrogramiem."
+1022,COMMIRNATY 3 µg Zīdaiņiem UN BĒRNIEM BIONTECH-PFIZER,"Bērnu mRNS vakcīna 19, 3 mikrogrami"
+1023,COMIRNATY ORIGINAL/OMICRON BA.4-5 (15/15 µg) BIONTECH-PFIZER,"Bivalentā mRNS vakcīna pret Kovid 19, oriģinālais vīruss + Omicron BA.4/5 variants, pa 15 mikrogramiem."
+1024,SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 (50 µg/50 µg)/mL MODERNA,"Bivalentā mRNS vakcīna pret Kovid 19, oriģinālais vīruss + Omicron BA.4/5 variants, pa 50 mikrogramiem katrā."
+1025,CORBEVAX,Vakcīna pret kovīdu 19; cits nosaukums: BECOV2A
+1026,SOBERANA 02 FINLAY-FR-2 COVID-19 VACCINE,"Vakcīna ar rekombinantu proteīna apakšvienību (RBD domēns, konjugēts ar stingumkrampju toksoīdu + adjuvants)"
+1027,COVIVAC CHUMAKOV COVID-19 VACCINE,Pilnībā inaktivēta COVID-19 vakcīna; cits nosaukums: Kovivac
+1028,RECOMBIVAX HB DIALYSIS,"Rekombinantā B hepatīta vakcīna, dializējamo pacientu devas"
+1029,QUINTANRIX,"Pediatriskā difterijas (toksoīds, standarta deva), stingumkrampju (toksoīds), garo klepus (inaktivēta, standarta deva), Haemophilus influenzae b tipa (konjugēta ar stingumkrampju toksoīdu) un B hepatīta (rekombinētā) vakcīna."
+1030,GEMCOVAC-19,"COVID-19 vakcīna, mRNS, kas kodē SARS-CoV-2 smailes proteīnu, pašlaik notiek klīniskais pētījums."
+1031,SPIKEVAX 50 µg MONODOSE MODERNA,"COVID-19 mRNS vakcīna, oriģinālais vīruss, 50 mikrogrami, iepriekš uzpildīta šļirce"
+1032,SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (25 µg/25 µg) MODERNA,"Divvērtīgā mRNS vakcīna pret Covid 19, oriģināls vīruss + Omicron BA.1 variants, katrs 25 mikrogrami"
+1033,COMIRNATY ORIGINAL/OMICRON BA.4-5 (5/5 µg) BIONTECH-PFIZER,"Bivalentā mRNS vakcīna pret Kovid 19, oriģinālais vīruss + Omicron BA.4/5 variants, 5 mikrogrami katra, pediatriskā deva 5-11 gadi"
+1034,HEBERBIOVAC B 10 µg,"Rekombinantā B hepatīta vakcīna, pediatriskā deva"
+1035,HEBERBIOVAC HB 20 µg,"Rekombinantā B hepatīta vakcīna, pieaugušo deva"
+1036,SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 25 µg/25 µg MODERNA,"Divvērtīgā RNAm COVID-19 vakcīna, oriģināls vīruss + Omicron variants BA.4/5, katra 25 mikrogrami"
+1037,"Vakcīna pret ērču encefalītu, Neudörfl celms, pediatriskā deva, neprecizēta","Vakcīna pret ērču encefalītu, inaktivēts viss vīruss, Neudörfl celms, pediatriskā deva"
+1038,"Vakcīna pret ērču encefalītu, Neudörfl celms, pieaugušo deva, neprecizēta","Vakcīna pret ērču encefalītu, inaktivēts viss vīruss, Neudörfl celms, pieaugušo deva"
+1039,"Covid-19 mRNS vakcīna, oriģināls vīruss, 50 µg, neprecizēts","Covid-19 mRNS vakcīna, oriģināls vīruss, 50 mikrogrami devā"
+1040,AREXVY,"Elpceļu sincitiālā vīrusa (RSV) vakcīna, rekombinanta, RSVPreF3 antigēns, kas iegūts no F proteīna, ar adjuvantu"
+1041,"Covid-19 RNS vakcīna, neprecizēta",Covid-19 RNS vakcīna
+1042,"Covid-19 vakcīna, nereplicējošs vīrusu vektors, nav precizēts","Covid-19 vakcīna, nereplicējošs vīrusu vektors"
+1043,"Covid-19 vakcīna, proteīna apakšvienība, neprecizēta","Covid-19 vakcīna, proteīna apakšvienība"
+1044,"Covid-19 vakcīna, viss virions inaktivēts, neprecizēts","Covid-19 vakcīna, viss virions inaktivēts"
+1045,INFANRIX-IPV/Hib,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda, daudzkomponentu acelulārās garo klepusas (standarta deva), inaktivētas poliomielīta (trivalenta) un Haemophilus influenzae b tipa bērnu vakcīnas."
+1046,BEYFORTUS 50 mg (nirsevimab),Antikorp monoklonali tal-RSV uman
+1047,ABRYSVO,"Elpceļu sincitiskā vīrusa (RSV) vakcīna, RSV A un B apakštipa rekombinantie prefūzijas F glikoproteīni, bez adjuvanta"
+1048,DECAVAC,Difterijas toksoīda (mazā deva) un stingumkrampju toksoīda vakcīna
+1049,TDVAX,Difterijas toksoīda (mazā deva) un stingumkrampju toksoīda vakcīna
+1050,BEYFORTUS 100 mg (nirsevimab),Antikorp monoklonali tal-RSV uman
+1051,COMIRNATY OMICRON XBB.1.5 30 µg,"Covid 19 mRNS vakcīna, apakšvariants Omicron XBB.1.5, 30 mikrogrami, pieaugušo deva (+ 12 gadi)"
+1052,COMIRNATY OMICRON XBB.1.5 10 µg,"Covid 19 mRNA vakcīna, apakšvariants Omicron XBB.1.5, 30 mikrogrami, pieaugušo deva (+ 12 gadi)"
+1053,COMIRNATY OMICRON XBB.1.5 3 µg,"Omicron XBB.1.5 subvarianta kovid 19 mRNS vakcīna, 3 mikrogrami, pediatriskā deva (6 mēneši-4 gadi)"
+1054,"COMIRNATY ORIGINAL/OMICRON BA.4-5 (1,5/1,5 µg)","Covid 19 mRNA vakcīna, oriģinālais vīruss + Omicron BA.4/5 variants, katrs 1,5 mikrogrami, pediatriskā deva (6 MĒNEŠI-4 GADI)"
+1055,NUVAXOVID XBB.1.5,"Covid-19 vakcīna, proteīna apakšvienība, rekombinantas smaileproteīna nanodaļiņas, ar adjuvantu (Matrix M), Omicron XBB.1.5 apakšvariants"
+1056,R21/MATRIX-M,R21/Matrix-M pirmseritrocītiskās malārijas vakcīna
+1057,ENGERIX B JUNIOR,"B hepatīta rekombinantā vakcīna, pediatriskā deva"
+1058,SPIKEVAX XBB.1.5 0.1 mg/mL dose 50 µg MODERNA,
+1059,SPIKEVAX XBB.1.5 0.1 mg/mL dose 25 µg MODERNA,"Omicron XBB.1.5 apakšvarianta COVID-19 mRNS vakcīna, 25 mikrogrami vienā devā, daudzdevu flakons"
+1060,SPIKEVAX XBB.1.5 50 µg MODERNA,"Covid-19 mRNS vakcīna, Omicron XBB.1.5 apakšvariants, 50 mikrogrami vienā devā"
+1061,PENBRAYA,"Meningokoku polisaharīds (A, C, Y, W grupas) stingumkrampju toksoīda konjugāts, meningokoku B rekombinantā vakcīna"
+1062,CMV imūnglobulīns,"Citomegalovīrusa imūnglobulīns, intravenozi"
+1063,"C hepatīta vakcīna, neprecizēta","C hepatīta vakcīna, neprecizēta"
+1064,"HIV vakcīna, neprecizēta","HIV vakcīna, neprecizēta"
+1065,Leprosy vaccine,"Vakcīna pret lepru, neprecizēta"
+1066,"Melanomas vakcīna, neprecizēta","Melanomas vakcīna, neprecizēta"
+1067,"Streptococcus pyogenes vakcīna, neprecizēta","Streptococcus pyogenes vakcīna, neprecizēta"
+1068,"Rifta ielejas drudža vakcīna, neprecizēta","Rifta ielejas drudža vakcīna, neprecizēta"
+1069,Vaccinia immune globulin,Vaccinia imūnglobulīns
+1070,Fluzone High-Dose Quadrivalent Southern Hemisphere,"Četrvalentu inaktivēta gripas vakcīna, iegūta no olu kultūras, sadalīta vai subvienību, lielā devā"
+1071,"RSV antiviela vai vakcīna, neprecizēta","RSV antiviela vai vakcīna, neprecizēta"
+1072,"Covid-19 mRNS vakcīna, oriģināls vīruss, 25 µg, neprecizēts","Covid-19 mRNS vakcīna, oriģināls vīruss, 25 mikrogrami"
+1073,"Vakcīna pret Laima slimību, neprecizēta","Vakcīna pret Laima slimību, neprecizēta"
+1074,CYFENDUS,Adsorbēta acelulāra Sibīrijas mēra vakcīna ar adjuvantu
+1075,"Acelulārā Sibīrijas mēra vakcīna, neprecizēta","Acelulārā Sibīrijas mēra vakcīna, neprecizēta"
+1076,UROMUNE (MV 140),
+1077,ENVAX-A71,
+1078,ENVACGEN,
+1079,VAX-SPIRAL,
+1080,COVAXIN,
+1081,BAYGAM,
+1082,BAYHEP B,
+1083,BAYRAB,
+1084,BAYTET,
+1085,MYCOBAX,
+1086,PNEUMUNE,
+1087,HYPERTET,
+1088,HYPERRAB,
+1089,HYPERHEB B,
+1090,MENZB,Meningokoku vakcīna ar ārējās membrānas vezikulu proteīniem
+1091,VARIZIG,
+1092,KAMRAB,
+1093,HEPAGAM,
+1094,OROCHOL,
+1095,MVA85A,
+1096,MORCVAX,
+1097,CYTOGAM,
+1098,XANAFLU,
+1099,BABYBIG,
+1100,BOTULISM ANTITOXIN BEHRING,
+1101,DOTARICIN,
+1102,HIB-IMMUNE,
+1103,HIB-VAX,
+1104,DIPHTHERIA ANTITOXIN B.P.,
+1105,BAT EMERGENT BIOSOLUTIONS,
+1106,,
+1107,,
+1108,,
+1109,,
+1110,,
+1111,,
+1112,,
+1113,,
+1114,,
+1115,,
+1116,,
+1117,,
+1118,,
+1119,,
+1120,,
+1121,,
+1122,,
+1123,,
+1124,,
+1125,,
+1126,,
+1127,,
+1128,,
+1129,,
+1130,,
+1131,,
+1132,,
+1133,,
+1134,,
+1135,,
+1136,"Pneimokoku 23-valenta konjugētā vakcīna, neprecizēta",
+1137,,
+1138,,
+1139,,
+1140,,
+1141,,
+1142,,
+1143,,
+1144,,
+1145,,
+1146,"Četrvalentu gripas vakcīna, inaktivēta, iegūta no olu kultūras, augsta deva, bez precizējuma","Četrvērtīga inaktivēta gripas vakcīna, iegūta no olu kultūras, frakcionēta vai subvienību vakcīna, augsta deva"
+1147,,
+1148,,
+1149,,
+1150,,
+1151,,
+1152,,
+1153,,
+1154,,
+1155,,
+1156,,
+1157,,
+1158,,
+1159,,
+1160,,
+1161,,
+1162,,
+1163,"20-valenta pneimokoku konjugētā vakcīna, neprecizēta","20-valenta pneimokoku konjugētā vakcīna, adsorbēta, 1., 3., 4., 5., 6.A, 6.A, 6.B, 7.F, 8., 9.V, 10.A, 11.A, 12.F, 14., 15.B, 18.C, 19.A, 19.F, 22.F, 23.F un 33.F serotipi"
+1164,,
+1165,,
+1166,,
+1167,,
+1168,,
+1169,,
+1170,,
+1171,"Trivalentā gripas vakcīna, inaktivēta, iegūta no olu kultūras, sadalīta vai subvienības, augstas devas, nenorādīta","Trivalentā inaktivētā gripas vakcīna, iegūta no olu kultūras, sadalīta vai subvienību veidā, augsta deva"
+1172,,
+1173,,
+1174,,
+1175,,
+1176,,
+1177,,
+1178,,
+1179,,
+1180,,
+1181,,
+1182,,
+1183,,
+1184,,
+1185,,
+1186,,
+1187,,
+1188,,
+1189,,
+1190,,
+1191,,
+1192,,
+1193,,
+1194,,
+1195,,
+1196,,
+1197,,
+1198,,
+1199,,
+1200,,
+1201,,
+1202,,
+1203,,
+1204,,
+1205,,
+1206,,
+1207,,
+1208,,
+1209,,
+1210,,
+1211,,
+1212,,
+1213,,
+1214,,
+1215,,
+1216,,
+1217,,
+1218,,
+1219,,
+1220,,
+1221,"Diphtheria (standard dose), tetanus and rubella vaccine, unspecified",
+1222,,
+1223,,
+1224,,
+1225,,
+1226,,
+1227,,
+1228,,
+1229,,
+1230,,
+1231,,
+1232,,
+1233,"Pneimokoku 10-valentā konjugētā vakcīna, neprecizēta",
+1234,,
+1235,,
+1236,,
+1237,,
+1238,,
+1239,"Pneimokoku 15-valenta konjugētā vakcīna, neprecizēta",
+1240,,
+1241,,
+1242,,
+1243,,
+1244,,
+1245,,
+1246,,
+1247,,
+1248,,
+1249,,
+1250,EUVICHOL-S,
+1251,EUVICHOL-PLUS,"Holeru vakcīna, perorāla, bivalenta, kas sastāv no inaktivētām Vibrio cholerae O1 (klasiskā un El Tor) un O139 pilnām šūnām"
+1252,JE-CV,
+1253,CHIMERIVAX-JE,
+1254,CAPVAXIVE,
+1255,HEXASIIL,
+1256,,
+1257,,
+1258,COMIRNATY JN.1 30,"Covid 19 mRNS vakcīna, apakšvariants Omicron JN.1, 30 mikrogrami, pieaugušo deva (+ 12 gadi)"
+1259,COMIRNATY JN.1 10 µg CHILDREN (5-11 YEARS),
+1260,COMIRNATY JN.1 3 µg CHILDREN (6 MONTHS-4 YEARS),
+1261,NUVAXOVID JN.1,
+1262,MRESVIA,Single-stranded 5' capped mRNA encoding the Respiratory syncytial virus glycoprotein F stabilized in the prefusion conformation
+1263,"Autorizēta mRNS Covid vakcīna, kas kodē SARS-COV-2 smaile proteīnu","Autorizēta mRNS Covid vakcīna, kas kodē SARS-COV-2 smaile proteīnu"
+1264,"A(H5) avian influenza vaccine, unspecified",
+1265,CLODIVAC,Difterijas toksoīda (mazā deva) un stingumkrampju toksoīda vakcīna
+1266,,
+1267,,
+1268,SPIKEVAX JN.1 50 µg,"Covid 19 mRNS vakcīna, apakšvariants Omicron JN.1, 50 mikrogramu deva"
+1269,"SPIKEVAX JN.1 0,1 mg/mL dose 25 µg","Omicron JN.1 subvarianta kovid 19 mRNS vakcīna, 25 mikrogrami vienā devā, daudzdevu flakons"
+1270,"SPIKEVAX JN.1 0,1 mg/mL dose 50 µg","Omicron JN.1 subvarianta kovid 19 mRNS vakcīna, 50 mikrogrami vienā devā, daudzdevu flakons"
+1271,TYT BIOMED,Injicējamā suspensijas vakcīna pret vēdertīfu un stingumkrampjiem
+1272,PSEUDOVAC,Polivalenta vakcīna pret baktēriju Pseudomonas aeruginosa
+1273,DT BIOMED,"Bērnu difterijas vakcīna (toksoīds, standarta deva) un stingumkrampju vakcīna (toksoīds), adsorbēta suspensija injekcijām"
+1274,d BIOMED,"Difterijas vakcīna (toksoīda, samazinātā deva)"
+1275,,Difterijas toksoīda (standarta deva) pediatriskā vakcīna
+1276,DTP BIOMED,"Difterijas toksoīda (standarta deva), stingumkrampju toksoīda un pilnšūnu inaktivēta garo klepusakcīnas pediatriskā vakcīna"
+1277,"Vakcīna pret čikungunju, neprecizēta","Vakcīna pret čikungunju, neprecizēta"
+1278,WALRINVAX,Bivalentā rekombinantā cilvēka papilomas vīrusa vakcīna (16. un 18. tips) (Pichia pastoris)
+1279,,
+1280,,
+1281,,
+1282,,
+1283,,
+1284,,
+1285,,
+1286,,
+1287,,
+1288,,
+1289,,
+1290,,
+1291,,
+1292,,
+1293,,
+1294,BIO-TD,
+1295,,
+1296,,
+1297,,
+1298,BETT,
+1299,BEVAC 10 µg,"Rekombinantā B hepatīta vakcīna, pediatriskā deva"
+1300,BEVAC 20 µg,
+1301,BE Td,
+1302,COMBE FIVE,
+1303,,
+1304,,
+1305,,
+1306,,"Tīfa vakcīna, Vi antigēns, konjugēts ar CRM197 proteīnu"
+1307,JEEV 6 µg,
+1308,,
+1309,NOVEL ORAL (nOPV) TYPE 2 BIOLOGICAL E. LTD,
+1310,SII TD-VAC,
+1311,,
+1312,,
+1313,,
+1314,,
+1315,,
+1316,RUBELLA SII,
+1317,,
+1318,"DIPHTHERIA, TETANUS, PERTUSSIS AND HEPATITIS B SII",
+1319,"DIPHTHERIA, TETANUS, PERTUSSIS AND HAEMOPHILUS INFLUENZAE B SII",
+1320,"DIPHTHERIA, TETANUS, PERTUSSIS, HEPATITIS B AND HAEMOPHILUS INFLUENZAE B SII",
+1321,,
+1322,,
+1323,,
+1324,,
+1325,,
+1326,,
+1327,,
+1328,,
+1329,,
+1330,,
+1331,,
+1332,,
+1333,,
+1334,,
+1335,INCELLIPAN,
+1336,KOSTAIVE,
+1337,CONVACELL,
+1338,ZOONOTIC,
+1339,BIMERVAX XBB.1.16,
+1340,"SPIKEVAX BA.1 0,1 mg/mL dose 50 µg",
+1341,"SPIKEVAX BA.4-5 0,1 mg/mL dose 50 µg",
+1342,IPVAX,
+1343,BORYUNG CELL CULTURE-DERIVED JAPANESE ENCEPHALITIS VACCINE,
+1344,BORYUNG JAPANESE ENCEPHALITIS VACCINE,
+1345,ZEROTYPH,
+1346,FLU QUADRIVALENT MCV,
+1347,EFLUELDA,"Sezonas gripas vakcīna, trivalentā inaktivētā, iegūta no olu kultūras, ar sadalītiem vīrusdaļiņām, augstas devas"
+1348,TETANA,
+1349,TY BIOMED,
+1350,T SIS BIOMED,
+1351,TETANA PRO,
+1352,TERATECT,
+1353,IL-YANG FLU VACCINE,
+1354,EUFORVAC,
+1355,EUPENTA,
+1356,EUVAX B 10 µg,
+1357,EUPOLIO,
+1358,SKYCELLFLU QUADRIVALENT,
+1359,SKYCELLFLU TRIVALENT,
+1360,HEPAMUNE B 10 µg,
+1361,HEPAMUNE B 20 µg,
+1362,SK TD,
+1363,HEPAVAX-GENE B 10 µg,
+1364,BIOHIB,
+1365,COMVAC5,
+1366,HILLCHOL,
+1367,HNVAC,"A(H1N1)pdm09 gripas pandēmijas vakcīna, inaktivēta, iegūta no olu kultūras"
+1368,INCOVACC,
+1369,INDIRAB,
+1370,JENVAC,
+1371,REVAC-B MCF,
+1372,ROTAVAC,
+1373,ROTAVAC 5D,
+1374,TYPBAR-TCV,
+1375,TWINRAB,
+1376,ZYCOV-D,
+1377,VAXIFLU-4,
+1378,VACTYPH,
+1379,ZYVAC MMR,
+1380,ZYVAC TCV,
+1381,MEASLES AND RUBELLA VACCINE ZYDUS,
+1382,SKYTYPHOID,
+1383,CYVAC,
+1384,BARYCELA,
+1385,GC FLU QUADRIVALENT,
+1386,GCFLU,
+1387,SINSAVAC,
+1388,BIVAC POLIO,
+1389,INLIVE,
+1390,HEALIVE,
+1391,BILIVE,
+1392,23-VALENT SINOVAC,
+1393,PROVARIX,
+1394,POLIO SINOVAC VACCINE,
+1395,MUMPS SINOVAC VACCINE,
+1396,ANFLU,
+1397,PANFLU,
+1398,PANFLU.1,"A(H1N1)pdm09 gripas pandēmijas vakcīna, inaktivēta, iegūta no olu kultūras"
+1399,TERTRANFLU,
+1400,SHANIPV,
+1401,9-VALENT HPV VACCINE INNOVAX,
+1402,EASYSIX,
+1403,EASYFIVE-TT,
+1404,EASYFOUR-TT,
+1405,EASYFOURPOL,
+1406,SPUTNIK V,
+1407,NOVOHIB,
+1408,ENIVACHB,
+1409,,
+1410,,
+1411,,
+1412,,
+1413,,
+1414,,
+1415,,
+1416,,
+1417,,
+1418,,
+1419,,
+1420,,
+1421,,
+1422,,
+1423,,
+1424,,
+1425,,
+1426,,
+1427,,
+1428,,
+1429,TETANEA,
+1430,,
+1431,,
+1432,,
+1433,,
+1434,,
+1435,,
+1436,,
+1437,,
+1438,,
+1439,,
+1440,,
+1441,"Gripas vakcīna, četrvalentā, inaktivēta, iegūta no olu kultūras, sadalīta vai subvienības, intradermāla ievadīšana, nav precizēts","Gripas vakcīna, četrvalentā, inaktivēta, iegūta no olu kultūras, sadalīta vai subvienības, intradermāla ievadīšana, nav precizēts"
+1442,,
+1443,,
+1444,,
+1445,,
+1446,,
+1447,VACCIN BCG SYNTHAVERSE,
+1448,BCG VACCINE MERCK,
+1449,DITANRIX-PEDIATRIC,
+1450,HEPACARE,
+1451,CHIROFLU,
+1452,SCI-B-VAC,
+1453,INVIVAC,
+1454,PRIMAVAX,
+1455,MENGIVAC A + C,
+1456,WYVAC,
+1457,TETRA-SOLGEN,
+1458,TRIDIPIGEN,
+1459,TRINFAGEN N0.1,
+1460,SOLGEN,
+1461,DIFTET,
+1462,PNU-IMUNE 14,
+1463,FREEZE-DRIED BCG VACCINE JAPAN,
+1464,FLUBRON VACCINE,"Vakcīna pret sezonas gripu ar inaktivētu pilnvērtīgu vīrusu, kas iegūta, kultivējot olās"
+1465,PERDIPIGEN,
+1466,COMIRNATY LP.8.1 30 µg,
+1467,COMIRNATY LP.8.1 3 µg,
+1468,COMIRNATY LP.8.1 10 µg,
+1469,mNEXSPIKE,
+1470,,
+1471,,
+1472,,
+1473,,
+1474,ENFLONSIA (clesrovimab),Antikorp monoklonali tal-RSV uman
+1475,,
+1476,,
+1477,ENCEPUR N CHILDREN,
+1478,SYNAGIS 50 mg (PALIZIVUMAB),
+1479,VACPERTAGEN,
+1480,PNEUMOVAX 23,"Pneimokoku polisaharīdu nekonjugētā vakcīna, 23-valenta, 1., 2., 3., 4., 5., 6B, 7F, 8., 9N, 9V, 10A, 11A, 12F, 14., 15B, 17F, 18C, 19A, 19F, 20., 22F, 23F un 33F serotips."
+1481,FLUVACCINOL,
+1482,IMMUNOGLOBULINE HUMAINE DE L'HÉPATITE B LFB,
+1483,ENCEPUR N,
+1484,HEPRECOMB CHILDREN,
+1485,GEN H-B-Vax 5,
+1486,GEN H-B-Vax 10,
+1487,PREVENAR-7,
+1488,POLIORIX,
+1489,CELTURA,"A(H1N1)pdm09 gripas pandēmijas vakcīna, inaktivēta, iegūta no olu kultūras"
+1490,ALMEVAX,
+1491,RUBEVAC,
+1492,POLYOMYELITIS IMPFSTOFF BERNA,
+1493,ACEL P,
+1494,DITEBOOSTER,
+1495,POLIO KOPROWSKI K1-K2-K3,
+1496,POLIO LILLY,
+1497,TD-VIRELON,
+1498,EPIVACCORONA-N,
+1499,SPUTNIK-M,
+1500,COMIRNATY LP.8.1 50 µg,
+1501,SPIKEVAX LP.8.1 25 µg,
+1502,BIMERVAX LP.8.1,
+1503,,
+1504,TD-PUR,
+1505,SCTV01C,
+1506,STROVAC,
+1507,BUTANTAN-DV,
+1508,BUTANTAN HEP A,
+1509,BUTANTAN HEP B,
+1510,BUTANTAN HPV,
+1511,BUTANTAN DT,
+1512,BUTANTAN DT ADULT,
+1513,BUTANTAN DTP,
+1514,BUTANTAN DTAP,
+1515,BUTANTAN RABIES,
+1516,BUTANTAN INFLUENZA,
+1517,AUJEMFLU,
+1518,MFLUSIVA,
+1519,COMIRNATY XFG 10 µg,
+1520,COMIRNATY XFG 30 µg,
+1521,,
+1522,,
+1523,KEYTRUDA,
+1524,,
+1525,NUVAXOVID XFG,
+1526,BIMERVAX XFG.1.1,
+1527,,
+1528,,
+1529,SPIKEVAX XFG 25 µg,
+1530,SPIKEVAX XFG 50 µg,
+1531,,
+1532,,
+1533,,
+1534,"Inaktivēta trivalentā sezonas gripas vakcīna, iegūta, kultivējot olās, ar fragmentētiem virioniem, bērniem paredzēta deva","Inaktivēta trivalentā sezonas gripas vakcīna, iegūta, kultivējot olās, ar fragmentētiem virioniem, bērniem paredzēta deva"
+1535,,
+1536,,
+1537,,
+1538,,
+1539,,
+1540,,
+1541,,
+1542,,
+1543,,
+1544,,
+1545,,
+1546,,
+1547,,
+1548,,
+1549,,
+1550,,
+1551,,
+1552,,
+1553,,
+1554,,
+1555,,
+1556,,
+1557,,
+1558,EUTYPH-C,"Tīfa vakcīna, Vi antigēns, konjugēts ar CRM197 proteīnu"
+1559,EUVICHOL,"Holeru vakcīna, perorāla, bivalenta, kas sastāv no inaktivētām Vibrio cholerae O1 (klasiskā un El Tor) un O139 pilnām šūnām"
+1560,RECOMBIVAX HB ADULT,"Rekombinantā B hepatīta vakcīna, pieaugušo deva"
+1561,HEPA-B INJECTION PEDIATRIC,"Rekombinantā vakcīna pret B hepatītu, deva bērniem"

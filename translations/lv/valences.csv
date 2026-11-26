@@ -1,0 +1,453 @@
+nuva_id,name
+1,"Trivalenta dzīva novājināta gripas valence, normāla deva"
+2,"Konjugētā vakcīna pret vēdertīfu, Vi polisaharīda antigēns, kas saistīts ar nesējbaltumu"
+3,"Garā klepus valence, bez precizējuma"
+4,"Visa inaktivēta holēras valence, injicējama"
+5,
+6,"Anti-Brucella valence, bez precizējuma"
+7,Rekombinants vezikulārā stomatīta vīrusa (rVSV) replikatīvais vektors Ebolas vakcīna - EBOV GP glikoproteīns
+8,"Bezšūnu garā klepus valence, standarta deva"
+9,Vakcīnas pret sporozoītu virsmas olbaltumvielām
+10,Inaktivētas visas garā klepus baktērijas valence
+11,"COVID-19 vakcīna, proteīna apakšvienība, rekombinantais smailes proteīns (RBD)"
+12,"Hepatīta B vakcīna, rekombinantā Hepatīta B vīrusa virsmas antigēns (HBsAg), 40 mikrogrami (dializējamo pacientu devas)"
+13,Varicella zoster vīrusa (VZV) virsmas glikoproteīns E (gE)
+14,"Vakcīna pret vēdertīfu, neprecizēta"
+15,
+16,"Trakumsērgas imūnglobulīns, neprecizēts"
+17,"Bezšūnu garā klepus valence, samazināta deva"
+18,"Trešās paaudzes vakcīna pret bakām, minimāli replicējošs dzīvs vakcinācijas vīruss"
+19,Difterijas antitoksīns
+20,
+21,Perorāla inaktivēta vesela holēras vakcīna
+22,
+23,
+24,
+25,"Vakcīna pret malāriju, neprecizēta"
+26,"Meningokoku vakcīna B:14:P1.7,16 ar ārējās membrānas vezikulu olbaltumvielām"
+27,"COVID-19 vakcīna, neatjaunojošs adenovīrusa 26 vektors, kas kodē SARS-CoV-2 smailes proteīnu."
+28,
+29,"Sezonas gripas VLP vakcīna, neprecizēta"
+30,Vakcīna pret Borrelia burgdorferi - ārējās virsmas proteīns A (OspA)
+31,Ērču encefalīts
+32,"Tifusa polisaharīdu vakcīna, nekonjugēta Vi polisaharīdu antigēns"
+33,Monovalentā dzīvā novājinātā 2. tipa perorālā poliomielīta vakcīna
+34,"Difterijas toksoīds, neliela deva"
+35,"COVID-19 vakcīna, plazmīdu DNS, kas kodē SARS-CoV-2 smailes proteīnu"
+36,"Cilvēka papilomas vīrusa VLP neavalentā vakcīna, 6., 11., 16., 18., 31., 33., 45., 52., 58. tips"
+37,Meningokoka A nekonjugēta polisaharīda vakcīna
+38,"COVID-19 vakcīna, replicējošs masalu vīrusa vektors, kas kodē SARS-CoV-2 smailes proteīnu"
+39,"COVID-19 vakcīna, VLP, rekombinants smailes proteīns"
+40,
+41,Meningokoka A polisaharīdu konjugētā vakcīna
+42,"Poliomielīta vakcīna, neprecizēta"
+43,SARS-CoV-2 smaila proteīna mRNS 19 vakcīna
+44,Varicella
+45,Inaktivēta visa paratifa vakcīna
+46,Tifuss
+47,Hepatīta B imūnglobulīns
+48,Inaktivēta vesela vakcīna pret parotītu
+49,"Polisaharīdu Haemophilus influenzae b tipa valence, nekonjugēta"
+50,"COVID-19 vakcīna, neatjaunojošs adenovīrusa 5 vektors, kas kodē SARS-CoV-2 smailes proteīnu, neprecizēts"
+51,Pirmspandēmiskā vakcīna pret A(H5N1) gripu
+52,"Cilvēka papilomas vīrusa VLP četrvalenta vakcīna, 6., 11., 16. un 18. tips"
+53,"COVID-19 vakcīna, proteīna apakšvienība, rekombinantais smailes proteīns, neprecizēts"
+54,"COVID-19 vakcīna, neatjaunojošs modificēts Vaccinia Virus Ankara vektors, kas kodē SARS-CoV-2 smailes proteīnu."
+55,Masalu imūnglobulīns
+56,Visa inaktivēta trivalenta poliomielīta vakcīna injekcijām
+57,Meningokoka C polisaharīdu konjugāta vakcīna
+58,"Inaktivēta gripas valence, frakcionēta vai apakšvienība, bez precizējuma"
+59,"Četrvalenta dzīva novājināta gripas valence, normāla deva"
+60,
+61,"COVID-19 vakcīna, proteīna apakšvienība, rekombinants smailes proteīns, S-2P un CpG1018"
+62,
+63,Botulīna antitoksīns
+64,
+65,Dzīva novājināta rekombinētā himēriskā tetravalentā denges vakcīna
+66,"Pretcovid 19 replicatīvā vīrusa vektora vakcīna, gripas vīruss, kas kodē SARS-CoV-2 maksimālo proteīnu"
+67,Stingumkrampju toksoīds
+68,"B hepatīta valence, bez precizējuma"
+69,"COVID-19 vakcīna, neatjaunojošs šimpanzes adenovīrusu vektors ChAdOx1, kas kodē SARS-CoV-2 smailes proteīnu"
+70,"COVID-19 vakcīna, neatjaunojošs adenovīrusu vektors, kas kodē SARS-CoV-2 smailes proteīnu, neprecizēts"
+71,Inaktivēta visa vakcīna pret vēdertīfu
+72,"Meningokoka B vakcīna, kas satur A un B apakšģimenes fHbp"
+73,"COVID-19 vakcīna, replicējošs vīrusa vektors, ar antigēnu prezentējošām šūnām"
+74,
+75,Inaktivēta visa vakcīna pret Leptospira icterohaemorrhagiae
+76,"COVID-19 vakcīna, inaktivēta ar veselu vīrionu, neprecizēta"
+77,
+78,Meningokoka Y polisaharīdu konjugāta vakcīna
+79,
+80,"Visa viriona inaktivēta trakumsērgas vakcīna, neprecizēta"
+81,"Holēras valence, bez precizējuma"
+82,"Vakcīna pret cilvēka papilomas vīrusu, veidi nav norādīti"
+83,"Difterijas toksoīds, deva nav precizēta"
+84,"COVID-19 vakcīna, replicējošs vezikulārā stomatīta vīrusa vektors, kas kodē SARS-CoV-2 smailes proteīnu"
+85,Monovalentā dzīvā novājinātā 3. tipa perorālā poliomielīta vakcīna
+86,"COVID-19 vakcīna, dzīvā novājinātā, neprecizēta"
+87,"Denges valence, dzīva novājināta tetravalenta himēriskā rekombinantā, balstīta uz dzeltenā drudža 17D vakcīnu"
+88,Varicella imūnglobulīns
+89,"Inaktivēta valence pret Japānas encefalītu, bez precizējuma"
+90,"Hepatīta B vakcīna, rekombinantais hepatīta B vīrusa virsmas antigēns (HBsAg), deva nav precizēta."
+91,"Dzīva novājināta tīfa vakcīna, Ty21a celms, perorāla"
+92,Dzeltenais drudzis
+93,Inaktivēta vesela masalu vakcīna
+94,
+95,"COVID-19 vakcīna, replicējošs Ņūkāslas slimības vīrusa vektors, kas kodē SARS-CoV-2 smailes proteīnu"
+96,BCG valence
+97,"Difterijas toksoīds, standarta deva"
+98,4 komponentu meningokoka B vakcīna
+99,Inaktivēta pandēmiskās gripas H1N1 2009 valence
+100,
+101,"COVID-19 vakcīna, nereplikācijas Ņūkāslas slimības vīrusa vektors, kas kodē SARS-CoV-2 smailes proteīnu"
+102,Rekombinanta peptīdu E hepatīta valence
+103,"Konjugēta Haemophilus influenzae b tipa valence, bez precizējuma"
+104,"COVID-19 vakcīna, proteīna apakšvienība, rekombinants smailes proteīns"
+105,"Pneimokoku vakcīna, neprecizēta"
+106,"Rotavīrusa vakcīna, neprecizēta"
+107,"COVID-19 vakcīna, proteīna apakšvienība, rekombinantās smaiļveida proteīna nanodaļiņas"
+108,Dzīva nereplicējoša rekombinantā vīrusu vektora vakcīna Ad26.ZEBOV
+109,"Valence pret ebolu ar nereplicējošu vīrusa vektoru, modificētā Ankaras vakcīna"
+110,Stingumkrampju imūnglobulīns
+111,Acelulārā Sibīrijas mēra vakcīna
+112,"Četrvalenta inaktivēta gripas valence, iegūta no šūnu kultūras, frakcionēta vai apakšvienība, normāla deva"
+113,"Cilvēka papilomas vīrusa VLP divvērtīgā vakcīna, 16. un 18. tips"
+114,"Hepatīta B vakcīna, rekombinantais hepatīta B virsmas antigēns (HBsAg), 10 mikrogrami"
+115,"Hepatīta B vakcīna, rekombinants hepatīta B vīrusa virsmas antigēns (HBsAg), 20 mikrogrami"
+116,"Monoklonālā antiviela pret RSV, palivizumab"
+117,"Acelulārā garo klepus klepus vakcīna, deva nav norādīta"
+118,"Meningokoka B tipa vakcīna, neprecizēta"
+119,
+120,"Meningokoka nekonjugēts polisaharīds, polivalents"
+121,Perorāla trivalenta inaktivēta poliomielīta vakcīna
+122,
+123,
+124,"Dzīva novājināta holēras valence, bez precizējuma"
+125,"Visa inaktivēta A hepatīta valence, bez precizējuma"
+126,"Valence pret ebolu, bez precizējuma"
+127,
+128,"Gripas valence, bez precizējuma"
+129,"Herpes simplex valence, bez precizējuma"
+130,A hepatīta virosomu valence
+131,Visa inaktivētā mēra vakcīna
+132,Monovalentā dzīvā novājinātā 1. tipa perorālā poliomielīta vakcīna
+133,"Dzīva novājināta monovalentā perorālā poliomielīta vakcīna, neprecizēts tips"
+134,
+135,
+136,"Meningokoka W vakcīna, polisaharīda konjugāts"
+137,Meningokoka C nekonjugēta polisaharīda vakcīna
+138,Meningokoka W nekonjugēta polisaharīda vakcīna
+139,Meningokoka Y nekonjugēta polisaharīda vakcīna
+140,
+141,RIX4414 monovalentā rotavīrusa vakcīna
+142,"Visa inaktivēta A hepatīta valence, monovalenta, pediatriskā deva"
+143,"Visa inaktivēta A hepatīta valence, bivalenta (A un B hepatīts), pediatriskā deva"
+144,"Visa inaktivēta A hepatīta valence, monovalenta, pieaugušo deva"
+145,"Visa inaktivēta A hepatīta valence, bivalenta (A un B hepatīts), pieaugušo deva"
+146,Valence pret visu inaktivēto Brucella
+147,Valence ar proteīna antigēnu P.I. (fenolā nešķīstošs) pret brucelozi
+148,Elpošanas ceļu sincitiālā vīrusa monoklonālā antiviela
+149,"COVID-19 vakcīna, mRNS, kas kodē SARS-CoV-2 smailes proteīnu, 25 mikrogrami"
+150,"Valence pret denges drudzi, bez precizējuma"
+151,"Tularēmijas vakcīna, neprecizēta"
+152,
+153,"Haemophilus influenzae b tipa polisaharīda PRP vakcīna, konjugēta ar difterijas toksoīdu"
+154,"Haemophilus influenzae b tipa valence, PRP oligosaharīdi konjugēti ar mutantu difterijas toksīnu CRM197"
+155,"Haemophilus influenzae b tipa vakcīna, polisaharīda konjugēta ar Neisseria meningitidis B serogrupas ārējās membrānas proteīnu."
+156,"PRP-T Haemophilus influenzae b tipa vakcīna, polisaharīda PRP, konjugēta ar stingumkrampju toksoīdu"
+157,"COVID-19 vakcīna, neprecizēta"
+158,Hepatīta B plazmas vakcīna
+159,"Vakcīna pret šinšļiem, apakšvienība, neprecizēta"
+160,"Vakcīna pret šinšļiem, neprecizēta"
+161,"Meningokoka B daudzkomponentu vakcīna, neprecizēta"
+162,"COVID-19 vakcīna, replicējošs vīrusa vektors, neprecizēts"
+163,"COVID-19 vakcīna, neatjaunojošs vīrusu vektors, neprecizēts"
+164,"COVID-19 vakcīna, nedzīva, neprecizēta"
+165,"COVID-19 vakcīna, dzīva, neprecizēta"
+166,
+167,"COVID-19 vakcīna, neatjaunojošs vīrusa vektors, ar antigēnu prezentējošām šūnām"
+168,"RNS vakcīna pret kovīdiem 19, neprecizēta"
+169,Pašpastiprinoša mRNA (AAA) vakcīna vakcīnai 19
+170,"Hepatīta B vakcīna, rekombinantais hepatīta B vīrusa virsmas antigēns (HBsAg), 5 mikrogrami."
+171,"Venecuēlas zirgu encefalīta vakcīna, neprecizēta"
+172,"Valence pret Q drudzi (Coxiella burnetii), bez precizējuma"
+173,
+174,"Hantavīrusu valence, bez precizējuma"
+175,"Vakcīna pret leišmaniozi, neprecizēta"
+176,"Vakcīna pret cilvēka paragripas vīrusiem, neprecizēta"
+177,"Haemophilus influenzae b tipa valence, bez precizējuma"
+178,"COVID-19 vaccine, mRNA coding for SARS-CoV-2 spike protein, Omicron variant BA.1, 25 micrograms"
+179,
+180,"COVID-19 vakcīna, mRNS, kas kodē SARS-CoV-2 smailes proteīnu, 100 mikrogrami"
+181,"COVID-19 vakcīna, mRNS, kas kodē SARS-CoV-2 smailes proteīnu, oriģinālais SARS-CoV-2 vīruss, 25 mikrogrami."
+182,"Vakcīna pret masalām, neprecizēta"
+183,"Vakcīna pret cūciņām, neprecizēta"
+184,"Pneimokoku polisaharīdu konjugētā vakcīna, monovalentā vakcīna"
+185,"Pneimokoku polisaharīdu nekonjugēta vakcīna, neprecizēta"
+186,"Pneimokoku polisaharīdu konjugētā vakcīna, 1. serotips"
+187,"Pneimokoku polisaharīdu konjugētā vakcīna, 3. serotips"
+188,"Pneimokoku polisaharīdu konjugētā vakcīna, 4. serotips"
+189,"Pneimokoku polisaharīdu konjugētā vakcīna, 5. serotips"
+190,"Pneimokoku polisaharīdu konjugētā vakcīna, 6A serotips"
+191,"Pneimokoku polisaharīdu konjugētā vakcīna, 6B serotips"
+192,"Pneimokoku polisaharīdu konjugētā vakcīna, 7F serotips"
+193,"Pneimokoku polisaharīdu konjugētā vakcīna, 8. serotips"
+194,"Pneimokoku polisaharīdu konjugētā vakcīna, 9V serotips"
+195,"Pneimokoku polisaharīdu konjugētā vakcīna, 10A serotips"
+196,"Pneimokoku polisaharīdu konjugētā vakcīna, 11A serotips"
+197,"Pneimokoku polisaharīdu konjugētā vakcīna, serotips 12F"
+198,"Pneimokoku polisaharīdu konjugētā vakcīna, 14. serotips"
+199,"Pneimokoku polisaharīdu konjugētā vakcīna, serotips 15B"
+200,"Pneimokoku polisaharīdu konjugētā vakcīna, 18C serotips"
+201,"Pneimokoku polisaharīdu konjugētā vakcīna, 19A serotips"
+202,"Pneimokoku polisaharīdu konjugētā vakcīna, 19F serotips"
+203,"Pneimokoku polisaharīdu konjugētā vakcīna, 22F serotips"
+204,"Pneimokoku polisaharīdu konjugētā vakcīna, serotips 23F"
+205,"Pneimokoku polisaharīdu konjugētā vakcīna, serotips 33F"
+206,"Pneimokoku polisaharīdu nekonjugētā vakcīna, 1. serotips"
+207,"Pneimokoku polisaharīdu nekonjugētā vakcīna, 2. serotips"
+208,"Pneimokoku polisaharīdu nekonjugētā vakcīna, 3. serotips"
+209,"Pneimokoku polisaharīdu nekonjugētā vakcīna, 4. serotips"
+210,"Pneimokoku polisaharīdu nekonjugētā vakcīna, 5. serotips"
+211,"Pneimokoku polisaharīdu nekonjugētā vakcīna, serotips 6B"
+212,"Pneimokoku polisaharīdu nekonjugētā vakcīna, serotips 7F"
+213,"Pneimokoku polisaharīdu nekonjugētā vakcīna, 8. serotips"
+214,"Pneimokoku polisaharīdu nekonjugētā vakcīna, serotips 9N"
+215,"Pneimokoku polisaharīdu nekonjugētā vakcīna, 9V serotips"
+216,"Pneimokoku polisaharīdu nekonjugēta vakcīna, 10A serotips"
+217,"Pneimokoku polisaharīdu nekonjugētā vakcīna, serotips 11A"
+218,"Pneimokoku polisaharīdu nekonjugētā vakcīna, serotips 12F"
+219,"Pneimokoku polisaharīdu nekonjugētā vakcīna, 14. serotips"
+220,"Pneimokoku polisaharīdu nekonjugētā vakcīna, 15B serotips"
+221,"Pneimokoku polisaharīdu nekonjugētā vakcīna, serotips 15F"
+222,"Pneimokoku polisaharīdu nekonjugētā vakcīna, serotips 17F"
+223,"Pneimokoku polisaharīdu nekonjugēta vakcīna, 18C serotips"
+224,"Pneimokoku polisaharīdu nekonjugētā vakcīna, 19A serotips"
+225,"Pneimokoku polikonjugētā nekonjugētā vakcīna, 19F serotips"
+226,"Pneimokoku polisaharīdu nekonjugētā vakcīna, 20. serotips"
+227,"Pneimokoku polisaharīdu nekonjugētā vakcīna, 22F serotips"
+228,"Pneimokoku polisaharīdu nekonjugēta vakcīna, serotips 23F"
+229,"Pneimokoku polisaharīdu nekonjugētā vakcīna, serotips 33F"
+230,"Četrvalenta inaktivēta gripas valence, frakcionēta vai apakšvienība, bez precizējuma"
+231,
+232,"Pneimokoku polisaharīdu nekonjugētā vakcīna, 6A serotips"
+233,"Pneimokoku polisaharīdu nekonjugētā vakcīna, 25. serotips"
+234,"Meningokoka vakcīna, neprecizēta"
+235,"Meningokoku konjugētā polisaharīdu polisaharīdu vakcīna, polivalenta"
+236,"Cilvēka papilomas vīrusa VLP vakcīna, monovalenta"
+237,"Cilvēka papilomas vīrusa VLP vakcīna, polivalenta"
+238,"Cilvēka papilomas vīrusa VLP vakcīna, 6. tips"
+239,"Cilvēka papilomas vīrusa VLP vakcīna, 11. tips"
+240,16. tipa cilvēka papilomas vīrusa VLP vakcīna
+241,"Cilvēka papilomas vīrusa VLP vakcīna, 18. tips"
+242,31. tipa cilvēka papilomas vīrusa VLP vakcīna
+243,33. tipa cilvēka papilomas vīrusa VLP vakcīna
+244,"Cilvēka papilomas vīrusa VLP vakcīna, 58. tips"
+245,52. tipa cilvēka papilomas vīrusa VLP vakcīna
+246,45. tipa cilvēka papilomas vīrusa VLP vakcīna
+247,
+248,
+249,"Valence pret Japānas encefalītu, bez precizējuma"
+250,"Valence pret Japānas encefalītu, visa inaktivēta, sagatavota uz peļu smadzeņu audiem"
+251,"Japānas encefalīta valence, inaktivēta, iegūta no Vero šūnām"
+252,cilvēka izcelsmes imūnglobulīns pret trakumsērgu
+253,"Trakumsērgas imūnglobulīns, zirgu izcelsmes"
+254,"Visa vīriona inaktivēta trakumsērgas vakcīna, Semple tipa, sagatavota no kazas vai aitas smadzeņu audiem, kas inficēti ar trakumsērgas vīrusu, satur mielīnu"
+255,"Fuenzalida tipa vakcīna pret trakumsērgu, sagatavota no zīdītājpeļu smadzeņu audiem, kas inficēti ar trakumsērgas vīrusu, ar samazinātu mielīna saturu."
+256,"Visa vīriona inaktivēta trakumsērgas vakcīna, sagatavota no dzīvnieku smadzeņu audiem, kas inficēti ar trakumsērgas vīrusu, neprecizēta"
+257,"Visa viriona inaktivēta trakumsērgas vakcīna, uz šūnu kultūru bāzes, nespecificēta"
+258,"Visa viriona inaktivēta trakumsērgas vakcīna, šūnu kultūras, cilvēka diploīdo šūnu vakcīna (HDCV) MRC-5, inaktivācija ar ß-propiolaktonu"
+259,"Visa vīriona inaktivēta trakumsērgas vakcīna, attīrīta cāļu embriju šūnu vakcīna (PCECV), iegūta, audzējot fiksētu trakumsērgas vīrusa celmu Flury LEP-25 primārajās cāļu fibroblastu kultūrās, vīruss inaktivēts ar ß-propiolaktonu"
+260,"Visa viriona trakumsērgas inaktivēta vakcīna, šūnu kultūras, attīrīta Vero šūnu trakumsērgas vakcīna (PVRV), Wistar celms, inaktivācija ar ß-propiolaktonu"
+261,"Visa viriona inaktivēta trakumsērgas vakcīna, uz šūnu kultūru bāzes, primārā kāmja nieru šūnu vakcīna (PHKCV), Pekinas celms, inaktivācija ar formalīnu"
+262,"Visa viriona inaktivēta trakumsērgas vakcīna, embrionētu olu bāzes vakcīna (EEV), neprecizēta"
+263,"Visa viriona inaktivēta trakumsērgas vakcīna, attīrīta pīļu embriju vakcīna (PDEV), inaktivācija ar ß-propiolaktonu"
+264,"COVID-19 vakcīna, inaktivēta ar veselu virionu"
+265,"COVID-19 vakcīna, inaktivēta ar veselu virionu, klīniskajos pētījumos"
+266,"Meningokoka C vakcīna, tetanusa toksoīda konjugāta vakcīna"
+267,"Meningokoka C polisaharīda vakcīna, konjugēta ar difterijas toksoīdu"
+268,"Meningokoka C polisaharīda vakcīna, konjugēta ar CRM197"
+269,"Meningokoka A polisaharīda vakcīna, konjugēta ar CRM197"
+270,"Meningokoka A vakcīna, polisaharīda, konjugēta ar difterijas toksoīdu"
+271,"Meningokoka A polisaharīda vakcīna, konjugēta ar stingumkrampju toksoīdu"
+272,"Meningokoka W vakcīna, tetanusa toksoīda konjugāts"
+273,"Meningokoka W vakcīna, polisaharīda, konjugēta ar difterijas toksoīdu"
+274,"Meningokoka W vakcīna, polisaharīda konjugēta ar CRM197"
+275,"Meningokoka valence Y, poliosīds, konjugēts ar proteīnu CRM197"
+276,"Vaccin méningococcique W, polysaccharide conjugué au CRM197"
+277,"Meningokoka Y vakcīna, polisaharīda, konjugēta ar difterijas toksoīdu"
+278,
+279,
+280,Botulīna toksoīds
+281,
+282,
+283,"Visa inaktivēta A hepatīta valence, pediatriskā deva, bez precizējuma"
+284,"Visa inaktivēta A hepatīta valence, pieaugušo deva, bez precizējuma"
+285,"Trivalenta inaktivēta gripas valence, iegūta no šūnu kultūras, frakcionēta vai apakšvienība, normāla deva"
+286,
+287,Četrvalenta rekombinanta gripas valence
+288,"A hepatīta valence, bez precizējuma"
+289,"COVID-19 vakcīna, mRNS, kas kodē SARS-CoV-2 smailes proteīnu, 10 mikrogrami"
+290,"COVID-19 vakcīna, mRNS, kas kodē SARS-CoV-2 smailes proteīnu, 30 mikrogrami"
+291,"Rekombinanta B hepatīta valence, trīs antigēni (HbS, pre-S1 un pre-S2)"
+292,"COVID-19 vakcīna, neatjaunojošs adenovīrusa 26 vektors, kas kodē SARS-CoV-2 smailes proteīnu, klīniskos izmēģinājumos"
+293,Sibīrijas mēra imūnglobulīns
+294,"Dzīvs vakcinācijas vīruss, pirmās paaudzes vakcīna"
+295,
+296,"Modificēta vakcīna Ankara, neatkārtojama, trešās paaudzes vakcīna"
+297,"Meningokoka A vakcīna, neprecizēta"
+298,"Meningokoka C vakcīna, neprecizēta"
+299,"Meningokoka Y vakcīna, neprecizēta"
+300,"Meningokoka W vakcīna, neprecizēta"
+301,Rekombinantā trivalentā gripas vakcīna
+302,"COVID-19 vakcīna, mRNS, kas kodē SARS-CoV-2 smailes proteīnu, 50 mikrogrami, 50 mikrogrami."
+303,"Anti-covid 19 mRNS vakcīna, kas kodē sākotnējā vīrusa SARS-CoV-2 smailes proteīnu"
+304,"SARS-CoV-2 smaila proteīna mRNS 19 vakcīna, oriģinālais vīruss, 15 mikrogrami"
+305,"SARS-CoV-2 maksimālā proteīna mRNS 19 vakcīna, Omicron BA.1 variants, 15 mikrogrami"
+306,"SARS-CoV-2 maksimālā proteīna mRNS 19 vakcīna, oriģinālais vīruss, 3 mikrogrami"
+307,"SARS-CoV-2 maksimālā proteīna mRNS 19 vakcīna, Omicron BA.4/BA.5 variants, 15 mikrogrami"
+308,"SARS-CoV-2 smaiļveida proteīna mRNS 19 vakcīna, Omicron BA.4/BA.5 variants, 25 mikrogrami"
+309,"SARS-CoV-2 maksimālā proteīna mRNS 19 vakcīna, Omicron BA.4/BA.5 variants, 5 mikrogrami"
+310,"Covid-19 vakcīna, mRNS, kas kodē SARS-CoV-2 smaile proteīnu, oriģināls vīruss, 5 mikrogrami"
+311,
+312,
+313,
+314,
+315,
+316,
+317,
+318,
+319,
+320,
+321,
+322,
+323,
+324,
+325,
+326,
+327,
+328,
+329,
+330,
+331,CMV immune globulin
+332,"C hepatīta valence, bez precizējuma"
+333,
+334,
+335,
+336,"Rifta ielejas drudža valence, bez precizējuma"
+337,
+338,
+339,
+340,"Valence pret Sibīrijas mēri, bez precizējuma"
+341,"Valence pret Escherichia coli, bez precizējuma"
+342,
+343,"Valence pret Enterococcus faecalis, bez precizējuma"
+344,
+345,
+346,
+347,
+348,
+349,
+350,
+351,
+352,
+353,
+354,
+355,
+356,
+357,
+358,
+359,"Inaktivēta visa holēras valence, bez precizējuma"
+360,"Inaktivēta gripas valence, iegūta no šūnu kultūras, frakcionēta vai apakšvienība, normāla deva, bez precizējuma"
+361,"Rekombinanta gripas valence, bez precizējuma"
+362,
+363,
+364,"Nedzīva gripas valence, bez precizējuma"
+365,"Nedzīva gripas valence, iegūta no olu kultūras, bez precizējuma"
+366,"RNS bāzes gripas valence, bez precizējuma"
+367,
+368,
+369,
+370,
+371,
+372,
+373,
+374,
+375,
+376,
+377,
+378,
+379,
+380,
+381,
+382,
+383,Single-stranded 5' capped mRNA encoding the Respiratory syncytial virus glycoprotein F stabilized in the prefusion conformation
+384,
+385,
+386,
+387,
+388,
+389,"Valence pret Pseudomonas aeruginosa, 7 imunotipi"
+390,"Čikungunja valence, neprecizēta"
+391,Chikungunya VLP valence
+392,
+393,
+394,
+395,
+396,
+397,
+398,
+399,
+400,
+401,
+402,
+403,
+404,
+405,
+406,
+407,
+408,
+409,
+410,
+411,
+412,
+413,
+414,
+415,
+416,
+417,
+418,
+419,
+420,
+421,
+422,
+423,
+424,
+425,
+426,
+427,
+428,
+429,
+430,
+431,
+432,
+433,
+434,
+435,
+436,
+437,
+438,
+439,
+440,
+441,
+442,
+443,
+444,
+445,
+446,
+447,
+448,
+449,
+450,
+451,"Poliomielīta vakcīna, dzīva vājināta, jaunās paaudzes, perorāla, monovalenta, sīkāka informācija nav sniegta"
+452,"Valence poliomielīts, dzīva vājināta vakcīna, jaunās paaudzes, perorāla, monovalenta, 2. tips"

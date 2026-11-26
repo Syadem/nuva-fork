@@ -1,0 +1,33 @@
+nuva_id,name
+1,Antigēni
+2,Dzīvās vakcīnas
+3,Dzīva novājināta patogēna vakcīnas
+4,Dzīvās novājinātās baktēriju vakcīnas
+5,Dzīvās novājinātās vīrusu vakcīnas
+6,Dzīvās rekombinantā vīrusu vektora vakcīnas
+7,Replicējoša vīrusu vektora vakcīnas
+8,Nereplicējoša vīrusu vektora vakcīnas
+9,Nedzīvās vakcīnas
+10,Inaktivēta vesela patogēna vakcīnas
+11,Inaktivētas veselu šūnu baktēriju vakcīnas
+12,Inaktivētas veselu virionu vīrusu vakcīnas
+13,Šķelta vai sadalīta patogēna vakcīnas
+14,Šķeltu virionu vīrusu vakcīnas
+15,Citas sadalīta patogēna vakcīnas
+16,Subvienību vakcīnas
+17,Polisaharīdu vakcīnas
+18,Nekonjugētas polisaharīdu vakcīnas
+19,Konjugētas polisaharīdu vakcīnas
+20,Olbaltumvielu vakcīnas
+21,Toksoīdu vakcīnas
+22,Attīrītu dabisko olbaltumvielu vakcīnas
+23,Rekombinanto olbaltumvielu vakcīnas
+24,Vīrusiem līdzīgu daļiņu (VLP) vakcīnas
+25,Membrānas pūslīšu vakcīnas
+26,Ārējās membrānas pūslīšu (OMV) vakcīnas
+27,Nukleīnskābju vakcīnas
+28,DNS vakcīnas
+29,mRNS vakcīnas
+30,Konvencionālās mRNS vakcīnas
+31,Pašamplificējošās mRNS vakcīnas
+32,Antivielas

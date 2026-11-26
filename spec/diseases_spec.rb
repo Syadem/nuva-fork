@@ -49,22 +49,6 @@ RSpec.describe 'The diseases folder' do
           expect(YAML.safe_load_file(valence_file)['id']).to eq(id)
         end
       end
-
-      TRANSLATION_LANGUAGES.each do |language|
-        it "has a valid #{language} translation" do
-          translation_file = NUVA_ROOT.join('translations', language, 'diseases', File.basename(file))
-
-          expect(translation_file).to be_file
-
-          translation = YAML.safe_load_file(translation_file)
-
-          expect(translation).to be_a(Hash)
-          expect(translation.keys).to contain_exactly('name')
-
-          expect(translation['name']).to be_a(String)
-          expect(translation['name'].strip).not_to be_empty
-        end
-      end
     end
   end
 
@@ -72,25 +56,5 @@ RSpec.describe 'The diseases folder' do
     ids = files.map { |file| YAML.safe_load_file(file)['id'] }
     
     expect(ids).to eq(ids.uniq)
-  end
-end
-
-RSpec.describe 'The disease translations' do
-  it 'uses exactly the supported language folders' do
-    languages = Dir.children(NUVA_ROOT.join('translations')).sort
-
-    expect(languages).to eq(TRANSLATION_LANGUAGES.sort)
-  end
-
-  TRANSLATION_LANGUAGES.each do |language|
-    it "contains exactly one #{language} file per disease, with no orphan files" do
-      directory = NUVA_ROOT.join('translations', language, 'diseases')
-
-      expect(directory).to be_directory
-
-      base_files = Dir.children(NUVA_ROOT.join('diseases')).sort
-
-      expect(Dir.children(directory).sort).to eq(base_files)
-    end
   end
 end

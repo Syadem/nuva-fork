@@ -1,0 +1,33 @@
+nuva_id,name
+1,Antigènes
+2,Vaccins vivants
+3,Vaccins à pathogène vivant atténué
+4,Vaccins bactériens vivants atténués
+5,Vaccins viraux vivants atténués
+6,Vaccins vivants à vecteur viral recombinant
+7,Vaccins à vecteur viral réplicatif
+8,Vaccins à vecteur viral non réplicatif
+9,Vaccins non vivants
+10,Vaccins à pathogène entier inactivé
+11,Vaccins bactériens à germe entier inactivé
+12,Vaccins viraux à virion entier inactivé
+13,Vaccins à pathogène fragmenté ou désagrégé
+14,Vaccins viraux à virion fragmenté
+15,Autres vaccins à pathogène désagrégé
+16,Vaccins sous-unitaires
+17,Vaccins polyosidiques
+18,Vaccins polyosidiques non conjugués
+19,Vaccins polyosidiques conjugués
+20,Vaccins protéiques
+21,Vaccins à anatoxine
+22,Vaccins à protéine native purifiée
+23,Vaccins à protéine recombinante
+24,Vaccins à pseudo-particules virales (VLP)
+25,Vaccins à base de vésicules membranaires
+26,Vaccins à vésicules de membrane externe (OMV)
+27,Vaccins à acides nucléiques
+28,Vaccins à ADN
+29,Vaccins à ARNm
+30,Vaccins à ARNm conventionnel
+31,Vaccins à ARNm auto-amplifiant
+32,Anticorps

@@ -1,0 +1,453 @@
+nuva_id,name
+1,"Trivalente lebend-attenuierte Influenza-Valenz, normale Dosis"
+2,"Konjugierter Typhus-Impfstoff, Vi-Polysaccharid-Antigen, gebunden an ein Trägerprotein"
+3,"Pertussis-Valenz, ohne Spezifikation"
+4,"Ganze inaktivierte Cholera-Valenz, injizierbar"
+5,
+6,"Anti-Brucella-Valenz, ohne Spezifikation"
+7,Replikativer Vektor-Ebola-Impfstoff rekombinantes vesikuläres Stomatitisvirus (rVSV) - Glykoprotein GP von EBOV
+8,"Azelluläre Pertussis-Valenz, Standarddosis"
+9,Impfstoffe mit Sporozoiten-Oberflächenprotein
+10,Valenz gegen ganze inaktivierte Pertussis
+11,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein (RBD)"
+12,"Hepatitis-B-Impfstoff, rekombinantes Hepatitis-B-Virus-Oberflächenantigen (HBsAg), 40 Mikrogramm (Dosierung für Dialysepatienten)"
+13,Glykoprotein E (gE) auf der Oberfläche des Varizella-Zoster-Virus (VZV)
+14,"Typhusimpfstoff, nicht spezifiziert"
+15,
+16,"Tollwut-Immunglobulin, nicht spezifiziert"
+17,"Azelluläre Pertussis-Valenz, reduzierte Dosis"
+18,"Pockenimpfstoff der dritten Generation, minimal replizierendes Lebendvacciniavirus"
+19,Diphtherie-Antitoxin
+20,
+21,Inaktivierter ganzer oraler Cholera-Impfstoff
+22,
+23,
+24,
+25,"Malaria-Impfstoff, nicht spezifiziert"
+26,"Meningokokken-Impfstoff B:14:P1.7,16 mit Vesikelproteinen der äußeren Membran"
+27,"COVID-19-Impfstoff, nicht-replizierender Adenovirus-26-Vektor, der für das SARS-CoV-2-Spike-Protein kodiert"
+28,
+29,"VLP-Impfstoff gegen saisonale Grippe, nicht spezifiziert"
+30,Rekombinanter Impfstoff gegen Borrelia burgdorferi - Protein der äußeren Oberfläche A (OspA)
+31,Zeckenenzephalitis
+32,"Typhus-Polysaccharid-Impfstoff, nicht konjugiertes Vi-Polysaccharid-Antigen"
+33,Monovalenter oraler attenuierter Lebendimpfstoff gegen Poliomyelitis Typ 2
+34,"Diphtherie-Toxoid, niedrige Dosis"
+35,"COVID-19-Impfstoff, Plasmid-DNA, die für das SARS-CoV-2-Spike-Protein kodiert"
+36,"Humaner Papillomavirus-VLP-Impfstoff, nicht-avalent, Typen 6, 11, 16, 18, 31, 33, 45, 52, 58"
+37,"Meningokokken-Impfstoff A, nicht konjugiertes Polyosid"
+38,"COVID-19-Impfstoff, replizierender Masernvirus-Vektor, der für das SARS-CoV-2-Spike-Protein kodiert"
+39,"COVID-19-Impfstoff, VLP, rekombinantes Spike-Protein"
+40,
+41,"Meningokokken-Impfstoff A, Polyosid-Konjugat"
+42,"Polio-Impfstoff, nicht spezifiziert"
+43,"Anti-Covid-19-Impfstoff mit mRNA, die das Spitzenprotein von SARS-CoV-2 kodiert"
+44,Varizellen
+45,Inaktivierter Paratyphus-Vollimpfstoff
+46,Typhus
+47,Immunoglobulin gegen Hepatitis B
+48,Inaktivierter ganzer Impfstoff gegen Mumps
+49,"Polysaccharid-Haemophilus-influenzae-Typ-b-Valenz, nicht konjugiert"
+50,"COVID-19-Impfstoff, nicht-replizierender Adenovirus-5-Vektor, der für das SARS-CoV-2-Spike-Protein kodiert, nicht spezifiziert"
+51,Präpandemischer Impfstoff gegen Influenza A(H5N1)
+52,"Vierfach-Impfstoff gegen humane Papillomaviren VLP, Typen 6, 11, 16 und 18"
+53,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein, nicht spezifiziert"
+54,"COVID-19-Impfstoff, nicht-replizierender modifizierter Vaccinia-Virus-Ankara-Vektor, der für das SARS-CoV-2-Spike-Protein kodiert"
+55,Immunoglobulin gegen Masern
+56,Inaktivierter dreiwertiger Polio-Ganzkörperimpfstoff zur Injektion
+57,"Meningokokken-Impfstoff C, Polyosid-Konjugat"
+58,"Inaktivierte Influenza-Valenz, Spalt- oder Untereinheit, ohne Spezifikation"
+59,"Quadrivalente lebend-attenuierte Influenza-Valenz, normale Dosis"
+60,
+61,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein, S-2P und CpG1018"
+62,
+63,Botulinum-Antitoxin
+64,
+65,"Abgeschwächter, rekombinanter, chimärer, tetravalenter Dengue-Lebendimpfstoff"
+66,"Anti-Kovid-19-Impfstoff mit replikativem viralem Vektor, Influenzavirus, das für das SARS-CoV-2-Spitzenprotein kodiert."
+67,Tetanus-Toxoid
+68,"Hepatitis-B-Valenz, ohne Spezifikation"
+69,"COVID-19-Impfstoff, nicht replizierender Schimpansen-Adenovirusvektor ChAdOx1, der für das SARS-CoV-2-Spike-Protein kodiert"
+70,"COVID-19-Impfstoff, nicht-replizierender adenoviraler Vektor, der für das SARS-CoV-2-Spike-Protein kodiert, nicht spezifiziert"
+71,Inaktivierter Typhus-Ganzkeimimpfstoff
+72,"Meningokokken-B-Impfstoff, der fHbp der Unterfamilien A und B enthält"
+73,"COVID-19-Impfstoff, replizierender viraler Vektor, mit antigenpräsentierenden Zellen"
+74,
+75,Inaktivierter Ganzkörperimpfstoff gegen Leptospira icterohaemorrhagiae
+76,"COVID-19-Impfstoff, inaktiviertes Vollvirus, nicht spezifiziert"
+77,
+78,"Meningokokken-Impfstoff Y, konjugiertes Polyosid"
+79,
+80,"Inaktivierter Vollvirus-Tollwutimpfstoff, nicht spezifiziert"
+81,"Cholera-Valenz, ohne Spezifikation"
+82,"Humaner Papillomavirus-Impfstoff, nicht spezifizierte Typen"
+83,"Diphtherietoxoid, Dosis nicht spezifiziert"
+84,"COVID-19-Impfstoff, replizierender Vesikuläre Stomatitis-Virus-Vektor, der für das SARS-CoV-2-Spike-Protein kodiert"
+85,Monovalenter oraler attenuierter Lebendimpfstoff gegen Poliomyelitis Typ 3
+86,"COVID-19-Impfstoff, abgeschwächter Lebendimpfstoff, nicht spezifiziert"
+87,"Dengue-Valenz, lebend-attenuierte tetravalente chimäre rekombinante, basierend auf dem Gelbfieber-17D-Impfstoff"
+88,Immunoglobuline gegen das Varizellenvirus
+89,"Inaktivierte Japanische-Enzephalitis-Valenz, ohne Spezifikation"
+90,"Hepatitis-B-Impfstoff, rekombinantes Hepatitis-B-Virus-Oberflächenantigen (HBsAg), Dosis nicht spezifiziert"
+91,"Attenuierter Typhus-Lebendimpfstoff, Stamm Ty21a, zum Einnehmen"
+92,Gelbfieber
+93,Inaktivierter Masern-Ganzkeimimpfstoff
+94,
+95,"COVID-19-Impfstoff, replizierender Newcastle-Disease-Virus-Vektor, der für das SARS-CoV-2-Spike-Protein kodiert"
+96,BCG-Valenz
+97,"Diphtherie-Toxoid, Standarddosis"
+98,Meningokokken-B-Impfstoff mit 4 Komponenten
+99,Inaktivierte pandemische Influenza-H1N1-2009-Valenz
+100,
+101,"COVID-19-Impfstoff, nicht replizierender Newcastle-Disease-Virus-Vektor, der für das SARS-CoV-2-Spike-Protein kodiert"
+102,Rekombinante peptidische Hepatitis-E-Valenz
+103,"Konjugierte Haemophilus-influenzae-Typ-b-Valenz, ohne Spezifikation"
+104,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinantes Spike-Protein"
+105,"Pneumokokken-Impfstoff, nicht spezifiziert"
+106,"Rotavirus-Impfstoff, nicht spezifiziert"
+107,"COVID-19-Impfstoff, Protein-Untereinheit, rekombinante Spike-Protein-Nanopartikel"
+108,"Rekombinanter, nicht replizierender, lebender, viraler Vektorimpfstoff Ad26.ZEBOV"
+109,"Ebola-Valenz mit nicht-replikativem viralen Vektor, modifizierter Ankara-Impfstoff"
+110,Tetanus-Immunglobuline
+111,azelluläre Valenz gegen Milzbrand
+112,"Quadrivalente inaktivierte Influenza-Valenz aus Zellkultur, spalt- oder untereinheitlich, normale Dosis"
+113,"Bivalenter humaner Papillomavirus-VLP-Impfstoff, Typen 16 und 18"
+114,"Hepatitis-B-Impfstoff, rekombinantes Oberflächenantigen des Hepatitis-B-Virus (HBsAg), 10 Mikrogramm"
+115,"Hepatitis-B-Impfstoff, rekombinantes Hepatitis-B-Virus-Oberflächenantigen (HBsAg), 20 Mikrogramm"
+116,"Monoklonaler Antikörper gegen RSV, palivizumab"
+117,"Impfstoff gegen azelluläre Pertussis, Dosis nicht spezifiziert"
+118,"Meningokokken-B-Impfstoff, nicht spezifiziert"
+119,
+120,"Meningokokken, nicht konjugiertes Polysaccharid, polyvalent"
+121,Inaktivierter dreiwertiger oraler Polio-Ganzkörperimpfstoff
+122,
+123,
+124,"Lebend-attenuierte Cholera-Valenz, ohne Spezifikation"
+125,"Ganze inaktivierte Hepatitis-A-Valenz, ohne Spezifikation"
+126,"Ebola-Valenz, ohne Spezifikation"
+127,
+128,"Influenza-Valenz, ohne Spezifikation"
+129,"Herpes-Simplex-Valenz, ohne Spezifikation"
+130,Hepatitis-A-Virosom-Valenz
+131,Inaktivierter ganzer Impfstoff gegen die Pest
+132,Poliomyelitische Lebendvalenz abgeschwächt oral einwertig Typ 1
+133,"Attenuierter monovalenter oraler Polio-Lebendimpfstoff, Typ nicht spezifiziert"
+134,
+135,
+136,"Meningokokken-Impfstoff W, Polyosid-Konjugat"
+137,"Meningokokken-Impfstoff C, nicht konjugiertes Polyosid"
+138,Inaktivierter Ganzvirus-Impfstoff gegen Covid 19
+139,"Meningokokken-Impfstoff Y, nicht konjugiertes Polyosid"
+140,
+141,Monovalenter Impfstoff RIX4414 gegen Rotavirus
+142,"Ganze inaktivierte Hepatitis-A-Valenz, monovalent, pädiatrische Dosis"
+143,"Ganze inaktivierte Hepatitis-A-Valenz, bivalent (Hepatitis A und B), pädiatrische Dosis"
+144,"Ganze inaktivierte Hepatitis-A-Valenz, monovalent, Erwachsenendosis"
+145,"Ganze inaktivierte Hepatitis-A-Valenz, bivalent (Hepatitis A und B), Erwachsenendosis"
+146,Valenz gegen ganze inaktivierte Brucella
+147,Valenz mit Proteinantigen P.I. (phenolunlöslich) gegen Brucellose
+148,Monoklonaler Antikörper gegen das Respiratorische Synzytialvirus
+149,"COVID-19-Impfstoff, mRNA kodierend für SARS-CoV-2-Spike-Protein, 25 Mikrogramm"
+150,"Dengue-Valenz, ohne Spezifikation"
+151,"Tularämie-Impfstoff, nicht spezifiziert"
+152,
+153,"Impfstoff gegen Haemophilus influenzae Typ b, Polysaccharid PRP, konjugiert mit Diphtherietoxoid"
+154,"Haemophilus influenzae Typ b-Valenz, PRP-Oligoside konjugiert mit mutiertem Diphtherietoxin CRM197"
+155,"Impfstoff gegen Haemophilus influenzae Typ b, Polysaccharid, konjugiert mit dem äußeren Membranprotein von Neisseria meningitidis Serogruppe B"
+156,"PRP-T Haemophilus influenzae Typ b-Impfstoff, Polysaccharid PRP konjugiert mit Tetanustoxoid"
+157,"COVID-19-Impfstoff, nicht spezifiziert"
+158,Plasma-Impfstoff gegen Hepatitis B
+159,"Subunit-Impfstoff gegen Gürtelrose, nicht spezifiziert"
+160,"Gürtelrose-Impfstoff, nicht spezifiziert"
+161,"Multikomponenten-Impfstoff gegen Meningokokken B, ohne nähere Angaben"
+162,"COVID-19-Impfstoff, replizierender Virusvektor, nicht spezifiziert"
+163,"COVID-19-Impfstoff, nicht-replizierender viraler Vektor, nicht spezifiziert"
+164,"COVID-19-Impfstoff, nicht lebend, nicht spezifiziert"
+165,"Levend vaccin tegen covidae 19, niet gespecificeerd"
+166,
+167,"COVID-19-Impfstoff, nicht replizierender viraler Vektor, mit antigenpräsentierenden Zellen"
+168,"COVID-19-Impfstoff, RNA, nicht spezifiziert"
+169,Zelfversterkend mRNA-vaccin (AAA) voor vaccin 19
+170,"Hepatitis-B-Impfstoff, rekombinantes Hepatitis-B-Virus-Oberflächenantigen (HBsAg), 5 Mikrogramm"
+171,"Impfstoff gegen venezolanische Pferdeenzephalitis, nicht spezifiziert"
+172,"Valenz gegen Q-Fieber (Coxiella burnetii), ohne Spezifikation"
+173,
+174,"Hantavirus-Valenz, ohne Spezifikation"
+175,"Leishmaniose-Impfstoff, nicht spezifiziert"
+176,"Impfstoff gegen humane Parainfluenzaviren, nicht spezifiziert"
+177,"Haemophilus-influenzae-Typ-b-Valenz, ohne Spezifikation"
+178,"COVID-19-Impfstoff, mRNA, die für das SARS-CoV-2-Spike-Protein kodiert, Omicron-Variante, 25 Mikrogramm"
+179,
+180,"COVID-19-Impfstoff, mRNA, die für das SARS-CoV-2-Spike-Protein kodiert, 100 Mikrogramm"
+181,"COVID-19-Impfstoff, mRNA, die für das Spike-Protein von SARS-CoV-2 kodiert, Original-SARS-CoV-2-Virus, 25 Mikrogramm"
+182,"Masern-Impfstoff, nicht näher bezeichnet"
+183,"Mumps-Impfstoff, nicht spezifiziert"
+184,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, monovalent"
+185,"Pneumokokken-Polysaccharid-Impfstoff, nicht konjugiert, nicht spezifiziert"
+186,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, Serotyp 1"
+187,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, Serotyp 3"
+188,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, Serotyp 4"
+189,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, Serotyp 5"
+190,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, Serotyp 6A"
+191,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, Serotyp 6B"
+192,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, Serotyp 7F"
+193,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, Serotyp 8"
+194,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, Serotyp 9V"
+195,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, Serotyp 10A"
+196,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, Serotyp 11A"
+197,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, Serotyp 12F"
+198,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, Serotyp 14"
+199,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, Serotyp 15B"
+200,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, Serotyp 18C"
+201,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, Serotyp 19A"
+202,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, Serotyp 19F"
+203,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, Serotyp 22F"
+204,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, Serotyp 23F"
+205,"Pneumokokken-Polysaccharid-Konjugatimpfstoff, Serotyp 33F"
+206,"Pneumokokken-Polysaccharid-Impfstoff, nicht konjugiert, Serotyp 1"
+207,"Pneumokokken-Polysaccharid-Impfstoff, nicht konjugiert, Serotyp 2"
+208,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 3"
+209,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 4"
+210,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 5"
+211,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 6B"
+212,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 7F"
+213,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 8"
+214,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 9N"
+215,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 9V"
+216,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 10A"
+217,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 11A"
+218,"Pneumokokken-Polysaccharid-Impfstoff, nicht konjugiert, Serotyp 12F"
+219,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 14"
+220,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 15B"
+221,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 15F"
+222,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 17F"
+223,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 18C"
+224,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 19A"
+225,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 19F"
+226,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 20"
+227,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 22F"
+228,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 23F"
+229,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 33F"
+230,"Quadrivalente inaktivierte Influenza-Valenz, Spalt- oder Untereinheit, ohne Spezifikation"
+231,
+232,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 6A"
+233,"Pneumokokken-Polysaccharid-Impfstoff, unkonjugiert, Serotyp 25"
+234,"Meningokokken-Impfstoff, nicht spezifiziert"
+235,"Meningokokken-Konjugat-Polysaccharid-Impfstoff, polyvalent"
+236,"Humaner Papillomavirus-VLP-Impfstoff, monovalent"
+237,"Humaner Papillomavirus-VLP-Impfstoff, polyvalent"
+238,"Humaner Papillomavirus-VLP-Impfstoff, Typ 6"
+239,"Humaner Papillomavirus-VLP-Impfstoff, Typ 11"
+240,"Humaner Papillomavirus-VLP-Impfstoff, Typ 16"
+241,"Humaner Papillomavirus-VLP-Impfstoff, Typ 18"
+242,"Humaner Papillomavirus-VLP-Impfstoff, Typ 31"
+243,"Humaner Papillomavirus-VLP-Impfstoff, Typ 33"
+244,"Humaner Papillomavirus-VLP-Impfstoff, Typ 58"
+245,"Humaner Papillomavirus-VLP-Impfstoff, Typ 52"
+246,"Humaner Papillomavirus-VLP-Impfstoff, Typ 45"
+247,
+248,"Lebend-attenuierte Japanische-Enzephalitis-Valenz, ohne Spezifikation"
+249,"Japanische-Enzephalitis-Valenz, ohne Spezifikation"
+250,"Japanische-Enzephalitis-Valenz, ganze inaktivierte, hergestellt auf murinem Gehirngewebe"
+251,"Japanische-Enzephalitis-Valenz, inaktiviert, aus Vero-Zellen gewonnen"
+252,"Tollwut-Immunglobulin, menschlichen Ursprungs"
+253,"Tollwut-Immunglobulin, equinen Ursprungs"
+254,"Inaktivierter Tollwut-Vollvirusimpfstoff, Typ Semple, hergestellt aus mit Tollwutvirus infiziertem Ziegen- oder Schafshirngewebe, enthält Myelin"
+255,"Inaktivierter Tollwut-Vollvirusimpfstoff, Typ Fuenzalida, hergestellt aus mit dem Tollwutvirus infiziertem Gehirngewebe von Saugmäusen, mit vermindertem Myelingehalt"
+256,"Inaktivierter Vollvirus-Tollwutimpfstoff, hergestellt aus mit Tollwutvirus infiziertem tierischem Hirngewebe, nicht spezifiziert"
+257,"Inaktivierter Vollvirus-Tollwutimpfstoff, auf Zellkulturbasis, nicht spezifiziert"
+258,"Inaktivierter Tollwut-Vollvirusimpfstoff auf Zellkulturbasis, humaner diploider Zellimpfstoff (HDCV) MRC-5, Inaktivierung mit ß-Propiolacton"
+259,"Inaktivierter Ganzvirus-Tollwutimpfstoff, gereinigter Impfstoff aus Hühnerembryozellen (PCECV), gewonnen durch Züchtung des fixierten Tollwutvirusstammes Flury LEP-25 in Primärkulturen von Hühnerfibroblasten, Virusinaktivierung mit ß-Propiolacton"
+260,"Inaktivierter Tollwut-Vollvirusimpfstoff auf Zellkulturbasis, gereinigter Tollwutimpfstoff aus Vero-Zellen (PVRV), Wistar-Stamm, Inaktivierung mit ß-Propiolacton"
+261,"Inaktivierter Tollwut-Vollvirusimpfstoff auf Zellkulturbasis, primärer Hamsternierenzellimpfstoff (PHKCV), Stamm Beijing, Inaktivierung mit Formalin"
+262,"Inaktivierter Vollvirus-Tollwutimpfstoff, Impfstoff auf Basis von embryonierten Eiern (EEV), nicht spezifiziert"
+263,"Inaktivierter Tollwut-Vollvirusimpfstoff, gereinigter Entenembryo-Impfstoff (PDEV), Inaktivierung durch ß-Propiolacton"
+264,"COVID-19-Impfstoff, ganzes Virion, inaktiviert"
+265,"COVID-19-Impfstoff, ganzes Virion inaktiviert, in klinischen Versuchen"
+266,"Meningokokken-Impfstoff C, Polyosid konjugiert mit Tetanustoxoid"
+267,"Meningokokken-Impfstoff C, Polyosid konjugiert mit Diphtherie-Toxoid"
+268,"Meningokokken-C-Impfstoff, Polyosid, konjugiert mit dem CRM197-Protein"
+269,"Meningokokken-A-Impfstoff, Polyosid, konjugiert mit dem CRM197-Protein"
+270,"Vaccin méningococcique A, polyoside conjugué à l'anatoxine diphtérique"
+271,"Meningokokken-Impfstoff A, Polyosid konjugiert mit Tetanustoxoid"
+272,"Meningokokken-Impfstoff W, Polyosid konjugiert mit Tetanustoxoid"
+273,"Meningokokken-Impfstoff W, Polyosid konjugiert mit Diphtherietoxoid"
+274,"Meningokokken-Impfstoff W, Polyosid konjugiert mit dem Protein CRM197"
+275,"Meningokokken-Impfstoff Y, Polyosid konjugiert mit dem Protein CRM197"
+276,"Meningokokken-Impfstoff Y, Polyosid konjugiert mit Tetanustoxoid"
+277,"Meningokokken-Impfstoff Y, Polyosid konjugiert mit Diphtherietoxoid"
+278,
+279,
+280,Botulinumtoxin
+281,
+282,
+283,"Ganze inaktivierte Hepatitis-A-Valenz, pädiatrische Dosis, ohne Spezifikation"
+284,"Ganze inaktivierte Hepatitis-A-Valenz, Erwachsenendosis, ohne Spezifikation"
+285,"Trivalente inaktivierte Influenza-Valenz aus Zellkultur, spalt- oder untereinheitlich, normale Dosis"
+286,
+287,Quadrivalente rekombinante Influenza-Valenz
+288,"Hepatitis-A-Valenz, ohne Spezifikation"
+289,"COVID-19-Impfstoff, mRNA kodierend für SARS-CoV-2-Spike-Protein, 10 Mikrogramm"
+290,"COVID-19-Impfstoff, mRNA kodierend für SARS-CoV-2-Spike-Protein, 30 Mikrogramm"
+291,"Rekombinante Hepatitis-B-Valenz, drei Antigene (HbS, Prä-S1 und Prä-S2)"
+292,"COVID-19-Impfstoff, nicht-replizierender Adenovirus-26-Vektor, der für das SARS-CoV-2-Spike-Protein kodiert, in klinischen Studien"
+293,Immunoglobulin gegen Anthrax
+294,"Lebendimpfstoff aus Vacciniaviren, Impfstoff der ersten Generation"
+295,
+296,"Modifizierter Vacciniavakzine Ankara, nicht replizierender Impfstoff der dritten Generation"
+297,"Meningokokken-A-Impfstoff, nicht spezifiziert"
+298,"Meningokokken-C-Impfstoff, nicht spezifiziert"
+299,"Meningokokken-Y-Impfstoff, nicht spezifiziert"
+300,"Meningokokken-W-Impfstoff, nicht spezifiziert"
+301,Rekombinanter trivalenter Impfstoff gegen Influenza
+302,"COVID-19-Impfstoff, mRNA, die für das SARS-CoV-2-Spike-Protein kodiert, 50 Mikrogramm"
+303,"Anti-Covid-19-Impfstoff mit mRNA, die für das Spitzenprotein des ursprünglichen SARS-CoV-2-Virus kodiert."
+304,"Anti-Covid-19-mRNA-Impfstoff, der das Spitzenprotein des ursprünglichen SARS-CoV-2-Virus kodiert, 15 Mikrogramm"
+305,"Anti-Covid-19-mRNA-Impfstoff, der für das SARS-CoV-2-Spitzenprotein kodiert, Variante Omicron BA.1, 15 Mikrogramm"
+306,"Anti-Covid-19-mRNA-Impfstoff, der das Spitzenprotein von SARS-CoV-2 kodiert, Originalvirus, 3 Mikrogramm"
+307,"Anti-Kovid-19-mRNA-Impfstoff, der für das SARS-CoV-2-Spitzenprotein kodiert, Variante Omicron BA.4/BA.5, 15 Mikrogramm"
+308,"Anti-Kovid-19-mRNA-Impfstoff, der für das SARS-CoV-2-Spitzenprotein kodiert, Variante Omicron BA.4/BA.5, 25 Mikrogramm"
+309,"Anti-Kovid-19-mRNA-Impfstoff, der für das SARS-CoV-2-Spitzenprotein kodiert, Variante Omicron BA.4/BA.5, 5 Mikrogramm"
+310,"COVID-19-Impfstoff, mRNA, die das SARS-CoV-2-Spike-Protein codiert, Originalvirus, 5 Mikrogramm"
+311,
+312,
+313,
+314,
+315,
+316,
+317,"Antikörper gegen RSV, nicht näher bezeichnet"
+318,"RSV-Impfstoff, nicht spezifiziert"
+319,"COVID-19-Impfstoff, nicht-replizierender adenoviraler Vektor, der für das SARS-CoV-2-Spike-Protein kodiert, Inhalationsimpfstoff, nicht spezifiziert"
+320,
+321,
+322,
+323,
+324,
+325,
+326,"mRNA-kodierender SARS-CoV-2-Spitzenprotein-Anti-Covid-19-Impfstoff, Omicron-Variante BA.4/BA.5, 1,5 Mikrogramm"
+327,"Anti-Covid-19-mRNA-Impfstoff, der das Spitzenprotein des ursprünglichen SARS-CoV-2-Virus kodiert, 1,5 Mikrogramm"
+328,"COVID-19-Impfstoff, Proteinuntereinheit, rekombinante Spike-Protein-Nanopartikel, Omicron XBB.1.5"
+329,"SARS-CoV-2 Spike-Protein mRNA 19-Impfstoff, Omicron XBB.1.5-50 Mikrogramm Variante"
+330,
+331,CMV immune globulin
+332,"Hepatitis-C-Valenz, ohne Spezifikation"
+333,
+334,
+335,
+336,"Rift-Valley-Fieber-Valenz, ohne Spezifikation"
+337,
+338,
+339,
+340,"Valenz gegen Milzbrand, ohne Spezifikation"
+341,"Escherichia coli-Valenz, ohne Spezifikation"
+342,
+343,"Enterococcus faecalis-Valenz, ohne Spezifikation"
+344,
+345,
+346,
+347,
+348,
+349,
+350,
+351,
+352,
+353,
+354,
+355,
+356,
+357,
+358,
+359,"Inaktivierte Ganzzell-Cholera-Valenz, ohne Spezifikation"
+360,"Inaktivierte Influenza-Valenz aus Zellkultur, spalt- oder untereinheitlich, normale Dosis, ohne Spezifikation"
+361,"Rekombinante Influenza-Valenz, ohne Spezifikation"
+362,
+363,
+364,"Nicht-lebende Influenza-Valenz, ohne Spezifikation"
+365,"Nicht-lebende Influenza-Valenz aus Eikultur, ohne Spezifikation"
+366,"RNA-basierte Influenza-Valenz, ohne Spezifikation"
+367,
+368,
+369,
+370,
+371,
+372,
+373,
+374,
+375,
+376,
+377,
+378,
+379,
+380,
+381,
+382,
+383,Single-stranded 5' capped mRNA encoding the Respiratory syncytial virus glycoprotein F stabilized in the prefusion conformation
+384,
+385,
+386,
+387,
+388,
+389,"Wirksamkeit gegen Pseudomonas aeruginosa, 7 Immuntypen"
+390,"Chikungunya Valenz, nicht spezifiziert"
+391,Chikungunya VLP-Wertigkeit
+392,
+393,
+394,
+395,
+396,
+397,
+398,
+399,
+400,
+401,
+402,
+403,
+404,
+405,
+406,
+407,
+408,
+409,
+410,
+411,
+412,
+413,
+414,Diphtherie-Valenz
+415,
+416,
+417,
+418,
+419,
+420,
+421,
+422,
+423,
+424,
+425,
+426,
+427,
+428,
+429,
+430,
+431,
+432,
+433,
+434,
+435,
+436,
+437,
+438,
+439,
+440,
+441,
+442,
+443,
+444,
+445,
+446,
+447,
+448,
+449,
+450,
+451,"Impfung gegen Polio, attenuierter Lebendimpfstoff, neue Generation, oral, monovalent, ohne weitere Angaben"
+452,"Valence-Poliomyelitis, attenuierter Lebendimpfstoff, neue Generation, oral, monovalent, Typ 2"

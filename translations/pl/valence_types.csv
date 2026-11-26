@@ -1,0 +1,33 @@
+nuva_id,name
+1,Antygeny
+2,Szczepionki żywe
+3,Szczepionki z żywym atenuowanym patogenem
+4,Żywe atenuowane szczepionki bakteryjne
+5,Żywe atenuowane szczepionki wirusowe
+6,Żywe szczepionki z rekombinowanym wektorem wirusowym
+7,Szczepionki z replikującym wektorem wirusowym
+8,Szczepionki z niereplikującym wektorem wirusowym
+9,Szczepionki nieżywe
+10,Szczepionki z całym inaktywowanym patogenem
+11,Inaktywowane całokomórkowe szczepionki bakteryjne
+12,Inaktywowane szczepionki wirusowe z całym wirionem
+13,Szczepionki z rozszczepionym lub zdezintegrowanym patogenem
+14,Szczepionki wirusowe z rozszczepionym wirionem
+15,Inne szczepionki ze zdezintegrowanym patogenem
+16,Szczepionki podjednostkowe
+17,Szczepionki polisacharydowe
+18,Nieskoniugowane szczepionki polisacharydowe
+19,Skoniugowane szczepionki polisacharydowe
+20,Szczepionki białkowe
+21,Szczepionki toksoidowe
+22,Szczepionki z oczyszczonym białkiem natywnym
+23,Szczepionki z białkiem rekombinowanym
+24,Szczepionki z cząstkami wirusopodobnymi (VLP)
+25,Szczepionki oparte na pęcherzykach błonowych
+26,Szczepionki z pęcherzykami błony zewnętrznej (OMV)
+27,Szczepionki oparte na kwasach nukleinowych
+28,Szczepionki DNA
+29,Szczepionki mRNA
+30,Konwencjonalne szczepionki mRNA
+31,Samoamplifikujące szczepionki mRNA
+32,Przeciwciała

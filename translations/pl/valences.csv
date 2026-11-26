@@ -1,0 +1,453 @@
+nuva_id,name
+1,"Trójwalentna żywa atenuowana wartość przeciwko grypie, normalna dawka"
+2,"Skoniugowana szczepionka przeciwko durowi brzusznemu, antygen polisacharydowy Vi połączony z białkiem nośnikowym"
+3,"Wartość przeciwko krztuścowi, bez określenia"
+4,"Całkowicie inaktywowana wartość przeciwko cholerze, do wstrzykiwania"
+5,
+6,"Wartość przeciwko Brucella, bez określenia"
+7,Rekombinowany wirus pęcherzykowego zapalenia jamy ustnej (rVSV) wektor replikacyjny Szczepionka przeciwko Ebola - glikoproteina GP EBOV
+8,"Wartość bezkomórkowej krztuścowej, standardowa dawka"
+9,Szczepionki przeciwko białkom powierzchniowym sporozoitów
+10,Wartość przeciwko całej inaktywowanej krztuścowej bakterii
+11,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane białko szpiku (RBD)"
+12,"Szczepionka przeciwko zapaleniu wątroby typu B, rekombinowany antygen powierzchniowy wirusa zapalenia wątroby typu B (HBsAg), 40 mikrogramów (dawka dla pacjentów dializowanych)"
+13,Glikoproteina powierzchniowa E (gE) wirusa Varicella zoster (VZV)
+14,"Szczepionka przeciw tyfusowi plamistemu, nieokreślona"
+15,
+16,"Immunoglobulina przeciwko wściekliźnie, nieokreślona"
+17,"Wartość bezkomórkowej krztuścowej, zmniejszona dawka"
+18,"Szczepionka przeciwko ospie wietrznej trzeciej generacji, minimalnie replikująca żywy wirus vaccinia"
+19,Antytoksyna błonicza
+20,
+21,Doustna inaktywowana szczepionka przeciwko całej cholerze
+22,
+23,
+24,
+25,"Szczepionka przeciwko malarii, niespecyfikowana"
+26,"Szczepionka meningokokowa B:14:P1.7,16 z białkami pęcherzyków błony zewnętrznej"
+27,"Szczepionka COVID-19, niereplikujący się wektor adenowirusa 26 kodujący białko szczytowe SARS-CoV-2"
+28,
+29,"Szczepionka VLP przeciwko grypie sezonowej, nieokreślona"
+30,Rekombinowana szczepionka przeciwko Borrelia burgdorferi - białko powierzchni zewnętrznej A (OspA)
+31,Kleszczowe zapalenie mózgu
+32,"Szczepionka polisacharydowa przeciwko durowi brzusznemu, nieskoniugowany antygen polisacharydowy Vi"
+33,Monowalentna żywa atenuowana doustna szczepionka przeciw polio typu 2
+34,"Toksyna błonicza, mała dawka"
+35,"Szczepionka COVID-19, plazmid DNA kodujący białko kolca SARS-CoV-2"
+36,"Szczepionka niewalentna VLP przeciwko wirusowi brodawczaka ludzkiego, typy 6, 11, 16, 18, 31, 33, 45, 52, 58"
+37,"Szczepionka meningokokowa A, nieskoniugowana polisacharydowa"
+38,"Szczepionka COVID-19, replikujący wektor wirusa odry kodujący białko kolca SARS-CoV-2"
+39,"Szczepionka COVID-19, VLP, rekombinowane białko kolca"
+40,
+41,"Meningokok A, polisacharydowa szczepionka skoniugowana"
+42,"Szczepionka przeciwko polio, nieokreślona"
+43,Szczepionka SARS-CoV-2 spike protein mRNA 19
+44,Varicella
+45,Inaktywowana cała szczepionka przeciwko paratyfusowi
+46,Tyfus
+47,Immunoglobulina zapalenia wątroby typu B
+48,Inaktywowana cała szczepionka przeciwko śwince
+49,"Polisacharydowa wartość przeciwko Haemophilus influenzae typu b, niesprzężona"
+50,"Szczepionka COVID-19, niereplikujący się wektor adenowirusowy 5 kodujący białko kolca SARS-CoV-2, niespecyfikowany"
+51,Szczepionka przedpandemiczna przeciwko grypie A(H5N1)
+52,"Czterowalentna szczepionka VLP przeciwko wirusowi brodawczaka ludzkiego, typy 6, 11, 16 i 18"
+53,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane białko kolczaste, niespecyfikowana"
+54,"Szczepionka COVID-19, niereplikujący się zmodyfikowany wektor Vaccinia Virus Ankara kodujący białko kolca SARS-CoV-2"
+55,Immunoglobulina przeciwko gorączce
+56,Cała inaktywowana trójwalentna szczepionka przeciwko polio do wstrzykiwań
+57,"Szczepionka meningokokowa C, polisacharydowa skoniugowana"
+58,"Inaktywowana wartość przeciwko grypie, dzielona lub podjednostkowa, bez określenia"
+59,"Czterowalentna żywa atenuowana wartość przeciwko grypie, normalna dawka"
+60,
+61,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane białko kolca, S-2P i CpG1018"
+62,
+63,Antytoksyna botulinowa
+64,
+65,Żywa atenuowana rekombinowana chimeryczna tetrawalentna szczepionka przeciwko dendze
+66,"Szczepionka przeciwko wirusowi replikującemu SARS-CoV-2, wirusowi grypy kodującemu białko szczytowe SARS-CoV-2"
+67,Toksyna tężcowa
+68,"Wartość przeciwko wirusowemu zapaleniu wątroby typu B, bez określenia"
+69,"Szczepionka COVID-19, niereplikujący się szympansi wektor adenowirusowy ChAdOx1 kodujący białko kolca SARS-CoV-2"
+70,"Szczepionka COVID-19, niereplikujący się wektor adenowirusowy kodujący białko kolczaste SARS-CoV-2, niespecyfikowana"
+71,Inaktywowana cała szczepionka przeciwko durowi brzusznemu
+72,Szczepionka przeciwko meningokokom B zawierająca fHbp z podrodzin A i B
+73,"Szczepionka COVID-19, replikujący wektor wirusowy, z komórkami prezentującymi antygen"
+74,
+75,Inaktywowana cała szczepionka przeciwko Leptospira icterohaemorrhagiae
+76,"Szczepionka COVID-19, inaktywowana całymi wirusami, nieokreślona"
+77,
+78,"Szczepionka przeciwko meningokokom Y, polisacharydowa skoniugowana"
+79,
+80,"Inaktywowana w całości szczepionka przeciwko wściekliźnie, nieokreślona"
+81,"Wartość przeciwko cholerze, bez określenia"
+82,"Szczepionka przeciwko wirusowi brodawczaka ludzkiego, typy nieokreślone"
+83,"Toksoid błoniczy, dawka nieokreślona"
+84,"Szczepionka COVID-19, replikujący wektor wirusa pęcherzykowego zapalenia jamy ustnej kodujący białko kolca SARS-CoV-2"
+85,Monowalentna żywa atenuowana doustna szczepionka przeciwko polio typu 3
+86,"Szczepionka COVID-19, żywa, atenuowana, nieokreślona"
+87,"Wartość dengi, żywa atenuowana tetrwalentna chimeryczna rekombinowana oparta na szczepionce przeciw żółtej febrze 17D"
+88,Immunoglobulina Varicella
+89,"Wartość inaktywowana przeciwko japońskiemu zapaleniu mózgu, bez określenia"
+90,"Szczepionka przeciwko zapaleniu wątroby typu B, rekombinowany antygen powierzchniowy wirusa zapalenia wątroby typu B (HBsAg), dawka nieokreślona"
+91,"Żywa atenuowana szczepionka przeciwko durowi brzusznemu, szczep Ty21a, doustna"
+92,Żółta gorączka
+93,Inaktywowana cała szczepionka przeciwko odrze
+94,
+95,"Szczepionka COVID-19, replikujący wektor wirusa rzekomego pomoru drobiu kodujący białko kolczaste SARS-CoV-2"
+96,Wartość BCG
+97,"Toksoid błoniczy, dawka standardowa"
+98,4-komponentowa szczepionka przeciwko meningokokom typu B
+99,Wartość inaktywowana przeciwko pandemicznej grypie H1N1 2009
+100,
+101,"Szczepionka COVID-19, niereplikujący się wektor wirusa rzekomego pomoru drobiu kodujący białko kolca SARS-CoV-2"
+102,Rekombinowana peptydowa wartość przeciwko wirusowemu zapaleniu wątroby typu E
+103,"Sprzężona wartość przeciwko Haemophilus influenzae typu b, bez określenia"
+104,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane białko kolca"
+105,"Szczepionka przeciw pneumokokom, niespecyfikowana"
+106,"Szczepionka przeciwko rotawirusom, nieokreślona"
+107,"Szczepionka COVID-19, podjednostka białkowa, rekombinowane nanocząstki białka kolczastego"
+108,Żywa niereplikująca się rekombinowana szczepionka wektorowa Ad26.ZEBOV
+109,"Wartość przeciwko eboli z niereplikującym się wektorem wirusowym, zmodyfikowana szczepionka Ankara"
+110,Immunoglobulina tężcowa
+111,Bezkomórkowa szczepionka przeciw wąglikowi
+112,"Czterowalentna inaktywowana wartość przeciwko grypie uzyskana z hodowli komórkowej, dzielona lub podjednostkowa, normalna dawka"
+113,"Dwuwalentna szczepionka VLP przeciwko wirusowi brodawczaka ludzkiego, typy 16 i 18"
+114,"Szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, rekombinowany antygen powierzchniowy zapalenia wątroby typu B (HBsAg), 10 mikrogramów"
+115,"Szczepionka przeciwko wirusowemu zapaleniu wątroby typu B, rekombinowany antygen powierzchniowy wirusa zapalenia wątroby typu B (HBsAg), 20 mikrogramów"
+116,"Przeciwciało monoklonalne przeciwko RSV, palivizumab"
+117,"Szczepionka acelularna przeciwko krztuścowi, dawka nieokreślona"
+118,"Szczepionka meningokokowa typu B, niespecyfikowana"
+119,
+120,"Nieskoniugowany polisacharyd meningokokowy, poliwalentny"
+121,Doustna trójwalentna inaktywowana całkowita szczepionka przeciw polio
+122,
+123,
+124,"Wartość żywa atenuowana przeciwko cholerze, bez określenia"
+125,"Wartość całkowicie inaktywowana przeciwko wirusowemu zapaleniu wątroby typu A, bez określenia"
+126,"Wartość przeciwko eboli, bez określenia"
+127,
+128,"Wartość przeciwko grypie, bez określenia"
+129,"Wartość przeciwko wirusowi opryszczki pospolitej, bez określenia"
+130,Wartość wirusomowa przeciwko wirusowemu zapaleniu wątroby typu A
+131,Cała inaktywowana szczepionka przeciwko dżumie
+132,Monowalentna żywa atenuowana doustna szczepionka przeciw polio typu 1
+133,"Żywa atenuowana monowalentna doustna szczepionka przeciwko polio, typ nieokreślony"
+134,
+135,
+136,"Szczepionka meningokokowa W, polisacharydowa skoniugowana"
+137,"Szczepionka meningokokowa C, nieskoniugowana polisacharydowa"
+138,"Szczepionka meningokokowa W, nieskoniugowana polisacharydowa"
+139,"Szczepionka przeciwko meningokokom Y, nieskoniugowana polisacharydowa"
+140,
+141,RIX4414 monowalentna szczepionka przeciw rotawirusom
+142,"Wartość całkowicie inaktywowana przeciwko wirusowemu zapaleniu wątroby typu A, monowalentna, dawka pediatryczna"
+143,"Wartość całkowicie inaktywowana przeciwko wirusowemu zapaleniu wątroby typu A, bivalentna (zapalenie wątroby typu A i B), dawka pediatryczna"
+144,"Wartość całkowicie inaktywowana przeciwko wirusowemu zapaleniu wątroby typu A, monowalentna, dawka dla dorosłych"
+145,"Wartość całkowicie inaktywowana przeciwko wirusowemu zapaleniu wątroby typu A, bivalentna (zapalenie wątroby typu A i B), dawka dla dorosłych"
+146,Wartość przeciwko całej inaktywowanej Brucella
+147,Wartość z antygenem białkowym P.I. (fenol-nierozpuszczalny) przeciwko brucelozie
+148,Przeciwciało monoklonalne przeciwko wirusowi syncytialnemu układu oddechowego
+149,"Szczepionka COVID-19, mRNA kodujący białko kolca SARS-CoV-2, 25 mikrogramów"
+150,"Wartość przeciwko dendze, bez określenia"
+151,"Szczepionka przeciwko tularemii, nieokreślona"
+152,
+153,"Szczepionka przeciwko Haemophilus influenzae typu b, polisacharyd PRP skoniugowany z toksoidem błoniczym"
+154,"Wartość Haemophilus influenzae typu b, oligosacharydy PRP sprzężone z mutantem toksyny błoniczej CRM197"
+155,"Szczepionka przeciwko Haemophilus influenzae typu b, polisacharyd skoniugowany z białkiem błony zewnętrznej Neisseria meningitidis serogrupy B"
+156,"PRP-T Szczepionka Haemophilus influenzae typu b, polisacharyd PRP sprzężony z toksoidem tężcowym"
+157,"Szczepionka COVID-19, niespecyfikowana"
+158,Szczepionka plazmowa przeciwko wirusowemu zapaleniu wątroby typu B
+159,"Podjednostkowa szczepionka przeciwko półpaścowi, nieokreślona"
+160,"Szczepionka przeciwko półpaścowi, nieokreślona"
+161,"Szczepionka wieloskładnikowa meningokokowa B, nieokreślona"
+162,"Szczepionka COVID-19, wektor replikujący wirusa, nieokreślony"
+163,"Szczepionka COVID-19, niereplikujący się wektor wirusowy, niespecyfikowana"
+164,"Szczepionka COVID-19, nieżywa, nieokreślona"
+165,"Żywa szczepionka przeciw krowom 19, nieokreślona"
+166,
+167,"Szczepionka COVID-19, niereplikujący się wektor wirusowy, z komórkami prezentującymi antygen"
+168,"Szczepionka COVID-19, RNA, nieokreślona"
+169,Samodzielnie amplifikujące się mRNA (AAA) szczepionka dla Szczepionka 19
+170,"Szczepionka przeciwko zapaleniu wątroby typu B, rekombinowany antygen powierzchniowy wirusa zapalenia wątroby typu B (HBsAg), 5 mikrogramów"
+171,"Szczepionka przeciwko wenezuelskiemu zapaleniu mózgu koni, nieokreślona"
+172,"Wartość przeciwko gorączce Q (Coxiella burnetii), bez określenia"
+173,
+174,"Wartość hantawirusowa, bez określenia"
+175,"Szczepionka przeciwko leiszmaniozie, nieokreślona"
+176,"Szczepionka przeciwko ludzkim wirusom parainfluenzy, niespecyfikowana"
+177,"Wartość przeciwko Haemophilus influenzae typu b, bez określenia"
+178,"COVID-19 vaccine, mRNA coding for SARS-CoV-2 spike protein, Omicron variant BA.1, 25 micrograms"
+179,
+180,"Szczepionka COVID-19, mRNA kodujący białko kolca SARS-CoV-2, 100 mikrogramów"
+181,"Szczepionka COVID-19, mRNA kodujący białko kolca SARS-CoV-2, oryginalny wirus SARS-CoV-2, 25 mikrogramów"
+182,"Szczepionka przeciwko boreliozie, nieokreślona"
+183,"Szczepionka przeciwko śwince, nieokreślona"
+184,"Polisacharydowa szczepionka skoniugowana przeciwko pneumokokom, monowalentna"
+185,"Szczepionka pneumokokowa polisacharydowa nieskoniugowana, nieokreślona"
+186,"Pneumokokowa polisacharydowa szczepionka skoniugowana, serotyp 1"
+187,"Pneumokokowa polisacharydowa szczepionka skoniugowana, serotyp 3"
+188,"Pneumokokowa polisacharydowa szczepionka skoniugowana, serotyp 4"
+189,"Pneumokokowa polisacharydowa szczepionka skoniugowana, serotyp 5"
+190,"Pneumokokowa polisacharydowa szczepionka skoniugowana, serotyp 6A"
+191,"Pneumokokowa polisacharydowa szczepionka skoniugowana, serotyp 6B"
+192,"Pneumokokowa polisacharydowa szczepionka skoniugowana, serotyp 7F"
+193,"Pneumokokowa polisacharydowa szczepionka skoniugowana, serotyp 8"
+194,"Pneumokokowa polisacharydowa szczepionka skoniugowana, serotyp 9V"
+195,"Pneumokokowa polisacharydowa szczepionka skoniugowana, serotyp 10A"
+196,"Pneumokokowa polisacharydowa szczepionka skoniugowana, serotyp 11A"
+197,"Pneumokokowa polisacharydowa szczepionka skoniugowana, serotyp 12F"
+198,"Pneumokokowa polisacharydowa szczepionka skoniugowana, serotyp 14"
+199,"Pneumokokowa szczepionka polisacharydowa skoniugowana, serotyp 15B"
+200,"Szczepionka pneumokokowa polisacharydowa skoniugowana, serotyp 18C"
+201,"Pneumokokowa polisacharydowa szczepionka skoniugowana, serotyp 19A"
+202,"Pneumokokowa polisacharydowa szczepionka skoniugowana, serotyp 19F"
+203,"Pneumokokowa polisacharydowa szczepionka skoniugowana, serotyp 22F"
+204,"Pneumokokowa polisacharydowa szczepionka skoniugowana, serotyp 23F"
+205,"Pneumokokowa polisacharydowa szczepionka skoniugowana, serotyp 33F"
+206,"Polisacharydowa szczepionka pneumokokowa nieskoniugowana, serotyp 1"
+207,"Polisacharydowa szczepionka pneumokokowa nieskoniugowana, serotyp 2"
+208,"Polisacharydowa szczepionka pneumokokowa nieskoniugowana, serotyp 3"
+209,"Nieskoniugowana szczepionka polisacharydowa przeciwko pneumokokom, serotyp 4"
+210,"Pneumokokowa polisacharydowa szczepionka nieskoniugowana, serotyp 5"
+211,"Polisacharydowa szczepionka pneumokokowa nieskoniugowana, serotyp 6B"
+212,"Polisacharydowa szczepionka pneumokokowa nieskoniugowana, serotyp 7F"
+213,"Nieskoniugowana szczepionka polisacharydowa przeciwko pneumokokom, serotyp 8"
+214,"Polisacharydowa szczepionka pneumokokowa nieskoniugowana, serotyp 9N"
+215,"Polisacharydowa szczepionka pneumokokowa nieskoniugowana, serotyp 9V"
+216,"Polisacharydowa szczepionka pneumokokowa nieskoniugowana, serotyp 10A"
+217,"Nieskoniugowana szczepionka polisacharydowa przeciwko pneumokokom, serotyp 11A"
+218,"Nieskoniugowana szczepionka polisacharydowa przeciwko pneumokokom, serotyp 12F"
+219,"Polisacharydowa szczepionka pneumokokowa nieskoniugowana, serotyp 14"
+220,"Polisacharydowa szczepionka pneumokokowa nieskoniugowana, serotyp 15B"
+221,"Polisacharydowa szczepionka pneumokokowa nieskoniugowana, serotyp 15F"
+222,"Polisacharydowa szczepionka pneumokokowa nieskoniugowana, serotyp 17F"
+223,"Polisacharydowa szczepionka pneumokokowa nieskoniugowana, serotyp 18C"
+224,"Polisacharydowa szczepionka pneumokokowa nieskoniugowana, serotyp 19A"
+225,"Polisacharydowa szczepionka pneumokokowa nieskoniugowana, serotyp 19F"
+226,"Nieskoniugowana szczepionka polisacharydowa przeciwko pneumokokom, serotyp 20"
+227,"Nieskoniugowana szczepionka zawierająca polisacharyd pneumokokowy, serotyp 22F"
+228,"Polisacharydowa szczepionka pneumokokowa nieskoniugowana, serotyp 23F"
+229,"Polisacharydowa szczepionka pneumokokowa nieskoniugowana, serotyp 33F"
+230,"Czterowalentna inaktywowana wartość przeciwko grypie, dzielona lub podjednostkowa, bez określenia"
+231,
+232,"Polisacharydowa szczepionka pneumokokowa nieskoniugowana, serotyp 6A"
+233,"Nieskoniugowana szczepionka polisacharydowa przeciwko pneumokokom, serotyp 25"
+234,"Szczepionka meningokokowa, nieokreślona"
+235,"Polisacharydowa szczepionka skoniugowana przeciwko meningokokom, poliwalentna"
+236,"Szczepionka VLP przeciwko wirusowi brodawczaka ludzkiego, monowalentna"
+237,"Szczepionka VLP przeciwko wirusowi brodawczaka ludzkiego, poliwalentna"
+238,"Szczepionka VLP przeciwko wirusowi brodawczaka ludzkiego, typ 6"
+239,"Szczepionka VLP przeciwko wirusowi brodawczaka ludzkiego, typ 11"
+240,"Szczepionka VLP przeciwko wirusowi brodawczaka ludzkiego, typ 16"
+241,"Szczepionka VLP przeciwko wirusowi brodawczaka ludzkiego, typ 18"
+242,"Szczepionka VLP przeciwko wirusowi brodawczaka ludzkiego, typ 31"
+243,"Szczepionka VLP przeciwko wirusowi brodawczaka ludzkiego, typ 33"
+244,"Szczepionka VLP przeciwko wirusowi brodawczaka ludzkiego, typ 58"
+245,"Szczepionka VLP wirusa brodawczaka ludzkiego, typ 52"
+246,"Szczepionka VLP przeciwko wirusowi brodawczaka ludzkiego, typ 45"
+247,
+248,
+249,"Wartość przeciwko japońskiemu zapaleniu mózgu, bez określenia"
+250,"Wartość przeciwko japońskiemu zapaleniu mózgu, całkowicie inaktywowana, przygotowana na tkance mózgowej myszy"
+251,"Wartość japońskiego zapalenia mózgu, inaktywowana, pochodząca z komórek Vero"
+252,"Immunoglobulina wścieklizny, pochodzenia ludzkiego"
+253,"Immunoglobulina przeciwko wściekliźnie, pochodzenia końskiego"
+254,"Inaktywowana w całości szczepionka przeciwko wściekliźnie, typu Semple, przygotowana z koziej lub owczej tkanki mózgowej zakażonej wirusem wścieklizny, zawierająca mielinę"
+255,"Szczepionka przeciwko wściekliźnie, inaktywowana w całości, typu Fuenzalida, przygotowana z tkanki mózgowej myszy zakażonej wirusem wścieklizny, o zmniejszonej zawartości mieliny"
+256,"Inaktywowana całymi wirusami szczepionka przeciwko wściekliźnie, przygotowana ze zwierzęcej tkanki mózgowej zakażonej wirusem wścieklizny, niespecyfikowana"
+257,"Szczepionka inaktywowana w całości przeciwko wściekliźnie, oparta na kulturach komórkowych, nieokreślona"
+258,"Inaktywowana całymi wirusami szczepionka przeciwko wściekliźnie, oparta na kulturach komórkowych, szczepionka z ludzkich komórek diploidalnych (HDCV) MRC-5, inaktywacja ß-propiolaktonem"
+259,"Szczepionka zawierająca całe wirusy wścieklizny, oczyszczona szczepionka z komórek zarodkowych kurcząt (PCECV), otrzymana przez hodowlę utrwalonego szczepu wirusa wścieklizny Flury LEP-25 w pierwotnych hodowlach fibroblastów kurcząt, wirus inaktywowany ß-propiolaktonem"
+260,"Inaktywowana cała wirionowa szczepionka przeciwko wściekliźnie, oparta na hodowli komórkowej, oczyszczona szczepionka przeciwko wściekliźnie z komórek Vero (PVRV), szczep Wistar, inaktywacja ß-propiolaktonem"
+261,"Inaktywowana cała wirionowa szczepionka przeciwko wściekliźnie, oparta na kulturach komórkowych, szczep z pierwotnych komórek nerkowych chomika (PHKCV), szczep pekiński, inaktywacja formaliną"
+262,"Inaktywowana całymi wirusami szczepionka przeciwko wściekliźnie, oparta na jajach zarodkowych (EEV), nieokreślona"
+263,"Szczepionka przeciwko wściekliźnie inaktywowana całym wirusem, oczyszczona szczepionka z zarodka kaczki (PDEV), inaktywacja ß-propiolaktonem"
+264,"Szczepionka COVID-19, inaktywowany cały wirus"
+265,"Szczepionka COVID-19, inaktywowany cały wirion, w badaniach klinicznych"
+266,"Szczepionka meningokokowa C, skoniugowana z toksoidem tężcowym"
+267,"Szczepionka przeciwko meningokokom C, polisacharydowa, skoniugowana z toksoidem błoniczym"
+268,"Szczepionka meningokokowa C, polisacharydowa skoniugowana z CRM197"
+269,"Szczepionka meningokokowa A, polisacharydowa skoniugowana z CRM197"
+270,"Szczepionka przeciwko meningokokom A, polisacharydowa, skoniugowana z toksoidem błoniczym"
+271,"Szczepionka meningokokowa A, polisacharydowa skoniugowana z toksoidem tężcowym"
+272,"Szczepionka meningokokowa W, skoniugowana z toksoidem tężcowym"
+273,"Szczepionka meningokokowa W, polisacharydowa skoniugowana z toksoidem błoniczym"
+274,"Szczepionka meningokokowa W, polisacharydowa skoniugowana z CRM197"
+275,"Szczepionka meningokokowa Y, polisacharydowa skoniugowana z CRM197"
+276,"Szczepionka przeciwko meningokokom Y, skoniugowana z toksoidem tężcowym"
+277,"Szczepionka przeciwko meningokokom Y, polisacharydowa, skoniugowana z toksoidem błoniczym"
+278,
+279,
+280,Toksyna botulinowa
+281,
+282,
+283,"Wartość całkowicie inaktywowana przeciwko wirusowemu zapaleniu wątroby typu A, dawka pediatryczna, bez określenia"
+284,"Wartość całkowicie inaktywowana przeciwko wirusowemu zapaleniu wątroby typu A, dawka dla dorosłych, bez określenia"
+285,"Trójwalentna inaktywowana wartość przeciwko grypie uzyskana z hodowli komórkowej, dzielona lub podjednostkowa, normalna dawka"
+286,
+287,Czterowalentna rekombinowana wartość przeciwko grypie
+288,"Wartość przeciwko wirusowemu zapaleniu wątroby typu A, bez określenia"
+289,"Szczepionka COVID-19, mRNA kodujący białko kolca SARS-CoV-2, 10 mikrogramów"
+290,"Szczepionka COVID-19, mRNA kodujący białko kolca SARS-CoV-2, 30 mikrogramów"
+291,"Rekombinowana wartość przeciwko wirusowemu zapaleniu wątroby typu B, trzy antygeny (HbS, pre-S1 i pre-S2)"
+292,"Szczepionka COVID-19, niereplikujący się wektor adenowirusowy 26 kodujący białko kolca SARS-CoV-2, w badaniach klinicznych"
+293,Immunoglobulina wąglika
+294,"Żywy wirus szczepionki, szczepionka pierwszej generacji"
+295,
+296,"Zmodyfikowana szczepionka vaccinia Ankara, niereplikująca, szczepionka trzeciej generacji"
+297,"Szczepionka meningokokowa A, nieokreślona"
+298,"Szczepionka meningokokowa C, nieokreślona"
+299,"Szczepionka meningokokowa Y, nieokreślona"
+300,"Szczepionka meningokokowa W, nieokreślona"
+301,Rekombinowana trójwartościowa szczepionka przeciw grypie
+302,"Szczepionka COVID-19, mRNA kodujący białko kolcowe SARS-CoV-2, 50 mikrogramów"
+303,"Szczepionka przeciw kowdowi 19 mRNA kodujący białko kolca wirusa SARS-CoV-2, pierwotnego wirusa"
+304,"Szczepionka SARS-CoV-2 spike protein mRNA 19, oryginalny wirus, 15 mikrogramów"
+305,"Szczepionka SARS-CoV-2 peak protein mRNA 19, wariant Omicron BA.1, 15 mikrogramów"
+306,"Szczepionka SARS-CoV-2 peak protein mRNA 19, oryginalny wirus, 3 mikrogramy"
+307,"Szczepionka SARS-CoV-2 peak protein mRNA 19, wariant Omicron BA.4/BA.5, 15 mikrogramów"
+308,"Vaccin anti-covid 19 à ARNm codant la protéine de pointe du SARS-CoV-2, variant Omicron BA.4/BA.5, 25 microgrammes"
+309,"Szczepionka SARS-CoV-2 peak protein mRNA 19, wariant Omicron BA.4/BA.5, 5 mikrogramów"
+310,"Szczepionka COVID-19, mRNA kodujący białko szczytowe SARS-CoV-2, oryginalny wirus, 5 mikrogramów"
+311,
+312,
+313,
+314,
+315,
+316,
+317,
+318,
+319,
+320,
+321,
+322,
+323,
+324,
+325,
+326,
+327,
+328,
+329,
+330,"Anty-covid 19 mRNA kodujący białko kolca SARS-CoV-2, wariant Omicron XBB.1.5-25 mikrogramów"
+331,CMV immune globulin
+332,"Wartość przeciwko wirusowemu zapaleniu wątroby typu C, bez określenia"
+333,
+334,
+335,
+336,"Wartość przeciwko gorączce Doliny Ryftowej, bez określenia"
+337,
+338,
+339,
+340,"Wartość przeciwko wąglikowi, bez określenia"
+341,"Wartość przeciwko Escherichia coli, bez określenia"
+342,
+343,"Wartość przeciwko Enterococcus faecalis, bez określenia"
+344,
+345,
+346,
+347,
+348,
+349,
+350,
+351,
+352,
+353,
+354,
+355,
+356,
+357,
+358,
+359,"Wartość całkowicie inaktywowana przeciwko cholerze, bez określenia"
+360,"Wartość inaktywowana przeciwko grypie uzyskana z hodowli komórkowej, dzielona lub podjednostkowa, normalna dawka, bez określenia"
+361,"Rekombinowana wartość przeciwko grypie, bez określenia"
+362,
+363,
+364,"Nieżywa wartość przeciwko grypie, bez określenia"
+365,"Nieżywa wartość przeciwko grypie uzyskana z hodowli na jajach, bez określenia"
+366,"Wartość przeciwko grypie oparta na RNA, bez określenia"
+367,
+368,
+369,
+370,
+371,
+372,
+373,
+374,
+375,
+376,
+377,
+378,
+379,
+380,
+381,
+382,
+383,Single-stranded 5' capped mRNA encoding the Respiratory syncytial virus glycoprotein F stabilized in the prefusion conformation
+384,
+385,
+386,
+387,"Anty-covid valence 19 mRNA kodujący białko kolca SARS-CoV-2, wariant Omicron JN.1-25 mikrogramów"
+388,"Anty-covid 19 mRNA kodujący białko kolca SARS-CoV-2, wariant Omicron JN.1-50 mikrogramów"
+389,"Walencja przeciwko Pseudomonas aeruginosa, 7 immunotypów"
+390,"Chikungunya walencja, nieokreślona"
+391,Walencja VLP Chikungunya
+392,
+393,
+394,
+395,
+396,
+397,
+398,
+399,
+400,
+401,
+402,
+403,
+404,
+405,
+406,
+407,
+408,
+409,
+410,
+411,
+412,
+413,
+414,Walencja błonicza
+415,
+416,
+417,
+418,
+419,
+420,
+421,
+422,
+423,
+424,
+425,
+426,
+427,
+428,
+429,
+430,
+431,
+432,
+433,
+434,
+435,
+436,
+437,
+438,
+439,
+440,
+441,
+442,
+443,
+444,
+445,
+446,
+447,
+448,
+449,
+450,
+451,"Szczepionka przeciwko polio, wielowalentna, zawierająca atenuowane żywe wirusy, nowej generacji, doustna, jednowalentna, brak dalszych informacji"
+452,"Szczepionka przeciwko polio Valence, żywa atenuowana, nowej generacji, doustna, jednoskładnikowa, typ 2"
