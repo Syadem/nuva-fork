@@ -1,5 +1,20 @@
 # Nuva changelog
 
+## Version v0.0.5
+
+**Date:** 2026-11-27
+
+**Author:** Lucas Sotty
+
+### Changes
+
+- 1c764609 - Missing files (Lucas Sotty)
+
+### Files
+
+- **A**: `.github/workflows/release-db.yml`
+- **M**: `.gitignore`
+
 ## Version v0.0.4
 
 **Date:** 2026-11-27
