@@ -1,0 +1,69 @@
+name: Publish DB Release
+
+on:
+  push:
+    tags:
+      - "v*.*.*"
+
+permissions:
+  contents: write
+
+jobs:
+  publish-db-release:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4.1'
+          bundler-cache: true
+
+      - name: Run specs
+        run: bundle exec rspec
+
+      - name: Build DB files from tag version
+        run: |
+          bundle exec ruby scripts/publish.rb "${GITHUB_REF_NAME#v}" "${GITHUB_SHA}"
+          ls -la release_assets
+
+      - name: Create GitHub release and upload DB assets
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.ref_name }}
+          generate_release_notes: true
+          files: |
+            release_assets/*.db
+          fail_on_unmatched_files: true
+
+      - name: Upload DB assets to Scaleway Object Storage
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.SCW_ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.SCW_SECRET_KEY }}
+          AWS_DEFAULT_REGION: ${{ vars.SCW_REGION }}
+          SCW_BUCKET: ${{ vars.SCW_BUCKET }}
+          SCW_ENDPOINT: ${{ vars.SCW_ENDPOINT }}
+        run: |
+          aws s3 cp release_assets/ "s3://${SCW_BUCKET}/dumps/" \
+            --recursive \
+            --exclude "*" \
+            --include "*.db" \
+            --acl public-read \
+            --endpoint-url "${SCW_ENDPOINT}"
+
+          aws s3 cp versions/ "s3://${SCW_BUCKET}/versions/" \
+            --recursive \
+            --exclude "*" \
+            --include "*.json" \
+            --acl public-read \
+            --endpoint-url "${SCW_ENDPOINT}"
+
+      - name: Purge latest manifest from Scaleway Edge Services
+        if: vars.SCW_EDGE_PIPELINE_ID != ''
+        timeout-minutes: 5
+        env:
+          SCW_SECRET_KEY: ${{ secrets.SCW_SECRET_KEY }}
+          SCW_EDGE_PIPELINE_ID: ${{ vars.SCW_EDGE_PIPELINE_ID }}
+        run: bash scripts/purge-cdn-cache.sh

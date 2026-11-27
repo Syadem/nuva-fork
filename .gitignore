@@ -1,2 +1,4 @@
 /build/
 /.ruby-lsp/
+/release_assets/
+/versions/
